@@ -1,0 +1,30 @@
+# İstanbul Şehir Analizi Projesi - Bağımlılıklar
+
+# Web Framework
+Flask==3.0.0
+
+# Veri İşleme
+pandas==2.2.3
+openpyxl==3.1.2
+
+# HTTP İstekleri
+requests==2.31.0
+
+# Web Scraping (ÇED Entegrasyonu)
+beautifulsoup4==4.12.2
+# lxml kaldırıldı (Python 3.14 uyumluluk sorunu)
+# html.parser (built-in) yeterli
+
+# SSL Uyarıları İçin
+urllib3==2.1.0
+
+# JSON İşleme (built-in json modülü yeterli)
+
+# Opsiyonel: Rate Limiting
+# Flask-Limiter==3.5.0
+
+# Opsiyonel: Önbellek
+# Flask-Caching==2.1.0
+
+# Geliştirme Araçları (opsiyonel)
+# python-dotenv==1.0.0  # .env dosyası için

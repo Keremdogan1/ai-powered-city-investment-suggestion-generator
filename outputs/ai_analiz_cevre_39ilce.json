@@ -1,0 +1,610 @@
+{
+  "genel_durum": {
+    "toplam_nufus": 15701602,
+    "toplam_park": 3880,
+    "toplam_yesil_alan_m2": 51715706.32000001,
+    "toplam_yesil_alan_hektar": 5171.570632,
+    "ortalama_m2_per_kisi": 3.746767543067632,
+    "ortalama_eksiklik": 59.26515618348439,
+    "analiz_edilen_ilce_sayisi": 39,
+    "standartlar": {
+      "yesil_alan_min_m2_per_kisi": 10.0,
+      "yesil_alan_ideal_m2_per_kisi": 15.0,
+      "park_1000_kisi": 0.5,
+      "park_min_alan_m2": 5000,
+      "yesil_alan_min_hektar_per_100k": 100
+    },
+    "veri_durumu": "gerçek_veri",
+    "uyari": "Bazı ilçeler için park ve yeşil alan datai tahmin edilmiştir"
+  },
+  "en_sorunlu_ilceler": [
+    {
+      "ilce": "Güngören",
+      "nufus": 264831,
+      "park_sayisi": 4,
+      "yesil_alan_m2": 20000.0,
+      "yesil_alan_hektar": 2.0,
+      "kisi_basina_yesil_m2": 0.07551985983514015,
+      "yesil_alan_eksigi_m2": 2628310.0,
+      "park_eksigi": 128.4155,
+      "genel_cevre_skoru": 98.56512266313234,
+      "sorunlar": [
+        "Yeşil alan 262.0 hektar eksik",
+        "Park sayısı 128 eksik",
+        "Kişi başına yeşil alan 0.08 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Esenyurt",
+      "nufus": 988369,
+      "park_sayisi": 18,
+      "yesil_alan_m2": 90000.0,
+      "yesil_alan_hektar": 9.0,
+      "kisi_basina_yesil_m2": 0.09105910849085716,
+      "yesil_alan_eksigi_m2": 9793690.0,
+      "park_eksigi": 476.1845,
+      "genel_cevre_skoru": 98.26987693867372,
+      "sorunlar": [
+        "Yeşil alan 979.0 hektar eksik",
+        "Park sayısı 476 eksik",
+        "Kişi başına yeşil alan 0.09 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Arnavutköy",
+      "nufus": 344868,
+      "park_sayisi": 7,
+      "yesil_alan_m2": 35000.0,
+      "yesil_alan_hektar": 3.5,
+      "kisi_basina_yesil_m2": 0.10148810559402438,
+      "yesil_alan_eksigi_m2": 3413680.0,
+      "park_eksigi": 165.434,
+      "genel_cevre_skoru": 98.07172599371354,
+      "sorunlar": [
+        "Yeşil alan 341.0 hektar eksik",
+        "Park sayısı 165 eksik",
+        "Kişi başına yeşil alan 0.10 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Esenler",
+      "nufus": 423625,
+      "park_sayisi": 17,
+      "yesil_alan_m2": 85000.0,
+      "yesil_alan_hektar": 8.5,
+      "kisi_basina_yesil_m2": 0.20064915904396577,
+      "yesil_alan_eksigi_m2": 4151250.0,
+      "park_eksigi": 194.8125,
+      "genel_cevre_skoru": 96.18766597816466,
+      "sorunlar": [
+        "Yeşil alan 415.0 hektar eksik",
+        "Park sayısı 194 eksik",
+        "Kişi başına yeşil alan 0.20 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Küçükçekmece",
+      "nufus": 789033,
+      "park_sayisi": 34,
+      "yesil_alan_m2": 170000.0,
+      "yesil_alan_hektar": 17.0,
+      "kisi_basina_yesil_m2": 0.21545359953259244,
+      "yesil_alan_eksigi_m2": 7720330.0,
+      "park_eksigi": 360.5165,
+      "genel_cevre_skoru": 95.90638160888074,
+      "sorunlar": [
+        "Yeşil alan 772.0 hektar eksik",
+        "Park sayısı 360 eksik",
+        "Kişi başına yeşil alan 0.22 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Kadıköy",
+      "nufus": 462189,
+      "park_sayisi": 20,
+      "yesil_alan_m2": 100000.0,
+      "yesil_alan_hektar": 10.0,
+      "kisi_basina_yesil_m2": 0.2163617048436895,
+      "yesil_alan_eksigi_m2": 4521890.0,
+      "park_eksigi": 211.0945,
+      "genel_cevre_skoru": 95.8891276079699,
+      "sorunlar": [
+        "Yeşil alan 452.0 hektar eksik",
+        "Park sayısı 211 eksik",
+        "Kişi başına yeşil alan 0.22 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Avcılar",
+      "nufus": 440934,
+      "park_sayisi": 20,
+      "yesil_alan_m2": 100000.0,
+      "yesil_alan_hektar": 10.0,
+      "kisi_basina_yesil_m2": 0.2267913111712864,
+      "yesil_alan_eksigi_m2": 4309340.0,
+      "park_eksigi": 200.467,
+      "genel_cevre_skoru": 95.69096508774557,
+      "sorunlar": [
+        "Yeşil alan 430.0 hektar eksik",
+        "Park sayısı 200 eksik",
+        "Kişi başına yeşil alan 0.23 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Bağcılar",
+      "nufus": 713594,
+      "park_sayisi": 33,
+      "yesil_alan_m2": 165000.0,
+      "yesil_alan_hektar": 16.5,
+      "kisi_basina_yesil_m2": 0.23122391724145663,
+      "yesil_alan_eksigi_m2": 6970940.0,
+      "park_eksigi": 323.797,
+      "genel_cevre_skoru": 95.60674557241232,
+      "sorunlar": [
+        "Yeşil alan 697.0 hektar eksik",
+        "Park sayısı 323 eksik",
+        "Kişi başına yeşil alan 0.23 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Çekmeköy",
+      "nufus": 306739,
+      "park_sayisi": 15,
+      "yesil_alan_m2": 75000.0,
+      "yesil_alan_hektar": 7.5,
+      "kisi_basina_yesil_m2": 0.24450754550285422,
+      "yesil_alan_eksigi_m2": 2992390.0,
+      "park_eksigi": 138.3695,
+      "genel_cevre_skoru": 95.35435663544577,
+      "sorunlar": [
+        "Yeşil alan 299.0 hektar eksik",
+        "Park sayısı 138 eksik",
+        "Kişi başına yeşil alan 0.24 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Bayrampaşa",
+      "nufus": 268303,
+      "park_sayisi": 16,
+      "yesil_alan_m2": 80000.0,
+      "yesil_alan_hektar": 8.0,
+      "kisi_basina_yesil_m2": 0.2981703521764572,
+      "yesil_alan_eksigi_m2": 2603030.0,
+      "park_eksigi": 118.1515,
+      "genel_cevre_skoru": 94.33476330864731,
+      "sorunlar": [
+        "Yeşil alan 260.0 hektar eksik",
+        "Park sayısı 118 eksik",
+        "Kişi başına yeşil alan 0.30 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Kağıthane",
+      "nufus": 444820,
+      "park_sayisi": 27,
+      "yesil_alan_m2": 135000.0,
+      "yesil_alan_hektar": 13.5,
+      "kisi_basina_yesil_m2": 0.3034935479519806,
+      "yesil_alan_eksigi_m2": 4313200.0,
+      "park_eksigi": 195.41,
+      "genel_cevre_skoru": 94.23362258891237,
+      "sorunlar": [
+        "Yeşil alan 431.0 hektar eksik",
+        "Park sayısı 195 eksik",
+        "Kişi başına yeşil alan 0.30 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Sancaktepe",
+      "nufus": 502077,
+      "park_sayisi": 32,
+      "yesil_alan_m2": 160000.0,
+      "yesil_alan_hektar": 16.0,
+      "kisi_basina_yesil_m2": 0.3186762189863308,
+      "yesil_alan_eksigi_m2": 4860770.0,
+      "park_eksigi": 219.0385,
+      "genel_cevre_skoru": 93.94515183925971,
+      "sorunlar": [
+        "Yeşil alan 486.0 hektar eksik",
+        "Park sayısı 219 eksik",
+        "Kişi başına yeşil alan 0.32 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Büyükçekmece",
+      "nufus": 280528,
+      "park_sayisi": 19,
+      "yesil_alan_m2": 95000.0,
+      "yesil_alan_hektar": 9.5,
+      "kisi_basina_yesil_m2": 0.33864712256887014,
+      "yesil_alan_eksigi_m2": 2710280.0,
+      "park_eksigi": 121.26400000000001,
+      "genel_cevre_skoru": 93.56570467119145,
+      "sorunlar": [
+        "Yeşil alan 271.0 hektar eksik",
+        "Park sayısı 121 eksik",
+        "Kişi başına yeşil alan 0.34 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Maltepe",
+      "nufus": 524921,
+      "park_sayisi": 43,
+      "yesil_alan_m2": 215000.0,
+      "yesil_alan_hektar": 21.5,
+      "kisi_basina_yesil_m2": 0.4095854423808535,
+      "yesil_alan_eksigi_m2": 5034210.0,
+      "park_eksigi": 219.46050000000002,
+      "genel_cevre_skoru": 92.21787659476378,
+      "sorunlar": [
+        "Yeşil alan 503.0 hektar eksik",
+        "Park sayısı 219 eksik",
+        "Kişi başına yeşil alan 0.41 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Tuzla",
+      "nufus": 301400,
+      "park_sayisi": 36,
+      "yesil_alan_m2": 180000.0,
+      "yesil_alan_hektar": 18.0,
+      "kisi_basina_yesil_m2": 0.59721300597213,
+      "yesil_alan_eksigi_m2": 2834000.0,
+      "park_eksigi": 114.69999999999999,
+      "genel_cevre_skoru": 88.65295288652952,
+      "sorunlar": [
+        "Yeşil alan 283.0 hektar eksik",
+        "Park sayısı 114 eksik",
+        "Kişi başına yeşil alan 0.60 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Üsküdar",
+      "nufus": 512981,
+      "park_sayisi": 62,
+      "yesil_alan_m2": 310000.0,
+      "yesil_alan_hektar": 31.0,
+      "kisi_basina_yesil_m2": 0.6043108809098193,
+      "yesil_alan_eksigi_m2": 4819810.0,
+      "park_eksigi": 194.4905,
+      "genel_cevre_skoru": 88.51809326271342,
+      "sorunlar": [
+        "Yeşil alan 481.0 hektar eksik",
+        "Park sayısı 194 eksik",
+        "Kişi başına yeşil alan 0.60 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Kartal",
+      "nufus": 475859,
+      "park_sayisi": 58,
+      "yesil_alan_m2": 290000.0,
+      "yesil_alan_hektar": 29.0,
+      "kisi_basina_yesil_m2": 0.609424220199681,
+      "yesil_alan_eksigi_m2": 4468590.0,
+      "park_eksigi": 179.9295,
+      "genel_cevre_skoru": 88.42093981620604,
+      "sorunlar": [
+        "Yeşil alan 446.0 hektar eksik",
+        "Park sayısı 179 eksik",
+        "Kişi başına yeşil alan 0.61 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Eyüpsultan",
+      "nufus": 420706,
+      "park_sayisi": 60,
+      "yesil_alan_m2": 300000.0,
+      "yesil_alan_hektar": 30.0,
+      "kisi_basina_yesil_m2": 0.7130870489130177,
+      "yesil_alan_eksigi_m2": 3907060.0,
+      "park_eksigi": 150.353,
+      "genel_cevre_skoru": 86.45134607065266,
+      "sorunlar": [
+        "Yeşil alan 390.0 hektar eksik",
+        "Park sayısı 150 eksik",
+        "Kişi başına yeşil alan 0.71 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Beyoğlu",
+      "nufus": 216688,
+      "park_sayisi": 38,
+      "yesil_alan_m2": 190000.0,
+      "yesil_alan_hektar": 19.0,
+      "kisi_basina_yesil_m2": 0.8768367422284575,
+      "yesil_alan_eksigi_m2": 1976880.0,
+      "park_eksigi": 70.344,
+      "genel_cevre_skoru": 83.34010189765931,
+      "sorunlar": [
+        "Yeşil alan 197.0 hektar eksik",
+        "Park sayısı 70 eksik",
+        "Kişi başına yeşil alan 0.88 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Sarıyer",
+      "nufus": 342582,
+      "park_sayisi": 69,
+      "yesil_alan_m2": 345000.0,
+      "yesil_alan_hektar": 34.5,
+      "kisi_basina_yesil_m2": 1.0070581641767518,
+      "yesil_alan_eksigi_m2": 3080820.0,
+      "park_eksigi": 102.291,
+      "genel_cevre_skoru": 80.86589488064172,
+      "sorunlar": [
+        "Yeşil alan 308.0 hektar eksik",
+        "Park sayısı 102 eksik",
+        "Kişi başına yeşil alan 1.01 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Beykoz",
+      "nufus": 245440,
+      "park_sayisi": 59,
+      "yesil_alan_m2": 295000.0,
+      "yesil_alan_hektar": 29.5,
+      "kisi_basina_yesil_m2": 1.2019230769230769,
+      "yesil_alan_eksigi_m2": 2159400.0,
+      "park_eksigi": 63.72,
+      "genel_cevre_skoru": 77.16346153846155,
+      "sorunlar": [
+        "Yeşil alan 215.0 hektar eksik",
+        "Park sayısı 63 eksik",
+        "Kişi başına yeşil alan 1.20 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Bakırköy",
+      "nufus": 219893,
+      "park_sayisi": 58,
+      "yesil_alan_m2": 290000.0,
+      "yesil_alan_hektar": 29.0,
+      "kisi_basina_yesil_m2": 1.3188232458513913,
+      "yesil_alan_eksigi_m2": 1908930.0,
+      "park_eksigi": 51.9465,
+      "genel_cevre_skoru": 74.94235832882356,
+      "sorunlar": [
+        "Yeşil alan 190.0 hektar eksik",
+        "Kişi başına yeşil alan 1.32 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Çatalca",
+      "nufus": 80399,
+      "park_sayisi": 25,
+      "yesil_alan_m2": 125000.0,
+      "yesil_alan_hektar": 12.5,
+      "kisi_basina_yesil_m2": 1.5547457057923606,
+      "yesil_alan_eksigi_m2": 678990.0,
+      "park_eksigi": 15.1995,
+      "genel_cevre_skoru": 70.45983158994515,
+      "sorunlar": [
+        "Yeşil alan 67.0 hektar eksik",
+        "Kişi başına yeşil alan 1.55 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Şile",
+      "nufus": 48936,
+      "park_sayisi": 24,
+      "yesil_alan_m2": 380722.08,
+      "yesil_alan_hektar": 38.072208,
+      "kisi_basina_yesil_m2": 7.78,
+      "yesil_alan_eksigi_m2": 108637.91999999998,
+      "park_eksigi": 0.46799999999999997,
+      "genel_cevre_skoru": 16.113810691515447,
+      "sorunlar": [
+        "Kişi başına yeşil alan 7.78 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Beşiktaş",
+      "nufus": 167264,
+      "park_sayisi": 83,
+      "yesil_alan_m2": 1301313.92,
+      "yesil_alan_hektar": 130.131392,
+      "kisi_basina_yesil_m2": 7.779999999999999,
+      "yesil_alan_eksigi_m2": 371326.0800000001,
+      "park_eksigi": 0.632000000000005,
+      "genel_cevre_skoru": 15.766707480390288,
+      "sorunlar": [
+        "Kişi başına yeşil alan 7.78 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Şişli",
+      "nufus": 263063,
+      "park_sayisi": 131,
+      "yesil_alan_m2": 2046630.1400000001,
+      "yesil_alan_hektar": 204.663014,
+      "kisi_basina_yesil_m2": 7.78,
+      "yesil_alan_eksigi_m2": 583999.8599999999,
+      "park_eksigi": 0.5314999999999941,
+      "genel_cevre_skoru": 15.661225713992462,
+      "sorunlar": [
+        "Kişi başına yeşil alan 7.78 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Gaziosmanpaşa",
+      "nufus": 479931,
+      "park_sayisi": 239,
+      "yesil_alan_m2": 3733863.18,
+      "yesil_alan_hektar": 373.386318,
+      "kisi_basina_yesil_m2": 7.78,
+      "yesil_alan_eksigi_m2": 1065446.8199999998,
+      "park_eksigi": 0.9654999999999916,
+      "genel_cevre_skoru": 15.660704851322373,
+      "sorunlar": [
+        "Kişi başına yeşil alan 7.78 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Sultanbeyli",
+      "nufus": 369193,
+      "park_sayisi": 184,
+      "yesil_alan_m2": 2872321.54,
+      "yesil_alan_hektar": 287.232154,
+      "kisi_basina_yesil_m2": 7.78,
+      "yesil_alan_eksigi_m2": 819608.46,
+      "park_eksigi": 0.5964999999999918,
+      "genel_cevre_skoru": 15.636941166273465,
+      "sorunlar": [
+        "Kişi başına yeşil alan 7.78 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Beylikdüzü",
+      "nufus": 415290,
+      "park_sayisi": 207,
+      "yesil_alan_m2": 3230956.2,
+      "yesil_alan_hektar": 323.09562,
+      "kisi_basina_yesil_m2": 7.78,
+      "yesil_alan_eksigi_m2": 921943.7999999998,
+      "park_eksigi": 0.6450000000000102,
+      "genel_cevre_skoru": 15.633187892797803,
+      "sorunlar": [
+        "Kişi başına yeşil alan 7.78 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Ümraniye",
+      "nufus": 727819,
+      "park_sayisi": 363,
+      "yesil_alan_m2": 5662431.82,
+      "yesil_alan_hektar": 566.243182,
+      "kisi_basina_yesil_m2": 7.78,
+      "yesil_alan_eksigi_m2": 1615758.1799999997,
+      "park_eksigi": 0.90949999999998,
+      "genel_cevre_skoru": 15.614977432575952,
+      "sorunlar": [
+        "Kişi başına yeşil alan 7.78 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Ataşehir",
+      "nufus": 414866,
+      "park_sayisi": 207,
+      "yesil_alan_m2": 3227657.48,
+      "yesil_alan_hektar": 322.765748,
+      "kisi_basina_yesil_m2": 7.78,
+      "yesil_alan_eksigi_m2": 921002.52,
+      "park_eksigi": 0.4329999999999927,
+      "genel_cevre_skoru": 15.602622629957622,
+      "sorunlar": [
+        "Kişi başına yeşil alan 7.78 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Pendik",
+      "nufus": 749356,
+      "park_sayisi": 374,
+      "yesil_alan_m2": 5829989.680000001,
+      "yesil_alan_hektar": 582.9989680000001,
+      "kisi_basina_yesil_m2": 7.780000000000001,
+      "yesil_alan_eksigi_m2": 1663570.3199999994,
+      "park_eksigi": 0.6779999999999973,
+      "genel_cevre_skoru": 15.594286614105972,
+      "sorunlar": [
+        "Kişi başına yeşil alan 7.78 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Fatih",
+      "nufus": 354472,
+      "park_sayisi": 177,
+      "yesil_alan_m2": 2757792.16,
+      "yesil_alan_hektar": 275.779216,
+      "kisi_basina_yesil_m2": 7.78,
+      "yesil_alan_eksigi_m2": 786927.8399999999,
+      "park_eksigi": 0.23599999999999,
+      "genel_cevre_skoru": 15.579946737683084,
+      "sorunlar": [
+        "Kişi başına yeşil alan 7.78 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Zeytinburnu",
+      "nufus": 278344,
+      "park_sayisi": 139,
+      "yesil_alan_m2": 2165516.3200000003,
+      "yesil_alan_hektar": 216.55163200000004,
+      "kisi_basina_yesil_m2": 7.780000000000001,
+      "yesil_alan_eksigi_m2": 617923.6799999997,
+      "park_eksigi": 0.17199999999999704,
+      "genel_cevre_skoru": 15.577076423418495,
+      "sorunlar": [
+        "Kişi başına yeşil alan 7.78 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Sultangazi",
+      "nufus": 532601,
+      "park_sayisi": 266,
+      "yesil_alan_m2": 4143635.7800000003,
+      "yesil_alan_hektar": 414.363578,
+      "kisi_basina_yesil_m2": 7.78,
+      "yesil_alan_eksigi_m2": 1182374.2199999997,
+      "park_eksigi": 0.30049999999999955,
+      "genel_cevre_skoru": 15.57385273403542,
+      "sorunlar": [
+        "Kişi başına yeşil alan 7.78 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Başakşehir",
+      "nufus": 520467,
+      "park_sayisi": 260,
+      "yesil_alan_m2": 4049233.2600000002,
+      "yesil_alan_hektar": 404.92332600000003,
+      "kisi_basina_yesil_m2": 7.78,
+      "yesil_alan_eksigi_m2": 1155436.7399999998,
+      "park_eksigi": 0.23349999999999227,
+      "genel_cevre_skoru": 15.56691813313812,
+      "sorunlar": [
+        "Kişi başına yeşil alan 7.78 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Silivri",
+      "nufus": 232156,
+      "park_sayisi": 116,
+      "yesil_alan_m2": 1806173.6800000002,
+      "yesil_alan_hektar": 180.61736800000003,
+      "kisi_basina_yesil_m2": 7.780000000000001,
+      "yesil_alan_eksigi_m2": 515386.31999999983,
+      "park_eksigi": 0.07800000000000296,
+      "genel_cevre_skoru": 15.560158858698456,
+      "sorunlar": [
+        "Kişi başına yeşil alan 7.78 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Bahçelievler",
+      "nufus": 560086,
+      "park_sayisi": 280,
+      "yesil_alan_m2": 4357469.08,
+      "yesil_alan_hektar": 435.746908,
+      "kisi_basina_yesil_m2": 7.78,
+      "yesil_alan_eksigi_m2": 1243390.92,
+      "park_eksigi": 0.043000000000006366,
+      "genel_cevre_skoru": 15.54460643544027,
+      "sorunlar": [
+        "Kişi başına yeşil alan 7.78 m² (min: 10.0 m²)"
+      ]
+    },
+    {
+      "ilce": "Adalar",
+      "nufus": 16979,
+      "park_sayisi": 60,
+      "yesil_alan_m2": 300000.0,
+      "yesil_alan_hektar": 30.0,
+      "kisi_basina_yesil_m2": 17.66888509335061,
+      "yesil_alan_eksigi_m2": 0.0,
+      "park_eksigi": 0.0,
+      "genel_cevre_skoru": 0.0,
+      "sorunlar": []
+    }
+  ]
+}

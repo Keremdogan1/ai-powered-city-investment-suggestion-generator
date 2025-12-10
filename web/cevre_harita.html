@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>İstanbul Ulaşım Haritası - AI Önerileri</title>
+    <title>İstanbul Çevre Haritası - AI Önerileri</title>
     <link
       rel="stylesheet"
       href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -115,28 +115,13 @@
         padding: 10px;
         border-radius: 5px;
         margin-top: 10px;
-        border-left: 4px solid #17a2b8;
+        border-left: 4px solid #667eea;
       }
 
       .popup-project-title {
         font-weight: bold;
-        color: #0c5460;
+        color: #667eea;
         margin-bottom: 5px;
-      }
-
-      .popup-ced {
-        padding: 10px;
-        border-radius: 5px;
-        margin: 10px 0;
-        border-left: 4px solid #17a2b8;
-        font-size: 0.9em;
-        line-height: 1.5;
-      }
-
-      .popup-ced strong {
-        display: block;
-        margin-bottom: 5px;
-        color: #155724;
       }
 
       .back-button {
@@ -164,7 +149,7 @@
 
       .data-badge {
         display: inline-block;
-        background: #51cf66;
+        background: #667eea;
         color: white;
         padding: 5px 12px;
         border-radius: 15px;
@@ -188,17 +173,17 @@
   <body>
     <div class="container">
       <header>
-        <h1>🗺️ İstanbul Ulaşım Haritası - AI Önerileri</h1>
+        <h1>🌳 İstanbul Çevre Haritası - Park & Yeşil Alan Analizi</h1>
         <p style="color: #666; margin-top: 10px">
-          İlçeleri tıklayarak detaylı bilgi alın
+          İlçeleri tıklayarak park ve yeşil alan detaylarını görün
           <span id="data-badge" class="data-badge">Yükleniyor...</span>
         </p>
-        <a href="/ulasim" class="back-button">← Ulaşım Analizi</a>
+        <a href="/cevre" class="back-button">← Çevre Analizi</a>
       </header>
 
       <div class="controls">
         <div class="legend">
-          <strong style="margin-right: 10px">Eksiklik Seviyesi:</strong>
+          <strong style="margin-right: 10px">Yeşil Alan Eksikliği:</strong>
           <div class="legend-item">
             <div class="color-box" style="background: #2ecc71"></div>
             <span>Az (0-40)</span>
@@ -227,7 +212,7 @@
         attribution: "© OpenStreetMap contributors",
       }).addTo(map);
 
-      // İstanbul ilçe koordinatları (TAM LİSTE - 39 İLÇE)
+      // İstanbul ilçe koordinatları (39 İLÇE)
       const ilceKoordinatlari = {
         Esenyurt: [41.0318, 28.6767],
         Beylikdüzü: [41.0045, 28.645],
@@ -270,64 +255,34 @@
         Zeytinburnu: [40.9894, 28.9008],
       };
 
-      // Renk belirleme
+      // Renk belirleme (eksiklik skoruna göre)
       function getColor(score) {
-        if (score >= 70) return "#e74c3c"; // Yüksek
-        if (score >= 40) return "#f39c12"; // Orta
-        return "#2ecc71"; // Az
+        if (score >= 70) return "#e74c3c"; // Yüksek eksiklik
+        if (score >= 40) return "#f39c12"; // Orta eksiklik
+        return "#2ecc71"; // Az eksiklik
       }
 
-      // ÇED badge rengi belirleme
-      function getCedColor(cedDurumu) {
-        if (!cedDurumu) return "#d1ecf1";
-        if (
-          cedDurumu.includes("Zaten planlanıyor") ||
-          cedDurumu.includes("mevcut")
-        ) {
-          return "#d4edda"; // Yeşil
-        }
-        if (cedDurumu.includes("Tamamlayıcı") || cedDurumu.includes("destek")) {
-          return "#fff3cd"; // Sarı
-        }
-        return "#d1ecf1"; // Mavi
-      }
-
-      // ÇED badge border rengi
-      function getCedBorderColor(cedDurumu) {
-        if (!cedDurumu) return "#17a2b8";
-        if (
-          cedDurumu.includes("Zaten planlanıyor") ||
-          cedDurumu.includes("mevcut")
-        ) {
-          return "#28a745";
-        }
-        if (cedDurumu.includes("Tamamlayıcı") || cedDurumu.includes("destek")) {
-          return "#ffc107";
-        }
-        return "#17a2b8";
-      }
-
-      // Gerçek verileri yükle
-      async function loadRealData() {
+      // Çevre verilerini yükle
+      async function loadCevreData() {
         try {
           document.getElementById("status").textContent =
             "Veriler API'den yükleniyor...";
 
-          const analizRes = await fetch("/api/analiz-verisi");
+          const analizRes = await fetch("/api/cevre/analiz-verisi");
           const analizData = await analizRes.json();
 
-          const onerilerRes = await fetch("/api/yatirim-onerileri");
+          const onerilerRes = await fetch("/api/cevre/yatirim-onerileri");
           const onerilerData = await onerilerRes.json();
 
-          console.log("Analiz data:", analizData);
-          console.log("Öneriler data:", onerilerData);
+          console.log("Çevre Analiz data:", analizData);
+          console.log("Çevre Öneriler data:", onerilerData);
 
           // İlçe sayısı badge'i güncelle
-          const ilceSayisi = onerilerData.length;
+          const ilceSayisi = analizData.en_sorunlu_ilceler.length;
           const dataBadge = document.getElementById("data-badge");
           if (ilceSayisi === 39) {
             dataBadge.textContent = "✅ 39 İlçe Tam Veri";
-            dataBadge.style.background = "#51cf66";
+            dataBadge.style.background = "#667eea";
           } else {
             dataBadge.textContent = `⚠️ ${ilceSayisi} İlçe`;
             dataBadge.style.background = "#ffa500";
@@ -335,37 +290,26 @@
 
           document.getElementById(
             "status"
-          ).textContent = `✅ ${onerilerData.length} ilçe yüklendi`;
+          ).textContent = `✅ ${ilceSayisi} ilçe yüklendi`;
 
-          let eklenenSayisi = 0;
-          let bulunamayanlar = [];
-
-          // Her öneri için haritaya ekle
-          onerilerData.forEach((oneri, index) => {
-            console.log(`İşleniyor: ${oneri.ilce}`);
+          // Her ilçe için haritaya ekle
+          analizData.en_sorunlu_ilceler.forEach((ilce) => {
+            console.log(`İşleniyor: ${ilce.ilce}`);
 
             // Koordinat bul
-            const coords = ilceKoordinatlari[oneri.ilce];
+            const coords = ilceKoordinatlari[ilce.ilce];
             if (!coords) {
-              console.warn(`${oneri.ilce} koordinatları bulunamadı!`);
-              bulunamayanlar.push(oneri.ilce);
+              console.warn(`${ilce.ilce} koordinatları bulunamadı!`);
               return;
             }
 
-            // Analiz verisini bul
-            const ilceAnaliz = analizData.en_sorunlu_ilceler.find(
-              (i) => i.ilce === oneri.ilce
-            );
+            // Önerileri bul
+            const ilceOneri = onerilerData.find((o) => o.ilce === ilce.ilce);
 
-            if (!ilceAnaliz) {
-              console.warn(`${oneri.ilce} analiz verisi bulunamadı!`);
-              return;
-            }
-
-            const color = getColor(ilceAnaliz.genel_eksiklik_skoru);
+            const color = getColor(ilce.genel_cevre_skoru);
             const radius = Math.max(
               10,
-              Math.min(30, Math.sqrt(ilceAnaliz.nufus) / 50)
+              Math.min(30, Math.sqrt(ilce.nufus) / 50)
             );
 
             const marker = L.circleMarker(coords, {
@@ -377,115 +321,84 @@
               fillOpacity: 0.7,
             }).addTo(map);
 
-            // Popup
+            // Popup içeriği
             const popupContent = `
-                        <div class="popup-title">${oneri.ilce}</div>
-                        
-                        ${
-                          oneri.ced_durumu
-                            ? `
-                        <div class="popup-ced" style="background: ${getCedColor(
-                          oneri.ced_durumu
-                        )}; border-left-color: ${getCedBorderColor(
-                                oneri.ced_durumu
-                              )};">
-                            <strong style="color: ${getCedBorderColor(
-                              oneri.ced_durumu
-                            )};">🌐 ÇED Durumu:</strong>
-                            <span style="color: #0c5460;">
-                                ${oneri.ced_durumu}
-                            </span>
-                        </div>
-                        `
-                            : ""
-                        }
-                        
-                        <div class="popup-stats">
-                            <div class="popup-stat">
-                                <span>👥 Nüfus:</span>
-                                <strong>${ilceAnaliz.nufus.toLocaleString(
-                                  "tr-TR"
-                                )}</strong>
-                            </div>
-                            <div class="popup-stat">
-                                <span>🚇 Raylı Sistem:</span>
-                                <strong>${
-                                  ilceAnaliz.metro_istasyon
-                                } istasyon</strong>
-                            </div>
-                            <div class="popup-stat">
-                                <span>🅿️ Otopark:</span>
-                                <strong>${ilceAnaliz.otopark_sayisi}</strong>
-                            </div>
-                            ${
-                              ilceAnaliz.trafik_yogunluk_skoru
-                                ? `
-                            <div class="popup-stat">
-                                <span>🚦 Trafik:</span>
-                                <strong>${ilceAnaliz.trafik_yogunluk_skoru}/100</strong>
-                            </div>
-                            `
-                                : ""
-                            }
-                        </div>
-                        <div class="popup-score">
-                            Eksiklik: ${ilceAnaliz.genel_eksiklik_skoru.toFixed(
-                              1
-                            )}/100
-                        </div>
-                        <div class="popup-project">
-                            <div class="popup-project-title">🚀 AI Önerisi:</div>
-                            <div style="color: #0c5460; margin-top: 5px; font-size: 0.95em;">
-                                ${oneri.proje_adi}
-                            </div>
-                            <div style="color: #0c5460; font-weight: bold; margin-top: 8px;">
-                                💰 ${oneri.tahmini_maliyet}
-                            </div>
-                            ${
-                              oneri.yol_altyapisi
-                                ? `
-                            <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid #17a2b8;">
-                                <div style="font-weight: bold; color: #0c5460; margin-bottom: 5px;">
-                                    🛣️ Yol Altyapısı:
-                                </div>
-                                <div style="color: #0c5460; font-size: 0.85em;">
-                                    ${oneri.yol_altyapisi.substring(0, 120)}...
-                                </div>
-                            </div>
-                            `
-                                : ""
-                            }
-                        </div>
-                    `;
+              <div class="popup-title">${ilce.ilce}</div>
+              
+              <div class="popup-stats">
+                <div class="popup-stat">
+                  <span>👥 Nüfus:</span>
+                  <strong>${(ilce.nufus / 1000).toFixed(0)}K</strong>
+                </div>
+                <div class="popup-stat">
+                  <span>🏞️ Park Sayısı:</span>
+                  <strong>${ilce.park_sayisi || 0}</strong>
+                </div>
+                <div class="popup-stat">
+                  <span>🌳 Yeşil Alan:</span>
+                  <strong>${(ilce.yesil_alan_hektar || 0).toFixed(
+                    1
+                  )} ha</strong>
+                </div>
+                <div class="popup-stat">
+                  <span>📏 m²/Kişi:</span>
+                  <strong>${(ilce.kisi_basina_yesil_m2 || 0).toFixed(
+                    1
+                  )}</strong>
+                </div>
+              </div>
+              
+              <div class="popup-score">
+                📊 Eksiklik Skoru: ${(ilce.genel_cevre_skoru || 0).toFixed(
+                  1
+                )}/100
+              </div>
+
+              ${
+                ilceOneri && ilceOneri.proje_adi
+                  ? `
+              <div class="popup-project">
+                <div class="popup-project-title">🌱 AI Önerisi: ${
+                  ilceOneri.proje_adi
+                }</div>
+                <p style="font-size: 0.9em; color: #0c5460;">
+                  ${(ilceOneri.proje_detay || "").substring(0, 150)}...
+                </p>
+                ${
+                  ilceOneri.tahmini_maliyet
+                    ? `<div style="margin-top: 5px; font-weight: bold; color: #0c5460;">
+                      💰 ${ilceOneri.tahmini_maliyet}
+                    </div>`
+                    : ""
+                }
+              </div>
+              `
+                  : ""
+              }
+            `;
 
             marker.bindPopup(popupContent, { maxWidth: 400 });
-            marker.bindTooltip(oneri.ilce, {
+
+            // İlçe adını noktanın altına tooltip olarak ekle (ulaşım sayfası ile uyumlu)
+            marker.bindTooltip(ilce.ilce, {
               permanent: true,
               direction: "bottom",
               className: "ilce-label",
-              opacity: 0.9,
+              opacity: 0.95,
               offset: [0, 15],
             });
-
-            eklenenSayisi++;
-            console.log(`✓ ${oneri.ilce} eklendi`);
           });
-
-          console.log(`\n📊 Özet: ${eklenenSayisi} ilçe haritaya eklendi`);
-          if (bulunamayanlar.length > 0) {
-            console.warn(`⚠️  Koordinat bulunamayan ilçeler:`, bulunamayanlar);
-          }
-        } catch (error) {
-          console.error("Veri yükleme hatası:", error);
-          document.getElementById("data-badge").textContent = "❌ Hata";
-          document.getElementById("data-badge").style.background = "#e74c3c";
+        } catch (err) {
+          console.error("Veri yükleme hatası:", err);
           document.getElementById("status").innerHTML =
-            "❌ Veriler yüklenemedi. <code>web_sunucu.py</code> çalışıyor mu?";
+            "❌ Veriler yüklenemedi: " + err.message;
         }
       }
 
-      // Sayfa yüklenince başlat
-      window.addEventListener("load", loadRealData);
+      // Sayfa yüklendiğinde veri çek
+      window.addEventListener("load", () => {
+        loadCevreData();
+      });
     </script>
   </body>
 </html>

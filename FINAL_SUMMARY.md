@@ -110,3 +110,4 @@ python src/web_server.py
 - All Python code uses English names and paths
 - Project is now fully organized and ready for international collaboration
 
+

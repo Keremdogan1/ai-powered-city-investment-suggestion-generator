@@ -99,7 +99,7 @@
       }
 
       .category-card {
-        background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         border-radius: 15px;
         padding: 40px 30px;
         text-align: center;
@@ -108,6 +108,7 @@
         border: 3px solid transparent;
         position: relative;
         overflow: hidden;
+        color: white;
       }
 
       .category-card::before {
@@ -139,8 +140,9 @@
       .category-card.active {
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         color: white;
-        transform: scale(1.05);
-        box-shadow: 0 15px 35px rgba(102, 126, 234, 0.4);
+        /* Keep visual highlight but do not change layout size */
+        transform: none;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
       }
 
       .category-card.disabled {
@@ -159,7 +161,8 @@
         filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.2));
       }
 
-      .category-card.active .category-icon {
+      /* Animate icons only on hover, not for the active card by default */
+      .category-card:hover .category-icon {
         animation: bounce 1s infinite;
       }
 
@@ -174,6 +177,7 @@
       }
 
       .category-name {
+        color: white;
         font-size: 1.8em;
         font-weight: bold;
         margin-bottom: 10px;
@@ -185,7 +189,7 @@
 
       .category-description {
         font-size: 1em;
-        color: #555;
+        color: rgba(255, 255, 255, 0.9);
         margin-bottom: 15px;
       }
 
@@ -212,7 +216,7 @@
       .stat-value {
         font-size: 1.5em;
         font-weight: bold;
-        color: #667eea;
+        color: white;
       }
 
       .category-card.active .stat-value {
@@ -221,7 +225,7 @@
 
       .stat-label {
         font-size: 0.8em;
-        color: #666;
+        color: rgba(255, 255, 255, 0.8);
         margin-top: 5px;
       }
 
@@ -260,9 +264,16 @@
         box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
       }
 
-      .category-card.active .action-button {
+      /* Beyaz buton stil */
+      .action-button.white-btn {
         background: white;
         color: #667eea;
+        box-shadow: 0 5px 12px rgba(0, 0, 0, 0.12);
+      }
+
+      .action-button.white-btn:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
       }
 
       footer {
@@ -343,7 +354,7 @@
                 <div class="stat-label">Nüfus</div>
               </div>
             </div>
-            <a href="/ulasim" class="action-button">📊 Analizi Gör</a>
+            <a href="/ulasim" class="action-button white-btn">📊 Analizi Gör</a>
           </div>
 
           <!-- SAĞLIK KATEGORİSİ -->
@@ -359,15 +370,15 @@
                 <div class="stat-label">İlçe</div>
               </div>
               <div class="stat-item">
-                <div class="stat-value">-</div>
+                <div id="saglik-total-hospital" class="stat-value">-</div>
                 <div class="stat-label">Hastane</div>
               </div>
               <div class="stat-item">
-                <div class="stat-value">-</div>
+                <div id="saglik-total-beds" class="stat-value">-</div>
                 <div class="stat-label">Yatak</div>
               </div>
             </div>
-            <a href="/saglik" class="action-button">📊 Analizi Gör</a>
+            <a href="/saglik" class="action-button white-btn">📊 Analizi Gör</a>
           </div>
 
           <!-- ÇEVRE KATEGORİSİ -->
@@ -375,7 +386,8 @@
             <div class="category-icon">🌳</div>
             <div class="category-name">Çevre</div>
             <div class="category-description">
-              Yeşil alan, park ve çevre altyapısı analizi. 39 ilçe için AI önerileri.
+              Yeşil alan, park ve çevre altyapısı analizi. 39 ilçe için AI
+              önerileri.
             </div>
             <div class="category-stats">
               <div class="stat-item">
@@ -383,15 +395,15 @@
                 <div class="stat-label">İlçe</div>
               </div>
               <div class="stat-item">
-                <div class="stat-value">-</div>
+                <div id="cevre-total-park" class="stat-value">-</div>
                 <div class="stat-label">Park</div>
               </div>
               <div class="stat-item">
-                <div class="stat-value">-</div>
+                <div id="cevre-total-m2" class="stat-value">-</div>
                 <div class="stat-label">m² Yeşil</div>
               </div>
             </div>
-            <a href="/cevre" class="action-button">📊 Analizi Gör</a>
+            <a href="/cevre" class="action-button white-btn">📊 Analizi Gör</a>
           </div>
 
           <!-- EĞİTİM KATEGORİSİ (YAKINDA) -->
@@ -451,5 +463,50 @@
         </p>
       </footer>
     </div>
+
+    <script>
+      // Fetch summary stats and populate index placeholders
+      window.addEventListener("load", async () => {
+        try {
+          // Sağlık verisi
+          const saglikResp = await fetch("/api/saglik/analiz-verisi");
+          if (saglikResp.ok) {
+            const saglikData = await saglikResp.json();
+            const genel = saglikData.genel_durum || {};
+            if (genel.toplam_hastane !== undefined) {
+              const el = document.getElementById("saglik-total-hospital");
+              if (el) el.textContent = genel.toplam_hastane;
+            }
+            if (genel.toplam_yatak !== undefined) {
+              const el2 = document.getElementById("saglik-total-beds");
+              if (el2)
+                el2.textContent = Intl.NumberFormat("tr-TR").format(
+                  genel.toplam_yatak
+                );
+            }
+          }
+
+          // Çevre verisi
+          const cevreResp = await fetch("/api/cevre/analiz-verisi");
+          if (cevreResp.ok) {
+            const cevreData = await cevreResp.json();
+            const genelC = cevreData.genel_durum || {};
+            if (genelC.toplam_park !== undefined) {
+              const el = document.getElementById("cevre-total-park");
+              if (el) el.textContent = genelC.toplam_park;
+            }
+            if (genelC.toplam_yesil_alan_m2 !== undefined) {
+              const el2 = document.getElementById("cevre-total-m2");
+              if (el2) {
+                const m2 = Math.round(genelC.toplam_yesil_alan_m2 || 0);
+                el2.textContent = (m2 / 1000000).toFixed(1) + "M";
+              }
+            }
+          }
+        } catch (err) {
+          console.warn("Index summary fetch failed", err);
+        }
+      });
+    </script>
   </body>
 </html>

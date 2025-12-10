@@ -1,0 +1,1333 @@
+İSTANBUL ÇEVRE - AI ÖNERİLER (39 İLÇE)
+======================================================================
+
+```json
+[
+  {
+    "ilce": "Güngören",
+    "oncelik": "Yüksek",
+    "proje_adi": "Güngören Yeşil Dönüşüm Projesi",
+    "proje_detay": "Güngören, İstanbul'un en yoğun ve yeşil alan açısından en fakir ilçesidir. Kişi başına sadece 0.08 m² yeşil alan düşmektedir. Merter-Güngören ana caddeleri boyunca 5 km yeşil koridor oluşturulacak. Gençosman Mahallesi'nde 3 hektarlık kent parkı, Merkez Mahalle'de 2 hektarlık mahalle parkı, Güneştepe ve Tozkoparan mahallelerinde 8 adet cep parkı (her biri 0.5 hektar) planlanmaktadır. Akçaburgaz Caddesi boyunca dikey bahçe uygulamaları ve 15 kamu binasının çatısında yeşil teras bahçeleri oluşturulacak. Haznedar Mahallesi'nde 1.5 hektarlık çocuk odaklı tematik park, Abdurrahman Nafiz Gürman Caddesi boyunca 2 km bisiklet yolu ve yeşil bant entegrasyonu önerilmektedir. Sanayi bölgelerindeki boş arsalar değerlendirilerek 12 adet mini yeşil alan oluşturulacak. Toplam 18 hektar yeni yeşil alan hedeflenmektedir.",
+    "tahmini_maliyet": "₺1.2 Milyar ($28.5 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 0.08 m²'den 6.8 m²'ye çıkacak, hava kalitesi %35 iyileşecek, mahalle arası yeşil bağlantı sağlanacak",
+    "uygulama_suresi": "36 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 18,
+      "m2_per_kisi_artis": 6.72,
+      "hedeflenen_m2_per_kisi": 6.8
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 8,
+      "toplam_park": 11
+    },
+    "agaclandirma": {
+      "agac_sayisi": 8500,
+      "alan_hektar": 12
+    },
+    "alternatif_cozumler": [
+      "Faz 1: Sadece cep parkları ve yeşil koridorlar (₺450 Milyon - 18 ay)",
+      "Faz 2: Kent parkı + mahalle parkları (₺600 Milyon - 24 ay)",
+      "Hızlandırılmış program: Tüm projeler eşzamanlı (₺1.4 Milyar - 24 ay)"
+    ],
+    "ozel_cozumler": "15 kamu binasında çatı bahçesi, ana caddelerde dikey bahçe duvarları, otopark üstü yeşil teraslar, okul bahçelerinin halka açılması",
+    "kisa_vade_etki": "İlk yıl 8 cep parkı tamamlanarak yeşil alan %40 artacak, 3500 ağaç dikilecek",
+    "orta_vade_etki": "3 yıl içinde kişi başı yeşil alan 6.8 m²'ye ulaşacak, mahalle memnuniyeti %60 artacak, çocuk oyun alanları 11 kat artacak",
+    "uzun_vade_etki": "10 yıl içinde kent parkı olgunlaşacak, ağaç gölgeliği %45 artacak, mahalle ısı adası etkisi %25 azalacak, sürdürülebilir yeşil ağ oluşacak",
+    "surdurulebilirlik": "Yağmur suyu hasadı sistemleri, gri su kullanımı, mahalle komitesi ile bakım ortaklığı, gönüllü ağaç sahiplenme programı, 5 yıllık bakım bütçesi"
+  },
+  {
+    "ilce": "Esenyurt",
+    "oncelik": "Yüksek",
+    "proje_adi": "Esenyurt Mega Yeşil Dönüşüm Planı",
+    "proje_detay": "Nüfusu yaklaşık 1 milyon olan Esenyurt'ta kişi başına sadece 0.09 m² yeşil alan bulunmaktadır. Hoşdere Mahallesi'nde 15 hektarlık merkezi kent parkı, Pınar ve Koza mahallelerinde 3'er hektarlık 2 bölge parkı, Yenikent ve Ardıçlı mahallelerinde 1.5'er hektarlık 4 mahalle parkı planlanmaktadır. TEM Otoyolu kenarında 8 km yeşil koridor ve gürültü bariyeri ormanı, E-5 kenarında 6 km yeşil bant oluşturulacak. 25 mahallede toplam 35 cep parkı (her biri 0.3-0.8 hektar arası), Zafer ve Akşemsettin mahallelerinde birer spor parkı önerilmektedir. Mevcut 12 parkın iyileştirilmesi ve genişletilmesi, Esenyurt Meydanı'nda kentsel yeşil meydan düzenlemesi, 45 okul bahçesinin yeşillendirilmesi ve halka açılması, 200 bina çatısında yeşil teras uygulaması hedeflenmektedir. Toplam 65 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺3.8 Milyar ($90.4 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 6.67 m²'ye çıkacak, 42 yeni park kazanılacak, hava kalitesi %40 iyileşecek, yeşil alan erişimi %85'e çıkacak",
+    "uygulama_suresi": "48 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 65,
+      "m2_per_kisi_artis": 6.58,
+      "hedeflenen_m2_per_kisi": 6.67
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 6,
+      "cep_parki": 35,
+      "toplam_park": 42
+    },
+    "agaclandirma": {
+      "agac_sayisi": 32000,
+      "alan_hektar": 45
+    },
+    "alternatif_cozumler": [
+      "Öncelikli Bölgeler: Sadece 5 mahallede yoğunlaşma (₺1.8 Milyar - 24 ay)",
+      "Kademeli Uygulama: Yıllık 15 hektar artış (₺3.5 Milyar - 60 ay)",
+      "Hızlı Müdahale: Kent parkı + 20 cep parkı (₺2.2 Milyar - 30 ay)"
+    ],
+    "ozel_cozumler": "TEM ve E-5 gürültü bariyeri ormanları, toplu konut çatı bahçeleri, okul-park entegrasyonu, otopark altı yeşil çözümler, mobil yeşil alanlar",
+    "kisa_vade_etki": "İlk 12 ayda 15 cep parkı ve 10000 ağaç ile yeşil alan %30 artacak",
+    "orta_vade_etki": "4 yıl içinde 42 yeni park, yeşil alan erişimi 15 dakikalık yürüme mesafesine çekilecek, mahalle yaşam kalitesi %55 artacak",
+    "uzun_vade_etki": "10 yıl içinde kent parkı bölgesel cazibe merkezi olacak, karbon tutma kapasitesi 15000 ton/yıl artacak, emlak değerleri %35 yükselecek",
+    "surdurulebilirlik": "Akıllı sulama sistemleri, kompost üretim tesisi, mahalle gönüllü bakım ekipleri, yeşil alan vergisi fonu, dijital park yönetim sistemi"
+  },
+  {
+    "ilce": "Arnavutköy",
+    "oncelik": "Yüksek",
+    "proje_adi": "Arnavutköy Ekolojik Yeşil Kuşak Projesi",
+    "proje_detay": "Arnavutköy, hızlı kentleşme nedeniyle yeşil alan kaybı yaşamaktadır (0.10 m²/kişi). İstanbul Havalimanı çevresinde 20 hektarlık tampon yeşil kuşak ve gürültü bariyeri ormanı, Merkez Mahalle'de 8 hektarlık kent parkı, Tasoluk ve Hadımköy'de 3'er hektarlık mahalle parkları, Bolluca'da 2 hektarlık ekolojik park planlanmaktadır. Karadeniz Mahallesi, Yassıören ve İmrahor'da toplam 18 cep parkı (0.4-0.7 hektar), Anadolu Otoyolu boyunca 12 km yeşil koridor ve bisiklet yolu entegrasyonu önerilmektedir. Sazlıbosna Barajı çevresinde 5 hektarlık rekreasyon alanı, Durusu (Terkos) Gölü kenarında 4 hektarlık mesire alanı düzenlemesi, 8 mahallede yeşil sokak uygulaması, 30 okul bahçesinin ağaçlandırılması ve 25 sanayi tesisinde zorunlu yeşil alan oluşturulması hedeflenmektedir. Toplam 55 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.6 Milyar ($61.9 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 16.05 m²'ye çıkacak, havalimanı gürültüsü %30 azalacak, su havzaları korunacak, ekolojik denge sağlanacak",
+    "uygulama_suresi": "42 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 55,
+      "m2_per_kisi_artis": 15.95,
+      "hedeflenen_m2_per_kisi": 16.05
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 4,
+      "cep_parki": 18,
+      "toplam_park": 23
+    },
+    "agaclandirma": {
+      "agac_sayisi": 28000,
+      "alan_hektar": 38
+    },
+    "alternatif_cozumler": [
+      "Su Havzası Odaklı: Baraj ve göl çevresi öncelikli (₺1.4 Milyar - 24 ay)",
+      "Kentsel Odaklı: Merkez mahalle ve cep parkları (₺1.8 Milyar - 30 ay)",
+      "Bütünleşik Plan: Tüm projeler koordineli (₺2.8 Milyar - 36 ay)"
+    ],
+    "ozel_cozumler": "Havalimanı tampon ormanı, su havzası koruma yeşil kuşağı, sanayi tesisi zorunlu yeşillendirme, otoyol yeşil koridorları, ekolojik geçiş yolları",
+    "kisa_vade_etki": "İlk yıl havalimanı tampon ormanı ve 10 cep parkı ile yeşil alan %35 artacak",
+    "orta_vade_etki": "3.5 yıl içinde DSÖ standardı aşılacak, su kalitesi %25 iyileşecek, kuş türü çeşitliliği %40 artacak",
+    "uzun_vade_etki": "10 yıl içinde İstanbul'un ekolojik akciğeri konumuna gelecek, karbon nötr ilçe hedefine %60 yaklaşılacak, biyoçeşitlilik artacak",
+    "surdurulebilirlik": "Yağmur suyu toplama havuzları, organik atık kompost sistemi, yerel halk ve STK ortaklığı, ekolojik izleme sistemi, 7 yıllık bakım garantisi"
+  },
+  {
+    "ilce": "Esenler",
+    "oncelik": "Yüksek",
+    "proje_adi": "Esenler Kentsel Yeşil Yenileme Projesi",
+    "proje_detay": "Yoğun yapılaşmış Esenler'de (0.20 m²/kişi) sınırlı alan nedeniyle yaratıcı çözümler önerilmektedir. Havaalanı Mahallesi'nde 4 hektarlık kent parkı, Tuna ve Turgutreis mahallelerinde 2'şer hektarlık mahalle parkları, 12 mahallede toplam 22 cep parkı (0.2-0.5 hektar), E-5 ve TEM arasında 3 km yeşil koridor oluşturulacak. Mevcut Esenler Belediye Parkı'nın 2 kat genişletilmesi ve yenilenmesi, Menderes Caddesi boyunca 4 km ağaçlandırma ve yeşil refüj düzenlemesi, 35 okul bahçesinin modernizasyonu, 150 bina çatısında yeşil teras uygulaması, 45 sokakta yeşil sokak projesi planlanmaktadır. Otopark çatılarında 8 adet yeşil alan, kamu binalarında 25 dikey bahçe, 18 kavşakta yeşil ada düzenlemesi önerilmektedir. Toplam 28 hektar yeni yeşil alan hedeflenmektedir.",
+    "tahmini_maliyet": "₺1.8 Milyar ($42.8 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 6.81 m²'ye çıkacak, ısı adası etkisi %35 azalacak, hava kalitesi %38 iyileşecek, 22 yeni park kazanılacak",
+    "uygulama_suresi": "36 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 28,
+      "m2_per_kisi_artis": 6.61,
+      "hedeflenen_m2_per_kisi": 6.81
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 22,
+      "toplam_park": 25
+    },
+    "agaclandirma": {
+      "agac_sayisi": 15000,
+      "alan_hektar": 18
+    },
+    "alternatif_cozumler": [
+      "Dikey Yeşil Odaklı: Çatı ve duvar bahçeleri ağırlıklı (₺950 Milyon - 24 ay)",
+      "Park Odaklı: Kent ve mahalle parkları öncelikli (₺1.3 Milyar - 30 ay)",
+      "Hızlı Etki: Cep parkları ve yeşil sokaklar (₺1.1 Milyar - 20 ay)"
+    ],
+    "ozel_cozumler": "150 bina çatı bahçesi, 25 dikey bahçe duvarı, otopark üstü parklar, yeşil otobüs durakları, modüler yeşil sistemler, okul-park entegrasyonu",
+    "kisa_vade_etki": "İlk yıl 12 cep parkı ve 50 çatı bahçesi ile yeşil alan %45 artacak, 6000 ağaç dikilecek",
+    "orta_vade_etki": "3 yıl içinde yeşil alan 7 kat artacak, mahalle sıcaklığı 3°C düşecek, çocuk oyun alanı kapasitesi %200 artacak",
+    "uzun_vade_etki": "10 yıl içinde dikey yeşil model ilçe olacak, enerji tasarrufu %20 artacak, yaşam kalitesi endeksi %50 yükselecek",
+    "surdurulebilirlik": "Gri su geri dönüşümü, güneş enerjili sulama, bina sahipleri bakım ortaklığı, yeşil çatı teşvik sistemi, akıllı sensör tabanlı bakım"
+  },
+  {
+    "ilce": "Küçükçekmece",
+    "oncelik": "Yüksek",
+    "proje_adi": "Küçükçekmece Göl ve Kent Yeşil Entegrasyonu",
+    "proje_detay": "Küçükçekmece Gölü'ne sahip olmasına rağmen yeşil alan açısından fakir olan ilçede (0.22 m²/kişi) kapsamlı proje önerilmektedir. Göl kıyısında 12 km yeşil yürüyüş ve bisiklet yolu koridoru, Cennet Mahallesi'nde 10 hektarlık kent parkı, Söğütlüçeşme ve Yarımburgaz'da 4'er hektarlık mahalle parkları, Halkalı, Kanarya ve Atatürk mahallelerinde toplam 28 cep parkı (0.3-0.6 hektar) planlanmaktadır. E-5 kenarında 5 km yeşil bant, Basın Ekspres Yolu boyunca 4 km ağaçlandırma, göl çevresinde 8 hektarlık ekolojik koruma alanı, 5 mahallede yeşil sokak projesi, 40 okul bahçesinin ağaçlandırılması, 180 bina çatısında yeşil teras, mevcut 15 parkın yenilenmesi ve genişletilmesi önerilmektedir. Sular Vadisi'nde 3 hektarlık doğal park düzenlemesi hedeflenmektedir. Toplam 58 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺3.2 Milyar ($76.1 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 7.57 m²'ye çıkacak, göl ekosistemi korunacak, 28 yeni park kazanılacak, su kalitesi %30 iyileşecek",
+    "uygulama_suresi": "42 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 58,
+      "m2_per_kisi_artis": 7.35,
+      "hedeflened_m2_per_kisi": 7.57
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 28,
+      "toplam_park": 31
+    },
+    "agaclandirma": {
+      "agac_sayisi": 26000,
+      "alan_hektar": 40
+    },
+    "alternatif_cozumler": [
+      "Göl Odaklı: Kıyı düzenlemesi ve ekolojik koruma (₺1.6 Milyar - 30 ay)",
+      "Mahalle Odaklı: Park ve yeşil alan yaygınlaştırma (₺2.4 Milyar - 36 ay)",
+      "Entegre Plan: Göl ve kent birlikte (₺3.4 Milyar - 40 ay)"
+    ],
+    "ozel_cozumler": "Göl kıyı koridoru, ekolojik tampon bölge, 180 çatı bahçesi, yeşil tramvay hatları, su kenarı mesire alanları, sazlık rehabilitasyonu",
+    "kisa_vade_etki": "İlk yıl göl kıyı koridoru ve 15 cep parkı ile yeşil alan %40 artacak, 10000 ağaç dikilecek",
+    "orta_vade_etki": "3.5 yıl içinde göl-kent entegrasyonu tamamlanacak, rekreasyon alanı %150 artacak, kuş türü çeşitliliği %35 artacak",
+    "uzun_vade_etki": "10 yıl içinde göl ekosistemi tam korunacak, karbon tutma 18000 ton/yıl olacak, bölgesel yeşil merkez konumuna gelecek",
+    "surdurulebilirlik": "Göl suyu kalite izleme, doğal filtrasyon sistemleri, ekolojik koruma komitesi, yağmur bahçeleri, 8 yıllık entegre bakım planı"
+  },
+  {
+    "ilce": "Kadıköy",
+    "oncelik": "Yüksek",
+    "proje_adi": "Kadıköy Kıyı ve Kent İçi Yeşil Ağı Projesi",
+    "proje_detay": "Kadıköy, kültürel zenginliğine rağmen yeşil alan açısından yetersizdir (0.22 m²/kişi). Fenerbahçe-Caddebostan arası 8 km kıyı yeşil koridoru genişletilmesi ve yenilenmesi, Göztepe'de 6 hektarlık kent parkı, Kozyatağı ve Erenköy'de 3'er hektarlık mahalle parkları, Moda, Caferağa, Hasanpaşa ve Zühtüpaşa mahallelerinde toplam 25 cep parkı (0.2-0.5 hektar) planlanmaktadır. Bağdat Caddesi boyunca 7 km yeşil refüj ve ağaçlandırma, Söğütlüçeşme-Feneryolu arası yeşil tramvay hattı, 15 sokakta yeşil sokak uygulaması, 45 okul bahçesinin modernizasyonu, 200 bina çatısında yeşil teras, tarihi yapılarda duvar bahçeleri önerilmektedir. Moda Burnu'nda 2 hektarlık botanik bahçe, Fenerbahçe Parkı'nın 3 kat genişletilmesi, 20 meydanda yeşil meydan düzenlemesi hedeflenmektedir. Toplam 42 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.8 Milyar ($66.6 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 9.31 m²'ye çıkacak, kıyı erişimi %60 artacak, tarihi doku korunarak yeşil alan entegrasyonu sağlanacak",
+    "uygulama_suresi": "40 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 42,
+      "m2_per_kisi_artis": 9.09,
+      "hedeflenen_m2_per_kisi": 9.31
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 25,
+      "toplam_park": 28
+    },
+    "agaclandirma": {
+      "agac_sayisi": 18000,
+      "alan_hektar": 28
+    },
+    "alternatif_cozumler": [
+      "Kıyı Odaklı: Sahil bandı ve kıyı parkları (₺1.5 Milyar - 28 ay)",
+      "Mahalle Odaklı: İç mahalle parkları ve yeşil sokaklar (₺1.8 Milyar - 32 ay)",
+      "Bütünleşik: Kıyı ve kent içi entegre (₺3.0 Milyar - 38 ay)"
+    ],
+    "ozel_cozumler": "Kıyı yeşil koridoru, 200 çatı bahçesi, tarihi bina duvar bahçeleri, yeşil tramvay hattı, Moda botanik bahçe, meydan yeşillendirme",
+    "kisa_vade_etki": "İlk yıl 12 cep parkı ve kıyı koridoru ile yeşil alan %35 artacak, 7000 ağaç dikilecek",
+    "orta_vade_etki": "3.3 yıl içinde mahalle erişimi 10 dakikaya düşecek, kültürel etkinlik alanları %80 artacak, bisiklet kullanımı %45 artacak",
+    "uzun_vade_etki": "10 yıl içinde İstanbul'un en yeşil merkez ilçesi olacak, turizm geliri %40 artacak, yaşam kalitesi endeksi zirve yapacak",
+    "surdurulebilirlik": "Deniz suyu arıtma ve sulama, güneş enerjili aydınlatma, mahalle kooperatifleri bakım ortaklığı, kültür-yeşil entegre yönetim"
+  },
+  {
+    "ilce": "Avcılar",
+    "oncelik": "Yüksek",
+    "proje_adi": "Avcılar Kıyı ve Kampüs Yeşil Dönüşümü",
+    "proje_detay": "Üniversite kampüsüne sahip Avcılar'da (0.23 m²/kişi) yeşil alan artırımı hedeflenmektedir. Sahil boyunca Ambarlı-Florya arası 6 km kıyı yeşil koridoru, Merkez Mahalle'de 7 hektarlık kent parkı, Denizköşkler ve Firuzköy'de 3'er hektarlık mahalle parkları, Üniversite, Gümüşpala ve Yeşilkent mahallelerinde toplam 20 cep parkı (0.3-0.6 hektar) planlanmaktadır. E-5 kenarında 5 km yeşil bant ve gürültü bariyeri, Üniversite Kampüsü çevresinde 4 hektarlık halka açık yeşil alan, Marmara Denizi kıyısında 3 hektarlık mesire alanı, 35 okul bahçesinin ağaçlandırılması, 120 bina çatısında yeşil teras, 12 mahallede yeşil sokak projesi önerilmektedir. Toplam 48 hektar yeni yeşil alan hedeflenmektedir.",
+    "tahmini_maliyet": "₺2.5 Milyar ($59.5 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 11.12 m²'ye çıkacak, deniz kıyısı erişimi %70 artacak, kampüs-kent entegrasyonu sağlanacak",
+    "uygulama_suresi": "38 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 48,
+      "m2_per_kisi_artis": 10.89,
+      "hedeflenen_m2_per_kisi": 11.12
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 20,
+      "toplam_park": 23
+    },
+    "agaclandirma": {
+      "agac_sayisi": 22000,
+      "alan_hektar": 32
+    },
+    "alternatif_cozumler": [
+      "Kıyı Öncelikli: Sahil bandı ve mesire alanları (₺1.3 Milyar - 26 ay)",
+      "Mahalle Yoğunlaşma: Park ve yeşil sokaklar (₺1.7 Milyar - 30 ay)",
+      "Kampüs Entegre: Üniversite-kent ortak alan (₺2.2 Milyar - 34 ay)"
+    ],
+    "ozel_cozumler": "Kıyı yeşil koridoru, kampüs-kent ortak yeşil alan, 120 çatı bahçesi, E-5 gürültü bariyeri ormanı, deniz kenarı mesire, yeşil sokaklar",
+    "kisa_vade_etki": "İlk yıl kıyı koridoru ve 10 cep parkı ile yeşil alan %38 artacak, 8500 ağaç dikilecek",
+    "orta_vade_etki": "3.2 yıl içinde DSÖ standardı aşılacak, öğrenci rekreasyon alanı %120 artacak, deniz suyu kalitesi %20 iyileşecek",
+    "uzun_vade_etki": "10 yıl içinde kampüs-kent yeşil entegrasyonu model olacak, genç nüfus yaşam memnuniyeti %55 artacak, karbon nötr kampüs hedefine ulaşılacak",
+    "surdurulebilirlik": "Üniversite-belediye ortaklığı, öğrenci gönüllü bakım programı, deniz suyu arıtma sulama, yenilenebilir enerji, 6 yıllık bakım protokolü"
+  },
+  {
+    "ilce": "Bağcılar",
+    "oncelik": "Yüksek",
+    "proje_adi": "Bağcılar Yoğun Kent Yeşil Çözümleri",
+    "proje_detay": "Yüksek nüfus yoğunluğuna sahip Bağcılar'da (0.23 m²/kişi) yenilikçi çözümler önerilmektedir. Merkez'de 5 hektarlık kent parkı, Yıldıztepe ve Kirazlı'da 2.5'er hektarlık mahalle parkları, 15 mahallede toplam 30 cep parkı (0.2-0.5 hektar), E-5 ve TEM arasında 4 km yeşil koridor oluşturulacak. Mahmutbey Caddesi boyunca 5 km ağaçlandırma, metro istasyonları çevresinde 12 yeşil meydan düzenlemesi, 50 okul bahçesinin modernizasyonu, 250 bina çatısında yeşil teras, 20 sokakta yeşil sokak projesi planlanmaktadır. Mevcut 18 parkın iyileştirilmesi ve genişletilmesi, kamu binalarında 40 dikey bahçe, otopark çatılarında 10 yeşil alan, 15 kavşakta yeşil ada düzenlemesi önerilmektedir. Toplam 38 hektar yeni yeşil alan hedeflenmektedir.",
+    "tahmini_maliyet": "₺2.4 Milyar ($57.1 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 5.56 m²'ye çıkacak, 30 yeni park kazanılacak, ısı adası etkisi %32 azalacak, yeşil alan erişimi %75'e çıkacak",
+    "uygulama_suresi": "36 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 38,
+      "m2_per_kisi_artis": 5.33,
+      "hedeflenen_m2_per_kisi": 5.56
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 30,
+      "toplam_park": 33
+    },
+    "agaclandirma": {
+      "agac_sayisi": 19000,
+      "alan_hektar": 25
+    },
+    "alternatif_cozumler": [
+      "Dikey Yeşil Yoğun: Çatı ve duvar bahçeleri odaklı (₺1.2 Milyar - 24 ay)",
+      "Cep Park Ağı: 30 cep parkı yaygınlaştırma (₺1.6 Milyar - 28 ay)",
+      "Metro Entegre: İstasyon çevresi yeşil odaklar (₺1.8 Milyar - 30 ay)"
+    ],
+    "ozel_cozumler": "250 çatı bahçesi, 40 dikey bahçe duvarı, metro istasyonu yeşil meydanlar, otopark üstü parklar, modüler yeşil sistemler, yeşil otobüs durakları",
+    "kisa_vade_etki": "İlk yıl 15 cep parkı ve 100 çatı bahçesi ile yeşil alan %42 artacak, 7500 ağaç dikilecek",
+    "orta_vade_etki": "3 yıl içinde yeşil alan 5 kat artacak, mahalle sıcaklığı 2.5°C düşecek, çocuk oyun alanı %180 artacak",
+    "uzun_vade_etki": "10 yıl içinde yoğun kent yeşil çözüm modeli olacak, enerji tasarrufu %18 artacak, hava kalitesi %40 iyileşecek",
+    "surdurulebilirlik": "Gri su sistemi, güneş enerjili sulama, bina sahipleri ortaklığı, yeşil çatı teşvik primi, akıllı bakım teknolojisi, 5 yıllık garanti"
+  },
+  {
+    "ilce": "Çekmeköy",
+    "oncelik": "Yüksek",
+    "proje_adi": "Çekmeköy Orman ve Kent Dengesi Projesi",
+    "proje_detay": "Kuzey ormanlarına komşu Çekmeköy'de (0.24 m²/kişi) doğal dokuya uyumlu yeşil alan artırımı önerilmektedir. Merkez Mahalle'de 8 hektarlık kent parkı, Taşdelen ve Ekşioğlu'nda 4'er hektarlık mahalle parkları, Ömerli Barajı çevresinde 6 hektarlık ekolojik koruma alanı, 12 mahallede toplam 18 cep parkı (0.4-0.7 hektar) planlanmaktadır. Alemdağ Caddesi boyunca 8 km yeşil koridor, TEM kenarında 5 km gürültü bariyeri ormanı, orman kenarı mahallelerinde 15 yeşil tampon bölge, 30 okul bahçesinin ağaçlandırılması, 80 bina çatısında yeşil teras önerilmektedir. Riva Deresi boyunca 3 km ekolojik koridor, 10 mahallede yeşil sokak projesi, mevcut 12 parkın genişletilmesi hedeflenmektedir. Toplam 52 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.3 Milyar ($54.7 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 17.19 m²'ye çıkacak, orman-kent geçişi düzenlenecek, su havzaları korunacak, ekolojik denge sağlanacak",
+    "uygulama_suresi": "40 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 52,
+      "m2_per_kisi_artis": 16.95,
+      "hedeflenen_m2_per_kisi": 17.19
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 18,
+      "toplam_park": 21
+    },
+    "agaclandirma": {
+      "agac_sayisi": 24000,
+      "alan_hektar": 36
+    },
+    "alternatif_cozumler": [
+      "Ekolojik Odaklı: Baraj ve orman tampon bölgeleri (₺1.4 Milyar - 28 ay)",
+      "Mahalle Odaklı: Park ve yeşil alan yaygınlaştırma (₺1.7 Milyar - 32 ay)",
+      "Entegre Koruma: Doğal ve kentsel birlikte (₺2.5 Milyar - 38 ay)"
+    ],
+    "ozel_cozumler": "Orman-kent tampon yeşil kuşak, baraj çevresi ekolojik koruma, 80 çatı bahçesi, dere koridoru rehabilitasyonu, yeşil geçiş yolları",
+    "kisa_vade_etki": "İlk yıl baraj çevresi ve 10 cep parkı ile yeşil alan %36 artacak, 9000 ağaç dikilecek",
+    "orta_vade_etki": "3.3 yıl içinde DSÖ standardı aşılacak, su kalitesi %28 iyileşecek, yaban hayatı çeşitliliği %45 artacak",
+    "uzun_vade_etki": "10 yıl içinde orman-kent entegre model olacak, karbon tutma 20000 ton/yıl olacak, ekoturizm geliri oluşacak",
+    "surdurulebilirlik": "Ömerli su havzası koruma protokolü, doğal filtrasyon, ekolojik izleme, yerel halk orman ortaklığı, 7 yıllık entegre bakım"
+  },
+  {
+    "ilce": "Bayrampaşa",
+    "oncelik": "Yüksek",
+    "proje_adi": "Bayrampaşa Kompakt Yeşil Dönüşüm Projesi",
+    "proje_detay": "Sınırlı alana sahip yoğun Bayrampaşa'da (0.30 m²/kişi) yaratıcı çözümler önerilmektedir. Yıldırım Mahallesi'nde 4 hektarlık kent parkı, Muratpaşa ve Kocatepe'de 2'şer hektarlık mahalle parkları, 10 mahallede toplam 20 cep parkı (0.2-0.4 hektar), E-5 boyunca 3 km yeşil koridor oluşturulacak. Eski Edirne Asfaltı boyunca 4 km ağaçlandırma, 15 meydanda yeşil meydan düzenlemesi, 35 okul bahçesinin modernizasyonu, 180 bina çatısında yeşil teras, 25 sokakta yeşil sokak projesi planlanmaktadır. Mevcut 14 parkın iyileştirilmesi ve genişletilmesi, kamu binalarında 30 dikey bahçe, otopark çatılarında 8 yeşil alan, tarihi Forum İstanbul AVM çevresinde 2 hektarlık yeşil alan önerilmektedir. Toplam 28 hektar yeni yeşil alan hedeflenmektedir.",
+    "tahmini_maliyet": "₺1.6 Milyar ($38.0 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 10.74 m²'ye çıkacak, 20 yeni park kazanılacak, ısı adası etkisi %30 azalacak, yeşil alan erişimi %80'e çıkacak",
+    "uygulama_suresi": "34 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 28,
+      "m2_per_kisi_artis": 10.44,
+      "hedeflenen_m2_per_kisi": 10.74
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 20,
+      "toplam_park": 23
+    },
+    "agaclandirma": {
+      "agac_sayisi": 14000,
+      "alan_hektar": 18
+    },
+    "alternatif_cozumler": [
+      "Dikey Yeşil Odaklı: Çatı ve duvar bahçeleri (₺850 Milyon - 22 ay)",
+      "Park Ağı: Cep parkları ve yeşil sokaklar (₺1.2 Milyar - 28 ay)",
+      "Hızlı Etki: Meydan ve koridor öncelikli (₺1.4 Milyar - 26 ay)"
+    ],
+    "ozel_cozumler": "180 çatı bahçesi, 30 dikey bahçe, meydan yeşillendirme, otopark üstü parklar, AVM çevresi yeşil kuşak, yeşil tramvay güzergahı",
+    "kisa_vade_etki": "İlk yıl 10 cep parkı ve 70 çatı bahçesi ile yeşil alan %40 artacak, 5500 ağaç dikilecek",
+    "orta_vade_etki": "2.8 yıl içinde DSÖ standardı aşılacak, mahalle sıcaklığı 2.8°C düşecek, çocuk oyun alanı %160 artacak",
+    "uzun_vade_etki": "10 yıl içinde kompakt kent yeşil model olacak, enerji tasarrufu %22 artacak, yaşam kalitesi %48 yükselecek",
+    "surdurulebilirlik": "Gri su geri dönüşümü, güneş panelli sulama, mahalle kooperatifleri, yeşil çatı teşvik, akıllı sensör bakım, 5 yıllık garanti"
+  },
+  {
+    "ilce": "Kağıthane",
+    "oncelik": "Yüksek",
+    "proje_adi": "Kağıthane Dere ve Vadi Yeşil Restorasyon Projesi",
+    "proje_detay": "Tarihi Kağıthane Deresi'ne sahip ilçede (0.30 m²/kişi) dere eksenli yeşil dönüşüm önerilmektedir. Kağıthane Deresi boyunca 10 km yeşil koridor ve yürüyüş yolu, Merkez'de 6 hektarlık kent parkı, Çağlayan ve Gültepe'de 3'er hektarlık mahalle parkları, Seyrantepe ve Yahya Kemal'de toplam 22 cep parkı (0.3-0.5 hektar) planlanmaktadır. TEM kenarında 4 km gürültü bariyeri ormanı, Hasdal-Kemerburgaz yolu boyunca 5 km ağaçlandırma, 18 meydanda yeşil meydan düzenlemesi, 40 okul bahçesinin modernizasyonu, 200 bina çatısında yeşil teras önerilmektedir. Dere ıslahı ile entegre 8 hektarlık lineer park, mevcut 16 parkın yenilenmesi, Sadabad Mesiresi'nin restore edilmesi hedeflenmektedir. Toplam 45 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.7 Milyar ($64.2 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 10.42 m²'ye çıkacak, dere ekosistemi canlanacak, 22 yeni park kazanılacak, tarihi doku yeşille entegre olacak",
+    "uygulama_suresi": "42 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 45,
+      "m2_per_kisi_artis": 10.12,
+      "hedeflenen_m2_per_kisi": 10.42
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 22,
+      "toplam_park": 25
+    },
+    "agaclandirma": {
+      "agac_sayisi": 20000,
+      "alan_hektar": 30
+    },
+    "alternatif_cozumler": [
+      "Dere Odaklı: Kağıthane Deresi koridoru öncelikli (₺1.5 Milyar - 30 ay)",
+      "Mahalle Odaklı: Park ve yeşil alan yaygınlaştırma (₺1.9 Milyar - 34 ay)",
+      "Entegre Restorasyon: Dere ve kent birlikte (₺2.9 Milyar - 40 ay)"
+    ],
+    "ozel_cozumler": "Dere yeşil koridoru, lineer park, 200 çatı bahçesi, Sadabad restorasyonu, TEM gürültü ormanı, tarihi-yeşil entegrasyon",
+    "kisa_vade_etki": "İlk yıl dere koridoru ve 12 cep parkı ile yeşil alan %38 artacak, 8000 ağaç dikilecek",
+    "orta_vade_etki": "3.5 yıl içinde DSÖ standardı aşılacak, dere su kalitesi %35 iyileşecek, rekreasyon alanı %140 artacak",
+    "uzun_vade_etki": "10 yıl içinde dere-kent entegre model olacak, tarihi Sadabad canlanacak, karbon tutma 17000 ton/yıl olacak",
+    "surdurulebilirlik": "Dere su kalite izleme, doğal filtrasyon, yağmur bahçeleri, mahalle dere koruma komiteleri, 8 yıllık entegre bakım planı"
+  },
+  {
+    "ilce": "Sancaktepe",
+    "oncelik": "Yüksek",
+    "proje_adi": "Sancaktepe Yeni Yerleşim Yeşil Planlama Projesi",
+    "proje_detay": "Hızla gelişen Sancaktepe'de (0.32 m²/kişi) planlı yeşil alan artırımı önerilmektedir. Merkez Mahalle'de 9 hektarlık kent parkı, Sarıgazi ve Emek mahallelerinde 4'er hektarlık mahalle parkları, Abdurrahmangazi ve Osmangazi'de toplam 24 cep parkı (0.3-0.6 hektar) planlanmaktadır. TEM kenarında 6 km yeşil koridor ve gürültü bariyeri, Anadolu Otoyolu boyunca 5 km ağaçlandırma, yeni yerleşim alanlarında 20 mahalle yeşil sokak projesi, 45 okul bahçesinin ağaçlandırılması, 150 bina çatısında yeşil teras önerilmektedir. Mimar Sinan Mahallesi'nde 3 hektarlık spor parkı, 15 meydanda yeşil meydan düzenlemesi, mevcut 18 parkın genişletilmesi hedeflenmektedir. Toplam 58 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.8 Milyar ($66.6 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 11.87 m²'ye çıkacak, 24 yeni park kazanılacak, yeni yerleşim planlı yeşillenecek, hava kalitesi %35 iyileşecek",
+    "uygulama_suresi": "40 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 58,
+      "m2_per_kisi_artis": 11.55,
+      "hedeflenen_m2_per_kisi": 11.87
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 3,
+      "cep_parki": 24,
+      "toplam_park": 28
+    },
+    "agaclandirma": {
+      "agac_sayisi": 26000,
+      "alan_hektar": 40
+    },
+    "alternatif_cozumler": [
+      "Hızlı Yerleşim: Yeni mahalleler öncelikli (₺1.8 Milyar - 28 ay)",
+      "Koridor Odaklı: TEM ve otoyol yeşil bantlar (₺1.5 Milyar - 32 ay)",
+      "Bütünleşik: Tüm projeler koordineli (₺3.0 Milyar - 38 ay)"
+    ],
+    "ozel_cozumler": "TEM gürültü bariyeri ormanı, 150 çatı bahçesi, yeni yerleşim yeşil sokaklar, spor parkı, otoyol yeşil koridorları",
+    "kisa_vade_etki": "İlk yıl 12 cep parkı ve TEM koridoru ile yeşil alan %35 artacak, 10000 ağaç dikilecek",
+    "orta_vade_etki": "3.3 yıl içinde DSÖ standardı aşılacak, yeni yerleşim yeşil plan %90 tamamlanacak, bisiklet yolu 25 km olacak",
+    "uzun_vade_etki": "10 yıl içinde planlı yeşil yerleşim modeli olacak, karbon nötr mahalleler oluşacak, yaşam kalitesi %52 artacak",
+    "surdurulebilirlik": "Yağmur suyu hasadı, güneş enerjili sulama, yeni yerleşim yeşil zorunluluğu, mahalle bakım kooperatifleri, 6 yıllık bakım planı"
+  },
+  {
+    "ilce": "Büyükçekmece",
+    "oncelik": "Yüksek",
+    "proje_adi": "Büyükçekmece Göl ve Sahil Yeşil Entegrasyon Projesi",
+    "proje_detay": "Büyükçekmece Gölü ve Marmara kıyısına sahip ilçede (0.34 m²/kişi) su odaklı yeşil alan artırımı önerilmektedir. Göl kıyısında 15 km yeşil yürüyüş ve bisiklet yolu koridoru, sahil boyunca 8 km kıyı yeşil bandı, Merkez'de 8 hektarlık kent parkı, Mimarsinan ve Pınartepe'de 3'er hektarlık mahalle parkları, Kumburgaz ve Güzelce'de toplam 20 cep parkı (0.4-0.6 hektar) planlanmaktadır. E-5 kenarında 6 km yeşil koridor, göl çevresinde 10 hektarlık ekolojik koruma alanı, 5 mahallede yeşil sokak projesi, 35 okul bahçesinin ağaçlandırılması, 100 bina çatısında yeşil teras önerilmektedir. Marmara kıyısında 4 hektarlık mesire alanı, göl-deniz arası yeşil bağlantı hedeflenmektedir. Toplam 55 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.9 Milyar ($69.0 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 19.95 m²'ye çıkacak, göl ve deniz ekosistemi korunacak, 20 yeni park kazanılacak, su kalitesi %28 iyileşecek",
+    "uygulama_suresi": "44 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 55,
+      "m2_per_kisi_artis": 19.61,
+      "hedeflenen_m2_per_kisi": 19.95
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 20,
+      "toplam_park": 23
+    },
+    "agaclandirma": {
+      "agac_sayisi": 24000,
+      "alan_hektar": 38
+    },
+    "alternatif_cozumler": [
+      "Göl Odaklı: Kıyı düzenlemesi ve ekolojik koruma (₺1.7 Milyar - 32 ay)",
+      "Sahil Odaklı: Marmara kıyı bandı öncelikli (₺1.5 Milyar - 28 ay)",
+      "Entegre Su: Göl ve deniz birlikte (₺3.1 Milyar - 42 ay)"
+    ],
+    "ozel_cozumler": "Göl kıyı koridoru, ekolojik tampon bölge, 100 çatı bahçesi, göl-deniz yeşil bağlantı, sahil mesire alanı, sazlık rehabilitasyonu",
+    "kisa_vade_etki": "İlk yıl göl kıyı koridoru ve 10 cep parkı ile yeşil alan %33 artacak, 9000 ağaç dikilecek",
+    "orta_vade_etki": "3.7 yıl içinde DSÖ standardı iki kat aşılacak, göl-deniz entegrasyonu tamamlanacak, kuş türü %40 artacak",
+    "uzun_vade_etki": "10 yıl içinde İstanbul'un su-yeşil entegre model ilçesi olacak, ekoturizm geliri oluşacak, karbon tutma 22000 ton/yıl olacak",
+    "surdurulebilirlik": "Göl ve deniz suyu kalite izleme, doğal filtrasyon, ekolojik koruma protokolü, yağmur bahçeleri, 8 yıllık entegre bakım planı"
+  },
+  {
+    "ilce": "Maltepe",
+    "oncelik": "Yüksek",
+    "proje_adi": "Maltepe Sahil ve Kent İçi Yeşil Ağ Projesi",
+    "proje_detay": "Marmara kıyısındaki Maltepe'de (0.41 m²/kişi) sahil ve kent entegrasyonu önerilmektedir. Sahil boyunca 12 km kıyı yeşil koridoru genişletilmesi, Merkez'de 7 hektarlık kent parkı, Bağlarbaşı ve Zümrütevler'de 3'er hektarlık mahalle parkları, Esenkent ve Küçükyalı'da toplam 25 cep parkı (0.3-0.6 hektar) planlanmaktadır. Bağdat Caddesi uzantısı boyunca 6 km yeşil refüj, E-5 kenarında 5 km gürültü bariyeri, 18 meydanda yeşil meydan düzenlemesi, 42 okul bahçesinin modernizasyonu, 180 bina çatısında yeşil teras önerilmektedir. Dragos Tepesi çevresinde 4 hektarlık panoramik park, mevcut Maltepe Sahil Parkı'nın 2 kat genişletilmesi, 15 sokakta yeşil sokak projesi hedeflenmektedir. Toplam 52 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.9 Milyar ($69.0 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 10.32 m²'ye çıkacak, sahil erişimi %65 artacak, 25 yeni park kazanılacak, deniz suyu kalitesi %22 iyileşecek",
+    "uygulama_suresi": "40 az",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 52,
+      "m2_per_kisi_artis": 9.91,
+      "hedeflenen_m2_per_kisi": 10.32
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 25,
+      "toplam_park": 28
+    },
+    "agaclandirma": {
+      "agac_sayisi": 22000,
+      "alan_hektar": 35
+    },
+    "alternatif_cozumler": [
+      "Sahil Odaklı: Kıyı bandı ve sahil parkları (₺1.7 Milyar - 28 ay)",
+      "Mahalle Odaklı: İç mahalle parkları ve yeşil sokaklar (₺1.9 Milyar - 32 ay)",
+      "Bütünleşik: Sahil ve kent içi entegre (₺3.1 Milyar - 38 ay)"
+    ],
+    "ozel_cozumler": "Sahil yeşil koridoru, 180 çatı bahçesi, Dragos panoramik park, meydan yeşillendirme, E-5 gürültü ormanı, yeşil tramvay hattı",
+    "kisa_vade_etki": "İlk yıl 13 cep parkı ve sahil koridoru ile yeşil alan %37 artacak, 8500 ağaç dikilecek",
+    "orta_vade_etki": "3.3 yıl içinde DSÖ standardı aşılacak, sahil kullanımı %70 artacak, bisiklet yolu 30 km olacak",
+    "uzun_vade_etki": "10 yıl içinde sahil-kent entegre yeşil model olacak, turizm geliri %35 artacak, yaşam kalitesi %50 yükselecek",
+    "surdurulebilirlik": "Deniz suyu arıtma sulama, güneş enerjili aydınlatma, mahalle sahil koruma komiteleri, akıllı park yönetimi, 7 yıllık bakım planı"
+  },
+  {
+    "ilce": "Tuzla",
+    "oncelik": "Yüksek",
+    "proje_adi": "Tuzla Sanayi-Yeşil Denge ve Sahil Koruma Projesi",
+    "proje_detay": "Sanayi bölgesi olan Tuzla'da (0.60 m²/kişi) çevre dostu yeşil alan artırımı önerilmektedir. Merkez'de 6 hektarlık kent parkı, Aydınlı ve İçmeler'de 3'er hektarlık mahalle parkları, sahil boyunca 10 km kıyı yeşil koridoru, 15 mahallede toplam 20 cep parkı (0.4-0.7 hektar) planlanmaktadır. TEM kenarında 8 km gürültü bariyeri ormanı, sanayi bölgelerinde 50 tesis zorunlu yeşil alan oluşturma, 30 okul bahçesinin ağaçlandırılması, 80 bina çatısında yeşil teras önerilmektedir. Aydos Ormanı kenarında 5 hektarlık tampon yeşil kuşak, Marmara kıyısında 4 hektarlık mesire alanı, 12 meydanda yeşil meydan düzenlemesi hedeflenmektedir. Toplam 48 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.4 Milyar ($57.1 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 16.53 m²'ye çıkacak, sanayi-yeşil dengesi sağlanacak, hava kalitesi %42 iyileşecek, 20 yeni park kazanılacak",
+    "uygulama_suresi": "42 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 48,
+      "m2_per_kisi_artis": 15.93,
+      "hedeflenen_m2_per_kisi": 16.53
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 20,
+      "toplam_park": 23
+    },
+    "agaclandirma": {
+      "agac_sayisi": 21000,
+      "alan_hektar": 33
+    },
+    "alternatif_cozumler": [
+      "Sanayi Odaklı: Tesis yeşillendirme ve tampon bölgeler (₺1.4 Milyar - 30 ay)",
+      "Sahil Odaklı: Kıyı bandı ve mesire alanları (₺1.6 Milyar - 32 ay)",
+      "Entegre Plan: Sanayi-sahil-kent birlikte (₺2.6 Milyar - 40 ay)"
+    ],
+    "ozel_cozumler": "Sanayi tesis zorunlu yeşillendirme, TEM gürültü ormanı, sahil yeşil koridoru, Aydos tampon kuşak, 80 çatı bahçesi, mesire alanı",
+    "kisa_vade_etki": "İlk yıl sanayi yeşillendirme ve 10 cep parkı ile yeşil alan %35 artacak, hava kalitesi %18 iyileşecek",
+    "orta_vade_etki": "3.5 yıl içinde DSÖ standardı aşılacak, sanayi emisyonu %25 azalacak, sahil erişimi %60 artacak",
+    "uzun_vade_etki": "10 yıl içinde sanayi-yeşil entegre model olacak, karbon nötr sanayi hedefine %50 yaklaşılacak, işçi yaşam kalitesi %45 artacak",
+    "surdurulebilirlik": "Sanayi atık su arıtma sulama, emisyon izleme, yeşil sanayi sertifikası, mahalle-tesis ortaklığı, 7 yıllık bakım protokolü"
+  },
+  {
+    "ilce": "Üsküdar",
+    "oncelik": "Yüksek",
+    "proje_adi": "Üsküdar Tarihi Doku ve Yeşil Entegrasyon Projesi",
+    "proje_detay": "Tarihi dokuya sahip Üsküdar'da (0.60 m²/kişi) hassas yeşil alan artırımı önerilmektedir. Çamlıca Tepesi çevresinde 8 hektarlık panoramik kent parkı, Altunizade ve Acıbadem'de 3'er hektarlık mahalle parkları, Kuzguncuk ve Beylerbeyi'nde toplam 22 cep parkı (0.3-0.5 hektar) planlanmaktadır. Boğaz kıyısında 6 km yeşil koridor, Validebağ Korusu'nun 4 hektar genişletilmesi, 20 tarihi sokakta yeşil sokak projesi, 38 okul bahçesinin ağaçlandırılması, 150 bina çatısında yeşil teras önerilmektedir. Fethi Paşa Korusu ile Çamlıca arası yeşil bağlantı, 15 meydanda tarihi dokuya uygun yeşil düzenleme, Boğaziçi kıyısında 3 hektarlık mesire alanı hedeflenmektedir. Toplam 45 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.6 Milyar ($61.9 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 9.37 m²'ye çıkacak, tarihi doku korunarak yeşil entegrasyon sağlanacak, 22 yeni park kazanılacak, Boğaz manzarası zenginleşecek",
+    "uygulama_suresi": "40 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 45,
+      "m2_per_kisi_artis": 8.77,
+      "hedeflenen_m2_per_kisi": 9.37
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 22,
+      "toplam_park": 25
+    },
+    "agaclandirma": {
+      "agac_sayisi": 19000,
+      "alan_hektar": 30
+    },
+    "alternatif_cozumler": [
+      "Tarihi Odaklı: Korular ve tarihi sokaklar (₺1.5 Milyar - 28 ay)",
+      "Boğaz Odaklı: Kıyı bandı ve mesire alanları (₺1.7 Milyar - 32 ay)",
+      "Bütünleşik: Tarihi doku-yeşil entegre (₺2.8 Milyar - 38 ay)"
+    ],
+    "ozel_cozumler": "Çamlıca panoramik park, Boğaz yeşil koridoru, 150 çatı bahçesi, tarihi sokak yeşillendirme, koru bağlantıları, meydan düzenleme",
+    "kisa_vade_etki": "İlk yıl Çamlıca parkı ve 12 cep parkı ile yeşil alan %36 artacak, 7500 ağaç dikilecek",
+    "orta_vade_etki": "3.3 yıl içinde tarihi doku-yeşil entegrasyonu %85 tamamlanacak, turizm geliri %30 artacak, Boğaz erişimi artacak",
+    "uzun_vade_etki": "10 yıl içinde tarihi-yeşil entegre model ilçe olacak, UNESCO değerlendirmesi güçlenecek, yaşam kalitesi %55 artacak",
+    "surdurulebilirlik": "Tarihi doku koruma protokolü, yağmur suyu hasadı, mahalle vakıf ortaklığı, kültürel-yeşil entegre yönetim, 8 yıllık bakım planı"
+  },
+  {
+    "ilce": "Kartal",
+    "oncelik": "Yüksek",
+    "proje_adi": "Kartal Sahil ve Kent Dönüşüm Yeşil Entegrasyonu",
+    "proje_detay": "Kentsel dönüşüm geçiren Kartal'da (0.61 m²/kişi) yeni yerleşim ve yeşil entegrasyonu önerilmektedir. Sahil boyunca 10 km kıyı yeşil koridoru, Merkez'de 8 hektarlık kent parkı, Yakacık ve Soğanlık'ta 4'er hektarlık mahalle parkları, Yukarı ve Orta mahallelerinde toplam 24 cep parkı (0.3-0.6 hektar) planlanmaktadır. E-5 kenarında 6 km yeşil bant, Aydos Ormanı kenarında 5 hektarlık tampon yeşil kuşak, 20 meydanda yeşil meydan düzenlemesi, 40 okul bahçesinin ağaçlandırılması, 160 bina çatısında yeşil teras önerilmektedir. Marmara kıyısında 4 hektarlık mesire alanı, kentsel dönüşüm alanlarında zorunlu yeşil alan standardı, 15 sokakta yeşil sokak projesi hedeflenmektedir. Toplam 56 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺3.0 Milyar ($71.4 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 12.38 m²'ye çıkacak, kentsel dönüşüm yeşil entegre olacak, 24 yeni park kazanılacak, sahil erişimi %70 artacak",
+    "uygulama_suresi": "42 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 56,
+      "m2_per_kisi_artis": 11.77,
+      "hedeflenen_m2_per_kisi": 12.38
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 24,
+      "toplam_park": 27
+    },
+    "agaclandirma": {
+      "agac_sayisi": 25000,
+      "alan_hektar": 38
+    },
+    "alternatif_cozumler": [
+      "Dönüşüm Odaklı: Yeni yerleşim yeşil standardı (₺1.9 Milyar - 30 ay)",
+      "Sahil Odaklı: Kıyı bandı ve mesire alanları (₺1.7 Milyar - 32 ay)",
+      "Entegre Plan: Dönüşüm-sahil-orman birlikte (₺3.2 Milyar - 40 ay)"
+    ],
+    "ozel_cozumler": "Kentsel dönüşüm yeşil standardı, sahil yeşil koridoru, Aydos tampon kuşak, 160 çatı bahçesi, mesire alanı, yeşil sokaklar",
+    "kisa_vade_etki": "İlk yıl sahil koridoru ve 12 cep parkı ile yeşil alan %34 artacak, 10000 ağaç dikilecek",
+    "orta_vade_etki": "3.5 yıl içinde DSÖ standardı aşılacak, dönüşüm alanları %100 yeşil entegre olacak, yaşam kalitesi %48 artacak",
+    "uzun_vade_etki": "10 yıl içinde kentsel dönüşüm-yeşil entegre model olacak, karbon nötr mahalleler oluşacak, emlak değeri %42 artacak",
+    "surdurulebilirlik": "Dönüşüm yeşil zorunluluğu, yağmur suyu hasadı, yeni bina çatı bahçesi standardı, mahalle kooperatifleri, 7 yıllık bakım garantisi"
+  },
+  {
+    "ilce": "Eyüpsultan",
+    "oncelik": "Yüksek",
+    "proje_adi": "Eyüpsultan Tarihi ve Doğal Yeşil Koruma Projesi",
+    "proje_detay": "Tarihi ve manevi değerlere sahip Eyüpsultan'da (0.71 m²/kişi) hassas yeşil alan artırımı önerilmektedir. Merkez'de 7 hektarlık kent parkı, Alibeyköy ve Çırçır'da 3'er hektarlık mahalle parkları, Haliç kıyısında 8 km yeşil koridor, 15 mahallede toplam 20 cep parkı (0.4-0.6 hektar) planlanmaktadır. TEM kenarında 6 km gürültü bariyeri ormanı, Alibeyköy Barajı çevresinde 8 hektarlık ekolojik koruma alanı, Pierre Loti Tepesi çevresinde 4 hektarlık panoramik park, 18 tarihi sokakta yeşil sokak projesi önerilmektedir. 35 okul bahçesinin ağaçlandırılması, 100 bina çatısında yeşil teras, Kemerburgaz ormanları kenarında 5 hektarlık tampon yeşil kuşak hedeflenmektedir. Toplam 50 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.5 Milyar ($59.5 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 12.59 m²'ye çıkacak, Haliç ekosistemi korunacak, tarihi doku yeşille entegre olacak, 20 yeni park kazanılacak",
+    "uygulama_suresi": "42 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 50,
+      "m2_per_kisi_artis": 11.88,
+      "hedeflenen_m2_per_kisi": 12.59
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 20,
+      "toplam_park": 23
+    },
+    "agaclandirma": {
+      "agac_sayisi": 22000,
+      "alan_hektar": 34
+    },
+    "alternatif_cozumler": [
+      "Haliç Odaklı: Kıyı koridoru ve baraj çevresi (₺1.5 Milyar - 30 ay)",
+      "Tarihi Odaklı: Sokaklar ve Pierre Loti (₺1.3 Milyar - 28 ay)",
+      "Entegre Koruma: Tarihi-doğal birlikte (₺2.7 Milyar - 40 ay)"
+    ],
+    "ozel_cozumler": "Haliç yeşil koridoru, baraj ekolojik koruma, Pierre Loti panoramik park, 100 çatı bahçesi, tarihi sokak yeşillendirme, orman tampon kuşak",
+    "kisa_vade_etki": "İlk yıl Haliç koridoru ve 10 cep parkı ile yeşil alan %35 artacak, 8500 ağaç dikilecek",
+    "orta_vade_etki": "3.5 yıl içinde DSÖ standardı aşılacak, Haliç su kalitesi %30 iyileşecek, tarihi turizm %25 artacak",
+    "uzun_vade_etki": "10 yıl içinde tarihi-doğal entegre model olacak, UNESCO değerlendirmesi güçlenecek, karbon tutma 19000 ton/yıl olacak",
+    "surdurulebilirlik": "Haliç ve baraj su kalite izleme, tarihi doku koruma protokolü, vakıf-belediye ortaklığı, ekolojik izleme, 8 yıllık bakım planı"
+  },
+  {
+    "ilce": "Beyoğlu",
+    "oncelik": "Yüksek",
+    "proje_adi": "Beyoğlu Tarihi Merkez Yeşil Canlandırma Projesi",
+    "proje_detay": "Tarihi ve kültürel merkez Beyoğlu'nda (0.88 m²/kişi) sınırlı alan nedeniyle yaratıcı çözümler önerilmektedir. Taksim Gezi Parkı'nın 2 hektar genişletilmesi, Maçka Parkı ile bağlantı koridoru, Kasımpaşa'da 3 hektarlık mahalle parkı, Cihangir ve Tarlabaşı'nda toplam 15 cep parkı (0.2-0.4 hektar) planlanmaktadır. İstiklal Caddesi yan sokaklarında 25 yeşil sokak projesi, Galata ve Karaköy meydanlarında yeşil düzenleme, 30 okul bahçesinin modernizasyonu, 200 tarihi bina çatısında yeşil teras önerilmektedir. Boğaz kıyısında 4 km yeşil koridor, 35 meydanda tarihi dokuya uygun yeşil düzenleme, 50 tarihi binada duvar bahçesi, Haliç kıyısında 2 km yeşil bant hedeflenmektedir. Toplam 22 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺1.8 Milyar ($42.8 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 11.03 m²'ye çıkacak, tarihi doku korunarak yeşil entegrasyon sağlanacak, 15 yeni park kazanılacak, turizm çekiciliği artacak",
+    "uygulama_suresi": "36 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 22,
+      "m2_per_kisi_artis": 10.15,
+      "hedeflenen_m2_per_kisi": 11.03
+    },
+    "park_detaylari": {
+      "kent_parki": 0,
+      "mahalle_parki": 1,
+      "cep_parki": 15,
+      "toplam_park": 16
+    },
+    "agaclandirma": {
+      "agac_sayisi": 11000,
+      "alan_hektar": 14
+    },
+    "alternatif_cozumler": [
+      "Dikey Yeşil Odaklı: Çatı ve duvar bahçeleri (₺1.0 Milyar - 24 ay)",
+      "Meydan Odaklı: Tarihi meydanlar ve sokaklar (₺1.2 Milyar - 28 ay)",
+      "Bütünleşik: Park-meydan-dikey entegre (₺1.9 Milyar - 34 ay)"
+    ],
+    "ozel_cozumler": "200 tarihi bina çatı bahçesi, 50 duvar bahçesi, Taksim-Maçka yeşil bağlantı, meydan yeşillendirme, Boğaz koridoru, yeşil sokaklar",
+    "kisa_vade_etki": "İlk yıl 8 cep parkı ve 80 çatı bahçesi ile yeşil alan %40 artacak, 4500 ağaç dikilecek",
+    "orta_vade_etki": "3 yıl içinde DSÖ standardı aşılacak, tarihi doku-yeşil entegrasyonu %80 tamamlanacak, turizm geliri %28 artacak",
+    "uzun_vade_etki": "10 yıl içinde tarihi merkez yeşil model olacak, UNESCO değerlendirmesi güçlenecek, yaşam kalitesi %60 artacak",
+    "surdurulebilirlik": "Tarihi bina koruma protokolü, yağmur suyu hasadı, vakıf-belediye ortaklığı, kültür-yeşil entegre yönetim, turizm geliri fonlama"
+  },
+  {
+    "ilce": "Sarıyer",
+    "oncelik": "Yüksek",
+    "proje_adi": "Sarıyer Boğaz ve Orman Koruma Yeşil Projesi",
+    "proje_detay": "Boğaz kıyısı ve Belgrad Ormanları'na sahip Sarıyer'de (1.01 m²/kişi) doğal doku koruma odaklı yeşil alan artırımı önerilmektedir. Boğaz kıyısında 15 km yeşil yürüyüş ve bisiklet yolu koridoru, Merkez'de 6 hektarlık kent parkı, Maslak ve İstinye'de 3'er hektarlık mahalle parkları, 12 mahallede toplam 18 cep parkı (0.4-0.7 hektar) planlanmaktadır. Belgrad Ormanları kenarında 10 hektarlık tampon yeşil kuşak, Bentler bölgesinde 5 hektarlık ekolojik park, TEM kenarında 4 km gürültü bariyeri, 25 okul bahçesinin ağaçlandırılması önerilmektedir. Büyükdere Deresi boyunca 6 km yeşil koridor, 15 tarihi köy meydanında yeşil düzenleme, 80 bina çatısında yeşil teras hedeflenmektedir. Toplam 55 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.8 Milyar ($66.6 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 17.06 m²'ye çıkacak, Boğaz ekosistemi korunacak, orman-kent dengesi sağlanacak, 18 yeni park kazanılacak",
+    "uygulama_suresi": "44 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 55,
+      "m2_per_kisi_artis": 16.05,
+      "hedeflenen_m2_per_kisi": 17.06
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 18,
+      "toplam_park": 21
+    },
+    "agaclandirma": {
+      "agac_sayisi": 24000,
+      "alan_hektar": 38
+    },
+    "alternatif_cozumler": [
+      "Boğaz Odaklı: Kıyı koridoru ve köy meydanları (₺1.6 Milyar - 32 ay)",
+      "Orman Odaklı: Belgrad tampon ve bentler (₺1.8 Milyar - 36 ay)",
+      "Entegre Koruma: Boğaz-orman-dere birlikte (₺3.0 Milyar - 42 ay)"
+    ],
+    "ozel_cozumler": "Boğaz yeşil koridoru, Belgrad tampon kuşak, Bentler ekolojik park, 80 çatı bahçesi, dere koridoru, köy meydanı yeşillendirme",
+    "kisa_vade_etki": "İlk yıl Boğaz koridoru ve 10 cep parkı ile yeşil alan %32 artacak, 9500 ağaç dikilecek",
+    "orta_vade_etki": "3.7 yıl içinde DSÖ standardı aşılacak, Boğaz su kalitesi %22 iyileşecek, ekoturizm %35 artacak",
+    "uzun_vade_etki": "10 yıl içinde Boğaz-orman entegre model olacak, UNESCO biyosfer rezervi adayı olacak, karbon tutma 23000 ton/yıl olacak",
+    "surdurulebilirlik": "Boğaz su kalite izleme, orman koruma protokolü, bentler rehabilitasyonu, köy-belediye ortaklığı, 8 yıllık entegre bakım planı"
+  },
+  {
+    "ilce": "Beykoz",
+    "oncelik": "Yüksek",
+    "proje_adi": "Beykoz Boğaz ve Orman Entegre Yeşil Projesi",
+    "proje_detay": "Doğal güzelliklere sahip Beykoz'da (1.20 m²/kişi) ekolojik koruma odaklı yeşil alan artırımı önerilmektedir. Boğaz kıyısında 20 km yeşil yürüyüş ve bisiklet yolu koridoru, Merkez'de 7 hektarlık kent parkı, Çubuklu ve Paşabahçe'de 3'er hektarlık mahalle parkları, Riva ve Polonezköy'de toplam 16 cep parkı (0.5-0.8 hektar) planlanmaktadır. Beykoz Korusu'nun 8 hektar genişletilmesi, Anadolu Kavağı'nda 4 hektarlık mesire alanı, Riva Deresi boyunca 10 km ekolojik koridor, orman kenarı mahallelerinde 12 hektarlık tampon yeşil kuşak önerilmektedir. 20 okul bahçesinin ağaçlandırılması, 60 bina çatısında yeşil teras, 10 köy meydanında yeşil düzenleme hedeflenmektedir. Toplam 62 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.9 Milyar ($69.0 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 26.46 m²'ye çıkacak, Boğaz ve orman ekosistemi korunacak, 16 yeni park kazanılacak, ekoturizm gelişecek",
+    "uygulama_suresi": "46 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 62,
+      "m2_per_kisi_artis": 25.26,
+      "hedeflenen_m2_per_kisi": 26.46
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 16,
+      "toplam_park": 19
+    },
+    "agaclandirma": {
+      "agac_sayisi": 27000,
+      "alan_hektar": 44
+    },
+    "alternatif_cozumler": [
+      "Boğaz Odaklı: Kıyı koridoru ve mesire alanları (₺1.7 Milyar - 34 ay)",
+      "Ekolojik Odaklı: Dere ve orman tampon bölgeleri (₺1.9 Milyar - 38 ay)",
+      "Entegre Koruma: Boğaz-orman-dere birlikte (₺3.1 Milyar - 44 ay)"
+    ],
+    "ozel_cozumler": "Boğaz yeşil koridoru, Beykoz Korusu genişletme, Riva dere koridoru, orman tampon kuşak, 60 çatı bahçesi, mesire alanı",
+    "kisa_vade_etki": "İlk yıl Boğaz koridoru ve 8 cep parkı ile yeşil alan %30 artacak, 11000 ağaç dikilecek",
+    "orta_vade_etki": "3.8 yıl içinde DSÖ standardı iki kat aşılacak, Boğaz su kalitesi %25 iyileşecek, kuş türü %50 artacak",
+    "uzun_vade_etki": "10 yıl içinde İstanbul'un ekolojik cenneti olacak, UNESCO biyosfer rezervi olacak, karbon tutma 26000 ton/yıl olacak",
+    "surdurulebilirlik": "Boğaz ve dere su kalite izleme, orman koruma protokolü, ekolojik izleme merkezi, köy-belediye ortaklığı, 10 yıllık entegre bakım"
+  },
+  {
+    "ilce": "Bakırköy",
+    "oncelik": "Yüksek",
+    "proje_adi": "Bakırköy Sahil ve Kent İçi Yeşil Yenileme Projesi",
+    "proje_detay": "Marmara kıyısındaki Bakırköy'de (1.32 m²/kişi) sahil ve kent entegrasyonu önerilmektedir. Sahil boyunca 8 km kıyı yeşil koridoru genişletilmesi ve yenilenmesi, Merkez'de 5 hektarlık kent parkı, Yeşilköy ve Ataköy'de 2.5'er hektarlık mahalle parkları, Zuhuratbaba ve Şenlikköy'de toplam 18 cep parkı (0.3-0.5 hektar) planlanmaktadır. E-5 kenarında 4 km yeşil bant, Havalimanı çevresinde 3 km gürültü bariyeri, 15 meydanda yeşil meydan düzenlemesi, 30 okul bahçesinin modernizasyonu, 120 bina çatısında yeşil teras önerilmektedir. Atatürk Havalimanı alanının yeşil dönüşüm entegrasyonu, 12 sokakta yeşil sokak projesi, mevcut Botanik Parkı'nın yenilenmesi hedeflenmektedir. Toplam 38 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.3 Milyar ($54.7 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 18.61 m²'ye çıkacak, sahil erişimi %60 artacak, 18 yeni park kazanılacak, havalimanı alanı yeşil entegre olacak",
+    "uygulama_suresi": "38 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 38,
+      "m2_per_kisi_artis": 17.29,
+      "hedeflenen_m2_per_kisi": 18.61
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 18,
+      "toplam_park": 21
+    },
+    "agaclandirma": {
+      "agac_sayisi": 16000,
+      "alan_hektar": 25
+    },
+    "alternatif_cozumler": [
+      "Sahil Odaklı: Kıyı bandı ve mesire alanları (₺1.4 Milyar - 26 ay)",
+      "Havalimanı Odaklı: Alan dönüşümü entegrasyonu (₺1.6 Milyar - 30 ay)",
+      "Bütünleşik: Sahil-kent-havalimanı birlikte (₺2.5 Milyar - 36 ay)"
+    ],
+    "ozel_cozumler": "Sahil yeşil koridoru, 120 çatı bahçesi, havalimanı yeşil dönüşüm entegrasyonu, meydan yeşillendirme, gürültü bariyeri, Botanik Park yenileme",
+    "kisa_vade_etki": "İlk yıl sahil koridoru ve 10 cep parkı ile yeşil alan %32 artacak, 6500 ağaç dikilecek",
+    "orta_vade_etki": "3.2 yıl içinde DSÖ standardı aşılacak, sahil kullanımı %65 artacak, havalimanı yeşil entegrasyon başlayacak",
+    "uzun_vade_etki": "10 yıl içinde sahil-kent-havalimanı yeşil entegre model olacak, karbon nötr ilçe hedefine yaklaşılacak, yaşam kalitesi %50 artacak",
+    "surdurulebilirlik": "Deniz suyu arıtma sulama, güneş enerjili aydınlatma, havalimanı alan yönetim protokolü, mahalle kooperatifleri, 7 yıllık bakım planı"
+  },
+  {
+    "ilce": "Çatalca",
+    "oncelik": "Yüksek",
+    "proje_adi": "Çatalca Tarım ve Doğal Yeşil Koruma Projesi",
+    "proje_detay": "Geniş tarım alanlarına sahip Çatalca'da (1.55 m²/kişi) doğal doku koruma odaklı yeşil alan artırımı önerilmektedir. Merkez'de 6 hektarlık kent parkı, Karacaköy ve Kaleiçi'nde 2'şer hektarlık mahalle parkları, 10 mahallede toplam 12 cep parkı (0.5-0.8 hektar), Terkos Gölü çevresinde 15 hektarlık ekolojik koruma alanı planlanmaktadır. Büyükçekmece Gölü kenarında 8 hektarlık mesire alanı, orman kenarı köylerde 10 hektarlık tampon yeşil kuşak, TEM kenarında 5 km gürültü bariyeri, 15 okul bahçesinin ağaçlandırılması önerilmektedir. Tarım alanları arası 20 km yeşil koridor, 8 köy meydanında yeşil düzenleme, 40 bina çatısında yeşil teras hedeflenmektedir. Toplam 52 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺1.9 Milyar ($45.2 Milyon)",
+    "beklenen_etki": "Kişi başına yeşil alan 66.22 m²'ye çıkacak, su havzaları korunacak, tarım-yeşil dengesi sağlanacak, 12 yeni park kazanılacak",
+    "uygulama_suresi": "40 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 52,
+      "m2_per_kisi_artis": 64.67,
+      "hedeflenen_m2_per_kisi": 66.22
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 12,
+      "toplam_park": 15
+    },
+    "agaclandirma": {
+      "agac_sayisi": 23000,
+      "alan_hektar": 36
+    },
+    "alternatif_cozumler": [
+      "Su Havzası Odaklı: Göller çevresi ekolojik koruma (₺1.2 Milyar - 28 ay)",
+      "Tarım Odaklı: Tarım alanları yeşil koridorlar (₺1.0 Milyar - 32 ay)",
+      "Entegre Koruma: Su-tarım-orman birlikte (₺2.1 Milyar - 38 ay)"
+    ],
+    "ozel_cozumler": "Terkos ve Büyükçekmece ekolojik koruma, tarım alanı yeşil koridorlar, orman tampon kuşak, 40 çatı bahçesi, köy meydanları",
+    "kisa_vade_etki": "İlk yıl göl çevresi ve 6 cep parkı ile yeşil alan %28 artacak, 9000 ağaç dikilecek",
+    "orta_vade_etki": "3.3 yıl içinde DSÖ standardı 4 kat aşılacak, su kalitesi %30 iyileşecek, tarımsal verimlilik %15 artacak",
+    "uzun_vade_etki": "10 yıl içinde İstanbul'un su-tarım-yeşil model ilçesi olacak, organik tarım %40 artacak, karbon tutma 24000 ton/yıl olacak",
+    "surdurulebilirlik": "Su havzası izleme, tarım-yeşil entegre yönetim, organik tarım teşviki, köy-belediye ortaklığı, 8 yıllık entegre bakım planı"
+  },
+  {
+    "ilce": "Şile",
+    "oncelik": "Düşük",
+    "proje_adi": "Şile Doğal Güzellik Koruma ve Geliştirme Projesi",
+    "proje_detay": "Doğal güzelliklere sahip Şile'de (skor: 16.1) mevcut yeşil alanların korunması ve geliştirilmesi önerilmektedir. Merkez'de 3 hektarlık kent parkı, Ağva ve Kabakoz'da 1.5'er hektarlık mahalle parkları, 6 mahallede toplam 8 cep parkı (0.4-0.6 hektar), Karadeniz kıyısında 12 km yeşil yürüyüş ve bisiklet yolu koridoru planlanmaktadır. Ağva Deresi boyunca 6 km ekolojik koridor, plajlar çevresinde 8 hektarlık mesire alanı düzenlemesi, orman kenarı köylerde 6 hektarlık tampon yeşil kuşak, 10 okul bahçesinin ağaçlandırılması önerilmektedir. 5 köy meydanında yeşil düzenleme, mevcut parkların iyileştirilmesi, 30 bina çatısında yeşil teras hedeflenmektedir. Toplam 28 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺950 Milyon ($22.6 Milyon)",
+    "beklenen_etki": "Doğal doku korunacak, ekoturizm gelişecek, 8 yeni park kazanılacak, kıyı ekosistemi güçlenecek",
+    "uygulama_suresi": "32 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 28,
+      "m2_per_kisi_artis": 57.23,
+      "hedeflenen_m2_per_kisi": 73.33
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 8,
+      "toplam_park": 11
+    },
+    "agaclandirma": {
+      "agac_sayisi": 12000,
+      "alan_hektar": 18
+    },
+    "alternatif_cozumler": [
+      "Kıyı Odaklı: Sahil koridoru ve plaj mesire (₺550 Milyon - 20 ay)",
+      "Ekolojik Odaklı: Dere ve orman koruma (₺600 Milyon - 24 ay)",
+      "Dengeli: Kıyı-dere-orman birlikte (₺1.0 Milyar - 30 ay)"
+    ],
+    "ozel_cozumler": "Karadeniz kıyı koridoru, Ağva dere koridoru, plaj mesire alanları, orman tampon kuşak, 30 çatı bahçesi, köy meydanları",
+    "kisa_vade_etki": "İlk yıl kıyı koridoru ve 4 cep parkı ile ekoturizm %25 artacak, 5000 ağaç dikilecek",
+    "orta_vade_etki": "2.7 yıl içinde doğal doku %95 korunacak, turizm geliri %40 artacak, su kalitesi iyileşecek",
+    "uzun_vade_etki": "10 yıl içinde sürdürülebilir ekoturizm modeli olacak, organik tarım gelişecek, karbon nötr ilçe olacak",
+    "surdurulebilirlik": "Dere ve deniz su kalite izleme, ekolojik koruma protokolü, turizm-doğa dengesi, köy kooperatifleri, 6 yıllık bakım planı"
+  },
+  {
+    "ilce": "Beşiktaş",
+    "oncelik": "Düşük",
+    "proje_adi": "Beşiktaş Boğaz Kıyısı ve Tarihi Doku Yeşil Entegrasyonu",
+    "proje_detay": "Boğaz kıyısındaki Beşiktaş'ta (skor: 15.8) mevcut yeşil alanların iyileştirilmesi ve tarihi dokuyla entegrasyonu önerilmektedir. Yıldız Parkı'nın 4 hektar genişletilmesi, Ortaköy ve Arnavutköy'de 2'şer hektarlık mahalle parkları, Abbasağa Parkı'nın yenilenmesi ve 1 hektar genişletilmesi, 10 mahallede toplam 12 cep parkı (0.2-0.4 hektar) planlanmaktadır. Boğaz kıyısında 8 km yeşil yürüyüş koridoru, 20 tarihi sokakta yeşil sokak projesi, 25 okul bahçesinin modernizasyonu, 150 tarihi bina çatısında yeşil teras önerilmektedir. 18 meydanda tarihi dokuya uygun yeşil düzenleme, Dolmabahçe-Ortaköy arası yeşil bağlantı, 40 tarihi binada duvar bahçesi hedeflenmektedir. Toplam 24 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺1.6 Milyar ($38.0 Milyon)",
+    "beklenen_etki": "Boğaz-tarihi doku entegrasyonu güçlenecek, 12 yeni park kazanılacak, turizm çekiciliği artacak, yeşil alan kalitesi yükselecek",
+    "uygulama_suresi": "34 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 24,
+      "m2_per_kisi_artis": 14.35,
+      "hedeflenen_m2_per_kisi": 30.18
+    },
+    "park_detaylari": {
+      "kent_parki": 0,
+      "mahalle_parki": 2,
+      "cep_parki": 12,
+      "toplam_park": 14
+    },
+    "agaclandirma": {
+      "agac_sayisi": 10000,
+      "alan_hektar": 15
+    },
+    "alternatif_cozumler": [
+      "Park Odaklı: Yıldız ve Abbasağa genişletme (₺900 Milyon - 24 ay)",
+      "Dikey Yeşil Odaklı: Tarihi bina çatı ve duvar bahçeleri (₺850 Milyon - 22 ay)",
+      "Bütünleşik: Park-Boğaz-tarihi entegre (₺1.7 Milyar - 32 ay)"
+    ],
+    "ozel_cozumler": "Yıldız Parkı genişletme, Boğaz yeşil koridoru, 150 tarihi bina çatı bahçesi, 40 duvar bahçesi, meydan yeşillendirme, yeşil sokaklar",
+    "kisa_vade_etki": "İlk yıl Yıldız genişletme ve 6 cep parkı ile yeşil alan %30 artacak, 4000 ağaç dikilecek",
+    "orta_vade_etki": "2.8 yıl içinde tarihi doku-yeşil entegrasyonu %85 tamamlanacak, Boğaz erişimi artacak, turizm %25 artacak",
+    "uzun_vade_etki": "10 yıl içinde Boğaz-tarihi-yeşil entegre model olacak, UNESCO değerlendirmesi güçlenecek, yaşam kalitesi zirvede olacak",
+    "surdurulebilirlik": "Tarihi bina koruma protokolü, Boğaz su kalite izleme, vakıf-belediye ortaklığı, turizm geliri fonlama, 7 yıllık bakım planı"
+  },
+  {
+    "ilce": "Şişli",
+    "oncelik": "Düşük",
+    "proje_adi": "Şişli Yoğun Kent Yeşil Canlandırma Projesi",
+    "proje_detay": "Yoğun ticari merkez Şişli'de (skor: 15.7) sınırlı alan nedeniyle yaratıcı yeşil çözümler önerilmektedir. Merkez'de 4 hektarlık kent parkı, Mecidiyeköy ve Gayrettepe'de 2'şer hektarlık mahalle parkları, 12 mahallede toplam 15 cep parkı (0.2-0.4 hektar), Büyükdere Caddesi boyunca 5 km yeşil refüj ve ağaçlandırma planlanmaktadır. Metro istasyonları çevresinde 15 yeşil meydan düzenlemesi, 30 okul bahçesinin modernizasyonu, 200 bina çatısında yeşil teras, 25 sokakta yeşil sokak projesi önerilmektedir. Kamu binalarında 50 dikey bahçe, otopark çatılarında 10 yeşil alan, 20 kavşakta yeşil ada düzenlemesi, mevcut 18 parkın iyileştirilmesi hedeflenmektedir. Toplam 28 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺1.9 Milyar ($45.2 Milyon)",
+    "beklenen_etki": "Ticari merkez yeşillenecek, 15 yeni park kazanılacak, ısı adası etkisi %30 azalacak, hava kalitesi %35 iyileşecek",
+    "uygulama_suresi": "34 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 28,
+      "m2_per_kisi_artis": 10.64,
+      "hedeflenen_m2_per_kisi": 26.34
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 15,
+      "toplam_park": 18
+    },
+    "agaclandirma": {
+      "agac_sayisi": 12000,
+      "alan_hektar": 18
+    },
+    "alternatif_cozumler": [
+      "Dikey Yeşil Odaklı: Çatı ve duvar bahçeleri yoğun (₺1.1 Milyar - 24 ay)",
+      "Metro Entegre: İstasyon çevresi yeşil odaklar (₺1.3 Milyar - 28 ay)",
+      "Bütünleşik: Park-dikey-metro entegre (₺2.0 Milyar - 32 ay)"
+    ],
+    "ozel_cozumler": "200 çatı bahçesi, 50 dikey bahçe, metro istasyonu yeşil meydanlar, otopark üstü parklar, Büyükdere yeşil refüj, yeşil sokaklar",
+    "kisa_vade_etki": "İlk yıl 8 cep parkı ve 80 çatı bahçesi ile yeşil alan %35 artacak, 5000 ağaç dikilecek",
+    "orta_vade_etki": "2.8 yıl içinde ticari merkez yeşil entegrasyonu %80 tamamlanacak, çalışan memnuniyeti %40 artacak",
+    "uzun_vade_etki": "10 yıl içinde yoğun ticari merkez yeşil model olacak, enerji tasarrufu %22 artacak, emlak değeri %30 yükselecek",
+    "surdurulebilirlik": "Gri su geri dönüşümü, güneş enerjili sulama, bina sahipleri ortaklığı, ticari yeşil teşvik, akıllı bakım sistemi"
+  },
+  {
+    "ilce": "Gaziosmanpaşa",
+    "oncelik": "Düşük",
+    "proje_adi": "Gaziosmanpaşa Mahalle Tabanlı Yeşil Dönüşüm Projesi",
+    "proje_detay": "Yoğun nüfuslu Gaziosmanpaşa'da (skor: 15.7) mahalle bazlı yeşil alan artırımı önerilmektedir. Merkez'de 6 hektarlık kent parkı, Yenidoğan ve Karayolları'nda 3'er hektarlık mahalle parkları, 18 mahallede toplam 25 cep parkı (0.3-0.5 hektar), TEM kenarında 5 km gürültü bariyeri ormanı planlanmaktadır. Eski Edirne Asfaltı boyunca 6 km ağaçlandırma, 20 meydanda yeşil meydan düzenlemesi, 45 okul bahçesinin modernizasyonu, 180 bina çatısında yeşil teras önerilmektedir. 22 sokakta yeşil sokak projesi, kamu binalarında 35 dikey bahçe, otopark çatılarında 12 yeşil alan, mevcut 20 parkın iyileştirilmesi hedeflenmektedir. Toplam 48 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.5 Milyar ($59.5 Milyon)",
+    "beklenen_etki": "Mahalle yeşil erişimi %75'e çıkacak, 25 yeni park kazanılacak, hava kalitesi %32 iyileşecek, yaşam kalitesi artacak",
+    "uygulama_suresi": "38 az",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 48,
+      "m2_per_kisi_artis": 10.0,
+      "hedeflenen_m2_per_kisi": 25.7
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 25,
+      "toplam_park": 28
+    },
+    "agaclandirma": {
+      "agac_sayisi": 21000,
+      "alan_hektar": 32
+    },
+    "alternatif_cozumler": [
+      "Cep Park Ağı: 25 cep parkı yaygınlaştırma (₺1.6 Milyar - 28 ay)",
+      "Dikey Yeşil: Çatı ve duvar bahçeleri yoğun (₺1.3 Milyar - 26 ay)",
+      "Dengeli: Park-dikey-sokak entegre (₺2.7 Milyar - 36 ay)"
+    ],
+    "ozel_cozumler": "TEM gürültü ormanı, 180 çatı bahçesi, 35 dikey bahçe, meydan yeşillendirme, otopark üstü parklar, yeşil sokaklar",
+    "kisa_vade_etki": "İlk yıl 12 cep parkı ve TEM ormanı ile yeşil alan %33 artacak, 8500 ağaç dikilecek",
+    "orta_vade_etki": "3.2 yıl içinde mahalle erişimi 12 dakikaya düşecek, çocuk oyun alanı %170 artacak, hava kalitesi iyileşecek",
+    "uzun_vade_etki": "10 yıl içinde mahalle tabanlı yeşil model olacak, yaşam memnuniyeti %45 artacak, emlak değeri %28 yükselecek",
+    "surdurulebilirlik": "Yağmur suyu hasadı, mahalle kooperatifleri, yeşil çatı teşvik, gönüllü bakım programı, 6 yıllık bakım planı"
+  },
+  {
+    "ilce": "Sultanbeyli",
+    "oncelik": "Düşük",
+    "proje_adi": "Sultanbeyli Planlı Yerleşim Yeşil Entegrasyon Projesi",
+    "proje_detay": "Hızla gelişen Sultanbeyli'de (skor: 15.6) planlı yeşil alan artırımı önerilmektedir. Merkez'de 7 hektarlık kent parkı, Adil ve Necip Fazıl mahallelerinde 3'er hektarlık mahalle parkları, 15 mahallede toplam 22 cep parkı (0.3-0.6 hektar), TEM kenarında 6 km gürültü bariyeri ormanı planlanmaktadır. Anadolu Otoyolu boyunca 5 km ağaçlandırma, yeni yerleşim alanlarında 18 mahalle yeşil sokak projesi, 40 okul bahçesinin ağaçlandırılması, 140 bina çatısında yeşil teras önerilmektedir. 15 meydanda yeşil meydan düzenlemesi, mevcut 16 parkın genişletilmesi, 3 hektarlık spor parkı hedeflenmektedir. Toplam 52 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.4 Milyar ($57.1 Milyon)",
+    "beklenen_etki": "Yeni yerleşim planlı yeşillenecek, 22 yeni park kazanılacak, hava kalitesi %30 iyileşecek, yaşam kalitesi artacak",
+    "uygulama_suresi": "38 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 52,
+      "m2_per_kisi_artis": 14.08,
+      "hedeflened_m2_per_kisi": 29.68
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 3,
+      "cep_parki": 22,
+      "toplam_park": 26
+    },
+    "agaclandirma": {
+      "agac_sayisi": 23000,
+      "alan_hektar": 36
+    },
+    "alternatif_cozumler": [
+      "Hızlı Yerleşim: Yeni mahalleler öncelikli (₺1.6 Milyar - 26 ay)",
+      "Koridor Odaklı: TEM ve otoyol yeşil bantlar (₺1.4 Milyar - 30 ay)",
+      "Bütünleşik: Tüm projeler koordineli (₺2.6 Milyar - 36 ay)"
+    ],
+    "ozel_cozumler": "TEM gürültü ormanı, 140 çatı bahçesi, yeni yerleşim yeşil sokaklar, spor parkı, otoyol yeşil koridorları",
+    "kisa_vade_etki": "İlk yıl 11 cep parkı ve TEM ormanı ile yeşil alan %32 artacak, 9000 ağaç dikilecek",
+    "orta_vade_etki": "3.2 yıl içinde yeni yerleşim yeşil plan %85 tamamlanacak, bisiklet yolu 20 km olacak",
+    "uzun_vade_etki": "10 yıl içinde planlı yeşil yerleşim modeli olacak, karbon nötr mahalleler oluşacak, yaşam kalitesi %48 artacak",
+    "surdurulebilirlik": "Yağmur suyu hasadı, yeni yerleşim yeşil zorunluluğu, mahalle bakım kooperatifleri, 6 yıllık bakım planı"
+  },
+  {
+    "ilce": "Beylikdüzü",
+    "oncelik": "Düşük",
+    "proje_adi": "Beylikdüzü Planlı Kent ve Sahil Yeşil Geliştirme Projesi",
+    "proje_detay": "Planlı yerleşim Beylikdüzü'nde (skor: 15.6) mevcut yeşil alanların geliştirilmesi ve yenilerinin eklenmesi önerilmektedir. Yaşam Vadisi'nin 5 hektar genişletilmesi, Adnan Kahveci ve Barış mahallelerinde 3'er hektarlık mahalle parkları, sahil boyunca 10 km kıyı yeşil koridoru genişletilmesi, 15 mahallede toplam 20 cep parkı (0.4-0.6 hektar) planlanmaktadır. E-5 kenarında 6 km yeşil bant, 18 meydanda yeşil meydan düzenlemesi, 38 okul bahçesinin modernizasyonu, 130 bina çatısında yeşil teras önerilmektedir. Marmara kıyısında 4 hektarlık mesire alanı, 15 sokakta yeşil sokak projesi, mevcut 22 parkın yenilenmesi hedeflenmektedir. Toplam 46 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.6 Milyar ($61.9 Milyon)",
+    "beklenen_etki": "Planlı kent yeşil standardı yükselecek, 20 yeni park kazanılacak, sahil erişimi artacak, yaşam kalitesi zirvede olacak",
+    "uygulama_suresi": "36 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 46,
+      "m2_per_kisi_artis": 11.08,
+      "hedeflenen_m2_per_kisi": 26.68
+    },
+    "park_detaylari": {
+      "kent_parki": 0,
+      "mahalle_parki": 2,
+      "cep_parki": 20,
+      "toplam_park": 22
+    },
+    "agaclandirma": {
+      "agac_sayisi": 20000,
+      "alan_hektar": 30
+    },
+    "alternatif_cozumler": [
+      "Sahil Odaklı: Kıyı bandı ve mesire alanları (₺1.5 Milyar - 26 ay)",
+      "Park Odaklı: Yaşam Vadisi ve mahalle parkları (₺1.7 Milyar - 28 ay)",
+      "Bütünleşik: Sahil-park-meydan entegre (₺2.8 Milyar - 34 ay)"
+    ],
+    "ozel_cozumler": "Yaşam Vadisi genişletme, sahil yeşil koridoru, 130 çatı bahçesi, meydan yeşillendirme, mesire alanı, yeşil sokaklar",
+    "kisa_vade_etki": "İlk yıl Yaşam Vadisi ve 10 cep parkı ile yeşil alan %30 artacak, 8000 ağaç dikilecek",
+    "orta_vade_etki": "3 yıl içinde planlı kent yeşil standardı %90'a çıkacak, sahil kullanımı %60 artacak",
+    "uzun_vade_etki": "10 yıl içinde İstanbul'un en yeşil planlı ilçesi olacak, yaşam kalitesi endeksi zirvede olacak, emlak değeri %35 artacak",
+    "surdurulebilirlik": "Deniz suyu arıtma sulama, akıllı park yönetimi, mahalle kooperatifleri, yeşil bina standardı, 7 yıllık bakım planı"
+  },
+  {
+    "ilce": "Ümraniye",
+    "oncelik": "Düşük",
+    "proje_adi": "Ümraniye Kent ve Dere Koridoru Yeşil Entegrasyonu",
+    "proje_detay": "Yoğun nüfuslu Ümraniye'de (skor: 15.6) dere eksenli yeşil alan artırımı önerilmektedir. Merkez'de 8 hektarlık kent parkı, Çakmak ve Tantavi mahallelerinde 4'er hektarlık mahalle parkları, Küçükbakkalköy Deresi boyunca 8 km yeşil koridor, 20 mahallede toplam 28 cep parkı (0.3-0.6 hektar) planlanmaktadır. TEM kenarında 6 km gürültü bariyeri ormanı, Anadolu Otoyolu boyunca 5 km ağaçlandırma, 22 meydanda yeşil meydan düzenlemesi, 48 okul bahçesinin modernizasyonu, 200 bina çatısında yeşil teras önerilmektedir. 20 sokakta yeşil sokak projesi, mevcut 24 parkın iyileştirilmesi hedeflenmektedir. Toplam 58 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺3.1 Milyar ($73.8 Milyon)",
+    "beklenen_etki": "Dere-kent entegrasyonu sağlanacak, 28 yeni park kazanılacak, hava kalitesi %33 iyileşecek, yaşam kalitesi artacak",
+    "uygulama_suresi": "40 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 58,
+      "m2_per_kisi_artis": 7.97,
+      "hedeflenen_m2_per_kisi": 23.57
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 28,
+      "toplam_park": 31
+    },
+    "agaclandirma": {
+      "agac_sayisi": 26000,
+      "alan_hektar": 40
+    },
+    "alternatif_cozumler": [
+      "Dere Odaklı: Küçükbakkalköy koridoru öncelikli (₺1.6 Milyar - 28 ay)",
+      "Mahalle Odaklı: Park ve yeşil alan yaygınlaştırma (₺2.2 Milyar - 32 ay)",
+      "Entegre Plan: Dere-park-koridor birlikte (₺3.3 Milyar - 38 ay)"
+    ],
+    "ozel_cozumler": "Dere yeşil koridoru, TEM gürültü ormanı, 200 çatı bahçesi, meydan yeşillendirme, otoyol yeşil bantlar, yeşil sokaklar",
+    "kisa_vade_etki": "İlk yıl dere koridoru ve 14 cep parkı ile yeşil alan %34 artacak, 10000 ağaç dikilecek",
+    "orta_vade_etki": "3.3 yıl içinde dere-kent entegrasyonu %85 tamamlanacak, su kalitesi %25 iyileşecek, rekreasyon alanı %140 artacak",
+    "uzun_vade_etki": "10 yıl içinde dere-kent entegre model olacak, karbon tutma 22000 ton/yıl olacak, yaşam kalitesi %50 artacak",
+    "surdurulebilirlik": "Dere su kalite izleme, yağmur bahçeleri, mahalle dere koruma komiteleri, 7 yıllık entegre bakım planı"
+  },
+  {
+    "ilce": "Ataşehir",
+    "oncelik": "Düşük",
+    "proje_adi": "Ataşehir Modern Kent Yeşil Standart Yükseltme Projesi",
+    "proje_detay": "Modern planlı Ataşehir'de (skor: 15.6) yeşil alan standardının yükseltilmesi önerilmektedir. Merkez'de 7 hektarlık kent parkı, Küçükbakkalköy ve Barbaros mahallelerinde 3'er hektarlık mahalle parkları, 15 mahallede toplam 22 cep parkı (0.4-0.6 hektar), Küçükbakkalköy Deresi boyunca 6 km yeşil koridor planlanmaktadır. E-5 kenarında 5 km yeşil bant, metro istasyonları çevresinde 18 yeşil meydan düzenlemesi, 40 okul bahçesinin modernizasyonu, 180 bina çatısında yeşil teras önerilmektedir. 18 sokakta yeşil sokak projesi, mevcut 20 parkın yenilenmesi ve genişletilmesi, 4 hektarlık spor parkı hedeflenmektedir. Toplam 52 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.9 Milyar ($69.0 Milyon)",
+    "beklenen_etki": "Modern kent yeşil standardı yükselecek, 22 yeni park kazanılacak, dere entegrasyonu sağlanacak, yaşam kalitesi artacak",
+    "uygulama_suresi": "38 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 52,
+      "m2_per_kisi_artis": 12.53,
+      "hedeflenen_m2_per_kisi": 28.13
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 3,
+      "cep_parki": 22,
+      "toplam_park": 26
+    },
+    "agaclandirma": {
+      "agac_sayisi": 23000,
+      "alan_hektar": 35
+    },
+    "alternatif_cozumler": [
+      "Metro Entegre: İstasyon çevresi yeşil odaklar (₺1.7 Milyar - 28 ay)",
+      "Dere Odaklı: Küçükbakkalköy koridoru (₺1.5 Milyar - 30 ay)",
+      "Bütünleşik: Metro-dere-park entegre (₺3.1 Milyar - 36 ay)"
+    ],
+    "ozel_cozumler": "Dere yeşil koridoru, metro istasyonu yeşil meydanlar, 180 çatı bahçesi, spor parkı, E-5 yeşil bant, yeşil sokaklar",
+    "kisa_vade_etki": "İlk yıl dere koridoru ve 11 cep parkı ile yeşil alan %32 artacak, 9000 ağaç dikilecek",
+    "orta_vade_etki": "3.2 yıl içinde modern kent yeşil standardı %90'a çıkacak, metro erişimi yeşille entegre olacak",
+    "uzun_vade_etki": "10 yıl içinde İstanbul'un en yeşil modern ilçesi olacak, yaşam kalitesi endeksi zirvede olacak, emlak değeri %38 artacak",
+    "surdurulebilirlik": "Dere su kalite izleme, akıllı park yönetimi, yeşil bina standardı, mahalle kooperatifleri, 7 yıllık bakım planı"
+  },
+  {
+    "ilce": "Pendik",
+    "oncelik": "Düşük",
+    "proje_adi": "Pendik Sahil ve Sanayi Dengeli Yeşil Dönüşüm Projesi",
+    "proje_detay": "Sahil ve sanayi bölgesi Pendik'te (skor: 15.6) dengeli yeşil alan artırımı önerilmektedir. Merkez'de 8 hektarlık kent parkı, Kurtköy ve Velibaba'da 4'er hektarlık mahalle parkları, sahil boyunca 12 km kıyı yeşil koridoru, 20 mahallede toplam 26 cep parkı (0.3-0.6 hektar) planlanmaktadır. TEM kenarında 7 km gürültü bariyeri ormanı, sanayi bölgelerinde 40 tesis zorunlu yeşil alan, 42 okul bahçesinin ağaçlandırılması, 150 bina çatısında yeşil teras önerilmektedir. Marmara kıyısında 5 hektarlık mesire alanı, 18 meydanda yeşil meydan düzenlemesi, Aydos Ormanı kenarında 4 hektarlık tampon yeşil kuşak hedeflenmektedir. Toplam 60 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺3.2 Milyar ($76.1 Milyon)",
+    "beklenen_etki": "Sanayi-yeşil dengesi sağlanacak, 26 yeni park kazanılacak, sahil erişimi artacak, hava kalitesi %35 iyileşecek",
+    "uygulama_suresi": "42 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 60,
+      "m2_per_kisi_artis": 8.0,
+      "hedeflenen_m2_per_kisi": 23.6
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 26,
+      "toplam_park": 29
+    },
+    "agaclandirma": {
+      "agac_sayisi": 27000,
+      "alan_hektar": 42
+    },
+    "alternatif_cozumler": [
+      "Sanayi Odaklı: Tesis yeşillendirme ve tampon bölgeler (₺1.8 Milyar - 30 ay)",
+      "Sahil Odaklı: Kıyı bandı ve mesire alanları (₺1.9 Milyar - 32 ay)",
+      "Entegre Plan: Sanayi-sahil-park birlikte (₺3.4 Milyar - 40 ay)"
+    ],
+    "ozel_cozumler": "Sanayi tesis zorunlu yeşillendirme, TEM gürültü ormanı, sahil yeşil koridoru, Aydos tampon kuşak, 150 çatı bahçesi",
+    "kisa_vade_etki": "İlk yıl sanayi yeşillendirme ve 13 cep parkı ile yeşil alan %33 artacak, hava kalitesi %15 iyileşecek",
+    "orta_vade_etki": "3.5 yıl içinde sanayi-yeşil dengesi %85 sağlanacak, sahil erişimi %65 artacak",
+    "uzun_vade_etki": "10 yıl içinde sanayi-yeşil entegre model olacak, karbon nötr sanayi hedefine %45 yaklaşılacak, yaşam kalitesi %48 artacak",
+    "surdurulebilirlik": "Sanayi atık su arıtma sulama, emisyon izleme, yeşil sanayi sertifikası, mahalle-tesis ortaklığı, 7 yıllık bakım protokolü"
+  },
+  {
+    "ilce": "Fatih",
+    "oncelik": "Düşük",
+    "proje_adi": "Fatih Tarihi Yarımada Yeşil Koruma ve Geliştirme Projesi",
+    "proje_detay": "Tarihi Yarımada Fatih'te (skor: 15.6) hassas yeşil alan artırımı ve koruma önerilmektedir. Gülhane Parkı'nın 3 hektar genişletilmesi, Vefa ve Zeyrek'te 2'şer hektarlık mahalle parkları, Haliç kıyısında 8 km yeşil koridor, 15 mahallede toplam 18 cep parkı (0.2-0.4 hektar) planlanmaktadır. 35 tarihi sokakta yeşil sokak projesi, 30 okul bahçesinin ağaçlandırılması, 120 tarihi bina çatısında yeşil teras, 25 meydanda tarihi dokuya uygun yeşil düzenleme önerilmektedir. Sultanahmet-Eminönü arası yeşil bağlantı, 40 tarihi binada duvar bahçesi, mevcut 12 parkın yenilenmesi hedeflenmektedir. Toplam 26 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺1.8 Milyar ($42.8 Milyon)",
+    "beklenen_etki": "Tarihi doku korunarak yeşil entegrasyon sağlanacak, 18 yeni park kazanılacak, turizm çekiciliği artacak, UNESCO değeri güçlenecek",
+    "uygulama_suresi": "36 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 26,
+      "m2_per_kisi_artis": 7.33,
+      "hedeflenen_m2_per_kisi": 22.93
+    },
+    "park_detaylari": {
+      "kent_parki": 0,
+      "mahalle_parki": 2,
+      "cep_parki": 18,
+      "toplam_park": 20
+    },
+    "agaclandirma": {
+      "agac_sayisi": 11000,
+      "alan_hektar": 16
+    },
+    "alternatif_cozumler": [
+      "Dikey Yeşil Odaklı: Tarihi bina çatı ve duvar bahçeleri (₺1.0 Milyar - 24 ay)",
+      "Haliç Odaklı: Kıyı koridoru ve sokaklar (₺1.2 Milyar - 28 ay)",
+      "Bütünleşik: Park-Haliç-tarihi entegre (₺1.9 Milyar - 34 ay)"
+    ],
+    "ozel_cozumler": "Gülhane genişletme, Haliç yeşil koridoru, 120 tarihi bina çatı bahçesi, 40 duvar bahçesi, meydan yeşillendirme, tarihi sokaklar",
+    "kisa_vade_etki": "İlk yıl Gülhane ve 9 cep parkı ile yeşil alan %35 artacak, 4500 ağaç dikilecek",
+    "orta_vade_etki": "3 yıl içinde tarihi doku-yeşil entegrasyonu %80 tamamlanacak, turizm geliri %30 artacak",
+    "uzun_vade_etki": "10 yıl içinde tarihi yarımada yeşil model olacak, UNESCO değerlendirmesi güçlenecek, kültürel değer artacak",
+    "surdurulebilirlik": "Tarihi bina koruma protokolü, Haliç su kalite izleme, vakıf-belediye ortaklığı, turizm geliri fonlama, 8 yıllık bakım planı"
+  },
+  {
+    "ilce": "Zeytinburnu",
+    "oncelik": "Düşük",
+    "proje_adi": "Zeytinburnu Sahil ve Kent İçi Yeşil Dönüşüm Projesi",
+    "proje_detay": "Marmara kıyısındaki Zeytinburnu'nda (skor: 15.6) sahil ve kent entegrasyonu önerilmektedir. Sahil boyunca 6 km kıyı yeşil koridoru genişletilmesi, Merkez'de 4 hektarlık kent parkı, Kazlıçeşme ve Sümer mahallelerinde 2'şer hektarlık mahalle parkları, 12 mahallede toplam 16 cep parkı (0.3-0.5 hektar) planlanmaktadır. E-5 kenarında 4 km yeşil bant, Tarihi Yarımada bağlantı koridoru, 15 meydanda yeşil meydan düzenlemesi, 28 okul bahçesinin modernizasyonu, 110 bina çatısında yeşil teras önerilmektedir. 12 sokakta yeşil sokak projesi, mevcut 10 parkın yenilenmesi hedeflenmektedir. Toplam 30 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺1.7 Milyar ($40.4 Milyon)",
+    "beklenen_etki": "Sahil erişimi %70 artacak, 16 yeni park kazanılacak, hava kalitesi %28 iyileşecek, yaşam kalitesi artacak",
+    "uygulama_suresi": "34 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 30,
+      "m2_per_kisi_artis": 10.78,
+      "hedeflenen_m2_per_kisi": 26.38
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 16,
+      "toplam_park": 19
+    },
+    "agaclandirma": {
+      "agac_sayisi": 13000,
+      "alan_hektar": 20
+    },
+    "alternatif_cozumler": [
+      "Sahil Odaklı: Kıyı bandı öncelikli (₺1.0 Milyar - 24 ay)",
+      "Mahalle Odaklı: Park ve yeşil sokaklar (₺1.2 Milyar - 28 ay)",
+      "Bütünleşik: Sahil-park-meydan entegre (₺1.8 Milyar - 32 ay)"
+    ],
+    "ozel_cozumler": "Sahil yeşil koridoru, 110 çatı bahçesi, meydan yeşillendirme, E-5 yeşil bant, Tarihi Yarımada bağlantı, yeşil sokaklar",
+    "kisa_vade_etki": "İlk yıl sahil koridoru ve 8 cep parkı ile yeşil alan %33 artacak, 5500 ağaç dikilecek",
+    "orta_vade_etki": "2.8 yıl içinde sahil-kent entegrasyonu %85 tamamlanacak, deniz suyu kalitesi %18 iyileşecek",
+    "uzun_vade_etki": "10 yıl içinde sahil-kent entegre model olacak, turizm geliri %25 artacak, yaşam kalitesi %45 yükselecek",
+    "surdurulebilirlik": "Deniz suyu arıtma sulama, güneş enerjili aydınlatma, mahalle kooperatifleri, 6 yıllık bakım planı"
+  },
+  {
+    "ilce": "Sultangazi",
+    "oncelik": "Düşük",
+    "proje_adi": "Sultangazi Mahalle Tabanlı Yeşil Yaygınlaştırma Projesi",
+    "proje_detay": "Yoğun nüfuslu Sultangazi'de (skor: 15.6) mahalle bazlı yeşil alan artırımı önerilmektedir. Merkez'de 7 hektarlık kent parkı, Cebeci ve Esentepe'de 3'er hektarlık mahalle parkları, 20 mahallede toplam 28 cep parkı (0.3-0.5 hektar), TEM kenarında 6 km gürültü bariyeri ormanı planlanmaktadır. Eski Edirne Asfaltı boyunca 5 km ağaçlandırma, 22 meydanda yeşil meydan düzenlemesi, 48 okul bahçesinin modernizasyonu, 190 bina çatısında yeşil teras önerilmektedir. 25 sokakta yeşil sokak projesi, kamu binalarında 38 dikey bahçe, mevcut 22 parkın iyileştirilmesi hedeflenmektedir. Toplam 52 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.7 Milyar ($64.2 Milyon)",
+    "beklenen_etki": "Mahalle yeşil erişimi %80'e çıkacak, 28 yeni park kazanılacak, hava kalitesi %30 iyileşecek, yaşam kalitesi artacak",
+    "uygulama_suresi": "38 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 52,
+      "m2_per_kisi_artis": 9.76,
+      "hedeflenen_m2_per_kisi": 25.36
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 28,
+      "toplam_park": 31
+    },
+    "agaclandirma": {
+      "agac_sayisi": 23000,
+      "alan_hektar": 35
+    },
+    "alternatif_cozumler": [
+      "Cep Park Ağı: 28 cep parkı yaygınlaştırma (₺1.7 Milyar - 28 ay)",
+      "Dikey Yeşil: Çatı ve duvar bahçeleri yoğun (₺1.4 Milyar - 26 ay)",
+      "Dengeli: Park-dikey-sokak entegre (₺2.9 Milyar - 36 ay)"
+    ],
+    "ozel_cozumler": "TEM gürültü ormanı, 190 çatı bahçesi, 38 dikey bahçe, meydan yeşillendirme, yeşil sokaklar, okul bahçeleri",
+    "kisa_vade_etki": "İlk yıl 14 cep parkı ve TEM ormanı ile yeşil alan %32 artacak, 9500 ağaç dikilecek",
+    "orta_vade_etki": "3.2 yıl içinde mahalle erişimi 10 dakikaya düşecek, çocuk oyun alanı %175 artacak",
+    "uzun_vade_etki": "10 yıl içinde mahalle tabanlı yeşil model olacak, yaşam memnuniyeti %48 artacak, emlak değeri %30 yükselecek",
+    "surdurulebilirlik": "Yağmur suyu hasadı, mahalle kooperatifleri, yeşil çatı teşvik, gönüllü bakım programı, 6 yıllık bakım planı"
+  },
+  {
+    "ilce": "Başakşehir",
+    "oncelik": "Düşük",
+    "proje_adi": "Başakşehir Planlı Yerleşim Yeşil Standart Projesi",
+    "proje_detay": "Modern planlı Başakşehir'de (skor: 15.6) yeşil alan standardının yükseltilmesi önerilmektedir. Merkez'de 9 hektarlık kent parkı, Kayaşehir ve Bahçeşehir'de 4'er hektarlık mahalle parkları, 18 mahallede toplam 25 cep parkı (0.4-0.6 hektar), TEM kenarında 7 km gürültü bariyeri ormanı planlanmaktadır. Metro istasyonları çevresinde 20 yeşil meydan düzenlemesi, 45 okul bahçesinin modernizasyonu, 170 bina çatısında yeşil teras, 20 sokakta yeşil sokak projesi önerilmektedir. Olimpiyat Stadyumu çevresinde 5 hektarlık spor parkı, mevcut 24 parkın yenilenmesi hedeflenmektedir. Toplam 58 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺3.0 Milyar ($71.4 Milyon)",
+    "beklenen_etki": "Planlı kent yeşil standardı yükselecek, 25 yeni park kazanılacak, metro entegrasyonu sağlanacak, yaşam kalitesi artacak",
+    "uygulama_suresi": "38 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 58,
+      "m2_per_kisi_artis": 11.15,
+      "hedeflenen_m2_per_kisi": 26.75
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 3,
+      "cep_parki": 25,
+      "toplam_park": 29
+    },
+    "agaclandirma": {
+      "agac_sayisi": 25000,
+      "alan_hektar": 40
+    },
+    "alternatif_cozumler": [
+      "Metro Entegre: İstasyon çevresi yeşil odaklar (₺1.8 Milyar - 28 ay)",
+      "Park Odaklı: Kent ve mahalle parkları (₺2.0 Milyar - 30 ay)",
+      "Bütünleşik: Metro-park-spor entegre (₺3.2 Milyar - 36 ay)"
+    ],
+    "ozel_cozumler": "TEM gürültü ormanı, metro istasyonu yeşil meydanlar, 170 çatı bahçesi, spor parkı, yeşil sokaklar, stadyum çevresi",
+    "kisa_vade_etki": "İlk yıl 13 cep parkı ve TEM ormanı ile yeşil alan %30 artacak, 10000 ağaç dikilecek",
+    "orta_vade_etki": "3.2 yıl içinde planlı kent yeşil standardı %90'a çıkacak, metro erişimi yeşille entegre olacak",
+    "uzun_vade_etki": "10 yıl içinde İstanbul'un en yeşil planlı ilçesi olacak, yaşam kalitesi endeksi zirvede olacak, emlak değeri %40 artacak",
+    "surdurulebilirlik": "Akıllı park yönetimi, yeşil bina standardı, mahalle kooperatifleri, spor-yeşil entegrasyon, 7 yıllık bakım planı"
+  },
+  {
+    "ilce": "Silivri",
+    "oncelik": "Düşük",
+    "proje_adi": "Silivri Kıyı ve Tarım Alanı Yeşil Koruma Projesi",
+    "proje_detay": "Geniş tarım alanlarına sahip Silivri'de (skor: 15.6) doğal doku koruma odaklı yeşil alan artırımı önerilmektedir. Merkez'de 6 hektarlık kent parkı, Selimpaşa ve Gümüşyaka'da 3'er hektarlık mahalle parkları, Marmara kıyısında 15 km yeşil yürüyüş ve bisiklet yolu koridoru, 12 mahallede toplam 15 cep parkı (0.5-0.8 hektar) planlanmaktadır. Büyükçekmece Gölü kenarında 8 hektarlık ekolojik koruma alanı, tarım alanları arası 18 km yeşil koridor, sahil çevresinde 6 hektarlık mesire alanı, 18 okul bahçesinin ağaçlandırılması önerilmektedir. 10 köy meydanında yeşil düzenleme, 50 bina çatısında yeşil teras hedeflenmektedir. Toplam 50 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺1.9 Milyar ($45.2 Milyon)",
+    "beklenen_etki": "Tarım-yeşil dengesi sağlanacak, sahil ekosistemi korunacak, 15 yeni park kazanılacak, ekoturizm gelişecek",
+    "uygulama_suresi": "40 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 50,
+      "m2_per_kisi_artis": 21.54,
+      "hedeflenen_m2_per_kisi": 37.14
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 15,
+      "toplam_park": 18
+    },
+    "agaclandirma": {
+      "agac_sayisi": 22000,
+      "alan_hektar": 34
+    },
+    "alternatif_cozumler": [
+      "Sahil Odaklı: Kıyı koridoru ve mesire alanları (₺1.2 Milyar - 28 ay)",
+      "Tarım Odaklı: Tarım alanları yeşil koridorlar (₺1.0 Milyar - 32 ay)",
+      "Entegre Koruma: Sahil-göl-tarım birlikte (₺2.1 Milyar - 38 ay)"
+    ],
+    "ozel_cozumler": "Marmara kıyı koridoru, Büyükçekmece ekolojik koruma, tarım alanı yeşil koridorlar, 50 çatı bahçesi, mesire alanı, köy meydanları",
+    "kisa_vade_etki": "İlk yıl sahil koridoru ve 8 cep parkı ile yeşil alan %28 artacak, 8500 ağaç dikilecek",
+    "orta_vade_etki": "3.3 yıl içinde tarım-yeşil dengesi sağlanacak, ekoturizm %30 artacak, su kalitesi iyileşecek",
+    "uzun_vade_etki": "10 yıl içinde sahil-tarım-yeşil model olacak, organik tarım %35 artacak, karbon tutma 21000 ton/yıl olacak",
+    "surdurulebilirlik": "Su havzası ve deniz izleme, tarım-yeşil entegre yönetim, organik tarım teşviki, köy-belediye ortaklığı, 8 yıllık bakım planı"
+  },
+  {
+    "ilce": "Bahçelievler",
+    "oncelik": "Düşük",
+    "proje_adi": "Bahçelievler Yoğun Kent Yeşil Çözüm Projesi",
+    "proje_detay": "Yoğun nüfuslu Bahçelievler'de (skor: 15.5) sınırlı alan nedeniyle yaratıcı yeşil çözümler önerilmektedir. Merkez'de 5 hektarlık kent parkı, Kocasinan ve Şirinevler'de 2.5'er hektarlık mahalle parkları, 15 mahallede toplam 22 cep parkı (0.3-0.5 hektar), E-5 kenarında 5 km yeşil bant planlanmaktadır. Londra Asfaltı boyunca 4 km ağaçlandırma, 18 meydanda yeşil meydan düzenlemesi, 38 okul bahçesinin modernizasyonu, 180 bina çatısında yeşil teras önerilmektedir. 20 sokakta yeşil sokak projesi, kamu binalarında 35 dikey bahçe, otopark çatılarında 10 yeşil alan, mevcut 20 parkın iyileştirilmesi hedeflenmektedir. Toplam 36 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺2.2 Milyar ($52.3 Milyon)",
+    "beklenen_etki": "Yoğun kent yeşillenecek, 22 yeni park kazanılacak, ısı adası etkisi %28 azalacak, hava kalitesi %32 iyileşecek",
+    "uygulama_suresi": "36 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 36,
+      "m2_per_kisi_artis": 6.43,
+      "hedeflenen_m2_per_kisi": 22.03
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 22,
+      "toplam_park": 25
+    },
+    "agaclandirma": {
+      "agac_sayisi": 16000,
+      "alan_hektar": 24
+    },
+    "alternatif_cozumler": [
+      "Dikey Yeşil Odaklı: Çatı ve duvar bahçeleri yoğun (₺1.2 Milyar - 24 ay)",
+      "Cep Park Ağı: 22 cep parkı yaygınlaştırma (₺1.5 Milyar - 28 ay)",
+      "Bütünleşik: Park-dikey-sokak entegre (₺2.4 Milyar - 34 ay)"
+    ],
+    "ozel_cozumler": "180 çatı bahçesi, 35 dikey bahçe, meydan yeşillendirme, otopark üstü parklar, E-5 yeşil bant, yeşil sokaklar",
+    "kisa_vade_etki": "İlk yıl 11 cep parkı ve 70 çatı bahçesi ile yeşil alan %38 artacak, 6500 ağaç dikilecek",
+    "orta_vade_etki": "3 yıl içinde yeşil alan 6 kat artacak, mahalle sıcaklığı 2.5°C düşecek, çocuk oyun alanı %165 artacak",
+    "uzun_vade_etki": "10 yıl içinde yoğun kent yeşil çözüm modeli olacak, enerji tasarrufu %20 artacak, yaşam kalitesi %46 yükselecek",
+    "surdurulebilirlik": "Gri su geri dönüşümü, güneş enerjili sulama, bina sahipleri ortaklığı, yeşil çatı teşvik, akıllı bakım sistemi"
+  },
+  {
+    "ilce": "Adalar",
+    "oncelik": "Düşük",
+    "proje_adi": "Adalar Doğal Güzellik Koruma ve Geliştirme Projesi",
+    "proje_detay": "Eşsiz doğal güzelliklere sahip Adalar'da (skor: 0.0) mevcut yeşil alanların korunması ve geliştirilmesi önerilmektedir. Büyükada'da 2 hektarlık kent parkı, Heybeliada ve Burgazada'da 1'er hektarlık mahalle parkları, 4 adada toplam 6 cep parkı (0.3-0.5 hektar), kıyı boyunca 12 km yeşil yürüyüş koridoru planlanmaktadır. Orman alanları çevresinde 8 hektarlık tampon yeşil kuşak, 8 okul bahçesinin ağaçlandırılması, 30 tarihi bina çatısında yeşil teras, 15 tarihi sokakta yeşil sokak projesi önerilmektedir. 8 meydan ve iskele çevresinde yeşil düzenleme, mevcut parkların iyileştirilmesi, deniz kıyısında 3 hektarlık mesire alanı hedeflenmektedir. Toplam 18 hektar yeni yeşil alan yaratılacaktır.",
+    "tahmini_maliyet": "₺680 Milyon ($16.1 Milyon)",
+    "beklenen_etki": "Doğal doku tam korunacak, 6 yeni park kazanılacak, ekoturizm gelişecek, ada ekosistemi güçlenecek",
+    "uygulama_suresi": "28 ay",
+    "yesil_alan_artisi": {
+      "toplam_hektar": 18,
+      "m2_per_kisi_artis": 106.0,
+      "hedeflenen_m2_per_kisi": 122.0
+    },
+    "park_detaylari": {
+      "kent_parki": 1,
+      "mahalle_parki": 2,
+      "cep_parki": 6,
+      "toplam_park": 9
+    },
+    "agaclandirma": {
+      "agac_sayisi": 7500,
+      "alan_hektar": 12
+    },
+    "alternatif_cozumler": [
+      "Kıyı Odaklı: Sahil koridoru ve mesire (₺400 Milyon - 18 ay)",
+      "Orman Odaklı: Tampon bölgeler ve koruma (₺450 Milyon - 20 ay)",
+      "Dengeli: Kıyı-orman-tarihi birlikte (₺720 Milyon - 26 ay)"
+    ],
+    "ozel_cozumler": "Kıyı yeşil koridoru, orman tampon kuşak, 30 tarihi bina çatı bahçesi, mesire alanı, iskele yeşillendirme, tarihi sokaklar",
+    "kisa_vade_etki": "İlk yıl kıyı koridoru ve 3 cep parkı ile ekoturizm %20 artacak, 3000 ağaç dikilecek",
+    "orta_vade_etki": "2.3 yıl içinde doğal doku %100 korunacak, turizm geliri %35 artacak, deniz suyu kalitesi iyileşecek",
+    "uzun_vade_etki": "10 yıl içinde sürdürülebilir ada ekoturizm modeli olacak, karbon nötr ada olacak, UNESCO adayı güçlenecek",
+    "surdurulebilirlik": "Deniz suyu kalite izleme, orman koruma protokolü, sıfır atık ada, güneş enerjisi, turizm-doğa dengesi, 6 yıllık bakım planı"
+  }
+]
+```

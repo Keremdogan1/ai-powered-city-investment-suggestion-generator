@@ -1,12 +1,12 @@
 {
   "olusturma_tarihi": "2024-12",
   "kaynaklar": {
-    "gercek_veriler": {
+    "gercek_data": {
       "nufus": "TÜİK 2023",
       "hastane": "İstanbul İl Sağlık Müdürlüğü 2024",
       "yatak": "İSMEP + İl Sağlık Müdürlüğü tahminleri"
     },
-    "tahmini_veriler": {
+    "tahmini_data": {
       "hekim": "DSÖ standardı: 1000 kişiye 1.9 hekim",
       "uzman_pratisyen_oran": "TTB: %55 uzman, %45 pratisyen",
       "yogun_bakim": "T.C. Sağlık Bakanlığı: Toplam yatağın %15'i",
@@ -15,6 +15,6 @@
       "acil_erisim": "Merkez ilçeler 8dk, diğerleri 15dk, uzak ilçeler 20dk"
     }
   },
-  "metodoloji": "Hibrit yaklaşım: Gerçek veriler + bilimsel tahminler",
-  "uyari": "Hekim, ASM, acil servis ve ameliyathane verileri tahmindir"
+  "metodoloji": "Hibrit yaklaşım: Gerçek data + bilimsel tahminler",
+  "uyari": "Hekim, ASM, acil servis ve ameliyathane datai tahmindir"
 }

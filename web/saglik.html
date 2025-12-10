@@ -278,8 +278,32 @@
       }
       .problems-list li {
         margin: 8px 0;
-        color: #856404;
+        color: #5e3c73;
         font-weight: 500;
+      }
+
+      .cost-total {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border-radius: 15px;
+        padding: 30px;
+        margin-bottom: 40px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        text-align: center;
+        animation: slideDown 0.5s ease-out;
+      }
+
+      .cost-total h3 {
+        color: white;
+        font-size: 1.8em;
+        margin-bottom: 20px;
+      }
+
+      .cost-total .amount {
+        font-size: 2.5em;
+        font-weight: bold;
+        color: white;
+        margin: 15px 0;
       }
 
       .project-proposal {
@@ -706,6 +730,31 @@
                     </div>
                 `;
         });
+
+        // Toplam maliyet hesapla
+        let toplamMaliyet = 0;
+        onerilerData.forEach((oneri) => {
+          const mStr = oneri.tahmini_maliyet || "";
+          const m = mStr.match(/₺([\d.]+)\s*Milyar/);
+          if (m && m[1]) {
+            toplamMaliyet += parseFloat(m[1]) || 0;
+          }
+        });
+
+        if (toplamMaliyet > 0) {
+          const dolarMaliyet = (toplamMaliyet / 42).toFixed(0);
+          html =
+            `
+      <div class="cost-total">
+        <h3>💰 Toplam Yatırım İhtiyacı</h3>
+        <div class="amount">₺${toplamMaliyet.toFixed(1)} Milyar</div>
+        <p style="font-size: 1.2em; margin-top: 10px;">≈ $${dolarMaliyet} Milyon</p>
+        <p style="margin-top: 10px;">${
+          onerilerData.length
+        } İlçe İçin Toplam Proje Maliyeti</p>
+      </div>
+    ` + html;
+        }
 
         contentDiv.innerHTML =
           html +

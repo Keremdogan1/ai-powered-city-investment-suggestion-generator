@@ -13,7 +13,7 @@
 
       body {
         font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-        background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         min-height: 100vh;
         padding: 20px;
       }
@@ -44,7 +44,7 @@
       }
 
       h1 {
-        color: #11998e;
+        color: #667eea;
         font-size: 2.5em;
         margin-bottom: 10px;
       }
@@ -74,6 +74,15 @@
       }
       .nav-link.home:hover {
         background: #5a6268;
+      }
+
+      .nav-link.map {
+        background: #17a2b8;
+        color: white;
+      }
+
+      .nav-link.map:hover {
+        background: #138496;
       }
 
       .stats-grid {
@@ -115,7 +124,7 @@
       .stat-value {
         font-size: 2em;
         font-weight: bold;
-        color: #11998e;
+        color: #667eea;
         margin: 10px 0;
       }
       .stat-label {
@@ -144,7 +153,7 @@
       }
 
       .section-title {
-        color: #11998e;
+        color: #667eea;
         font-size: 1.8em;
         margin-bottom: 20px;
         display: flex;
@@ -157,7 +166,7 @@
         border-radius: 15px;
         padding: 25px;
         margin-bottom: 25px;
-        border-left: 6px solid #11998e;
+        border-left: 6px solid #667eea;
         transition: all 0.4s;
         animation: cardAppear 0.8s ease-out;
       }
@@ -210,7 +219,7 @@
         color: white;
       }
       .priority-Düşük {
-        background: linear-gradient(135deg, #51cf66, #37b24d);
+        background: linear-gradient(135deg, #9f87ff, #764ba2);
         color: white;
       }
 
@@ -230,7 +239,7 @@
       .ilce-stat-value {
         font-size: 1.6em;
         font-weight: bold;
-        color: #11998e;
+        color: #667eea;
       }
       .ilce-stat-label {
         font-size: 0.85em;
@@ -261,7 +270,7 @@
 
       .project-proposal {
         background: linear-gradient(135deg, #d1f2eb, #a3e4d7);
-        border-left: 5px solid #11998e;
+        border-left: 5px solid #667eea;
         padding: 25px;
         border-radius: 10px;
         margin-top: 20px;
@@ -270,11 +279,11 @@
       .project-title {
         font-size: 1.3em;
         font-weight: bold;
-        color: #0e6655;
+        color: #764ba2;
         margin-bottom: 15px;
       }
       .project-description {
-        color: #0e6655;
+        color: #764ba2;
         margin: 15px 0;
         line-height: 1.8;
         font-size: 1.05em;
@@ -305,7 +314,7 @@
       }
       .project-detail-value {
         font-weight: bold;
-        color: #0e6655;
+        color: #764ba2;
         font-size: 1.1em;
       }
 
@@ -313,12 +322,12 @@
         text-align: center;
         padding: 60px 20px;
         font-size: 1.3em;
-        color: #11998e;
+        color: #667eea;
       }
 
       .loading-spinner {
         border: 4px solid #f3f3f3;
-        border-top: 4px solid #11998e;
+        border-top: 4px solid #667eea;
         border-radius: 50%;
         width: 50px;
         height: 50px;
@@ -353,7 +362,7 @@
 
       .data-badge {
         display: inline-block;
-        background: #51cf66;
+        background: #667eea;
         color: white;
         padding: 5px 12px;
         border-radius: 15px;
@@ -367,12 +376,12 @@
         padding: 20px;
         background: rgba(255, 255, 255, 0.7);
         border-radius: 8px;
-        border: 2px dashed #11998e;
+        border: 2px dashed #667eea;
       }
 
       .alternatives-title {
         font-weight: bold;
-        color: #0e6655;
+        color: #764ba2;
         margin-bottom: 12px;
         font-size: 1.1em;
       }
@@ -381,8 +390,32 @@
       }
       .alternatives li {
         margin: 10px 0;
-        color: #0e6655;
+        color: #764ba2;
         line-height: 1.6;
+      }
+
+      .cost-total {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border-radius: 15px;
+        padding: 30px;
+        margin-bottom: 40px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        text-align: center;
+        animation: slideDown 0.5s ease-out;
+      }
+
+      .cost-total h3 {
+        color: white;
+        font-size: 1.8em;
+        margin-bottom: 20px;
+      }
+
+      .cost-total .amount {
+        font-size: 2.5em;
+        font-weight: bold;
+        color: white;
+        margin: 15px 0;
       }
     </style>
   </head>
@@ -394,8 +427,11 @@
           AI Destekli Yeşil Alan Eksiklik Analizi ve Park Önerileri
           <span id="data-badge" class="data-badge">Yükleniyor...</span>
         </p>
-        <div class="nav-links">
+        <div class="nav-links" style="align-items: center">
           <a href="/" class="nav-link home">← Ana Sayfa</a>
+          <a href="/cevre/harita" class="nav-link map" style="margin-left: 10px"
+            >🗺️ İnteraktif Harita</a
+          >
         </div>
       </header>
 
@@ -464,12 +500,15 @@
               (analizData.genel_durum.toplam_nufus / 1000000).toFixed(1) + "M";
             document.getElementById("total-parks").textContent =
               analizData.genel_durum.toplam_park || "0";
-            document.getElementById("total-green").textContent =
-              (analizData.genel_durum.toplam_yesil_alan_hektar || 0).toFixed(0);
-            document.getElementById("avg-per-person").textContent =
-              (analizData.genel_durum.ortalama_m2_per_kisi || 0).toFixed(1);
+            document.getElementById("total-green").textContent = (
+              analizData.genel_durum.toplam_yesil_alan_hektar || 0
+            ).toFixed(0);
+            document.getElementById("avg-per-person").textContent = (
+              analizData.genel_durum.ortalama_m2_per_kisi || 0
+            ).toFixed(1);
             document.getElementById("avg-score").textContent =
-              (analizData.genel_durum.ortalama_eksiklik || 0).toFixed(1) + "/100";
+              (analizData.genel_durum.ortalama_eksiklik || 0).toFixed(1) +
+              "/100";
           }
 
           // Badge güncelle
@@ -477,7 +516,7 @@
           const dataBadge = document.getElementById("data-badge");
           if (ilceSayisi === 39) {
             dataBadge.textContent = "✅ 39 İlçe";
-            dataBadge.style.background = "#51cf66";
+            dataBadge.style.background = "#667eea";
           } else {
             dataBadge.textContent = `⚠️ ${ilceSayisi} İlçe`;
             dataBadge.style.background = "#ffa500";
@@ -511,7 +550,9 @@
           const priorityClass = "priority-" + (oneri.oncelik || "Orta");
 
           html += `
-                    <div class="ilce-card" style="animation-delay: ${index * 0.05}s">
+                    <div class="ilce-card" style="animation-delay: ${
+                      index * 0.05
+                    }s">
                         <div class="ilce-header">
                             <div class="ilce-name">${oneri.ilce}</div>
                             <div class="priority-badge ${priorityClass}">
@@ -521,19 +562,27 @@
                         
                         <div class="ilce-stats">
                             <div class="ilce-stat">
-                                <div class="ilce-stat-value">${((ilceAnaliz.nufus || 0) / 1000).toFixed(0)}K</div>
+                                <div class="ilce-stat-value">${(
+                                  (ilceAnaliz.nufus || 0) / 1000
+                                ).toFixed(0)}K</div>
                                 <div class="ilce-stat-label">Nüfus</div>
                             </div>
                             <div class="ilce-stat">
-                                <div class="ilce-stat-value">${ilceAnaliz.toplam_park_sayisi || 0}</div>
+                                <div class="ilce-stat-value">${
+                                  ilceAnaliz.park_sayisi || 0
+                                }</div>
                                 <div class="ilce-stat-label">Park</div>
                             </div>
                             <div class="ilce-stat">
-                                <div class="ilce-stat-value">${(ilceAnaliz.kisi_basina_yesil_m2 || 0).toFixed(1)}</div>
+                                <div class="ilce-stat-value">${(
+                                  ilceAnaliz.kisi_basina_yesil_m2 || 0
+                                ).toFixed(1)}</div>
                                 <div class="ilce-stat-label">m²/kişi</div>
                             </div>
                             <div class="ilce-stat">
-                                <div class="ilce-stat-value">${(ilceAnaliz.genel_cevre_skoru || 0).toFixed(1)}</div>
+                                <div class="ilce-stat-value">${(
+                                  ilceAnaliz.genel_cevre_skoru || 0
+                                ).toFixed(1)}</div>
                                 <div class="ilce-stat-label">Skor</div>
                             </div>
                         </div>
@@ -544,7 +593,9 @@
                             <div class="problems-list">
                                 <strong>⚠️ Tespit Edilen Sorunlar:</strong>
                                 <ul>
-                                    ${ilceAnaliz.sorunlar.map((s) => `<li>${s}</li>`).join("")}
+                                    ${ilceAnaliz.sorunlar
+                                      .map((s) => `<li>${s}</li>`)
+                                      .join("")}
                                 </ul>
                             </div>
                         `
@@ -552,8 +603,12 @@
                         }
                         
                         <div class="project-proposal">
-                            <div class="project-title">🌳 ${oneri.proje_adi || "AI Önerisi"}</div>
-                            <div class="project-description">${oneri.proje_detay || ""}</div>
+                            <div class="project-title">🌳 ${
+                              oneri.proje_adi || "AI Önerisi"
+                            }</div>
+                            <div class="project-description">${
+                              oneri.proje_detay || ""
+                            }</div>
                             
                             <div class="project-details">
                                 ${
@@ -571,7 +626,10 @@
                                     ? `
                                     <div class="project-detail">
                                         <div class="project-detail-label">🌳 Yeşil Alan Artışı</div>
-                                        <div class="project-detail-value">${oneri.yesil_alan_artisi.toplam_hektar || 0} hektar</div>
+                                        <div class="project-detail-value">${
+                                          oneri.yesil_alan_artisi
+                                            .toplam_hektar || 0
+                                        } hektar</div>
                                     </div>
                                 `
                                     : ""
@@ -581,7 +639,9 @@
                                     ? `
                                     <div class="project-detail">
                                         <div class="project-detail-label">🏞️ Yeni Park</div>
-                                        <div class="project-detail-value">${oneri.park_detaylari.toplam_park || 0} adet</div>
+                                        <div class="project-detail-value">${
+                                          oneri.park_detaylari.toplam_park || 0
+                                        } adet</div>
                                     </div>
                                 `
                                     : ""
@@ -599,12 +659,15 @@
                             </div>
 
                             ${
-                              oneri.alternatif_cozumler && oneri.alternatif_cozumler.length > 0
+                              oneri.alternatif_cozumler &&
+                              oneri.alternatif_cozumler.length > 0
                                 ? `
                                 <div class="alternatives">
                                     <div class="alternatives-title">💡 Alternatif Çözümler:</div>
                                     <ul>
-                                        ${oneri.alternatif_cozumler.map((alt) => `<li>${alt}</li>`).join("")}
+                                        ${oneri.alternatif_cozumler
+                                          .map((alt) => `<li>${alt}</li>`)
+                                          .join("")}
                                     </ul>
                                 </div>
                             `
@@ -614,9 +677,9 @@
                             ${
                               oneri.ozel_cozumler
                                 ? `
-                                <div class="alternatives" style="background: rgba(17,153,142,0.1); border-color: #11998e;">
+                                <div class="alternatives" style="background: rgba(102,126,234,0.1); border-color: #667eea;">
                                     <div class="alternatives-title">🌿 Özel Çözümler:</div>
-                                    <p style="color: #0e6655; margin-top: 10px; line-height: 1.7;">${oneri.ozel_cozumler}</p>
+                                  <p style="color: #667eea; margin-top: 10px; line-height: 1.7;">${oneri.ozel_cozumler}</p>
                                 </div>
                             `
                                 : ""
@@ -625,6 +688,31 @@
                     </div>
                 `;
         });
+
+        // Toplam maliyet hesapla
+        let toplamMaliyet = 0;
+        onerilerData.forEach((oneri) => {
+          const mStr = oneri.tahmini_maliyet || "";
+          const m = mStr.match(/₺([\d.]+)\s*Milyar/);
+          if (m && m[1]) {
+            toplamMaliyet += parseFloat(m[1]) || 0;
+          }
+        });
+
+        if (toplamMaliyet > 0) {
+          const dolarMaliyet = (toplamMaliyet / 42).toFixed(0);
+          html =
+            `
+      <div class="cost-total">
+        <h3>💰 Toplam Yatırım İhtiyacı</h3>
+        <div class="amount">₺${toplamMaliyet.toFixed(1)} Milyar</div>
+        <p style="font-size: 1.2em; margin-top: 10px;">≈ $${dolarMaliyet} Milyon</p>
+        <p style="margin-top: 10px;">${
+          onerilerData.length
+        } İlçe İçin Toplam Proje Maliyeti</p>
+      </div>
+    ` + html;
+        }
 
         contentDiv.innerHTML = html;
       }

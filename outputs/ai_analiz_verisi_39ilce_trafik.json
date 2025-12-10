@@ -1,0 +1,578 @@
+{
+  "genel_durum": {
+    "toplam_nufus": 15701602,
+    "toplam_metro_istasyon": 241,
+    "toplam_otopark": 313,
+    "ortalama_eksiklik": 47.50293327865885,
+    "analiz_edilen_ilce_sayisi": 39,
+    "ortalama_trafik": 68.1025641025641
+  },
+  "en_sorunlu_ilceler": [
+    {
+      "ilce": "Beylikdüzü",
+      "nufus": 415290,
+      "metro_istasyon": 0,
+      "metro_eksigi": 4.1529,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 96.4,
+      "sorunlar": [
+        "Metro bağlantısı YOK",
+        "Hiç otopark YOK",
+        "Yüksek trafik yoğunluğu (88/100)"
+      ],
+      "trafik_yogunluk_skoru": 88,
+      "trafik_aciklama": "Metro yok+E-5 çıkışı=Çok yoğun"
+    },
+    {
+      "ilce": "Sultangazi",
+      "nufus": 532601,
+      "metro_istasyon": 0,
+      "metro_eksigi": 5.32601,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 95.5,
+      "sorunlar": [
+        "Metro bağlantısı YOK",
+        "Hiç otopark YOK",
+        "Yüksek trafik yoğunluğu (85/100)"
+      ],
+      "trafik_yogunluk_skoru": 85,
+      "trafik_aciklama": "Metro yok+Yüksek nüfus=Çok yoğun"
+    },
+    {
+      "ilce": "Bahçelievler",
+      "nufus": 560086,
+      "metro_istasyon": 0,
+      "metro_eksigi": 5.60086,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 91.0,
+      "sorunlar": [
+        "Metro bağlantısı YOK",
+        "Hiç otopark YOK"
+      ],
+      "trafik_yogunluk_skoru": 70,
+      "trafik_aciklama": "Metro var ama eski yerleşim"
+    },
+    {
+      "ilce": "Esenyurt",
+      "nufus": 988369,
+      "metro_istasyon": 2,
+      "metro_eksigi": 7.88369,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 86.88232127879365,
+      "sorunlar": [
+        "Metro istasyonu 7 eksik",
+        "Hiç otopark YOK",
+        "Yüksek trafik yoğunluğu (90/100)"
+      ],
+      "trafik_yogunluk_skoru": 90,
+      "trafik_aciklama": "1M nüfus+Yetersiz metro=Aşırı yoğun"
+    },
+    {
+      "ilce": "Silivri",
+      "nufus": 232156,
+      "metro_istasyon": 0,
+      "metro_eksigi": 2.32156,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 83.5,
+      "sorunlar": [
+        "Metro bağlantısı YOK",
+        "Hiç otopark YOK"
+      ],
+      "trafik_yogunluk_skoru": 45,
+      "trafik_aciklama": "Uzak+Az nüfus=Hafif"
+    },
+    {
+      "ilce": "Büyükçekmece",
+      "nufus": 280528,
+      "metro_istasyon": 0,
+      "metro_eksigi": 2.80528,
+      "otopark_sayisi": 3,
+      "otopark_kapasitesi": 638,
+      "genel_eksiklik_skoru": 81.90286887583414,
+      "sorunlar": [
+        "Metro bağlantısı YOK",
+        "Otopark kapasitesi yetersiz"
+      ],
+      "trafik_yogunluk_skoru": 70,
+      "trafik_aciklama": "E-5 üzerinde+Metro yok"
+    },
+    {
+      "ilce": "Çatalca",
+      "nufus": 80399,
+      "metro_istasyon": 0,
+      "metro_eksigi": 0.80399,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 79.0,
+      "sorunlar": [
+        "Metro bağlantısı YOK",
+        "Hiç otopark YOK"
+      ],
+      "trafik_yogunluk_skoru": 30,
+      "trafik_aciklama": "Kırsal alan=Çok hafif"
+    },
+    {
+      "ilce": "Şile",
+      "nufus": 48936,
+      "metro_istasyon": 0,
+      "metro_eksigi": 0.48936,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 77.5,
+      "sorunlar": [
+        "Metro bağlantısı YOK",
+        "Hiç otopark YOK"
+      ],
+      "trafik_yogunluk_skoru": 25,
+      "trafik_aciklama": "Uzak sahil kasabası"
+    },
+    {
+      "ilce": "Adalar",
+      "nufus": 16979,
+      "metro_istasyon": 0,
+      "metro_eksigi": 0.16979,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 73.0,
+      "sorunlar": [
+        "Metro bağlantısı YOK",
+        "Hiç otopark YOK"
+      ],
+      "trafik_yogunluk_skoru": 10,
+      "trafik_aciklama": "Ada=Trafik yok"
+    },
+    {
+      "ilce": "Küçükçekmece",
+      "nufus": 789033,
+      "metro_istasyon": 3,
+      "metro_eksigi": 4.89033,
+      "otopark_sayisi": 3,
+      "otopark_kapasitesi": 1367,
+      "genel_eksiklik_skoru": 68.05938661627587,
+      "sorunlar": [
+        "Metro istasyonu 4 eksik",
+        "Otopark kapasitesi yetersiz",
+        "Yüksek trafik yoğunluğu (80/100)"
+      ],
+      "trafik_yogunluk_skoru": 80,
+      "trafik_aciklama": "E-5 trafiği+Yoğun"
+    },
+    {
+      "ilce": "Avcılar",
+      "nufus": 440934,
+      "metro_istasyon": 1,
+      "metro_eksigi": 3.4093400000000003,
+      "otopark_sayisi": 10,
+      "otopark_kapasitesi": 1784,
+      "genel_eksiklik_skoru": 66.47660647625268,
+      "sorunlar": [
+        "Metro istasyonu 3 eksik",
+        "Yüksek trafik yoğunluğu (80/100)"
+      ],
+      "trafik_yogunluk_skoru": 80,
+      "trafik_aciklama": "E-5 çıkışı+Üniversite"
+    },
+    {
+      "ilce": "Beykoz",
+      "nufus": 245440,
+      "metro_istasyon": 0,
+      "metro_eksigi": 2.4544,
+      "otopark_sayisi": 17,
+      "otopark_kapasitesi": 2291,
+      "genel_eksiklik_skoru": 65.0,
+      "sorunlar": [
+        "Metro bağlantısı YOK"
+      ],
+      "trafik_yogunluk_skoru": 50,
+      "trafik_aciklama": "Kuzey+Geniş alan"
+    },
+    {
+      "ilce": "Sultanbeyli",
+      "nufus": 369193,
+      "metro_istasyon": 3,
+      "metro_eksigi": 0.6919300000000002,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 50.37084397591504,
+      "sorunlar": [
+        "Metro istasyonu 0 eksik",
+        "Hiç otopark YOK"
+      ],
+      "trafik_yogunluk_skoru": 70,
+      "trafik_aciklama": "Uzak+Metro 1 istasyon"
+    },
+    {
+      "ilce": "Fatih",
+      "nufus": 354472,
+      "metro_istasyon": 15,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 45.5,
+      "sorunlar": [
+        "Hiç otopark YOK",
+        "Yüksek trafik yoğunluğu (85/100)"
+      ],
+      "trafik_yogunluk_skoru": 85,
+      "trafik_aciklama": "Tarihi yarımada trafiği"
+    },
+    {
+      "ilce": "Şişli",
+      "nufus": 263063,
+      "metro_istasyon": 14,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 44.599999999999994,
+      "sorunlar": [
+        "Hiç otopark YOK",
+        "Yüksek trafik yoğunluğu (82/100)"
+      ],
+      "trafik_yogunluk_skoru": 82,
+      "trafik_aciklama": "İş merkezi trafiği"
+    },
+    {
+      "ilce": "Gaziosmanpaşa",
+      "nufus": 479931,
+      "metro_istasyon": 7,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 42.8,
+      "sorunlar": [
+        "Hiç otopark YOK",
+        "Yüksek trafik yoğunluğu (76/100)"
+      ],
+      "trafik_yogunluk_skoru": 76,
+      "trafik_aciklama": "Metro az+Yoğun"
+    },
+    {
+      "ilce": "Pendik",
+      "nufus": 749356,
+      "metro_istasyon": 8,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 42.5,
+      "sorunlar": [
+        "Hiç otopark YOK",
+        "Yüksek trafik yoğunluğu (75/100)"
+      ],
+      "trafik_yogunluk_skoru": 75,
+      "trafik_aciklama": "Sanayi bölgesi+TEM trafiği"
+    },
+    {
+      "ilce": "Ümraniye",
+      "nufus": 727819,
+      "metro_istasyon": 12,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 42.5,
+      "sorunlar": [
+        "Hiç otopark YOK",
+        "Yüksek trafik yoğunluğu (75/100)"
+      ],
+      "trafik_yogunluk_skoru": 75,
+      "trafik_aciklama": "Yoğun+Metro yetersiz"
+    },
+    {
+      "ilce": "Beşiktaş",
+      "nufus": 167264,
+      "metro_istasyon": 8,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 42.5,
+      "sorunlar": [
+        "Hiç otopark YOK",
+        "Yüksek trafik yoğunluğu (75/100)"
+      ],
+      "trafik_yogunluk_skoru": 75,
+      "trafik_aciklama": "Dar yollar+Yoğun"
+    },
+    {
+      "ilce": "Zeytinburnu",
+      "nufus": 278344,
+      "metro_istasyon": 8,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 42.5,
+      "sorunlar": [
+        "Hiç otopark YOK",
+        "Yüksek trafik yoğunluğu (75/100)"
+      ],
+      "trafik_yogunluk_skoru": 75,
+      "trafik_aciklama": "Dar yollar+Sanayi"
+    },
+    {
+      "ilce": "Eyüpsultan",
+      "nufus": 420706,
+      "metro_istasyon": 6,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 40.4,
+      "sorunlar": [
+        "Hiç otopark YOK"
+      ],
+      "trafik_yogunluk_skoru": 68,
+      "trafik_aciklama": "Metro iyileştirdi"
+    },
+    {
+      "ilce": "Ataşehir",
+      "nufus": 414866,
+      "metro_istasyon": 10,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 40.4,
+      "sorunlar": [
+        "Hiç otopark YOK"
+      ],
+      "trafik_yogunluk_skoru": 68,
+      "trafik_aciklama": "İş merkezi ama geniş yollar"
+    },
+    {
+      "ilce": "Sancaktepe",
+      "nufus": 502077,
+      "metro_istasyon": 5,
+      "metro_eksigi": 0.020769999999999733,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 39.706840783385815,
+      "sorunlar": [
+        "Metro istasyonu 0 eksik",
+        "Hiç otopark YOK"
+      ],
+      "trafik_yogunluk_skoru": 65,
+      "trafik_aciklama": "Sanayi bölgesi"
+    },
+    {
+      "ilce": "Başakşehir",
+      "nufus": 520467,
+      "metro_istasyon": 15,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 0,
+      "otopark_kapasitesi": 0,
+      "genel_eksiklik_skoru": 39.5,
+      "sorunlar": [
+        "Hiç otopark YOK"
+      ],
+      "trafik_yogunluk_skoru": 65,
+      "trafik_aciklama": "Yeni metro hattı iyileştirdi"
+    },
+    {
+      "ilce": "Çekmeköy",
+      "nufus": 306739,
+      "metro_istasyon": 8,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 6,
+      "otopark_kapasitesi": 215,
+      "genel_eksiklik_skoru": 35.19631347823395,
+      "sorunlar": [
+        "Otopark kapasitesi yetersiz"
+      ],
+      "trafik_yogunluk_skoru": 60,
+      "trafik_aciklama": "Uzak ama gelişiyor"
+    },
+    {
+      "ilce": "Arnavutköy",
+      "nufus": 344868,
+      "metro_istasyon": 3,
+      "metro_eksigi": 0.44867999999999997,
+      "otopark_sayisi": 1,
+      "otopark_kapasitesi": 700,
+      "genel_eksiklik_skoru": 34.88604915503903,
+      "sorunlar": [
+        "Metro istasyonu 0 eksik",
+        "Otopark kapasitesi yetersiz"
+      ],
+      "trafik_yogunluk_skoru": 55,
+      "trafik_aciklama": "3. Havalimanı trafiği azaldı"
+    },
+    {
+      "ilce": "Tuzla",
+      "nufus": 301400,
+      "metro_istasyon": 4,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 2,
+      "otopark_kapasitesi": 600,
+      "genel_eksiklik_skoru": 33.6371599203716,
+      "sorunlar": [
+        "Otopark kapasitesi yetersiz",
+        "Yüksek trafik yoğunluğu (72/100)"
+      ],
+      "trafik_yogunluk_skoru": 72,
+      "trafik_aciklama": "Sanayi+Lojistik merkezi"
+    },
+    {
+      "ilce": "Esenler",
+      "nufus": 423625,
+      "metro_istasyon": 5,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 4,
+      "otopark_kapasitesi": 1580,
+      "genel_eksiklik_skoru": 28.48114488049572,
+      "sorunlar": [
+        "Yüksek trafik yoğunluğu (78/100)"
+      ],
+      "trafik_yogunluk_skoru": 78,
+      "trafik_aciklama": "Otogar bölgesi trafiği"
+    },
+    {
+      "ilce": "Sarıyer",
+      "nufus": 342582,
+      "metro_istasyon": 3,
+      "metro_eksigi": 0.42581999999999987,
+      "otopark_sayisi": 27,
+      "otopark_kapasitesi": 12422,
+      "genel_eksiklik_skoru": 24.214862427097742,
+      "sorunlar": [
+        "Metro istasyonu 0 eksik"
+      ],
+      "trafik_yogunluk_skoru": 60,
+      "trafik_aciklama": "Kuzey bölge+Geniş yollar"
+    },
+    {
+      "ilce": "Beyoğlu",
+      "nufus": 216688,
+      "metro_istasyon": 12,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 37,
+      "otopark_kapasitesi": 6430,
+      "genel_eksiklik_skoru": 24.0,
+      "sorunlar": [
+        "Yüksek trafik yoğunluğu (80/100)"
+      ],
+      "trafik_yogunluk_skoru": 80,
+      "trafik_aciklama": "Merkez+Turizm trafiği"
+    },
+    {
+      "ilce": "Kadıköy",
+      "nufus": 462189,
+      "metro_istasyon": 18,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 57,
+      "otopark_kapasitesi": 8047,
+      "genel_eksiklik_skoru": 23.4,
+      "sorunlar": [
+        "Yüksek trafik yoğunluğu (78/100)"
+      ],
+      "trafik_yogunluk_skoru": 78,
+      "trafik_aciklama": "Anadolu yakası merkezi"
+    },
+    {
+      "ilce": "Bağcılar",
+      "nufus": 713594,
+      "metro_istasyon": 18,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 10,
+      "otopark_kapasitesi": 5043,
+      "genel_eksiklik_skoru": 22.5,
+      "sorunlar": [
+        "Yüksek trafik yoğunluğu (75/100)"
+      ],
+      "trafik_yogunluk_skoru": 75,
+      "trafik_aciklama": "Nüfus yoğun ama metro var"
+    },
+    {
+      "ilce": "Bayrampaşa",
+      "nufus": 268303,
+      "metro_istasyon": 4,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 17,
+      "otopark_kapasitesi": 4497,
+      "genel_eksiklik_skoru": 22.2,
+      "sorunlar": [
+        "Yüksek trafik yoğunluğu (74/100)"
+      ],
+      "trafik_yogunluk_skoru": 74,
+      "trafik_aciklama": "E-5 bağlantısı"
+    },
+    {
+      "ilce": "Bakırköy",
+      "nufus": 219893,
+      "metro_istasyon": 12,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 37,
+      "otopark_kapasitesi": 5615,
+      "genel_eksiklik_skoru": 21.9,
+      "sorunlar": [
+        "Yüksek trafik yoğunluğu (73/100)"
+      ],
+      "trafik_yogunluk_skoru": 73,
+      "trafik_aciklama": "E-5 trafiği"
+    },
+    {
+      "ilce": "Güngören",
+      "nufus": 264831,
+      "metro_istasyon": 3,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 17,
+      "otopark_kapasitesi": 3547,
+      "genel_eksiklik_skoru": 21.599999999999998,
+      "sorunlar": [
+        "Yüksek trafik yoğunluğu (72/100)"
+      ],
+      "trafik_yogunluk_skoru": 72,
+      "trafik_aciklama": "Yoğun yerleşim"
+    },
+    {
+      "ilce": "Üsküdar",
+      "nufus": 512981,
+      "metro_istasyon": 12,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 27,
+      "otopark_kapasitesi": 3479,
+      "genel_eksiklik_skoru": 21.599999999999998,
+      "sorunlar": [
+        "Yüksek trafik yoğunluğu (72/100)"
+      ],
+      "trafik_yogunluk_skoru": 72,
+      "trafik_aciklama": "Boğaz geçişi trafiği"
+    },
+    {
+      "ilce": "Kağıthane",
+      "nufus": 444820,
+      "metro_istasyon": 8,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 9,
+      "otopark_kapasitesi": 5287,
+      "genel_eksiklik_skoru": 21.0,
+      "sorunlar": [],
+      "trafik_yogunluk_skoru": 70,
+      "trafik_aciklama": "İş merkezleri var"
+    },
+    {
+      "ilce": "Kartal",
+      "nufus": 475859,
+      "metro_istasyon": 8,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 21,
+      "otopark_kapasitesi": 3301,
+      "genel_eksiklik_skoru": 21.0,
+      "sorunlar": [],
+      "trafik_yogunluk_skoru": 70,
+      "trafik_aciklama": "Sanayi+D-100"
+    },
+    {
+      "ilce": "Maltepe",
+      "nufus": 524921,
+      "metro_istasyon": 6,
+      "metro_eksigi": 0.0,
+      "otopark_sayisi": 8,
+      "otopark_kapasitesi": 3816,
+      "genel_eksiklik_skoru": 19.5,
+      "sorunlar": [],
+      "trafik_yogunluk_skoru": 65,
+      "trafik_aciklama": "D-100 trafiği"
+    }
+  ]
+}

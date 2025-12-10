@@ -1,0 +1,1177 @@
+İSTANBUL SAĞLIK - AI ÖNERİLER (39 İLÇE)
+======================================================================
+
+```json
+[
+  {
+    "ilce": "Çatalca",
+    "oncelik": "Orta",
+    "proje_adi": "Çatalca Entegre Sağlık Kampüsü",
+    "proje_detay": "Çatalca'nın kırsal ve merkezi bölgelerini kapsayacak 150 yataklı modern devlet hastanesi kurulması planlanmaktadır. Hastane; genel cerrahi, ortopedi, kadın doğum, pediatri, dahiliye, göz, kulak burun boğaz, kardiyoloji ve acil tıp bölümlerini içerecektir. 6 ameliyathane, 20 yataklı yoğun bakım ünitesi, 25 poliklinik odası ve 7/24 tam donanımlı acil servis bulunacaktır. Dijital görüntüleme sistemleri (MR, BT, röntgen), tam otomatik laboratuvar ve kan bankası ile donatılacaktır. Ayrıca 3 adet ASM kurularak kırsal bölgelere hizmet verilecek, mobil sağlık hizmeti için 2 ambulans tahsis edilecektir. Yeşil bina sertifikası hedeflenerek enerji verimliliği sağlanacak, güneş panelleri ile kısmi enerji ihtiyacı karşılanacaktır. Helikopter pisti ile kritik hastalar için hava ambulansı imkanı sunulacaktır. Tele-tıp altyapısı ile merkez hastanelerle bağlantı kurulacak, uzaktan konsültasyon hizmeti verilecektir.",
+    "tahmini_maliyet": "₺625 Milyon ($14.9 Milyon)",
+    "beklenen_etki": "80,399 kişilik nüfusa standartlara uygun sağlık hizmeti sunulacak, acil vakalarda İstanbul merkezine sevk oranı %60 azalacak, kırsal bölge erişimi iyileşecek",
+    "uygulama_suresi": "24 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 35,
+      "pratisyen": 25,
+      "asistan": 15,
+      "toplam": 75
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 150,
+      "yogun_bakim": 20,
+      "ameliyathane": 6,
+      "poliklinik": 25,
+      "acil_servis": "7/24 tam donanımlı, helikopter pisti"
+    },
+    "alternatif_cozumler": [
+      "100 yataklı hastane + 5 ASM (₺450 Milyon - 18 ay)",
+      "Mevcut sağlık tesislerinin genişletilmesi + 4 ASM (₺280 Milyon - 12 ay)",
+      "Mobil sağlık üniteleri + 6 ASM ağı (₺180 Milyon - 9 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde acil sağlık hizmetlerine erişim %45 artacak, kırsal bölgelerde ASM'ler faaliyete geçecek, temel sağlık göstergeleri iyileşecek",
+    "orta_vade_etki": "3-5 yıl içinde kronik hastalık takibi sistemli hale gelecek, önleyici sağlık hizmetleri yaygınlaşacak, anne-bebek sağlığı göstergeleri İstanbul ortalamasına yaklaşacak",
+    "uzun_vade_etki": "10 yıl sonra Çatalca bölgesel sağlık merkezi haline gelecek, komşu ilçelere de hizmet verecek, sağlık turizmi potansiyeli oluşacak"
+  },
+  {
+    "ilce": "Beykoz",
+    "oncelik": "Orta",
+    "proje_adi": "Beykoz Çok Amaçlı Devlet Hastanesi ve ASM Ağı",
+    "proje_detay": "Beykoz'un 245,440 kişilik nüfusuna hizmet verecek 250 yataklı modern devlet hastanesi inşa edilecektir. Hastane; kardiyoloji, nöroloji, genel cerrahi, ortopedi, kadın doğum, pediatri, göğüs hastalıkları, üroloji, dermatoloji, fizik tedavi, göz ve KBB bölümlerini içerecektir. 10 ameliyathane, 35 yataklı yoğun bakım (dahili 20, cerrahi 10, koroner 5), 45 poliklinik odası planlanmaktadır. Son teknoloji MR, BT, anjiyografi cihazları ile donatılacaktır. Beykoz'un kuzey bölgelerinde 5 ASM, merkezi bölgede 3 ASM olmak üzere toplam 8 ASM kurulacaktır. Boğaz manzaralı lokasyonda hasta ve refakatçi konforu ön planda tutulacak, yeşil alan içinde tasarlanacaktır. Deniz ambulansı iskelesi ile Boğaz'dan gelen acil vakalar karşılanacaktır. Akıllı hastane sistemi ile randevu, takip ve tedavi süreçleri dijitalleştirilecektir. Otopark kapasitesi 400 araç olacak, ulaşım kolaylığı sağlanacaktır.",
+    "tahmini_maliyet": "₺950 Milyon ($22.6 Milyon)",
+    "beklenen_etki": "245,440 kişiye DSÖ standartlarında hizmet, Boğaz kıyısı acil müdahale kapasitesi, kuzey bölgelerde ASM ağı ile birinci basamak sağlık güçlendirilecek",
+    "uygulama_suresi": "28 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 60,
+      "pratisyen": 40,
+      "asistan": 25,
+      "toplam": 125
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 250,
+      "yogun_bakim": 35,
+      "ameliyathane": 10,
+      "poliklinik": 45,
+      "acil_servis": "7/24 deniz ve kara ambulansı destekli"
+    },
+    "alternatif_cozumler": [
+      "200 yataklı hastane + 10 ASM (₺800 Milyon - 24 ay)",
+      "2x100 yataklı hastane farklı bölgelerde + 6 ASM (₺720 Milyon - 30 ay)",
+      "Mevcut hastane genişletme + 12 ASM ağı (₺480 Milyon - 18 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM'ler hizmete girecek, birinci basamak sağlık erişimi %50 artacak, acil servis yoğunluğu azalacak",
+    "orta_vade_etki": "3-5 yıl içinde Beykoz'un kuzey bölgelerinde sağlık erişim eşitsizliği ortadan kalkacak, kronik hastalık yönetimi sistematik hale gelecek",
+    "uzun_vade_etki": "10 yıl sonra Beykoz Anadolu yakası kuzey koridorunun sağlık merkezi olacak, Şile ve Çekmeköy'e de hizmet verecek kapasiteye ulaşacak"
+  },
+  {
+    "ilce": "Silivri",
+    "oncelik": "Orta",
+    "proje_adi": "Silivri Bölge Hastanesi ve Kırsal Sağlık Ağı",
+    "proje_detay": "Silivri'nin 232,156 kişilik nüfusu ve bölgesel konumu göz önüne alınarak 280 yataklı entegre bölge hastanesi kurulacaktır. Hastane; genel cerrahi, kalp damar cerrahisi, beyin cerrahisi, ortopedi, kadın doğum, pediatri, yenidoğan yoğun bakım, onkoloji, radyasyon onkolojisi, kardiyoloji, nöroloji, göğüs hastalıkları, enfeksiyon hastalıkları, üroloji ve acil tıp bölümlerini içerecektir. 12 ameliyathane, 40 yataklı yoğun bakım (genel yoğun bakım 20, koroner 10, yenidoğan 10), 50 poliklinik odası tasarlanmıştır. Lineer akseleratör ile radyoterapi ünitesi, PET-CT, 3 Tesla MR, 128 kesitli BT ve tam donanımlı laboratuvar bulunacaktır. Silivri'nin 12 köyüne 7 ASM kurulacak, mobil sağlık ekipleri ile periyodik ziyaretler yapılacaktır. Ceza infaz kurumları için ayrı poliklinik ünitesi oluşturulacaktır. Helikopter pisti ve ambulans filosu ile İstanbul merkezine hızlı sevk imkanı sağlanacaktır. Deprem ve afet durumları için genişletilebilir acil servis tasarımı yapılacaktır.",
+    "tahmini_maliyet": "₺1.15 Milyar ($27.4 Milyon)",
+    "beklenen_etki": "232,156 kişiye üçüncü basamak sağlık hizmeti, Çatalca ve Çerkezköy bölgesine referans hastane, kırsal alan sağlık erişimi %70 artacak",
+    "uygulama_suresi": "32 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 75,
+      "pratisyen": 45,
+      "asistan": 30,
+      "toplam": 150
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 280,
+      "yogun_bakim": 40,
+      "ameliyathane": 12,
+      "poliklinik": 50,
+      "acil_servis": "7/24 travma merkezi, helikopter pisti"
+    },
+    "alternatif_cozumler": [
+      "200 yataklı hastane + 10 ASM + mobil üniteler (₺850 Milyon - 26 ay)",
+      "Mevcut hastane 150 yatak genişletme + 9 ASM (₺580 Milyon - 20 ay)",
+      "2x120 yataklı hastane (merkez+kırsal) + 8 ASM (₺920 Milyon - 28 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde kırsal ASM'ler devreye girecek, acil vakalarda İstanbul'a sevk oranı %40 azalacak, temel cerrahi müdahaleler yerel yapılabilecek",
+    "orta_vade_etki": "3-5 yıl içinde onkoloji ve kardiyoloji hizmetleri gelişecek, bölgesel referans hastane statüsü kazanılacak, sağlık turizmi başlayacak",
+    "uzun_vade_etki": "10 yıl sonra Trakya bölgesinin en gelişmiş sağlık merkezi haline gelecek, tıp fakültesi kurulumu için altyapı hazır olacak"
+  },
+  {
+    "ilce": "Arnavutköy",
+    "oncelik": "Orta",
+    "proje_adi": "Arnavutköy Şehir Hastanesi ve Entegre ASM Sistemi",
+    "proje_detay": "Arnavutköy'ün hızla büyüyen 344,868 kişilik nüfusuna hizmet verecek 350 yataklı modern şehir hastanesi inşa edilecektir. Hastane; genel cerrahi, kalp damar cerrahisi, ortopedi, kadın doğum, pediatri, neonatoloji, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, onkoloji, fizik tedavi, göz, KBB, dermatoloji ve psikiyatri bölümlerini içerecektir. 14 ameliyathane (genel 10, doğum 4), 50 yataklı yoğun bakım (dahili 25, cerrahi 15, yenidoğan 10), 60 poliklinik odası planlanmaktadır. Hibrid ameliyathane, robotik cerrahi sistem, 3 Tesla MR, 256 kesitli BT, dijital anjiyografi, PET-CT ve nükleer tıp ünitesi bulunacaktır. Arnavutköy'ün gelişen mahallelerine 12 ASM, kırsal bölgelerine 4 ASM olmak üzere toplam 16 ASM kurulacaktır. Havalimanı yakınlığı nedeniyle uluslararası hasta kabul altyapısı oluşturulacaktır. Akıllı bina yönetim sistemi, yeşil enerji çözümleri ve 600 araçlık otopark kapasitesi sağlanacaktır. Tele-tıp merkezi ile uzaktan eğitim ve konsültasyon hizmeti verilecektir.",
+    "tahmini_maliyet": "₺1.42 Milyar ($33.8 Milyon)",
+    "beklenen_etki": "344,868 kişiye kapsamlı sağlık hizmeti, 3. havalimanı bölgesine medikal destek, hızla büyüyen nüfusun sağlık altyapısı ihtiyacı karşılanacak",
+    "uygulama_suresi": "36 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 95,
+      "pratisyen": 60,
+      "asistan": 40,
+      "toplam": 195
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 350,
+      "yogun_bakim": 50,
+      "ameliyathane": 14,
+      "poliklinik": 60,
+      "acil_servis": "7/24 travma merkezi, helikopter pisti, uluslararası standart"
+    },
+    "alternatif_cozumler": [
+      "250 yataklı hastane + 18 ASM (₺1.15 Milyar - 30 ay)",
+      "2x150 yataklı hastane farklı bölgelerde + 14 ASM (₺1.25 Milyar - 32 ay)",
+      "200 yataklı hastane + mevcut hastane genişletme + 16 ASM (₺980 Milyon - 28 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde yeni yerleşim alanlarında ASM'ler açılacak, temel sağlık hizmetlerine erişim %55 artacak, acil servis kapasitesi güçlenecek",
+    "orta_vade_etki": "3-5 yıl içinde havalimanı bölgesinin sağlık merkezi haline gelecek, uluslararası hasta kabul başlayacak, ileri cerrahi hizmetler sunulacak",
+    "uzun_vade_etki": "10 yıl sonra İstanbul'un kuzeybatı koridorunun ana sağlık merkezi olacak, medikal turizm gelişecek, üniversite hastanesi dönüşüm potansiyeli oluşacak"
+  },
+  {
+    "ilce": "Sarıyer",
+    "oncelik": "Orta",
+    "proje_adi": "Sarıyer Boğaziçi Sağlık Kampüsü",
+    "proje_detay": "Sarıyer'in 342,582 kişilik nüfusuna ve coğrafi özelliklerine uygun 320 yataklı entegre sağlık kampüsü oluşturulacaktır. Hastane; kardiyoloji, kalp damar cerrahisi, nöroloji, beyin cerrahisi, ortopedi, genel cerrahi, kadın doğum, pediatri, göğüs hastalıkları, onkoloji, üroloji, dermatoloji, fizik tedavi, göz ve KBB bölümlerini içerecektir. 12 ameliyathane, 45 yataklı yoğun bakım (koroner 15, genel 20, cerrahi 10), 55 poliklinik odası tasarlanmıştır. Hibrid ameliyathane, robotik cerrahi, 3 Tesla MR, 128 kesitli BT, anjiyografi ve nükleer tıp üniteleri bulunacaktır. Sarıyer'in kuzey bölgelerine (Zekeriyaköy, Bahçeköy, Kilyos) 8 ASM, merkezi bölgelere 6 ASM kurulacaktır. Deniz ambulansı iskelesi ile Boğaz'dan acil vakalar karşılanacaktır. VIP hasta bölümü ile sağlık turizmi desteklenecektir. Geriatri merkezi ile yaşlı nüfusa özel hizmetler sunulacaktır. Enerji verimliliği yüksek yeşil bina sertifikalı tasarım, doğal manzara ile entegre mimari, 500 araçlık otopark ve helikopter pisti planlanmaktadır.",
+    "tahmini_maliyet": "₺1.32 Milyar ($31.4 Milyon)",
+    "beklenen_etki": "342,582 kişiye üst düzey sağlık hizmeti, Boğaz kıyısı acil müdahale, kuzey orman bölgelerinde sağlık erişimi sağlanacak, yaşlı nüfus özel bakım alacak",
+    "uygulama_suresi": "34 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 90,
+      "pratisyen": 55,
+      "asistan": 35,
+      "toplam": 180
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 320,
+      "yogun_bakim": 45,
+      "ameliyathane": 12,
+      "poliklinik": 55,
+      "acil_servis": "7/24 deniz-kara ambulansı, helikopter pisti"
+    },
+    "alternatif_cozumler": [
+      "250 yataklı hastane + 15 ASM + geriatri merkezi (₺1.05 Milyar - 28 ay)",
+      "2x140 yataklı hastane (kuzey-güney) + 12 ASM (₺1.18 Milyon - 30 ay)",
+      "Mevcut hastane 180 yatak genişletme + 14 ASM (₺720 Milyon - 22 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde kuzey bölgelerde ASM'ler açılacak, orman bölgesi acil müdahale süresi %50 kısalacak, geriatri hizmetleri başlayacak",
+    "orta_vade_etki": "3-5 yıl içinde Boğaz kıyısı sağlık koridoru oluşacak, kardiyoloji ve nöroloji merkezleri güçlenecek, sağlık turizmi gelişecek",
+    "uzun_vade_etki": "10 yıl sonra İstanbul'un en prestijli sağlık kampüslerinden biri haline gelecek, araştırma hastanesi statüsü kazanacak, uluslararası akreditasyon alacak"
+  },
+  {
+    "ilce": "Büyükçekmece",
+    "oncelik": "Orta",
+    "proje_adi": "Büyükçekmece Göl Kıyısı Sağlık Kompleksi",
+    "proje_detay": "Büyükçekmece'nin 280,528 kişilik nüfusuna hizmet verecek 300 yataklı modern sağlık kompleksi inşa edilecektir. Hastane; genel cerrahi, ortopedi, kalp damar cerrahisi, kadın doğum, pediatri, yenidoğan yoğun bakım, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, onkoloji, fizik tedavi, göz, KBB ve psikiyatri bölümlerini içerecektir. 11 ameliyathane, 40 yataklı yoğun bakım (dahili 20, cerrahi 12, yenidoğan 8), 50 poliklinik odası planlanmaktadır. 3 Tesla MR, 128 kesitli BT, dijital anjiyografi, mamografi, kemik yoğunluğu ölçüm cihazı ve tam otomatik laboratuvar bulunacaktır. Büyükçekmece'nin kuzey ve güney bölgelerine toplam 10 ASM kurulacaktır. Göl manzaralı lokasyonda hasta konforu ön planda tutulacak, rehabilitasyon bahçeleri oluşturulacaktır. Deniz ambulansı iskelesi ile Marmara kıyısından acil vakalar karşılanacaktır. Fizik tedavi ve rehabilitasyon merkezi özel önem taşıyacaktır. Akıllı hastane sistemi, 450 araçlık otopark, yeşil enerji çözümleri ve helikopter pisti sağlanacaktır.",
+    "tahmini_maliyet": "₺1.22 Milyar ($29.0 Milyon)",
+    "beklenen_etki": "280,528 kişiye kapsamlı sağlık hizmeti, göl ve deniz kıyısı acil müdahale, fizik tedavi merkezi ile ortopedik rehabilitasyon güçlenecek",
+    "uygulama_suresi": "32 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 80,
+      "pratisyen": 50,
+      "asistan": 32,
+      "toplam": 162
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 300,
+      "yogun_bakim": 40,
+      "ameliyathane": 11,
+      "poliklinik": 50,
+      "acil_servis": "7/24 deniz-kara ambulansı destekli"
+    },
+    "alternatif_cozumler": [
+      "220 yataklı hastane + 13 ASM + rehab merkezi (₺950 Milyon - 26 ay)",
+      "2x130 yataklı hastane farklı bölgelerde + 11 ASM (₺1.05 Milyar - 28 ay)",
+      "Mevcut hastane 150 yatak genişletme + 12 ASM (₺680 Milyon - 20 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM ağı tamamlanacak, birinci basamak sağlık güçlenecek, fizik tedavi hizmetleri başlayacak",
+    "orta_vade_etki": "3-5 yıl içinde ortopedi ve rehabilitasyon merkezi olarak bölgesel üne kavuşacak, spor yaralanmaları tedavisinde uzmanlaşacak",
+    "uzun_vade_etki": "10 yıl sonra İstanbul'un batı koridorunun sağlık merkezi haline gelecek, göl kenarı lokasyonu ile terapi programları geliştirilecek"
+  },
+  {
+    "ilce": "Zeytinburnu",
+    "oncelik": "Orta",
+    "proje_adi": "Zeytinburnu Entegre Şehir Hastanesi",
+    "proje_detay": "Zeytinburnu'nun 278,344 kişilik yoğun nüfusuna hizmet verecek 280 yataklı dikey mimari şehir hastanesi inşa edilecektir. Hastane; genel cerrahi, ortopedi, kadın doğum, pediatri, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, onkoloji, dermatoloji, göz, KBB, psikiyatri ve fizik tedavi bölümlerini içerecektir. 10 ameliyathane, 38 yataklı yoğun bakım (dahili 20, cerrahi 12, koroner 6), 48 poliklinik odası tasarlanmıştır. 1.5 Tesla MR, 64 kesitli BT, dijital röntgen, ultrason ve tam donanımlı laboratuvar bulunacaktır. Arazi kısıtı nedeniyle dikey mimari tercih edilecek, her katta tematik bahçe alanları oluşturulacaktır. Zeytinburnu'nun farklı mahallelerine 8 ASM kurulacaktır. Merter tekstil bölgesine yakınlık nedeniyle iş sağlığı ve meslek hastalıkları polikliniği özel önem taşıyacaktır. Toplu taşıma bağlantıları güçlü lokasyon seçilecek, 300 araçlık yeraltı otoparkı yapılacaktır. Akıllı hastane yönetim sistemi, dijital randevu ve takip sistemleri kurulacaktır. Çatı helikopter pisti ile acil sevk imkanı sağlanacaktır.",
+    "tahmini_maliyet": "₺1.15 Milyar ($27.4 Milyon)",
+    "beklenen_etki": "278,344 kişiye merkezi lokasyonda sağlık hizmeti, iş sağlığı hizmetleri güçlenecek, yoğun nüfusun acil sağlık ihtiyacı karşılanacak",
+    "uygulama_suresi": "30 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 75,
+      "pratisyen": 48,
+      "asistan": 30,
+      "toplam": 153
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 280,
+      "yogun_bakim": 38,
+      "ameliyathane": 10,
+      "poliklinik": 48,
+      "acil_servis": "7/24 tam donanımlı, çatı helikopter pisti"
+    },
+    "alternatif_cozumler": [
+      "200 yataklı hastane + 10 ASM + iş sağlığı merkezi (₺850 Milyon - 24 ay)",
+      "Mevcut hastane 150 yatak genişletme + 9 ASM (₺620 Milyon - 18 ay)",
+      "150 yataklı hastane + 12 ASM + özel poliklinikler (₺720 Milyon - 22 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM'ler hizmete girecek, iş sağlığı taramaları başlayacak, acil servis yükü %35 azalacak",
+    "orta_vade_etki": "3-5 yıl içinde meslek hastalıkları merkezi olarak öne çıkacak, tekstil sektörü çalışanlarına özel sağlık programları geliştirilecek",
+    "uzun_vade_etki": "10 yıl sonra İstanbul'un merkezi sağlık noktalarından biri haline gelecek, toplu taşıma erişimi ile geniş alana hizmet verecek"
+  },
+  {
+    "ilce": "Kağıthane",
+    "oncelik": "Orta",
+    "proje_adi": "Kağıthane Merkez Sağlık Kompleksi",
+    "proje_detay": "Kağıthane'nin 444,820 kişilik yoğun nüfusuna hizmet verecek 400 yataklı modern sağlık kompleksi inşa edilecektir. Hastane; genel cerrahi, kalp damar cerrahisi, beyin cerrahisi, ortopedi, kadın doğum, pediatri, neonatoloji, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, onkoloji, radyasyon onkolojisi, fizik tedavi, göz, KBB, dermatoloji ve psikiyatri bölümlerini içerecektir. 16 ameliyathane (genel 12, doğum 4), 60 yataklı yoğun bakım (dahili 30, cerrahi 18, koroner 8, yenidoğan 4), 70 poliklinik odası planlanmaktadır. Hibrid ameliyathane, robotik cerrahi sistem, 3 Tesla MR, 256 kesitli BT, PET-CT, dijital anjiyografi, lineer akseleratör ve nükleer tıp ünitesi bulunacaktır. Kağıthane'nin yoğun yerleşim alanlarına 14 ASM kurulacaktır. Cendere Vadisi'ne yakın lokasyonda yeşil alan içinde tasarlanacak, hasta konforu maksimize edilecektir. Check-up merkezi ile önleyici sağlık hizmetleri güçlendirilecektir. Akıllı bina yönetimi, 600 araçlık otopark, helikopter pisti ve tele-tıp merkezi sağlanacaktır.",
+    "tahmini_maliyet": "₺1.65 Milyar ($39.3 Milyon)",
+    "beklenen_etki": "444,820 kişiye üçüncü basamak sağlık hizmeti, onkoloji merkezi ile kanser tedavisi güçlenecek, merkezi lokasyon ile geniş alana hizmet verilecek",
+    "uygulama_suresi": "38 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 110,
+      "pratisyen": 70,
+      "asistan": 45,
+      "toplam": 225
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 400,
+      "yogun_bakim": 60,
+      "ameliyathane": 16,
+      "poliklinik": 70,
+      "acil_servis": "7/24 travma merkezi, helikopter pisti"
+    },
+    "alternatif_cozumler": [
+      "300 yataklı hastane + 16 ASM + onkoloji merkezi (₺1.35 Milyar - 32 ay)",
+      "2x180 yataklı hastane farklı bölgelerde + 14 ASM (₺1.45 Milyar - 34 ay)",
+      "250 yataklı hastane + mevcut hastane genişletme + 15 ASM (₺1.18 Milyar - 28 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM ağı tamamlanacak, check-up merkezi hizmete girecek, acil servis kapasitesi %60 artacak",
+    "orta_vade_etki": "3-5 yıl içinde onkoloji ve kardiyoloji merkezleri bölgesel referans haline gelecek, robotik cerrahi yaygınlaşacak",
+    "uzun_vade_etki": "10 yıl sonra İstanbul'un merkezi sağlık kampüslerinden biri olacak, araştırma hastanesi dönüşümü gerçekleşecek, uluslararası hasta kabul artacak"
+  },
+  {
+    "ilce": "Bakırköy",
+    "oncelik": "Orta",
+    "proje_adi": "Bakırköy Ruh Sağlığı ve Genel Hastane Entegrasyonu",
+    "proje_detay": "Bakırköy'ün 219,893 kişilik nüfusuna ve özel ruh sağlığı ihtiyacına yönelik 250 yataklı entegre sağlık kompleksi oluşturulacaktır. Hastane; genel cerrahi, ortopedi, kadın doğum, pediatri, kardiyoloji, nöroloji, psikiyatri, çocuk psikiyatrisi, bağımlılık tedavi merkezi, üroloji, dermatoloji, göz, KBB ve fizik tedavi bölümlerini içerecektir. 10 ameliyathane, 35 yataklı yoğun bakım (dahili 20, cerrahi 10, psikiyatri 5), 55 poliklinik odası tasarlanmıştır. 1.5 Tesla MR, 64 kesitli BT, EEG, EMG ve nöropsikolojik testler için özel birimler bulunacaktır. Ruh sağlığı merkezi; yataklı servis, gündüz hastane, terapi odaları, sanat atölyeleri ve rehabilitasyon bahçeleri içerecektir. Bakırköy'ün farklı mahallelerine 9 ASM, 3 toplum ruh sağlığı merkezi kurulacaktır. Marmara kıyısında deniz manzaralı lokasyon, terapi bahçeleri ve sosyal aktivite alanları ile hasta konforu maksimize edilecektir. Deniz ambulansı iskelesi, 400 araçlık otopark ve toplu taşıma bağlantıları sağlanacaktır.",
+    "tahmini_maliyet": "₺1.05 Milyar ($25.0 Milyon)",
+    "beklenen_etki": "219,893 kişiye genel ve ruh sağlığı hizmeti, İstanbul'un ruh sağlığı merkezi olarak bölgesel hizmet, bağımlılık tedavisi güçlenecek",
+    "uygulama_suresi": "28 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 70,
+      "pratisyen": 42,
+      "asistan": 28,
+      "toplam": 140
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 250,
+      "yogun_bakim": 35,
+      "ameliyathane": 10,
+      "poliklinik": 55,
+      "acil_servis": "7/24 psikiyatrik acil dahil"
+    },
+    "alternatif_cozumler": [
+      "180 yataklı genel hastane + 80 yataklı ruh sağlığı + 10 ASM (₺920 Milyon - 24 ay)",
+      "Mevcut hastaneler genişletme + 4 toplum ruh sağlığı merkezi (₺650 Milyon - 18 ay)",
+      "200 yataklı hastane + 11 ASM + bağımlılık merkezi (₺880 Milyon - 26 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde toplum ruh sağlığı merkezleri açılacak, bağımlılık tedavisi başlayacak, psikiyatrik acil hizmetleri güçlenecek",
+    "orta_vade_etki": "3-5 yıl içinde İstanbul'un en kapsamlı ruh sağlığı merkezi haline gelecek, terapi programları çeşitlenecek, sosyal rehabilitasyon gelişecek",
+    "uzun_vade_etki": "10 yıl sonra ulusal ruh sağlığı referans merkezi statüsü kazanacak, araştırma ve eğitim merkezi olacak, uluslararası işbirlikleri gelişecek"
+  },
+  {
+    "ilce": "Avcılar",
+    "oncelik": "Orta",
+    "proje_adi": "Avcılar Üniversite Kampüsü Sağlık Merkezi",
+    "proje_detay": "Avcılar'ın 440,934 kişilik genç nüfusuna ve üniversite kampüsüne hizmet verecek 380 yataklı modern sağlık kompleksi inşa edilecektir. Hastane; genel cerrahi, ortopedi, spor hekimliği, kadın doğum, pediatri, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, onkoloji, dermatoloji, göz, KBB, psikiyatri ve fizik tedavi bölümlerini içerecektir. 14 ameliyathane, 52 yataklı yoğun bakım (dahili 28, cerrahi 16, koroner 8), 65 poliklinik odası planlanmaktadır. 3 Tesla MR, 128 kesitli BT, dijital anjiyografi, mamografi ve spor tıbbı için özel ekipmanlar bulunacaktır. Avcılar'ın farklı bölgelerine 13 ASM kurulacaktır. Üniversite kampüsüne yakın lokasyonda öğrenci sağlığı merkezi, spor yaralanmaları ünitesi ve psikolojik danışmanlık hizmetleri özel önem taşıyacaktır. Marmara kıyısında deniz ambulansı iskelesi oluşturulacaktır. Check-up merkezi ile genç nüfusa yönelik önleyici sağlık programları geliştirilecektir. Akıllı hastane sistemi, 550 araçlık otopark, helikopter pisti ve tele-tıp altyapısı sağlanacaktır.",
+    "tahmini_maliyet": "₺1.55 Milyar ($36.9 Milyon)",
+    "beklenen_etki": "440,934 kişiye kapsamlı sağlık hizmeti, üniversite öğrencilerine özel sağlık programları, spor tıbbı merkezi ile bölgesel hizmet sunulacak",
+    "uygulama_suresi": "36 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 105,
+      "pratisyen": 65,
+      "asistan": 42,
+      "toplam": 212
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 380,
+      "yogun_bakim": 52,
+      "ameliyathane": 14,
+      "poliklinik": 65,
+      "acil_servis": "7/24 spor yaralanmaları ünitesi dahil"
+    },
+    "alternatif_cozumler": [
+      "280 yataklı hastane + 15 ASM + spor tıbbı merkezi (₺1.25 Milyar - 30 ay)",
+      "2x170 yataklı hastane farklı bölgelerde + 13 ASM (₺1.38 Milyar - 32 ay)",
+      "250 yataklı hastane + mevcut hastane genişletme + 14 ASM (₺1.12 Milyar - 26 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde öğrenci sağlığı merkezi açılacak, ASM ağı tamamlanacak, spor yaralanmaları tedavisi başlayacak",
+    "orta_vade_etki": "3-5 yıl içinde spor tıbbı ve ortopedi alanında uzmanlaşacak, genç nüfusa yönelik önleyici sağlık programları yaygınlaşacak",
+    "uzun_vade_etki": "10 yıl sonra üniversite hastanesi statüsü kazanacak, tıp fakültesi ile entegrasyon sağlanacak, araştırma merkezi olacak"
+  },
+  {
+    "ilce": "Bayrampaşa",
+    "oncelik": "Düşük",
+    "proje_adi": "Bayrampaşa Merkez Devlet Hastanesi Genişletme",
+    "proje_detay": "Bayrampaşa'nın 268,303 kişilik yoğun nüfusuna hizmet verecek mevcut hastane 150 yatak genişletilecek ve toplam 280 yatak kapasitesine ulaşacaktır. Yeni bina; genel cerrahi, ortopedi, kadın doğum, pediatri, kardiyoloji, nöroloji, üroloji, dermatoloji, göz ve KBB bölümlerini içerecektir. 4 yeni ameliyathane, 18 yataklı yoğun bakım (dahili 10, cerrahi 8), 25 poliklinik odası eklenecektir. 1.5 Tesla MR, 64 kesitli BT ve dijital röntgen cihazları eklenecektir. Bayrampaşa'nın farklı mahallelerine 9 ASM kurulacaktır. Mevcut binanın modernizasyonu yapılacak, acil servis genişletilecektir. Yoğun nüfus nedeniyle randevu sistemi dijitalleştirilecek, online takip imkanı sağlanacaktır. Otopark kapasitesi 200 araç artırılacaktır. Endoskopi ünitesi ve günübirlik cerrahi merkezi kurulacaktır. Fizik tedavi ve rehabilitasyon ünitesi genişletilecektir. Akıllı hastane yönetim sistemi kurulacak, enerji verimliliği artırılacaktır.",
+    "tahmini_maliyet": "₺680 Milyon ($16.2 Milyon)",
+    "beklenen_etki": "268,303 kişiye geliştirilmiş sağlık hizmeti, acil servis kapasitesi artacak, ASM ağı ile birinci basamak güçlenecek",
+    "uygulama_suresi": "20 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 45,
+      "pratisyen": 38,
+      "asistan": 22,
+      "toplam": 105
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 280,
+      "yogun_bakim": 18,
+      "ameliyathane": 4,
+      "poliklinik": 25,
+      "acil_servis": "7/24 genişletilmiş acil servis"
+    },
+    "alternatif_cozumler": [
+      "180 yataklı yeni hastane + 10 ASM (₺750 Milyon - 24 ay)",
+      "Mevcut hastane 100 yatak genişletme + 11 ASM (₺520 Milyon - 16 ay)",
+      "Poliklinik merkezi + 12 ASM ağı (₺380 Milyon - 14 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM'ler açılacak, mevcut hastane yoğunluğu %30 azalacak, randevu sistemi iyileşecek",
+    "orta_vade_etki": "3-5 yıl içinde genişletme tamamlanacak, günübirlik cerrahi hizmetleri artacak, hasta memnuniyeti yükselecek",
+    "uzun_vade_etki": "10 yıl sonra Bayrampaşa'nın sağlık altyapısı standartlara uygun hale gelecek, komşu ilçelere de hizmet verecek"
+  },
+  {
+    "ilce": "Pendik",
+    "oncelik": "Düşük",
+    "proje_adi": "Pendik Bölge Hastanesi ve Lojistik Sağlık Merkezi",
+    "proje_detay": "Pendik'in 749,356 kişilik büyük nüfusuna hizmet verecek 500 yataklı bölge hastanesi inşa edilecektir. Hastane; genel cerrahi, kalp damar cerrahisi, beyin cerrahisi, ortopedi, travmatoloji, kadın doğum, pediatri, neonatoloji, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, onkoloji, radyasyon onkolojisi, fizik tedavi, göz, KBB, dermatoloji ve acil tıp bölümlerini içerecektir. 18 ameliyathane (genel 14, doğum 4), 70 yataklı yoğun bakım (dahili 35, cerrahi 20, koroner 10, yenidoğan 5), 80 poliklinik odası planlanmaktadır. Hibrid ameliyathane, robotik cerrahi, 3 Tesla MR, 256 kesitli BT, PET-CT, dijital anjiyografi, lineer akseleratör ve nükleer tıp ünitesi bulunacaktır. Pendik'in farklı bölgelerine 18 ASM kurulacaktır. Liman ve lojistik merkez yakınlığı nedeniyle iş sağlığı ve meslek hastalıkları merkezi özel önem taşıyacaktır. Deniz ambulansı iskelesi ile Marmara'dan acil vakalar karşılanacaktır. Sabiha Gökçen Havalimanı yakınlığı ile uluslararası hasta transferi altyapısı oluşturulacaktır. 700 araçlık otopark, helikopter pisti ve akıllı hastane sistemi sağlanacaktır.",
+    "tahmini_maliyet": "₺2.05 Milyar ($48.8 Milyon)",
+    "beklenen_etki": "749,356 kişiye üçüncü basamak sağlık hizmeti, Anadolu yakası güney koridorunun sağlık merkezi, lojistik sektör çalışanlarına özel hizmet sunulacak",
+    "uygulama_suresi": "40 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 140,
+      "pratisyen": 85,
+      "asistan": 55,
+      "toplam": 280
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 500,
+      "yogun_bakim": 70,
+      "ameliyathane": 18,
+      "poliklinik": 80,
+      "acil_servis": "7/24 travma merkezi, deniz-hava ambulansı"
+    },
+    "alternatif_cozumler": [
+      "350 yataklı hastane + 20 ASM + iş sağlığı merkezi (₺1.65 Milyar - 34 ay)",
+      "2x220 yataklı hastane farklı bölgelerde + 18 ASM (₺1.85 Milyar - 36 ay)",
+      "300 yataklı hastane + mevcut hastane genişletme + 19 ASM (₺1.52 Milyar - 30 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM ağı genişleyecek, iş sağlığı taramaları başlayacak, acil servis kapasitesi %70 artacak",
+    "orta_vade_etki": "3-5 yıl içinde Anadolu yakası güney koridorunun ana sağlık merkezi haline gelecek, travmatoloji ve ortopedi güçlenecek",
+    "uzun_vade_etki": "10 yıl sonra uluslararası akreditasyonlu hastane olacak, lojistik sektör sağlık merkezi olarak öne çıkacak, tıp fakültesi kurulacak"
+  },
+  {
+    "ilce": "Gaziosmanpaşa",
+    "oncelik": "Düşük",
+    "proje_adi": "Gaziosmanpaşa Toplum Sağlığı Merkezi ve ASM Ağı",
+    "proje_detay": "Gaziosmanpaşa'nın 479,931 kişilik nüfusuna hizmet verecek 350 yataklı devlet hastanesi ve güçlü ASM ağı oluşturulacaktır. Hastane; genel cerrahi, ortopedi, kadın doğum, pediatri, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, onkoloji, dermatoloji, göz, KBB ve psikiyatri bölümlerini içerecektir. 13 ameliyathane, 48 yataklı yoğun bakım (dahili 26, cerrahi 16, koroner 6), 60 poliklinik odası planlanmaktadır. 1.5 Tesla MR, 128 kesitli BT, dijital röntgen ve tam otomatik laboratuvar bulunacaktır. Gaziosmanpaşa'nın yoğun yerleşim alanlarına 16 ASM kurulacak, her ASM'de diyabet, hipertansiyon ve obezite takip programları yürütülecektir. Toplum sağlığı merkezi ile önleyici sağlık hizmetleri, aşılama programları ve sağlık eğitimleri verilecektir. Anne-çocuk sağlığı merkezi özel önem taşıyacaktır. Akıllı hastane sistemi, 500 araçlık otopark ve toplu taşıma bağlantıları sağlanacaktır. Aile hekimliği eğitim merkezi kurularak birinci basamak sağlık personeli yetiştirilecektir.",
+    "tahmini_maliyet": "₺1.42 Milyar ($33.8 Milyon)",
+    "beklenen_etki": "479,931 kişiye kapsamlı sağlık hizmeti, güçlü ASM ağı ile birinci basamak sağlık önceliklenecek, kronik hastalık takibi sistematik hale gelecek",
+    "uygulama_suresi": "34 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 95,
+      "pratisyen": 70,
+      "asistan": 40,
+      "toplam": 205
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 350,
+      "yogun_bakim": 48,
+      "ameliyathane": 13,
+      "poliklinik": 60,
+      "acil_servis": "7/24 tam donanımlı"
+    },
+    "alternatif_cozumler": [
+      "250 yataklı hastane + 18 ASM + toplum sağlığı merkezi (₺1.15 Milyar - 28 ay)",
+      "2x150 yataklı hastane farklı bölgelerde + 16 ASM (₺1.25 Milyar - 30 ay)",
+      "200 yataklı hastane + mevcut hastane genişletme + 17 ASM (₺1.05 Milyar - 26 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM ağı tamamlanacak, aile hekimliği sistemi güçlenecek, önleyici sağlık programları başlayacak",
+    "orta_vade_etki": "3-5 yıl içinde kronik hastalık prevalansı azalacak, anne-bebek sağlığı göstergeleri iyileşecek, sağlık okuryazarlığı artacak",
+    "uzun_vade_etki": "10 yıl sonra toplum sağlığı modeli örnek ilçe haline gelecek, birinci basamak sağlık eğitim merkezi olacak"
+  },
+  {
+    "ilce": "Sultangazi",
+    "oncelik": "Düşük",
+    "proje_adi": "Sultangazi Şehir Hastanesi ve Entegre Sağlık Sistemi",
+    "proje_detay": "Sultangazi'nin 532,601 kişilik büyük nüfusuna hizmet verecek 420 yataklı şehir hastanesi inşa edilecektir. Hastane; genel cerrahi, kalp damar cerrahisi, ortopedi, kadın doğum, pediatri, yenidoğan yoğun bakım, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, onkoloji, dermatoloji, göz, KBB, psikiyatri ve fizik tedavi bölümlerini içerecektir. 15 ameliyathane, 58 yataklı yoğun bakım (dahili 30, cerrahi 18, koroner 6, yenidoğan 4), 70 poliklinik odası planlanmaktadır. 3 Tesla MR, 128 kesitli BT, dijital anjiyografi, PET-CT ve nükleer tıp ünitesi bulunacaktır. Sultangazi'nin farklı bölgelerine 17 ASM kurulacaktır. Genç nüfus oranı yüksek olduğu için pediatri ve kadın doğum bölümleri özel önem taşıyacaktır. Check-up merkezi ve önleyici sağlık programları geliştirilecektir. Akıllı hastane yönetim sistemi, dijital sağlık kayıtları, 600 araçlık otopark ve helikopter pisti sağlanacaktır. Toplum sağlığı merkezi ile sağlık eğitimleri ve tarama programları yürütülecektir.",
+    "tahmini_maliyet": "₺1.72 Milyar ($41.0 Milyon)",
+    "beklenen_etki": "532,601 kişiye kapsamlı sağlık hizmeti, genç nüfusa yönelik anne-çocuk sağlığı güçlenecek, ASM ağı ile birinci basamak yaygınlaşacak",
+    "uygulama_suresi": "38 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 115,
+      "pratisyen": 75,
+      "asistan": 48,
+      "toplam": 238
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 420,
+      "yogun_bakim": 58,
+      "ameliyathane": 15,
+      "poliklinik": 70,
+      "acil_servis": "7/24 pediatrik acil dahil"
+    },
+    "alternatif_cozumler": [
+      "300 yataklı hastane + 19 ASM + anne-çocuk merkezi (₺1.38 Milyar - 32 ay)",
+      "2x180 yataklı hastane farklı bölgelerde + 17 ASM (₺1.52 Milyar - 34 ay)",
+      "250 yataklı hastane + mevcut hastane genişletme + 18 ASM (₺1.25 Milyar - 28 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM ağı genişleyecek, anne-çocuk sağlığı hizmetleri artacak, doğum öncesi takipler sistematik hale gelecek",
+    "orta_vade_etki": "3-5 yıl içinde bebek ve anne ölüm oranları azalacak, aşılama oranları yükselecek, çocuk sağlığı göstergeleri iyileşecek",
+    "uzun_vade_etki": "10 yıl sonra İstanbul'un en gelişmiş anne-çocuk sağlığı merkezlerinden biri haline gelecek, pediatri eğitim hastanesi olacak"
+  },
+  {
+    "ilce": "Esenler",
+    "oncelik": "Düşük",
+    "proje_adi": "Esenler Merkez Sağlık Kompleksi ve Göçmen Sağlığı Merkezi",
+    "proje_detay": "Esenler'in 423,625 kişilik çok kültürlü nüfusuna hizmet verecek 330 yataklı sağlık kompleksi inşa edilecektir. Hastane; genel cerrahi, ortopedi, kadın doğum, pediatri, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, dermatoloji, göz, KBB, psikiyatri ve enfeksiyon hastalıkları bölümlerini içerecektir. 12 ameliyathane, 45 yataklı yoğun bakım (dahili 24, cerrahi 15, koroner 6), 58 poliklinik odası planlanmaktadır. 1.5 Tesla MR, 128 kesitli BT, dijital röntgen ve tam otomatik laboratuvar bulunacaktır. Esenler'in yoğun yerleşim alanlarına 14 ASM kurulacaktır. Göçmen nüfus yoğunluğu nedeniyle çok dilli sağlık hizmeti, kültürel danışmanlık ve tercümanlık hizmetleri sağlanacaktır. Bulaşıcı hastalıklar takip merkezi kurulacaktır. Sağlık okuryazarlığı programları ve toplum sağlığı eğitimleri önceliklenecektir. Akıllı hastane sistemi, 450 araçlık otopark ve toplu taşıma bağlantıları sağlanacaktır. Sosyal hizmet birimi güçlendirilecektir.",
+    "tahmini_maliyet": "₺1.35 Milyar ($32.1 Milyon)",
+    "beklenen_etki": "423,625 kişiye kültürel duyarlılıkla sağlık hizmeti, göçmen sağlığı merkezi ile özel ihtiyaçlar karşılanacak, bulaşıcı hastalık kontrolü güçlenecek",
+    "uygulama_suresi": "32 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 90,
+      "pratisyen": 62,
+      "asistan": 38,
+      "toplam": 190
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 330,
+      "yogun_bakim": 45,
+      "ameliyathane": 12,
+      "poliklinik": 58,
+      "acil_servis": "7/24 çok dilli hizmet"
+    },
+    "alternatif_cozumler": [
+      "240 yataklı hastane + 16 ASM + göçmen sağlığı merkezi (₺1.08 Milyar - 26 ay)",
+      "2x140 yataklı hastane farklı bölgelerde + 14 ASM (₺1.18 Milyar - 28 ay)",
+      "200 yataklı hastane + mevcut hastane genişletme + 15 ASM (₺980 Milyon - 24 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde çok dilli sağlık hizmeti başlayacak, ASM'lerde kültürel danışmanlık verilecek, bulaşıcı hastalık taramaları artacak",
+    "orta_vade_etki": "3-5 yıl içinde göçmen sağlığı model merkez haline gelecek, sağlık okuryazarlığı artacak, aşılama oranları yükselecek",
+    "uzun_vade_etki": "10 yıl sonra çok kültürlü sağlık hizmetlerinde ulusal referans merkez olacak, sosyal entegrasyon programları gelişecek"
+  },
+  {
+    "ilce": "Güngören",
+    "oncelik": "Düşük",
+    "proje_adi": "Güngören Kompakt Şehir Hastanesi",
+    "proje_detay": "Güngören'in 264,831 kişilik yoğun nüfusuna ve sınırlı araziye uygun 220 yataklı dikey mimari hastane inşa edilecektir. Hastane; genel cerrahi, ortopedi, kadın doğum, pediatri, kardiyoloji, nöroloji, üroloji, dermatoloji, göz ve KBB bölümlerini içerecektir. 9 ameliyathane, 32 yataklı yoğun bakım (dahili 18, cerrahi 10, koroner 4), 42 poliklinik odası planlanmaktadır. 1.5 Tesla MR, 64 kesitli BT, dijital röntgen ve ultrason cihazları bulunacaktır. Güngören'in farklı mahallelerine 10 ASM kurulacaktır. Arazi kısıtı nedeniyle dikey mimari ile 12 katlı bina tasarlanacak, her katta yeşil alan oluşturulacaktır. Merter tekstil bölgesine yakınlık nedeniyle iş sağlığı polikliniği kurulacaktır. Toplu taşıma bağlantıları güçlü lokasyon seçilecek, 250 araçlık yeraltı otoparkı yapılacaktır. Akıllı bina yönetimi ile enerji verimliliği sağlanacaktır. Günübirlik cerrahi merkezi ve endoskopi ünitesi kurulacaktır.",
+    "tahmini_maliyet": "₺920 Milyon ($21.9 Milyon)",
+    "beklenen_etki": "264,831 kişiye kompakt ama kapsamlı sağlık hizmeti, iş sağlığı hizmetleri güçlenecek, ASM ağı ile birinci basamak yaygınlaşacak",
+    "uygulama_suresi": "26 ax",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 62,
+      "pratisyen": 45,
+      "asistan": 28,
+      "toplam": 135
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 220,
+      "yogun_bakim": 32,
+      "ameliyathane": 9,
+      "poliklinik": 42,
+      "acil_servis": "7/24 tam donanımlı"
+    },
+    "alternatif_cozumler": [
+      "160 yataklı hastane + 12 ASM + iş sağlığı merkezi (₺720 Milyon - 22 ay)",
+      "Mevcut hastane 120 yatak genişletme + 11 ASM (₺580 Milyon - 18 ay)",
+      "Poliklinik merkezi + 13 ASM ağı (₺420 Milyon - 16 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM'ler açılacak, iş sağlığı taramaları başlayacak, günübirlik cerrahi hizmetleri verilecek",
+    "orta_vade_etki": "3-5 yıl içinde tekstil sektörü çalışanlarına özel sağlık programları gelişecek, meslek hastalıkları takibi sistematik hale gelecek",
+    "uzun_vade_etki": "10 yıl sonra kompakt şehir hastanesi modeli örnek olacak, arazi kısıtlı bölgelere çözüm sunacak"
+  },
+  {
+    "ilce": "Kartal",
+    "oncelik": "Düşük",
+    "proje_adi": "Kartal Eğitim ve Araştırma Hastanesi Genişletme",
+    "proje_detay": "Kartal'ın 475,859 kişilik nüfusuna hizmet verecek mevcut eğitim ve araştırma hastanesi 200 yatak genişletilecek ve toplam 450 yatak kapasitesine ulaşacaktır. Yeni bina; kalp damar cerrahisi, beyin cerrahisi, onkoloji, radyasyon onkolojisi, nöroloji, kardiyoloji, göğüs hastalıkları ve üroloji bölümlerini içerecektir. 8 yeni ameliyathane (hibrid ameliyathane dahil), 35 yataklı yoğun bakım (koroner 15, cerrahi 12, onkoloji 8), 40 poliklinik odası eklenecektir. Robotik cerrahi sistem, 3 Tesla MR, PET-CT, lineer akseleratör ve nükleer tıp ünitesi eklenecektir. Kartal'ın farklı bölgelerine 14 ASM kurulacaktır. Araştırma laboratuvarları genişletilecek, klinik araştırma merkezi kurulacaktır. Tıp fakültesi öğrencileri için eğitim altyapısı güçlendirilecektir. Deniz ambulansı iskelesi ile Marmara'dan acil vakalar karşılanacaktır. Otopark kapasitesi 300 araç artırılacaktır. Akıllı hastane sistemi ve dijital sağlık kayıtları güncellenecektir.",
+    "tahmini_maliyet": "₺1.45 Milyar ($34.5 Milyon)",
+    "beklenen_etki": "475,859 kişiye ileri düzey sağlık hizmeti, araştırma hastanesi kapasitesi artacak, Anadolu yakası güney koridorunun eğitim merkezi olacak",
+    "uygulama_suresi": "34 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 95,
+      "pratisyen": 58,
+      "asistan": 65,
+      "toplam": 218
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 450,
+      "yogun_bakim": 35,
+      "ameliyathane": 8,
+      "poliklinik": 40,
+      "acil_servis": "7/24 genişletilmiş travma merkezi"
+    },
+    "alternatif_cozumler": [
+      "300 yataklı yeni hastane + 15 ASM (₺1.25 Milyar - 30 ay)",
+      "Mevcut hastane 150 yatak genişletme + 16 ASM (₺1.05 Milyar - 26 ay)",
+      "250 yataklı hastane + araştırma merkezi + 14 ASM (₺1.32 Milyar - 32 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM ağı genişleyecek, robotik cerrahi başlayacak, araştırma laboratuvarları kurulacak",
+    "orta_vade_etki": "3-5 yıl içinde onkoloji ve kardiyoloji merkezleri bölgesel referans olacak, klinik araştırmalar artacak, yayın sayısı yükselecek",
+    "uzun_vade_etki": "10 yıl sonra Anadolu yakasının en prestijli eğitim hastanesi haline gelecek, uluslararası akreditasyon alacak, uzmanlık eğitim merkezi olacak"
+  },
+  {
+    "ilce": "Sultanbeyli",
+    "oncelik": "Düşük",
+    "proje_adi": "Sultanbeyli Toplum Sağlığı Odaklı Hastane ve ASM Ağı",
+    "proje_detay": "Sultanbeyli'nin 369,193 kişilik genç nüfusuna hizmet verecek 300 yataklı devlet hastanesi ve güçlü ASM ağı oluşturulacaktır. Hastane; genel cerrahi, ortopedi, kadın doğum, pediatri, yenidoğan, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, dermatoloji, göz, KBB ve aile hekimliği bölümlerini içerecektir. 11 ameliyathane, 40 yataklı yoğun bakım (dahili 22, cerrahi 12, yenidoğan 6), 52 poliklinik odası planlanmaktadır. 1.5 Tesla MR, 128 kesitli BT, dijital röntgen ve ultrason cihazları bulunacaktır. Sultanbeyli'nin farklı bölgelerine 15 ASM kurulacak, her ASM'de anne-çocuk sağlığı, kronik hastalık takibi ve sağlık eğitimi programları yürütülecektir. Toplum sağlığı merkezi ile önleyici sağlık hizmetleri, aşılama programları ve okul sağlığı hizmetleri verilecektir. Gençlik sağlığı danışmanlık merkezi kurulacaktır. Akıllı hastane sistemi, 450 araçlık otopark ve toplu taşıma bağlantıları sağlanacaktır.",
+    "tahmini_maliyet": "₺1.22 Milyar ($29.0 Milyon)",
+    "beklenen_etki": "369,193 kişiye toplum sağlığı odaklı hizmet, güçlü ASM ağı ile birinci basamak önceliklenecek, genç nüfusa yönelik önleyici programlar gelişecek",
+    "uygulama_suresi": "30 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 82,
+      "pratisyen": 65,
+      "asistan": 35,
+      "toplam": 182
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 300,
+      "yogun_bakim": 40,
+      "ameliyathane": 11,
+      "poliklinik": 52,
+      "acil_servis": "7/24 pediatrik acil dahil"
+    },
+    "alternatif_cozumler": [
+      "220 yataklı hastane + 17 ASM + toplum sağlığı merkezi (₺980 Milyon - 26 ay)",
+      "2x130 yataklı hastane farklı bölgelerde + 15 ASM (₺1.05 Milyar - 28 ay)",
+      "180 yataklı hastane + mevcut hastane genişletme + 16 ASM (₺880 Milyon - 24 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM ağı tamamlanacak, okul sağlığı programları başlayacak, aşılama oranları yükselecek",
+    "orta_vade_etki": "3-5 yıl içinde anne-bebek sağlığı göstergeleri iyileşecek, kronik hastalık prevalansı azalacak, sağlık okuryazarlığı artacak",
+    "uzun_vade_etki": "10 yıl sonra toplum sağlığı modeli örnek ilçe haline gelecek, birinci basamak sağlık güçlü altyapıya sahip olacak"
+  },
+  {
+    "ilce": "Eyüpsultan",
+    "oncelik": "Düşük",
+    "proje_adi": "Eyüpsultan Tarihi Yarımada Sağlık Kampüsü",
+    "proje_detay": "Eyüpsultan'ın 420,706 kişilik nüfusuna ve tarihi dokusuna uygun 340 yataklı sağlık kampüsü inşa edilecektir. Hastane; genel cerrahi, ortopedi, kadın doğum, pediatri, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, onkoloji, dermatoloji, göz, KBB ve geriatri bölümlerini içerecektir. 12 ameliyathane, 46 yataklı yoğun bakım (dahili 25, cerrahi 15, koroner 6), 58 poliklinik odası planlanmaktadır. 3 Tesla MR, 128 kesitli BT, dijital anjiyografi ve nükleer tıp ünitesi bulunacaktır. Eyüpsultan'ın kuzey bölgelerine 12 ASM kurulacaktır. Haliç kıyısında deniz ambulansı iskelesi oluşturulacaktır. Geriatri merkezi ile yaşlı nüfusa özel bakım hizmetleri sunulacaktır. Tarihi dokuya uygun mimari tasarım, yeşil alan içinde kampüs düzeni ve 500 araçlık otopark planlanmaktadır. Akıllı hastane sistemi, tele-tıp altyapısı ve helikopter pisti sağlanacaktır. Manevi danışmanlık hizmetleri özel birimde verilecektir.",
+    "tahmini_maliyet": "₺1.38 Milyar ($32.9 Milyon)",
+    "beklenen_etki": "420,706 kişiye tarihi dokuya uygun sağlık hizmeti, geriatri merkezi ile yaşlı bakımı güçlenecek, Haliç kıyısı acil müdahale sağlanacak",
+    "uygulama_suresi": "32 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 92,
+      "pratisyen": 60,
+      "asistan": 38,
+      "toplam": 190
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 340,
+      "yogun_bakim": 46,
+      "ameliyathane": 12,
+      "poliklinik": 58,
+      "acil_servis": "7/24 deniz ambulansı destekli"
+    },
+    "alternatif_cozumler": [
+      "250 yataklı hastane + 14 ASM + geriatri merkezi (₺1.12 Milyar - 28 ay)",
+      "2x150 yataklı hastane farklı bölgelerde + 12 ASM (₺1.22 Milyar - 30 ay)",
+      "200 yataklı hastane + mevcut hastane genişletme + 13 ASM (₺980 Milyon - 24 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM'ler açılacak, geriatri hizmetleri başlayacak, Haliç kıyısı acil müdahale güçlenecek",
+    "orta_vade_etki": "3-5 yıl içinde yaşlı bakım merkezi olarak öne çıkacak, kronik hastalık yönetimi gelişecek, evde bakım hizmetleri yaygınlaşacak",
+    "uzun_vade_etki": "10 yıl sonra tarihi yarımadanın sağlık merkezi haline gelecek, geriatri eğitim hastanesi olacak, kültürel duyarlılıkla sağlık hizmeti modeli oluşacak"
+  },
+  {
+    "ilce": "Küçükçekmece",
+    "oncelik": "Düşük",
+    "proje_adi": "Küçükçekmece Göl Kıyısı Mega Sağlık Kompleksi",
+    "proje_detay": "Küçükçekmece'nin 789,033 kişilik büyük nüfusuna hizmet verecek 550 yataklı mega sağlık kompleksi inşa edilecektir. Hastane; genel cerrahi, kalp damar cerrahisi, beyin cerrahisi, ortopedi, travmatoloji, kadın doğum, pediatri, neonatoloji, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, onkoloji, radyasyon onkolojisi, fizik tedavi, göz, KBB, dermatoloji ve psikiyatri bölümlerini içerecektir. 20 ameliyathane (hibrid 2 dahil), 80 yataklı yoğun bakım (dahili 40, cerrahi 24, koroner 10, yenidoğan 6), 90 poliklinik odası planlanmaktadır. Robotik cerrahi sistem, 3 Tesla MR, 256 kesitli BT, PET-CT, dijital anjiyografi, lineer akseleratör ve nükleer tıp ünitesi bulunacaktır. Küçükçekmece'nin farklı bölgelerine 20 ASM kurulacaktır. Göl manzaralı lokasyonda hasta konforu maksimize edilecek, rehabilitasyon bahçeleri oluşturulacaktır. Deniz ambulansı iskelesi ile Marmara kıyısından acil vakalar karşılanacaktır. 800 araçlık otopark, helikopter pisti ve akıllı hastane sistemi sağlanacaktır.",
+    "tahmini_maliyet": "₺2.25 Milyar ($53.6 Milyon)",
+    "beklenen_etki": "789,033 kişiye kapsamlı üçüncü basamak sağlık hizmeti, İstanbul'un batı koridorunun mega sağlık merkezi, göl ve deniz kıyısı acil müdahale güçlenecek",
+    "uygulama_suresi": "42 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 155,
+      "pratisyen": 95,
+      "asistan": 62,
+      "toplam": 312
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 550,
+      "yogun_bakim": 80,
+      "ameliyathane": 20,
+      "poliklinik": 90,
+      "acil_servis": "7/24 travma merkezi, deniz-hava ambulansı"
+    },
+    "alternatif_cozumler": [
+      "400 yataklı hastane + 22 ASM + onkoloji merkezi (₺1.85 Milyar - 36 ay)",
+      "2x250 yataklı hastane farklı bölgelerde + 20 ASM (₺2.05 Milyar - 38 ay)",
+      "350 yataklı hastane + mevcut hastaneler genişletme + 21 ASM (₺1.72 Milyar - 32 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM ağı genişleyecek, acil servis kapasitesi %80 artacak, robotik cerrahi başlayacak",
+    "orta_vade_etki": "3-5 yıl içinde İstanbul'un en büyük sağlık komplekslerinden biri haline gelecek, tüm branşlarda ileri hizmet sunulacak",
+    "uzun_vade_etki": "10 yıl sonra uluslararası akreditasyonlu mega hastane olacak, tıp fakültesi kurulacak, sağlık turizmi merkezi haline gelecek"
+  },
+  {
+    "ilce": "Maltepe",
+    "oncelik": "Düşük",
+    "proje_adi": "Maltepe Sahil Sağlık Kampüsü ve Araştırma Merkezi",
+    "proje_detay": "Maltepe'nin 524,921 kişilik nüfusuna hizmet verecek 430 yataklı sağlık kampüsü ve araştırma merkezi inşa edilecektir. Hastane; genel cerrahi, kalp damar cerrahisi, ortopedi, kadın doğum, pediatri, kardiyoloji, göğüs hastalıkları, nöroloji, beyin cerrahisi, üroloji, onkoloji, dermatoloji, göz, KBB ve fizik tedavi bölümlerini içerecektir. 16 ameliyathane, 60 yataklı yoğun bakım (dahili 32, cerrahi 18, koroner 10), 72 poliklinik odası planlanmaktadır. Hibrid ameliyathane, 3 Tesla MR, 256 kesitli BT, PET-CT, dijital anjiyografi ve nükleer tıp ünitesi bulunacaktır. Maltepe'nin farklı bölgelerine 16 ASM kurulacaktır. Marmara kıyısında deniz manzaralı lokasyon, deniz ambulansı iskelesi ve helikopter pisti sağlanacaktır. Araştırma laboratuvarları, klinik araştırma merkezi ve biyobanka kurulacaktır. Spor tıbbı merkezi ile ortopedi ve fizik tedavi güçlendirilecektir. 650 araçlık otopark, akıllı hastane sistemi ve tele-tıp altyapısı sağlanacaktır.",
+    "tahmini_maliyet": "₺1.78 Milyar ($42.4 Milyon)",
+    "beklenen_etki": "524,921 kişiye ileri düzey sağlık hizmeti, araştırma merkezi ile bilimsel çalışmalar güçlenecek, sahil koridorunun sağlık merkezi olacak",
+    "uygulama_suresi": "38 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 120,
+      "pratisyen": 72,
+      "asistan": 52,
+      "toplam": 244
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 430,
+      "yogun_bakim": 60,
+      "ameliyathane": 16,
+      "poliklinik": 72,
+      "acil_servis": "7/24 deniz-hava ambulansı destekli"
+    },
+    "alternatif_cozumler": [
+      "320 yataklı hastane + 18 ASM + araştırma merkezi (₺1.45 Milyar - 32 ay)",
+      "2x190 yataklı hastane farklı bölgelerde + 16 ASM (₺1.58 Milyar - 34 ay)",
+      "280 yataklı hastane + mevcut hastane genişletme + 17 ASM (₺1.32 Milyar - 28 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM ağı genişleyecek, araştırma laboratuvarları kurulacak, spor tıbbı hizmetleri başlayacak",
+    "orta_vade_etki": "3-5 yıl içinde klinik araştırmalarda öne çıkacak, yayın sayısı artacak, ortopedi ve kardiyoloji merkezleri güçlenecek",
+    "uzun_vade_etki": "10 yıl sonra Anadolu yakası sahil koridorunun araştırma hastanesi olacak, üniversite hastanesi dönüşümü gerçekleşecek"
+  },
+  {
+    "ilce": "Başakşehir",
+    "oncelik": "Düşük",
+    "proje_adi": "Başakşehir Akıllı Şehir Hastanesi Genişletme",
+    "proje_detay": "Başakşehir'in 520,467 kişilik hızla büyüyen nüfusuna hizmet verecek mevcut şehir hastanesi 250 yatak genişletilecek ve toplam kapasitesi artırılacaktır. Yeni bina; onkoloji, radyasyon onkolojisi, nükleer tıp, kardiyoloji, kalp damar cerrahisi, nöroloji, beyin cerrahisi ve transplantasyon merkezini içerecektir. 10 yeni ameliyathane (hibrid 2 dahil), 40 yataklı yoğun bakım (onkoloji 15, koroner 12, genel 13), 50 poliklinik odası eklenecektir. Robotik cerrahi sistem, PET-CT, lineer akseleratör, 3 Tesla MR ve 256 kesitli BT eklenecektir. Başakşehir'in yeni yerleşim alanlarına 15 ASM kurulacaktır. Akıllı şehir altyapısı ile entegre dijital sağlık sistemi kurulacaktır. Yapay zeka destekli tanı sistemleri, tele-tıp merkezi ve uzaktan hasta takip sistemleri geliştirilecektir. Yeşil bina sertifikası hedeflenerek enerji verimliliği maksimize edilecektir. 600 araçlık otopark genişletmesi ve helikopter pisti eklenecektir.",
+    "tahmini_maliyet": "₺1.62 Milyar ($38.6 Milyon)",
+    "beklenen_etki": "520,467 kişiye ileri teknoloji sağlık hizmeti, akıllı şehir sağlık altyapısı, onkoloji ve transplantasyon merkezleri güçlenecek",
+    "uygulama_suresi": "34 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 105,
+      "pratisyen": 68,
+      "asistan": 55,
+      "toplam": 228
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 250,
+      "yogun_bakim": 40,
+      "ameliyathane": 10,
+      "poliklinik": 50,
+      "acil_servis": "7/24 mevcut acil genişletilmiş"
+    },
+    "alternatif_cozumler": [
+      "300 yataklı yeni hastane + 17 ASM (₺1.35 Miyon - 30 ay)",
+      "Mevcut hastane 180 yatak genişletme + 16 ASM (₺1.18 Milyar - 26 ay)",
+      "200 yataklı hastane + onkoloji merkezi + 15 ASM (₺1.42 Milyar - 32 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde yeni yerleşim alanlarında ASM'ler açılacak, robotik cerrahi yaygınlaşacak, dijital sağlık sistemleri kurulacak",
+    "orta_vade_etki": "3-5 yıl içinde onkoloji ve transplantasyon merkezleri bölgesel referans olacak, yapay zeka uygulamaları gelişecek",
+    "uzun_vade_etki": "10 yıl sonra İstanbul'un en teknolojik hastanesi haline gelecek, akıllı sağlık sistemleri model olacak, uluslararası hasta kabul artacak"
+  },
+  {
+    "ilce": "Esenyurt",
+    "oncelik": "Düşük",
+    "proje_adi": "Esenyurt Mega Sağlık Kampüsü ve Toplum Sağlığı Ağı",
+    "proje_detay": "Esenyurt'un 988,369 kişilik İstanbul'un en kalabalık ilçe nüfusuna hizmet verecek 650 yataklı mega sağlık kampüsü inşa edilecektir. Hastane; genel cerrahi, kalp damar cerrahisi, beyin cerrahisi, ortopedi, travmatoloji, kadın doğum, pediatri, neonatoloji, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, onkoloji, radyasyon onkolojisi, fizik tedavi, göz, KBB, dermatoloji, psikiyatri ve enfeksiyon hastalıkları bölümlerini içerecektir. 24 ameliyathane (hibrid 3 dahil), 95 yataklı yoğun bakım (dahili 48, cerrahi 28, koroner 12, yenidoğan 7), 110 poliklinik odası planlanmaktadır. 2 robotik cerrahi sistem, 2x3 Tesla MR, 2x256 kesitli BT, 2 PET-CT, dijital anjiyografi, 2 lineer akseleratör ve nükleer tıp ünitesi bulunacaktır. Esenyurt'un farklı bölgelerine 28 ASM kurulacak, her ASM'de çok dilli hizmet verilecektir. Göçmen sağlığı merkezi, bulaşıcı hastalıklar takip birimi ve toplum sağlığı merkezi özel önem taşıyacaktır. 1000 araçlık otopark, 2 helikopter pisti, deniz ambulansı iskelesi ve akıllı hastane sistemi sağlanacaktır.",
+    "tahmini_maliyet": "₺2.68 Milyar ($63.8 Milyon)",
+    "beklenen_etki": "988,369 kişiye kapsamlı sağlık hizmeti, İstanbul'un en büyük sağlık kampüsü, çok kültürlü nüfusa özel hizmetler sunulacak",
+    "uygulama_suresi": "48 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 185,
+      "pratisyen": 125,
+      "asistan": 78,
+      "toplam": 388
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 650,
+      "yogun_bakim": 95,
+      "ameliyathane": 24,
+      "poliklinik": 110,
+      "acil_servis": "7/24 mega travma merkezi, çok dilli hizmet"
+    },
+    "alternatif_cozumler": [
+      "2x300 yataklı hastane farklı bölgelerde + 28 ASM (₺2.35 Milyar - 42 ay)",
+      "450 yataklı hastane + mevcut hastaneler genişletme + 30 ASM (₺2.15 Milyar - 38 ay)",
+      "500 yataklı hastane + göçmen sağlığı merkezi + 26 ASM (₺2.42 Milyar - 44 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM ağı yaygınlaşacak, çok dilli sağlık hizmeti başlayacak, acil servis kapasitesi %100 artacak",
+    "orta_vade_etki": "3-5 yıl içinde İstanbul'un en büyük sağlık kampüsü olacak, göçmen sağlığı model merkez haline gelecek, tüm branşlarda ileri hizmet sunulacak",
+    "uzun_vade_etki": "10 yıl sonra ulusal ve uluslararası referans hastane olacak, çok kültürlü sağlık hizmetlerinde öncü olacak, tıp fakültesi kurulacak"
+  },
+  {
+    "ilce": "Ümraniye",
+    "oncelik": "Düşük",
+    "proje_adi": "Ümraniye Eğitim ve Araştırma Hastanesi Süper Genişletme",
+    "proje_detay": "Ümraniye'nin 727,819 kişilik büyük nüfusuna hizmet verecek mevcut eğitim ve araştırma hastanesi 300 yatak genişletilecek ve toplam 600 yatak kapasitesine ulaşacaktır. Yeni bina; kalp damar cerrahisi, beyin cerrahisi, transplantasyon merkezi, onkoloji, radyasyon onkolojisi, nöroloji, kardiyoloji, göğüs hastalıkları, üroloji ve ileri cerrahi bölümlerini içerecektir. 12 yeni ameliyathane (hibrid 3 dahil), 50 yataklı yoğun bakım (koroner 20, transplantasyon 12, onkoloji 10, genel 8), 60 poliklinik odası eklenecektir. Robotik cerrahi sistem, 3 Tesla MR, PET-CT, lineer akseleratör, dijital anjiyografi ve ileri görüntüleme sistemleri eklenecektir. Ümraniye'nin farklı bölgelerine 19 ASM kurulacaktır. Transplantasyon merkezi (böbrek, karaciğer, kalp) kurulacak, doku tiplendirme laboratuvarı oluşturulacaktır. Araştırma laboratuvarları genişletilecek, gen tedavisi araştırma merkezi kurulacaktır. Tıp fakültesi eğitim altyapısı güçlendirilecektir. 700 araçlık otopark eklenmesi ve helikopter pisti genişletmesi yapılacaktır.",
+    "tahmini_maliyet": "₺1.95 Milyar ($46.4 Milyon)",
+    "beklenen_etki": "727,819 kişiye ileri düzey sağlık hizmeti, transplantasyon merkezi ile organ nakli kapasitesi artacak, araştırma hastanesi statüsü güçlenecek",
+    "uygulama_suresi": "40 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 125,
+      "pratisyen": 75,
+      "asistan": 85,
+      "toplam": 285
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 600,
+      "yogun_bakim": 50,
+      "ameliyathane": 12,
+      "poliklinik": 60,
+      "acil_servis": "7/24 genişletilmiş travma merkezi"
+    },
+    "alternatif_cozumler": [
+      "400 yataklı yeni hastane + transplantasyon merkezi + 20 ASM (₺1.68 Milyar - 36 ay)",
+      "Mevcut hastane 250 yatak genişletme + 21 ASM (₺1.52 Milyar - 32 ay)",
+      "350 yataklı hastane + araştırma merkezi + 19 ASM (₺1.75 Milyar - 38 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM ağı genişleyecek, transplantasyon merkezi kurulacak, robotik cerrahi yaygınlaşacak",
+    "orta_vade_etki": "3-5 yıl içinde organ nakli sayısı artacak, gen tedavisi araştırmaları başlayacak, uluslararası yayın sayısı yükselecek",
+    "uzun_vade_etki": "10 yıl sonra Türkiye'nin önde gelen transplantasyon merkezi olacak, gen tedavisinde öncü olacak, uluslararası akreditasyon alacak"
+  },
+  {
+    "ilce": "Beylikdüzü",
+    "oncelik": "Düşük",
+    "proje_adi": "Beylikdüzü Modern Yaşam Sağlık Kompleksi",
+    "proje_detay": "Beylikdüzü'nün 415,290 kişilik modern yaşam tarzına uygun 360 yataklı sağlık kompleksi inşa edilecektir. Hastane; genel cerrahi, ortopedi, spor hekimliği, kadın doğum, tüp bebek merkezi, pediatri, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, onkoloji, dermatoloji, estetik cerrahi, göz, KBB ve fizik tedavi bölümlerini içerecektir. 14 ameliyathane, 50 yataklı yoğun bakım (dahili 28, cerrahi 16, koroner 6), 65 poliklinik odası planlanmaktadır. Robotik cerrahi, 3 Tesla MR, 128 kesitli BT, PET-CT, dijital anjiyografi ve ileri görüntüleme sistemleri bulunacaktır. Beylikdüzü'nün farklı bölgelerine 14 ASM kurulacaktır. Check-up merkezi, wellness merkezi, spor tıbbı ve beslenme danışmanlığı özel önem taşıyacaktır. Marmara kıyısında deniz manzaralı lokasyon, deniz ambulansı iskelesi ve rehabilitasyon bahçeleri oluşturulacaktır. VIP hasta bölümü ile sağlık turizmi desteklenecektir. 600 araçlık otopark, helikopter pisti ve akıllı hastane sistemi sağlanacaktır.",
+    "tahmini_maliyet": "₺1.48 Milyar ($35.2 Milyon)",
+    "beklenen_etki": "415,290 kişiye modern yaşam tarzına uygun sağlık hizmeti, wellness ve önleyici sağlık güçlenecek, sağlık turizmi gelişecek",
+    "uygulama_suresi": "34 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 98,
+      "pratisyen": 62,
+      "asistan": 42,
+      "toplam": 202
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 360,
+      "yogun_bakim": 50,
+      "ameliyathane": 14,
+      "poliklinik": 65,
+      "acil_servis": "7/24 deniz ambulansı destekli"
+    },
+    "alternatif_cozumler": [
+      "270 yataklı hastane + 16 ASM + wellness merkezi (₺1.22 Milyar - 28 ay)",
+      "2x160 yataklı hastane farklı bölgelerde + 14 ASM (₺1.32 Milyar - 30 ay)",
+      "220 yataklı hastane + mevcut hastane genişletme + 15 ASM (₺1.08 Milyar - 26 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde check-up merkezi açılacak, ASM ağı tamamlanacak, spor tıbbı hizmetleri başlayacak",
+    "orta_vade_etki": "3-5 yıl içinde wellness ve önleyici sağlık merkezi olarak öne çıkacak, sağlık turizmi gelişecek, VIP hasta sayısı artacak",
+    "uzun_vade_etki": "10 yıl sonra İstanbul'un en prestijli sağlık komplekslerinden biri haline gelecek, uluslararası hasta oranı yükselecek"
+  },
+  {
+    "ilce": "Ataşehir",
+    "oncelik": "Düşük",
+    "proje_adi": "Ataşehir Finans Merkezi Sağlık Kampüsü",
+    "proje_detay": "Ataşehir'in 414,866 kişilik iş merkezi nüfusuna hizmet verecek 350 yataklı modern sağlık kampüsü inşa edilecektir. Hastane; genel cerrahi, kalp damar cerrahisi, ortopedi, kadın doğum, pediatri, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, onkoloji, dermatoloji, göz, KBB, psikiyatri ve iş sağlığı bölümlerini içerecektir. 13 ameliyathane, 48 yataklı yoğun bakım (dahili 26, cerrahi 16, koroner 6), 62 poliklinik odası planlanmaktadır. Hibrid ameliyathane, 3 Tesla MR, 256 kesitli BT, PET-CT ve dijital anjiyografi bulunacaktır. Ataşehir'in farklı bölgelerine 13 ASM kurulacaktır. İş merkezi yakınlığı nedeniyle executive check-up merkezi, stres yönetimi kliniği ve iş sağlığı polikliniği özel önem taşıyacaktır. Hızlı randevu sistemi, online konsültasyon ve dijital sağlık kayıtları ile iş insanlarına özel hizmet sunulacaktır. 550 araçlık otopark, helikopter pisti ve toplu taşıma bağlantıları sağlanacaktır. Akıllı hastane sistemi ile tüm süreçler dijitalleştirilecektir.",
+    "tahmini_maliyet": "₺1.42 Milyar ($33.8 Milyon)",
+    "beklenen_etki": "414,866 kişiye iş yaşamına uygun sağlık hizmeti, finans merkezi çalışanlarına özel programlar, executive sağlık hizmetleri güçlenecek",
+    "uygulama_suresi": "32 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 95,
+      "pratisyen": 58,
+      "asistan": 40,
+      "toplam": 193
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 350,
+      "yogun_bakim": 48,
+      "ameliyathane": 13,
+      "poliklinik": 62,
+      "acil_servis": "7/24 executive acil dahil"
+    },
+    "alternatif_cozumler": [
+      "260 yataklı hastane + 15 ASM + executive merkezi (₺1.15 Milyar - 28 ay)",
+      "2x150 yataklı hastane farklı bölgelerde + 13 ASM (₺1.25 Milyar - 30 ay)",
+      "200 yataklı hastane + mevcut hastane genişletme + 14 ASM (₺1.05 Milyar - 24 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde executive check-up merkezi açılacak, iş sağlığı programları başlayacak, online konsültasyon hizmeti verilecek",
+    "orta_vade_etki": "3-5 yıl içinde finans sektörü sağlık merkezi olarak öne çıkacak, stres yönetimi ve kardiyoloji hizmetleri gelişecek",
+    "uzun_vade_etki": "10 yıl sonra İstanbul'un iş dünyası sağlık merkezi haline gelecek, kurumsal sağlık programları yaygınlaşacak"
+  },
+  {
+    "ilce": "Üsküdar",
+    "oncelik": "Düşük",
+    "proje_adi": "Üsküdar Tarihi Yarımada Entegre Sağlık Merkezi",
+    "proje_detay": "Üsküdar'ın 512,981 kişilik tarihi nüfusuna ve coğrafi özelliklerine uygun 400 yataklı entegre sağlık merkezi inşa edilecektir. Hastane; genel cerrahi, kalp damar cerrahisi, ortopedi, kadın doğum, pediatri, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, onkoloji, dermatoloji, göz, KBB, psikiyatri ve geriatri bölümlerini içerecektir. 15 ameliyathane, 55 yataklı yoğun bakım (dahili 30, cerrahi 18, koroner 7), 68 poliklinik odası planlanmaktadır. 3 Tesla MR, 128 kesitli BT, PET-CT, dijital anjiyografi ve nükleer tıp ünitesi bulunacaktır. Üsküdar'ın farklı bölgelerine 16 ASM kurulacaktır. Boğaz kıyısında deniz ambulansı iskelesi oluşturulacaktır. Tarihi dokuya uygun mimari tasarım, yeşil alan içinde kampüs düzeni ve 550 araçlık otopark planlanmaktadır. Geriatri merkezi ile yaşlı nüfusa özel bakım hizmetleri sunulacaktır. Ruh sağlığı merkezi özel önem taşıyacaktır. Akıllı hastane sistemi, tele-tıp altyapısı ve helikopter pisti sağlanacaktır.",
+    "tahmini_maliyet": "₺1.62 Milyar ($38.6 Milyon)",
+    "beklenen_etki": "512,981 kişiye tarihi dokuya uygun sağlık hizmeti, Boğaz kıyısı acil müdahale, geriatri ve ruh sağlığı hizmetleri güçlenecek",
+    "uygulama_suresi": "36 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 108,
+      "pratisyen": 68,
+      "asistan": 45,
+      "toplam": 221
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 400,
+      "yogun_bakim": 55,
+      "ameliyathane": 15,
+      "poliklinik": 68,
+      "acil_servis": "7/24 deniz ambulansı destekli"
+    },
+    "alternatif_cozumler": [
+      "300 yataklı hastane + 18 ASM + geriatri merkezi (₺1.32 Milyar - 30 ay)",
+      "2x180 yataklı hastane farklı bölgelerde + 16 ASM (₺1.45 Milyar - 32 ay)",
+      "250 yataklı hastane + mevcut hastaneler genişletme + 17 ASM (₺1.18 Milyar - 26 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM ağı genişleyecek, geriatri hizmetleri başlayacak, Boğaz kıyısı acil müdahale güçlenecek",
+    "orta_vade_etki": "3-5 yıl içinde yaşlı bakım ve ruh sağlığı merkezi olarak öne çıkacak, kronik hastalık yönetimi gelişecek",
+    "uzun_vade_etki": "10 yıl sonra tarihi yarımadanın sağlık merkezi haline gelecek, geriatri eğitim hastanesi olacak, kültürel duyarlılıkla sağlık hizmeti modeli oluşacak"
+  },
+  {
+    "ilce": "Çekmeköy",
+    "oncelik": "Düşük",
+    "proje_adi": "Çekmeköy Yeşil Vadi Sağlık Kampüsü",
+    "proje_detay": "Çekmeköy'ün 306,739 kişilik doğa içi nüfusuna hizmet verecek 280 yataklı yeşil sağlık kampüsü inşa edilecektir. Hastane; genel cerrahi, ortopedi, kadın doğum, pediatri, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, dermatoloji, göz, KBB ve fizik tedavi bölümlerini içerecektir. 11 ameliyathane, 38 yataklı yoğun bakım (dahili 20, cerrahi 12, koroner 6), 50 poliklinik odası planlanmaktadır. 1.5 Tesla MR, 128 kesitli BT, dijital röntgen ve ultrason cihazları bulunacaktır. Çekmeköy'ün farklı bölgelerine 11 ASM kurulacaktır. Orman bölgesine yakınlık nedeniyle fizik tedavi ve rehabilitasyon merkezi, doğa terapisi programları özel önem taşıyacaktır. Yeşil bina sertifikası hedeflenerek güneş enerjisi, yağmur suyu toplama ve enerji verimliliği maksimize edilecektir. Rehabilitasyon bahçeleri, yürüyüş parkurları ve terapi alanları oluşturulacaktır. Helikopter pisti ile orman yangını ve kaza vakalarına hızlı müdahale sağlanacaktır. 400 araçlık otopark ve akıllı hastane sistemi kurulacaktır.",
+    "tahmini_maliyet": "₺1.15 Milyar ($27.4 Milyon)",
+    "beklenen_etki": "306,739 kişiye doğa içi sağlık hizmeti, fizik tedavi ve rehabilitasyon güçlenecek, yeşil hastane modeli oluşturulacak",
+    "uygulama_suresi": "28 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 75,
+      "pratisyen": 50,
+      "asistan": 32,
+      "toplam": 157
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 280,
+      "yogun_bakim": 38,
+      "ameliyathane": 11,
+      "poliklinik": 50,
+      "acil_servis": "7/24 orman kurtarma destekli"
+    },
+    "alternatif_cozumler": [
+      "200 yataklı hastane + 13 ASM + rehab merkezi (₺920 Milyon - 24 ay)",
+      "2x120 yataklı hastane farklı bölgelerde + 11 ASM (₺1.02 Milyar - 26 ay)",
+      "150 yataklı hastane + mevcut hastane genişletme + 12 ASM (₺780 Milyon - 20 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM ağı tamamlanacak, rehabilitasyon merkezi açılacak, doğa terapisi programları başlayacak",
+    "orta_vade_etki": "3-5 yıl içinde ortopedi ve fizik tedavi merkezi olarak öne çıkacak, yeşil hastane sertifikası alınacak, enerji verimliliği %40 artacak",
+    "uzun_vade_etki": "10 yıl sonra İstanbul'un yeşil sağlık kampüsü modeli olacak, doğa içi terapi programları gelişecek, sürdürülebilir sağlık örneği olacak"
+  },
+  {
+    "ilce": "Bağcılar",
+    "oncelik": "Düşük",
+    "proje_adi": "Bağcılar Merkez Devlet Hastanesi Kapsamlı Genişletme",
+    "proje_detay": "Bağcılar'ın 713,594 kişilik yoğun nüfusuna hizmet verecek mevcut hastane 280 yatak genişletilecek ve toplam 500 yatak kapasitesine ulaşacaktır. Yeni bina; genel cerrahi, kalp damar cerrahisi, ortopedi, kadın doğum, pediatri, neonatoloji, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, onkoloji, dermatoloji, göz, KBB ve psikiyatri bölümlerini içerecektir. 12 yeni ameliyathane, 45 yataklı yoğun bakım (dahili 24, cerrahi 14, koroner 7), 55 poliklinik odası eklenecektir. 3 Tesla MR, 128 kesitli BT, PET-CT ve dijital anjiyografi eklenecektir. Bağcılar'ın yoğun yerleşim alanlarına 18 ASM kurulacaktır. Mevcut binanın tam modernizasyonu yapılacak, acil servis 2 kat genişletilecektir. Günübirlik cerrahi merkezi, endoskopi ünitesi ve check-up merkezi kurulacaktır. Dijital hastane yönetim sistemi, online randevu ve takip sistemleri güncellenecektir. Otopark kapasitesi 400 araç artırılacaktır. Toplu taşıma bağlantıları güçlendirilecektir.",
+    "tahmini_maliyet": "₺1.82 Milyar ($43.3 Milyon)",
+    "beklenen_etki": "713,594 kişiye geliştirilmiş sağlık hizmeti, acil servis kapasitesi %100 artacak, ASM ağı ile birinci basamak güçlenecek",
+    "uygulama_suresi": "36 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 115,
+      "pratisyen": 80,
+      "asistan": 52,
+      "toplam": 247
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 500,
+      "yogun_bakim": 45,
+      "ameliyathane": 12,
+      "poliklinik": 55,
+      "acil_servis": "7/24 genişletilmiş mega acil"
+    },
+    "alternatif_cozumler": [
+      "350 yataklı yeni hastane + 20 ASM (₺1.55 Milyar - 32 ay)",
+      "Mevcut hastane 200 yatak genişletme + 19 ASM (₺1.38 Milyar - 28 ay)",
+      "250 yataklı hastane + poliklinik merkezi + 18 ASM (₺1.62 Milyar - 34 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM'ler açılacak, günübirlik cerrahi başlayacak, dijital sistemler kurulacak",
+    "orta_vade_etki": "3-5 yıl içinde genişletme tamamlanacak, hasta kapasitesi %80 artacak, bekleme süreleri %50 azalacak",
+    "uzun_vade_etki": "10 yıl sonra İstanbul'un en büyük devlet hastanelerinden biri haline gelecek, tüm branşlarda hizmet verecek"
+  },
+  {
+    "ilce": "Bahçelievler",
+    "oncelik": "Düşük",
+    "proje_adi": "Bahçelievler Şehir Hastanesi ve Onkoloji Merkezi",
+    "proje_detay": "Bahçelievler'in 560,086 kişilik nüfusuna hizmet verecek 450 yataklı şehir hastanesi ve entegre onkoloji merkezi inşa edilecektir. Hastane; genel cerrahi, kalp damar cerrahisi, ortopedi, kadın doğum, pediatri, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, onkoloji, radyasyon onkolojisi, hematoloji, dermatoloji, göz, KBB ve palyatif bakım bölümlerini içerecektir. 16 ameliyathane, 62 yataklı yoğun bakım (dahili 32, cerrahi 18, onkoloji 12), 72 poliklinik odası planlanmaktadır. Robotik cerrahi, 3 Tesla MR, 256 kesitli BT, 2 PET-CT, 2 lineer akseleratör, brakiterapi ünitesi ve nükleer tıp bulunacaktır. Bahçelievler'in farklı bölgelerine 17 ASM kurulacaktır. Onkoloji merkezi; kemoterapi ünitesi, radyoterapi ünitesi, palyatif bakım merkezi ve psiko-onkoloji bölümünü içerecektir. Kök hücre nakli ünitesi kurulacaktır. 600 araçlık otopark, helikopter pisti ve akıllı hastane sistemi sağlanacaktır. Kanser araştırma laboratuvarı ve klinik araştırma merkezi kurulacaktır.",
+    "tahmini_maliyet": "₺1.85 Milyar ($44.0 Milyon)",
+    "beklenen_etki": "560,086 kişiye kapsamlı sağlık hizmeti, İstanbul'un önemli onkoloji merkezlerinden biri olacak, kanser tedavisinde ileri hizmetler sunulacak",
+    "uygulama_suresi": "38 ax",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 122,
+      "pratisyen": 72,
+      "asistan": 55,
+      "toplam": 249
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 450,
+      "yogun_bakim": 62,
+      "ameliyathane": 16,
+      "poliklinik": 72,
+      "acil_servis": "7/24 onkolojik acil dahil"
+    },
+    "alternatif_cozumler": [
+      "320 yataklı hastane + onkoloji merkezi + 19 ASM (₺1.52 Milyar - 32 ay)",
+      "2x200 yataklı hastane farklı bölgelerde + 17 ASM (₺1.65 Milyar - 34 ay)",
+      "280 yataklı hastane + mevcut hastane genişletme + 18 ASM (₺1.38 Milyar - 28 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM ağı genişleyecek, kemoterapi ünitesi açılacak, kanser tarama programları başlayacak",
+    "orta_vade_etki": "3-5 yıl içinde onkoloji merkezi bölgesel referans olacak, kök hücre nakli başlayacak, kanser tedavi oranları yükselecek",
+    "uzun_vade_etki": "10 yıl sonra İstanbul'un önde gelen onkoloji merkezlerinden biri haline gelecek, kanser araştırmalarında öncü olacak"
+  },
+  {
+    "ilce": "Tuzla",
+    "oncelik": "Düşük",
+    "proje_adi": "Tuzla Tersane ve Lojistik Sağlık Merkezi",
+    "proje_detay": "Tuzla'nın 301,400 kişilik endüstriyel nüfusuna hizmet verecek 280 yataklı sağlık merkezi inşa edilecektir. Hastane; genel cerrahi, ortopedi, travmatoloji, kadın doğum, pediatri, kardiyoloji, göğüs hastalıkları, iş hastalıkları, nöroloji, üroloji, dermatoloji, göz, KBB ve acil tıp bölümlerini içerecektir. 11 ameliyathane, 40 yataklı yoğun bakım (dahili 22, cerrahi 12, travma 6), 52 poliklinik odası planlanmaktadır. 1.5 Tesla MR, 128 kesitli BT, dijital röntgen ve ultrason cihazları bulunacaktır. Tuzla'nın farklı bölgelerine 10 ASM kurulacaktır. Tersane ve lojistik bölgesi yakınlığı nedeniyle iş sağlığı ve meslek hastalıkları merkezi, travma merkezi özel önem taşıyacaktır. Deniz ambulansı iskelesi ile Marmara'dan acil vakalar ve gemi kazaları karşılanacaktır. Hiperbarik oksijen tedavi ünitesi kurulacaktır. Sabiha Gökçen Havalimanı yakınlığı ile hava ambulansı bağlantısı sağlanacaktır. 450 araçlık otopark ve helikopter pisti planlanmaktadır.",
+    "tahmini_maliyet": "₺1.15 Milyar ($27.4 Milyon)",
+    "beklenen_etki": "301,400 kişiye endüstriyel bölge odaklı sağlık hizmeti, iş kazaları ve meslek hastalıkları takibi güçlenecek, deniz kurtarma kapasitesi artacak",
+    "uygulama_suresi": "28 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 75,
+      "pratisyen": 48,
+      "asistan": 32,
+      "toplam": 155
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 280,
+      "yogun_bakim": 40,
+      "ameliyathane": 11,
+      "poliklinik": 52,
+      "acil_servis": "7/24 travma ve deniz kurtarma"
+    },
+    "alternatif_cozumler": [
+      "200 yataklı hastane + 12 ASM + iş sağlığı merkezi (₺920 Milyon - 24 ay)",
+      "2x120 yataklı hastane farklı bölgelerde + 10 ASM (₺1.02 Milyar - 26 ay)",
+      "150 yataklı hastane + mevcut hastane genişletme + 11 ASM (₺780 Milyon - 20 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde iş sağlığı merkezi açılacak, tersane çalışanlarına periyodik muayeneler başlayacak, deniz ambulansı hizmete girecek",
+    "orta_vade_etki": "3-5 yıl içinde iş kazaları %30 azalacak, meslek hastalıkları erken teşhis edilecek, hiperbarik tedavi yaygınlaşacak",
+    "uzun_vade_etki": "10 yıl sonra Marmara bölgesinin endüstriyel sağlık merkezi haline gelecek, deniz kurtarma eğitim merkezi olacak"
+  },
+  {
+    "ilce": "Sancaktepe",
+    "oncelik": "Düşük",
+    "proje_adi": "Sancaktepe Yeni Nesil Akıllı Hastane",
+    "proje_detay": "Sancaktepe'nin 502,077 kişilik genç nüfusuna hizmet verecek 400 yataklı yeni nesil akıllı hastane inşa edilecektir. Hastane; genel cerrahi, kalp damar cerrahisi, ortopedi, kadın doğum, pediatri, yenidoğan, kardiyoloji, göğüs hastalıkları, nöroloji, üroloji, onkoloji, dermatoloji, göz, KBB ve psikiyatri bölümlerini içerecektir. 15 ameliyathane, 56 yataklı yoğun bakım (dahili 30, cerrahi 18, koroner 8), 68 poliklinik odası planlanmaktadır. Robotik cerrahi, yapay zeka destekli tanı sistemleri, 3 Tesla MR, 256 kesitli BT, PET-CT ve dijital anjiyografi bulunacaktır. Sancaktepe'nin farklı bölgelerine 16 ASM kurulacaktır. Tam dijital hastane konsepti ile kağıtsız sistem, IoT sensörleri, akıllı yatak sistemleri ve robot asistanlar kullanılacaktır. Tele-tıp merkezi ile uzaktan konsültasyon ve evde hasta takibi sağlanacaktır. Blockchain tabanlı sağlık kayıt sistemi kurulacaktır. Yeşil enerji ile %60 enerji ihtiyacı karşılanacaktır. 600 araçlık akıllı otopark ve helikopter pisti sağlanacaktır.",
+    "tahmini_maliyet": "₺1.72 Milyar ($41.0 Milyon)",
+    "beklenen_etki": "502,077 kişiye yeni nesil akıllı sağlık hizmeti, dijital sağlık sistemleri öncülüğü, yapay zeka destekli tanı ve tedavi sunulacak",
+    "uygulama_suresi": "36 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 110,
+      "pratisyen": 68,
+      "asistan": 48,
+      "toplam": 226
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 400,
+      "yogun_bakim": 56,
+      "ameliyathane": 15,
+      "poliklinik": 68,
+      "acil_servis": "7/24 AI destekli acil"
+    },
+    "alternatif_cozumler": [
+      "300 yataklı hastane + 18 ASM + AI merkezi (₺1.42 Milyar - 30 ay)",
+      "2x180 yataklı hastane farklı bölgelerde + 16 ASM (₺1.52 Milyar - 32 ay)",
+      "250 yataklı hastane + dijital sağlık merkezi + 17 ASM (₺1.28 Milyar - 28 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde dijital altyapı kurulacak, ASM'lerde tele-tıp başlayacak, yapay zeka sistemleri test edilecek",
+    "orta_vade_etki": "3-5 yıl içinde tam dijital hastane olacak, robot asistanlar yaygınlaşacak, tanı süreleri %40 kısalacak",
+    "uzun_vade_etki": "10 yıl sonra Türkiye'nin en teknolojik hastanesi haline gelecek, dijital sağlık modeli örnek olacak, uluslararası teknoloji ödülleri alacak"
+  },
+  {
+    "ilce": "Şile",
+    "oncelik": "Düşük",
+    "proje_adi": "Şile Kırsal Alan Sağlık Ağı ve Turizm Hastanesi",
+    "proje_detay": "Şile'nin 48,936 kişilik kırsal ve turizm nüfusuna hizmet verecek 100 yataklı turizm hastanesi ve güçlü ASM ağı oluşturulacaktır. Hastane; genel cerrahi, ortopedi, acil tıp, kadın doğum, pediatri, dahiliye, göz, KBB ve aile hekimliği bölümlerini içerecektir. 4 ameliyathane, 12 yataklı yoğun bakım, 20 poliklinik odası planlanmaktadır. 1.5 Tesla MR, 16 kesitli BT, dijital röntgen ve ultrason cihazları bulunacaktır. Şile'nin 15 köyüne 8 ASM kurulacak, mobil sağlık ekipleri ile periyodik ziyaretler yapılacaktır. Deniz ambulansı ve helikopter pisti ile Karadeniz kıyısından acil vakalar karşılanacaktır. Turizm sezonu için genişletilebilir acil servis tasarlanacaktır. Yaz aylarında kapasite 150 yatağa çıkarılabilecektir. Boğulma vakaları için hiperbarik oksijen tedavi ünitesi kurulacaktır. Yeşil bina konsepti ile doğaya uyumlu tasarım yapılacaktır. 200 araçlık otopark ve tele-tıp altyapısı sağlanacaktır.",
+    "tahmini_maliyet": "₺420 Milyon ($10.0 Milyon)",
+    "beklenen_etki": "48,936 kişiye kırsal alan sağlık hizmeti, turizm sezonunda kapasite artışı, Karadeniz kıyısı acil müdahale güçlenecek",
+    "uygulama_suresi": "18 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 28,
+      "pratisyen": 35,
+      "asistan": 12,
+      "toplam": 75
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 100,
+      "yogun_bakim": 12,
+      "ameliyathane": 4,
+      "poliklinik": 20,
+      "acil_servis": "7/24 deniz-hava ambulansı"
+    },
+    "alternatif_cozumler": [
+      "80 yataklı hastane + 10 ASM + mobil üniteler (₺350 Milyon - 16 ay)",
+      "2x50 yataklı hastane farklı bölgelerde + 8 ASM (₺380 Milyon - 18 ay)",
+      "60 yataklı hastane + 9 ASM + deniz kurtarma (₺320 Milyon - 14 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM'ler köylerde açılacak, mobil sağlık ekipleri hizmete girecek, deniz ambulansı başlayacak",
+    "orta_vade_etki": "3-5 yıl içinde kırsal alan sağlık erişimi %70 artacak, turizm sezonu sağlık hizmetleri güçlenecek, boğulma vakalarına müdahale gelişecek",
+    "uzun_vade_etki": "10 yıl sonra Karadeniz kıyısının model sağlık merkezi haline gelecek, kırsal sağlık ağı örnek olacak, ekoturizm sağlık programları gelişecek"
+  },
+  {
+    "ilce": "Adalar",
+    "oncelik": "Düşük",
+    "proje_adi": "Adalar Deniz Sağlık İstasyonu ve ASM Ağı",
+    "proje_detay": "Adalar'ın 16,979 kişilik ada nüfusuna ve turistik özelliklerine uygun 40 yataklı deniz sağlık istasyonu ve 4 ASM ağı oluşturulacaktır. Sağlık istasyonu; acil tıp, dahiliye, genel cerrahi, ortopedi, kadın doğum ve pediatri birimlerini içerecektir. 2 ameliyathane, 6 yataklı yoğun bakım, 12 poliklinik odası planlanmaktadır. Dijital röntgen, ultrason ve temel laboratuvar bulunacaktır. Büyükada, Heybeliada, Burgazada ve Kınalıada'ya birer ASM kurulacaktır. Deniz ambulansı filosu ile adalar arası ve İstanbul'a hızlı sevk imkanı sağlanacaktır. Turizm sezonu için genişletilebilir acil servis tasarlanacaktır. Tele-tıp sistemi ile merkez hastanelere bağlantı kurulacaktır. Tarihi dokuya uygun mimari tasarım, çevre dostu teknolojiler kullanılacaktır. Güneş enerjisi ile enerji ihtiyacının %80'i karşılanacaktır. 50 araçlık otopark ve helikopter pisti sağlanacaktır. Yaşlı nüfus için evde bakım hizmetleri organize edilecektir.",
+    "tahmini_maliyet": "₺180 Milyon ($4.3 Milyon)",
+    "beklenen_etki": "16,979 kişiye ada özelinde sağlık hizmeti, deniz ambulansı ile hızlı sevk, turistik sezon sağlık kapasitesi artacak",
+    "uygulama_suresi": "14 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 12,
+      "pratisyen": 18,
+      "asistan": 6,
+      "toplam": 36
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 40,
+      "yogun_bakim": 6,
+      "ameliyathane": 2,
+      "poliklinik": 12,
+      "acil_servis": "7/24 deniz ambulansı destekli"
+    },
+    "alternatif_cozumler": [
+      "30 yataklı sağlık istasyonu + 5 ASM (₺150 Milyon - 12 ay)",
+      "4 ada sağlık merkezi + deniz ambulansı (₺120 Milyon - 10 ay)",
+      "50 yataklı hastane + 4 ASM + evde bakım (₺200 Milyon - 16 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl içinde tüm adalarda ASM açılacak, deniz ambulansı hizmete girecek, tele-tıp bağlantısı kurulacak",
+    "orta_vade_etki": "3-5 yıl içinde ada sağlık hizmetleri standartlara uygun hale gelecek, yaşlı bakım programları gelişecek, turizm sağlığı güçlenecek",
+    "uzun_vade_etki": "10 yıl sonra sürdürülebilir ada sağlık modeli oluşacak, yeşil enerji ile tamamen kendi enerjisini üretecek, model sağlık adası olacak"
+  },
+  {
+    "ilce": "Beşiktaş",
+    "oncelik": "Düşük",
+    "proje_adi": "Beşiktaş Boğaziçi Prestij Sağlık Merkezi",
+    "proje_detay": "Beşiktaş'ın 167,264 kişilik prestijli nüfusuna hizmet verecek 150 yataklı boutique sağlık merkezi ve 6 ASM ağı oluşturulacaktır. Sağlık merkezi; genel cerrahi, ortopedi, kardiyoloji, check-up merkezi, estetik cerrahi, dermatoloji, göz, KBB ve anti-aging bölümlerini içerecektir. 6 ameliyathane, 20 yataklı yoğun bakım, 30 poliklinik odası planlanmaktadır. 3 Tesla MR, 128 kesitli BT, PET-CT ve ileri görüntüleme sistemleri bulunacaktır. Beşiktaş'ın farklı mahallelerine 6 ASM kurulacaktır. Boğaz manzaralı lokasyonda VIP hasta odaları, executive check-up merkezi ve wellness programları özel önem taşıyacaktır. Deniz ambulansı iskelesi ile Boğaz'dan acil vakalar karşılanacaktır. Sağlık turizmi altyapısı ile uluslararası hasta kabul edilecektir. Concierge sağlık hizmetleri, evde bakım ve kişisel sağlık danışmanlığı sunulacaktır. 200 araçlık valet otopark ve helikopter pisti sağlanacaktır. Akıllı hastane sistemi ile tüm hizmetler dijitalleştirilecektir.",
+    "tahmini_maliyet": "₺650 Milyon ($15.5 Milyon)",
+    "beklenen_etki": "167,264 kişiye prestij sağlık hizmeti, sağlık turizmi gelişecek, Boğaziçi'nin sağlık merkezi olacak",
+    "uygulama_suresi": "22 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 42,
+      "pratisyen": 28,
+      "asistan": 18,
+      "toplam": 88
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 150,
+      "yogun_bakim": 20,
+      "ameliyathane": 6,
+      "poliklinik": 30,
+      "acil_servis": "7/24 VIP acil hizmeti"
+    },
+    "alternatif_cozumler": [
+      "100 yataklı boutique hastane + 7 ASM (₺520 Milyon - 18 ay)",
+      "Check-up merkezi + 8 ASM + evde bakım (₺380 Milyon - 14 ay)",
+      "120 yataklı hastane + wellness merkezi + 6 ASM (₺580 Milyon - 20 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM'ler açılacak, check-up merkezi hizmete girecek, sağlık turizmi başlayacak",
+    "orta_vade_etki": "3-5 yıl içinde İstanbul'un en prestijli sağlık merkezi haline gelecek, uluslararası hasta oranı %40 olacak, concierge hizmetler gelişecek",
+    "uzun_vade_etki": "10 yıl sonra Boğaziçi'nin medikal turizm merkezi olacak, uluslararası akreditasyon alacak, wellness programları dünya çapında tanınacak"
+  },
+  {
+    "ilce": "Beyoğlu",
+    "oncelik": "Düşük",
+    "proje_adi": "Beyoğlu Tarihi Yarımada Sağlık Restorasyon Projesi",
+    "proje_detay": "Beyoğlu'nun 216,688 kişilik tarihi nüfusuna ve turistik özelliklerine uygun mevcut hastanelerin modernizasyonu ve 8 ASM ağı oluşturulacaktır. Mevcut hastaneler; acil tıp, genel cerrahi, ortopedi, kardiyoloji, nöroloji, göz, KBB ve turist sağlığı birimleri ile güçlendirilecektir. 4 ameliyathane yenileme, 15 yataklı yoğun bakım modernizasyonu, 25 poliklinik odası güncellemesi yapılacaktır. 1.5 Tesla MR, 64 kesitli BT ve dijital görüntüleme sistemleri eklenecektir. Beyoğlu'nun farklı mahallelerine 8 ASM kurulacaktır. Tarihi binalarda sağlık hizmeti konsepti ile restore edilmiş yapılarda poliklinikler açılacaktır. Turist sağlığı merkezi ile çok dilli hizmet, sigorta anlaşmaları ve 7/24 danışma hattı kurulacaktır. Taksim bölgesinde acil müdahale istasyonu oluşturulacaktır. Akıllı randevu sistemi, dijital sağlık kayıtları ve tele-tıp altyapısı kurulacaktır. Toplu taşıma bağlantıları güçlü lokasyonlarda hizmet verilecektir.",
+    "tahmini_maliyet": "₺480 Milyon ($11.4 Milyon)",
+    "beklenen_etki": "216,688 kişiye tarihi dokuya uygun sağlık hizmeti, turist sağlığı güçlenecek, acil müdahale kapasitesi artacak",
+    "uygulama_suresi": "18 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 48,
+      "pratisyen": 35,
+      "asistan": 22,
+      "toplam": 105
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 120,
+      "yogun_bakim": 15,
+      "ameliyathane": 4,
+      "poliklinik": 25,
+      "acil_servis": "7/24 çok dilli turist acili"
+    },
+    "alternatif_cozumler": [
+      "100 yataklı yeni hastane + 9 ASM (₺550 Milyon - 20 ay)",
+      "Mevcut hastaneler tam modernizasyon + 10 ASM (₺420 Milyon - 16 ay)",
+      "Turist sağlık merkezi + 8 ASM + acil istasyonlar (₺380 Milyon - 14 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM'ler açılacak, turist sağlığı merkezi hizmete girecek, acil istasyonlar kurulacak",
+    "orta_vade_etki": "3-5 yıl içinde tarihi yapılarda sağlık hizmeti modeli gelişecek, turist memnuniyeti artacak, çok dilli hizmet yaygınlaşacak",
+    "uzun_vade_etki": "10 yıl sonra İstanbul'un turist sağlık merkezi haline gelecek, tarihi sağlık yapıları restore edilecek, kültürel turizm ile sağlık entegrasyonu sağlanacak"
+  },
+  {
+    "ilce": "Şişli",
+    "oncelik": "Düşük",
+    "proje_adi": "Şişli Merkez İş Bölgesi Sağlık Kompleksi",
+    "proje_detay": "Şişli'nin 263,063 kişilik iş merkezi nüfusuna hizmet verecek mevcut hastanelerin genişletilmesi ve 9 ASM ağı oluşturulacaktır. Mevcut eğitim hastaneleri; kardiyoloji, onkoloji, nöroloji, genel cerrahi ve check-up birimleri ile güçlendirilecektir. 6 ameliyathane ekleme, 25 yataklı yoğun bakım genişletmesi, 35 poliklinik odası eklenmesi yapılacaktır. Robotik cerrahi sistem, 3 Tesla MR, PET-CT ve ileri görüntüleme eklenecektir. Şişli'nin farklı mahallelerine 9 ASM kurulacaktır. İş merkezi yakınlığı nedeniyle executive check-up merkezi, stres yönetimi kliniği ve kurumsal sağlık programları özel önem taşıyacaktır. Hızlı randevu sistemi, online konsültasyon ve mobil sağlık uygulaması geliştirilecektir. Acil servis genişletilecek, ambulans filosu artırılacaktır. 400 araçlık otopark eklenmesi ve helikopter pisti kurulması planlanmaktadır. Akıllı hastane yönetim sistemi ile tüm süreçler optimize edilecektir.",
+    "tahmini_maliyet": "₺720 Milyon ($17.1 Milyon)",
+    "beklenen_etki": "263,063 kişiye iş yaşamına uygun sağlık hizmeti, executive sağlık programları güçlenecek, kurumsal anlaşmalar artacak",
+    "uygulama_suresi": "22 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 58,
+      "pratisyen": 38,
+      "asistan": 32,
+      "toplam": 128
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 180,
+      "yogun_bakim": 25,
+      "ameliyathane": 6,
+      "poliklinik": 35,
+      "acil_servis": "7/24 executive acil dahil"
+    },
+    "alternatif_cozumler": [
+      "150 yataklı yeni hastane + 10 ASM (₺650 Milyon - 20 ay)",
+      "Mevcut hastaneler modernizasyon + 11 ASM (₺580 Milyon - 18 ay)",
+      "Check-up merkezi + 9 ASM + kurumsal sağlık (₺480 Milyon - 16 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde executive check-up merkezi açılacak, ASM'ler hizmete girecek, mobil uygulama geliştirilecek",
+    "orta_vade_etki": "3-5 yıl içinde İstanbul'un iş dünyası sağlık merkezi olacak, kurumsal anlaşmalar %60 artacak, online hizmetler yaygınlaşacak",
+    "uzun_vade_etki": "10 yıl sonra iş sağlığı ve executive care'de ulusal lider olacak, kurumsal wellness programları gelişecek, dijital sağlık öncüsü olacak"
+  },
+  {
+    "ilce": "Kadıköy",
+    "oncelik": "Düşük",
+    "proje_adi": "Kadıköy Anadolu Yakası Sağlık Hub'ı",
+    "proje_detay": "Kadıköy'ün 462,189 kişilik kültürel ve sosyal merkez nüfusuna hizmet verecek mevcut hastanelerin kapsamlı modernizasyonu ve 14 ASM ağı oluşturulacaktır. Mevcut eğitim hastaneleri; kalp damar cerrahisi, onkoloji, nöroloji, transplantasyon ve ileri cerrahi birimleri ile güçlendirilecektir. 8 ameliyathane yenileme, 35 yataklı yoğun bakım genişletmesi, 45 poliklinik odası modernizasyonu yapılacaktır. Robotik cerrahi sistem, 2x3 Tesla MR, 2 PET-CT, lineer akseleratör ve ileri görüntüleme sistemleri eklenecektir. Kadıköy'ün farklı mahallelerine 14 ASM kurulacaktır. Kültür ve sanat merkezi yakınlığı nedeniyle yaratıcı terapi programları, sanat terapisi ve müzik terapisi üniteleri kurulacaktır. Moda ve sahil bölgesinde wellness merkezi, spor tıbbı ve beslenme danışmanlığı hizmetleri verilecektir. Deniz ambulansı iskelesi ile Marmara'dan acil vakalar karşılanacaktır. Araştırma laboratuvarları genişletilecek, klinik araştırma merkezi kurulacaktır. 600 araçlık otopark eklenmesi planlanmaktadır.",
+    "tahmini_maliyet": "₺920 Milyon ($21.9 Milyon)",
+    "beklenen_etki": "462,189 kişiye kültürel duyarlılıkla sağlık hizmeti, Anadolu yakasının sağlık hub'ı olacak, sanat terapisi öncülüğü yapılacak",
+    "uygulama_suresi": "26 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 95,
+      "pratisyen": 62,
+      "asistan": 55,
+      "toplam": 212
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 320,
+      "yogun_bakim": 35,
+      "ameliyathane": 8,
+      "poliklinik": 45,
+      "acil_servis": "7/24 deniz ambulansı destekli"
+    },
+    "alternatif_cozumler": [
+      "250 yataklı yeni hastane + 15 ASM (₺850 Milyon - 24 ay)",
+      "Mevcut hastaneler tam modernizasyon + 16 ASM (₺780 Milyon - 22 ay)",
+      "200 yataklı hastane + sanat terapisi merkezi + 14 ASM (₺820 Milyon - 24 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM ağı genişleyecek, sanat terapisi programları başlayacak, wellness merkezi açılacak",
+    "orta_vade_etki": "3-5 yıl içinde Anadolu yakasının sağlık merkezi haline gelecek, yaratıcı terapi programları gelişecek, araştırma yayınları artacak",
+    "uzun_vade_etki": "10 yıl sonra kültür-sanat-sağlık entegrasyonunda öncü olacak, uluslararası sanat terapisi merkezi olacak, Anadolu yakası sağlık hub'ı statüsü kazanacak"
+  },
+  {
+    "ilce": "Fatih",
+    "oncelik": "Düşük",
+    "proje_adi": "Fatih Tarihi Yarımada Sağlık Koruma ve Geliştirme Projesi",
+    "proje_detay": "Fatih'in 354,472 kişilik tarihi ve turistik nüfusuna hizmet verecek mevcut hastanelerin restorasyon ve modernizasyonu ile 12 ASM ağı oluşturulacaktır. Tarihi hastane binaları restore edilerek; acil tıp, genel cerrahi, kardiyoloji, nöroloji, göz, KBB, turist sağlığı ve hac sağlığı birimleri güçlendirilecektir. 6 ameliyathane modernizasyonu, 22 yataklı yoğun bakım yenileme, 32 poliklinik odası restorasyonu yapılacaktır. 1.5 Tesla MR, 128 kesitli BT ve dijital görüntüleme sistemleri eklenecektir. Fatih'in farklı mahallelerine 12 ASM kurulacaktır. Tarihi yarımada özelliği nedeniyle UNESCO standartlarında restorasyon yapılacaktır. Turist ve hacı sağlığı merkezi ile çok dilli hizmet, uluslararası sigorta anlaşmaları ve 7/24 danışma hattı kurulacaktır. Sultanahmet ve Eminönü bölgelerinde acil müdahale istasyonları oluşturulacaktır. Tarihi yapılarda akıllı sağlık teknolojileri entegre edilecektir. Toplu taşıma merkezlerine yakın lokasyonlarda hizmet verilecektir. Kültürel danışmanlık hizmetleri sunulacaktır.",
+    "tahmini_maliyet": "₺650 Milyon ($15.5 Milyon)",
+    "beklenen_etki": "354,472 kişiye tarihi dokuya uygun sağlık hizmeti, turist ve hacı sağlığı güçlenecek, UNESCO standartlarında restorasyon gerçekleşecek",
+    "uygulama_suresi": "24 ay",
+    "hekim_ihtiyaci": {
+      "uzman_hekim": 72,
+      "pratisyen": 52,
+      "asistan": 35,
+      "toplam": 159
+    },
+    "bina_ozellikleri": {
+      "yatak_kapasitesi": 220,
+      "yogun_bakim": 22,
+      "ameliyathane": 6,
+      "poliklinik": 32,
+      "acil_servis": "7/24 çok dilli turist acili"
+    },
+    "alternatif_cozumler": [
+      "180 yataklı yeni hastane + 13 ASM (₺720 Milyon - 26 ay)",
+      "Mevcut hastaneler UNESCO restorasyon + 14 ASM (₺580 Milyon - 22 ay)",
+      "Turist sağlık merkezi + 12 ASM + acil istasyonlar (₺520 Milyon - 20 ay)"
+    ],
+    "kisa_vade_etki": "İlk 2 yıl içinde ASM'ler açılacak, turist sağlık merkezi hizmete girecek, tarihi bina restorasyonları başlayacak",
+    "orta_vade_etki": "3-5 yıl içinde UNESCO standartlarında sağlık yapıları oluşacak, hacı ve turist sağlığı güçlenecek, kültürel sağlık hizmetleri gelişecek",
+    "uzun_vade_etki": "10 yıl sonra tarihi yarımadanın model sağlık merkezi haline gelecek, uluslararası turist sağlığında öncü olacak, tarihi sağlık mirasının korunması örnek olacak"
+  }
+]
+```

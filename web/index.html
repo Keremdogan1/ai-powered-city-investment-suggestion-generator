@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>İstanbul Şehir Analizi - AI Destekli</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        min-height: 100vh;
+        padding: 20px;
+      }
+
+      .container {
+        max-width: 1400px;
+        margin: 0 auto;
+      }
+
+      header {
+        background: white;
+        border-radius: 15px;
+        padding: 40px;
+        margin-bottom: 30px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        text-align: center;
+        animation: slideDown 0.5s ease-out;
+      }
+
+      @keyframes slideDown {
+        from {
+          opacity: 0;
+          transform: translateY(-30px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      h1 {
+        color: #667eea;
+        font-size: 2.8em;
+        margin-bottom: 15px;
+      }
+
+      .subtitle {
+        color: #666;
+        font-size: 1.2em;
+        margin-bottom: 20px;
+      }
+
+      .description {
+        color: #888;
+        font-size: 1em;
+        max-width: 800px;
+        margin: 0 auto;
+        line-height: 1.6;
+      }
+
+      .categories-section {
+        background: white;
+        border-radius: 15px;
+        padding: 40px;
+        margin-bottom: 30px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        animation: fadeIn 0.7s ease-out;
+      }
+
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+          transform: scale(0.95);
+        }
+        to {
+          opacity: 1;
+          transform: scale(1);
+        }
+      }
+
+      .section-title {
+        color: #667eea;
+        font-size: 2em;
+        margin-bottom: 30px;
+        text-align: center;
+      }
+
+      .categories-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 30px;
+        margin-top: 30px;
+      }
+
+      .category-card {
+        background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+        border-radius: 15px;
+        padding: 40px 30px;
+        text-align: center;
+        cursor: pointer;
+        transition: all 0.4s;
+        border: 3px solid transparent;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .category-card::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(
+          90deg,
+          transparent,
+          rgba(255, 255, 255, 0.3),
+          transparent
+        );
+        transition: left 0.5s;
+      }
+
+      .category-card:hover::before {
+        left: 100%;
+      }
+
+      .category-card:hover {
+        transform: translateY(-10px) scale(1.03);
+        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+        border-color: #667eea;
+      }
+
+      .category-card.active {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        transform: scale(1.05);
+        box-shadow: 0 15px 35px rgba(102, 126, 234, 0.4);
+      }
+
+      .category-card.disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+
+      .category-card.disabled:hover {
+        transform: none;
+        box-shadow: none;
+      }
+
+      .category-icon {
+        font-size: 4em;
+        margin-bottom: 20px;
+        filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.2));
+      }
+
+      .category-card.active .category-icon {
+        animation: bounce 1s infinite;
+      }
+
+      @keyframes bounce {
+        0%,
+        100% {
+          transform: translateY(0);
+        }
+        50% {
+          transform: translateY(-10px);
+        }
+      }
+
+      .category-name {
+        font-size: 1.8em;
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+
+      .category-card.active .category-name {
+        color: white;
+      }
+
+      .category-description {
+        font-size: 1em;
+        color: #555;
+        margin-bottom: 15px;
+      }
+
+      .category-card.active .category-description {
+        color: rgba(255, 255, 255, 0.9);
+      }
+
+      .category-stats {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 20px;
+        padding-top: 20px;
+        border-top: 2px solid rgba(0, 0, 0, 0.1);
+      }
+
+      .category-card.active .category-stats {
+        border-top-color: rgba(255, 255, 255, 0.3);
+      }
+
+      .stat-item {
+        text-align: center;
+      }
+
+      .stat-value {
+        font-size: 1.5em;
+        font-weight: bold;
+        color: #667eea;
+      }
+
+      .category-card.active .stat-value {
+        color: white;
+      }
+
+      .stat-label {
+        font-size: 0.8em;
+        color: #666;
+        margin-top: 5px;
+      }
+
+      .category-card.active .stat-label {
+        color: rgba(255, 255, 255, 0.8);
+      }
+
+      .coming-soon-badge {
+        position: absolute;
+        top: 15px;
+        right: 15px;
+        background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        color: white;
+        padding: 5px 15px;
+        border-radius: 20px;
+        font-size: 0.8em;
+        font-weight: bold;
+        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+      }
+
+      .action-button {
+        display: inline-block;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 12px 30px;
+        border-radius: 25px;
+        text-decoration: none;
+        margin-top: 15px;
+        font-weight: bold;
+        transition: all 0.3s;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+      }
+
+      .action-button:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+      }
+
+      .category-card.active .action-button {
+        background: white;
+        color: #667eea;
+      }
+
+      footer {
+        text-align: center;
+        padding: 30px;
+        color: white;
+        margin-top: 40px;
+      }
+
+      .info-section {
+        background: rgba(255, 255, 255, 0.1);
+        border-radius: 15px;
+        padding: 30px;
+        margin-top: 30px;
+        color: white;
+      }
+
+      .info-section h3 {
+        margin-bottom: 15px;
+        font-size: 1.5em;
+      }
+
+      .info-section ul {
+        list-style: none;
+        padding-left: 0;
+      }
+
+      .info-section li {
+        padding: 10px 0;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+      }
+
+      .info-section li:last-child {
+        border-bottom: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>🏙️ İstanbul Şehir Analizi</h1>
+        <p class="subtitle">AI Destekli Kapsamlı İlçe Analiz Platformu</p>
+        <p class="description">
+          İstanbul'un 39 ilçesi için yapay zeka destekli detaylı analiz ve öneri
+          sistemi. Ulaşım, sağlık ve daha fazla kategoride veri odaklı çözümler.
+        </p>
+      </header>
+
+      <div class="categories-section">
+        <h2 class="section-title">📂 Analiz Kategorileri</h2>
+        <p style="text-align: center; color: #666; margin-bottom: 30px">
+          İlgilendiğiniz kategoriyi seçin ve detaylı analiz sayfasına gidin
+        </p>
+
+        <div class="categories-grid">
+          <!-- ULAŞIM KATEGORİSİ -->
+          <div
+            class="category-card active"
+            onclick="window.location.href='/ulasim'"
+          >
+            <div class="category-icon">🚇</div>
+            <div class="category-name">Ulaşım</div>
+            <div class="category-description">
+              Metro, tramvay, otopark ve trafik analizi. 39 ilçe için AI
+              önerileri.
+            </div>
+            <div class="category-stats">
+              <div class="stat-item">
+                <div class="stat-value">39</div>
+                <div class="stat-label">İlçe</div>
+              </div>
+              <div class="stat-item">
+                <div class="stat-value">241</div>
+                <div class="stat-label">İstasyon</div>
+              </div>
+              <div class="stat-item">
+                <div class="stat-value">15.7M</div>
+                <div class="stat-label">Nüfus</div>
+              </div>
+            </div>
+            <a href="/ulasim" class="action-button">📊 Analizi Gör</a>
+          </div>
+
+          <!-- SAĞLIK KATEGORİSİ -->
+          <div class="category-card" onclick="window.location.href='/saglik'">
+            <div class="category-icon">🏥</div>
+            <div class="category-name">Sağlık</div>
+            <div class="category-description">
+              Hastane, yatak kapasitesi ve acil servis erişim analizi.
+            </div>
+            <div class="category-stats">
+              <div class="stat-item">
+                <div class="stat-value">39</div>
+                <div class="stat-label">İlçe</div>
+              </div>
+              <div class="stat-item">
+                <div class="stat-value">-</div>
+                <div class="stat-label">Hastane</div>
+              </div>
+              <div class="stat-item">
+                <div class="stat-value">-</div>
+                <div class="stat-label">Yatak</div>
+              </div>
+            </div>
+            <a href="/saglik" class="action-button">📊 Analizi Gör</a>
+          </div>
+
+          <!-- ÇEVRE KATEGORİSİ -->
+          <div class="category-card" onclick="window.location.href='/cevre'">
+            <div class="category-icon">🌳</div>
+            <div class="category-name">Çevre</div>
+            <div class="category-description">
+              Yeşil alan, park ve çevre altyapısı analizi. 39 ilçe için AI önerileri.
+            </div>
+            <div class="category-stats">
+              <div class="stat-item">
+                <div class="stat-value">39</div>
+                <div class="stat-label">İlçe</div>
+              </div>
+              <div class="stat-item">
+                <div class="stat-value">-</div>
+                <div class="stat-label">Park</div>
+              </div>
+              <div class="stat-item">
+                <div class="stat-value">-</div>
+                <div class="stat-label">m² Yeşil</div>
+              </div>
+            </div>
+            <a href="/cevre" class="action-button">📊 Analizi Gör</a>
+          </div>
+
+          <!-- EĞİTİM KATEGORİSİ (YAKINDA) -->
+          <div class="category-card disabled">
+            <span class="coming-soon-badge">YAKINDA</span>
+            <div class="category-icon">🏫</div>
+            <div class="category-name">Eğitim</div>
+            <div class="category-description">
+              Okul, öğrenci kapasitesi ve eğitim kalitesi analizi.
+            </div>
+            <div class="category-stats">
+              <div class="stat-item">
+                <div class="stat-value">-</div>
+                <div class="stat-label">Okul</div>
+              </div>
+              <div class="stat-item">
+                <div class="stat-value">-</div>
+                <div class="stat-label">Öğrenci</div>
+              </div>
+              <div class="stat-item">
+                <div class="stat-value">-</div>
+                <div class="stat-label">Öğretmen</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="info-section">
+        <h3>🚀 Özellikler</h3>
+        <ul>
+          <li>
+            📊 <strong>39 İlçe Kapsamlı Analiz:</strong> İstanbul'un tüm
+            ilçeleri için detaylı veri
+          </li>
+          <li>
+            🤖 <strong>AI Destekli Öneriler:</strong> Claude Sonnet 4.5 ile
+            akıllı çözümler
+          </li>
+          <li>🗺️ <strong>İnteraktif Harita:</strong> Görsel veri sunumu</li>
+          <li>
+            💰 <strong>Maliyet Analizi:</strong> Gerçekçi bütçe hesaplamaları
+          </li>
+          <li>
+            📈 <strong>Öncelik Sıralaması:</strong> Skor bazlı önceliklendirme
+          </li>
+          <li>
+            🔄 <strong>Gerçek Zamanlı Veri:</strong> Güncel analiz ve raporlar
+          </li>
+        </ul>
+      </div>
+
+      <footer>
+        <p>🤖 Claude AI ile desteklenmektedir | 📅 2024</p>
+        <p style="margin-top: 10px; font-size: 0.9em">
+          Proje: İstanbul Kapsamlı Şehir Analizi ve Öneri Sistemi
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,704 @@
+[
+  {
+    "ilce": "Beylikdüzü",
+    "oncelik": "Yüksek",
+    "proje_adi": "Beylikdüzü Metro Hattı ve Sahil Yolu Genişletme Projesi",
+    "proje_detay": "Bakırköy-Kirazlı Metro Hattı'ndan ayrılarak Beylikdüzü'nün merkezi aksına 18 km metro hattı (12 istasyon). Yakuplu-Adnan Kahveci-Cumhuriyet Mahallesi-Marmara Mahallesi güzergahı. E-5'e paralel 15 km yeni arter yol ve sahil yolunun 8 km genişletilmesi. 5 akıllı kavşak ve 3 büyük otopark (toplam 4,500 araç kapasiteli).",
+    "tahmini_maliyet": "₺28.5 Milyar ($679 Milyon)",
+    "beklenen_etki": "415 bin nüfusun %75'ine toplu taşıma erişimi, trafik yoğunluğunda %45 azalma",
+    "uygulama_suresi": "48 ay",
+    "alternatif_cozumler": [
+      "Metrobüs hattının Beylikdüzü'ne uzatılması (₺4.2 Milyar - $100 Milyon)",
+      "Tramvay ağı ile metro istasyonlarına bağlantı (₺2.8 Milyar - $67 Milyon)",
+      "Deniz otobüsü iskelesi ve entegre ulaşım merkezi (₺850 Milyon - $20 Milyon)"
+    ],
+    "yol_altyapisi": "E-5'e paralel 15 km yeni arter (₺4.5 Milyar), Sahil yolu genişletme 8 km (₺2.4 Milyar), 5 akıllı kavşak (₺750 Milyon), 3 büyük otopark kompleksi (₺900 Milyon)",
+    "kisa_vade_etki": "Mevcut metrobüs kapasitesinin artırılması ve geçici park-binme tesisleri ile %15 iyileşme",
+    "orta_vade_etki": "Metro hattının ilk etabının açılması ile merkezi bölgelere 25 dakikada ulaşım",
+    "uzun_vade_etki": "Tam kapasite metro ve yol ağı ile İstanbul'un en iyi planlanmış ilçelerinden biri olma"
+  },
+  {
+    "ilce": "Sultangazi",
+    "oncelik": "Yüksek",
+    "proje_adi": "Sultangazi Raylı Sistem ve Kuzey-Güney Aksı Güçlendirme",
+    "proje_detay": "M7 Mahmutbey-Mecidiyeköy hattından ayrılan 14 km metro uzantısı (10 istasyon). Cebeci-50.Yıl-Sultançiftliği-İsmetpaşa güzergahı. TEM'e paralel 12 km yeni çevre yolu ve 8 km tramvay hattı. 4 kavşak düzenlemesi ve 6 orta ölçekli otopark (toplam 3,200 araç).",
+    "tahmini_maliyet": "₺24.8 Milyar ($590 Milyon)",
+    "beklenen_etki": "532 bin nüfusun %70'ine raylı sistem erişimi, merkeze ulaşım süresinde %50 kısalma",
+    "uygulama_suresi": "42 ay",
+    "alternatif_cozumler": [
+      "Hafif raylı sistem (LRT) ile Gaziosmanpaşa bağlantısı (₺3.5 Milyar - $83 Milyon)",
+      "BRT (Hızlı Otobüs) sistemi kurulumu (₺1.8 Milyar - $43 Milyon)",
+      "Teleferik ile topografik engellerin aşılması (₺1.2 Milyar - $29 Milyon)"
+    ],
+    "yol_altyapisi": "TEM paralel çevre yolu 12 km (₺3.6 Milyar), İç yol ağı düzenlemesi 8 km (₺1.6 Milyar), 4 büyük kavşak (₺600 Milyon), 6 otopark (₺720 Milyon)",
+    "kisa_vade_etki": "Otobüs hatlarının yeniden düzenlenmesi ve frekans artışı ile %12 iyileşme",
+    "orta_vade_etki": "Tramvay hattının devreye girmesi ile mahalleler arası bağlantıda %35 iyileşme",
+    "uzun_vade_etki": "Metro hattı ile Avrupa yakasının kuzey koridorunda önemli ulaşım merkezi konumu"
+  },
+  {
+    "ilce": "Bahçelievler",
+    "oncelik": "Yüksek",
+    "proje_adi": "Bahçelievler Çapraz Metro ve Akıllı Trafik Yönetimi",
+    "proje_detay": "Yenibosna-Bahçelievler-Şirinevler aksında 11 km metro hattı (8 istasyon). Mevcut M1 hattına dik konumda çapraz bağlantı. E-5 ve Londra Asfaltı üzerinde 7 km akıllı koridor. 6 kavşağın köprülü/tünelli düzenlemesi. 8 orta ölçekli otopark (toplam 4,000 araç).",
+    "tahmini_maliyet": "₺21.7 Milyar ($517 Milyon)",
+    "beklenen_etki": "560 bin nüfusun %80'ine metro erişimi, E-5 üzerindeki trafik yükünde %40 azalma",
+    "uygulama_suresi": "38 ay",
+    "alternatif_cozumler": [
+      "Tramvay ağı ile tüm mahallelerin bağlanması (₺2.4 Milyar - $57 Milyon)",
+      "E-5 altında tünel yolu projesi (₺8.5 Milyar - $202 Milyon)",
+      "Bisiklet yolu ağı ve mikro-mobilite çözümleri (₺420 Milyon - $10 Milyon)"
+    ],
+    "yol_altyapisi": "E-5 akıllı koridor 7 km (₺2.1 Milyar), 6 kavşak düzenlemesi viyadük/tünel (₺3.6 Milyar), İç yollar genişletme 5 km (₺1.0 Milyar), 8 otopark (₺960 Milyon)",
+    "kisa_vade_etki": "Akıllı trafik yönetim sistemi ile kavşak verimliliğinde %20 artış",
+    "orta_vade_etki": "Kavşak düzenlemeleri ile ana arterler üzerinde %30 hız artışı",
+    "uzun_vade_etki": "Metro hattı ile E-5'teki araç yoğunluğunda %40 azalma ve sürdürülebilir ulaşım"
+  },
+  {
+    "ilce": "Esenyurt",
+    "oncelik": "Yüksek",
+    "proje_adi": "Esenyurt Mega Raylı Sistem ve Çok Katlı Otopark Projesi",
+    "proje_detay": "İstanbul'un en kalabalık ilçesi için 22 km metro hattı (16 istasyon). Mahmutbey-Esenyurt-Beylikdüzü bağlantısı. 10 km tramvay hattı ile mahalleler arası bağlantı. TEM'e paralel 18 km yeni arter yol. 8 çok katlı otopark (toplam 6,500 araç kapasiteli). 7 kavşak düzenlemesi.",
+    "tahmini_maliyet": "₺42.3 Milyar ($1,007 Milyon)",
+    "beklenen_etki": "988 bin nüfusun %65'ine raylı sistem erişimi, trafik yoğunluğunda %50 azalma",
+    "uygulama_suresi": "60 ay",
+    "alternatif_cozumler": [
+      "BRT sistemi ile hızlı çözüm (₺3.2 Milyar - $76 Milyon)",
+      "Metrobüs hattının Esenyurt içine dağıtılması (₺5.5 Milyar - $131 Milyon)",
+      "Deniz ulaşımı için Kanal İstanbul güzergahında iskele planlaması (₺1.8 Milyar - $43 Milyon)"
+    ],
+    "yol_altyapisi": "TEM paralel arter yol 18 km (₺5.4 Milyar), İç yol ağı 12 km (₺2.4 Milyar), 7 kavşak düzenlemesi (₺3.5 Milyar), 8 çok katlı otopark (₺2.0 Milyar)",
+    "kisa_vade_etki": "Metrobüs frekansının artırılması ve geçici BRT hatları ile %18 iyileşme",
+    "orta_vade_etki": "Tramvay ağı ve yeni arter yolların açılması ile mahalleler arası ulaşımda %40 iyileşme",
+    "uzun_vade_etki": "Metro ağı tamamlandığında İstanbul'un en büyük raylı sistem entegrasyonlarından biri"
+  },
+  {
+    "ilce": "Silivri",
+    "oncelik": "Yüksek",
+    "proje_adi": "Silivri Banliyö Tren Modernizasyonu ve Liman Entegrasyonu",
+    "proje_detay": "Mevcut Marmaray hattının Silivri'ye uzatılması ve modernizasyonu 35 km (5 yeni istasyon). Silivri merkez-Selimpaşa-Gümüşyaka güzergahı. D-100'ün 25 km genişletilmesi ve 4 şeritli hale getirilmesi. Liman bölgesine entegre ulaşım merkezi. 4 kavşak düzenlemesi ve 3 büyük otopark (toplam 2,500 araç).",
+    "tahmini_maliyet": "₺26.4 Milyar ($629 Milyon)",
+    "beklenen_etki": "232 bin nüfusa hızlı tren erişimi, İstanbul merkezine 45 dakikada ulaşım",
+    "uygulama_suresi": "54 ay",
+    "alternatif_cozumler": [
+      "Otoyol bağlantısının güçlendirilmesi ve akıllı ulaşım (₺4.8 Milyon - $114 Milyon)",
+      "Deniz otobüsü hattının genişletilmesi (₺950 Milyon - $23 Milyon)",
+      "Havaalanı shuttle servisi entegrasyonu (₺320 Milyon - $8 Milyon)"
+    ],
+    "yol_altyapisi": "D-100 genişletme 25 km (₺6.25 Milyar), 4 kavşak düzenlemesi (₺800 Milyon), Liman yolu 8 km (₺1.6 Milyar), 3 otopark (₺450 Milyon)",
+    "kisa_vade_etki": "Mevcut tren seferlerinin sıklaştırılması ile %15 iyileşme",
+    "orta_vade_etki": "D-100 genişletmesi ile araç trafiğinde %25 iyileşme",
+    "uzun_vade_etki": "Modernize banliyö hattı ile Silivri'nin İstanbul'a entegrasyonu ve yeni yerleşim alanları"
+  },
+  {
+    "ilce": "Büyükçekmece",
+    "oncelik": "Yüksek",
+    "proje_adi": "Büyükçekmece Sahil Metro ve Göl Çevresi Ulaşım Ağı",
+    "proje_detay": "Beylikdüzü-Büyükçekmece-Silivri aksında 16 km metro hattı (11 istasyon). Mimarsinan-Kumburgaz-Güzelce güzergahı. Büyükçekmece Gölü çevresinde 12 km çevre yolu. Sahil yolunun 10 km genişletilmesi. 5 kavşak düzenlemesi ve 4 orta ölçekli otopark (toplam 2,800 araç).",
+    "tahmini_maliyet": "₺27.2 Milyar ($648 Milyon)",
+    "beklenen_etki": "280 bin nüfusun %70'ine metro erişimi, göl çevresi trafiğinde %45 iyileşme",
+    "uygulama_suresi": "46 ay",
+    "alternatif_cozumler": [
+      "Metrobüs hattının Büyükçekmece'ye uzatılması (₺4.8 Milyar - $114 Milyon)",
+      "Tramvay hattı ile göl çevresi bağlantısı (₺2.2 Milyar - $52 Milyon)",
+      "Deniz otobüsü iskelesi ve marina entegrasyonu (₺780 Milyon - $19 Milyon)"
+    ],
+    "yol_altyapisi": "Göl çevresi yolu 12 km (₺3.0 Milyar), Sahil yolu genişletme 10 km (₺2.5 Milyar), 5 kavşak düzenlemesi (₺1.0 Milyar), 4 otopark (₺560 Milyon)",
+    "kisa_vade_etki": "Göl çevresi yol düzenlemesi ile %18 trafik iyileşmesi",
+    "orta_vade_etki": "Sahil yolu genişletmesi ile turizm ve günlük ulaşımda %30 iyileşme",
+    "uzun_vade_etki": "Metro hattı ile batı koridorunun güçlenmesi ve sürdürülebilir kıyı kullanımı"
+  },
+  {
+    "ilce": "Çatalca",
+    "oncelik": "Yüksek",
+    "proje_adi": "Çatalca Karayolu Modernizasyonu ve Kırsal Ulaşım Ağı",
+    "proje_detay": "TEM otoyolundan Çatalca'ya 28 km yeni bağlantı yolu (4 şerit). Çatalca merkez-Arnavutköy-TEM bağlantısı. 15 km kırsal yol ağı modernizasyonu. 3 kavşak düzenlemesi. Merkez otobüs terminali ve entegre ulaşım merkezi. 2 otopark (toplam 1,200 araç).",
+    "tahmini_maliyet": "₺11.8 Milyar ($281 Milyon)",
+    "beklenen_etki": "80 bin nüfusa hızlı karayolu erişimi, İstanbul merkezine ulaşım süresinde %40 kısalma",
+    "uygulama_suresi": "36 ay",
+    "alternatif_cozumler": [
+      "Mevcut yolların genişletilmesi ve asfalt yenileme (₺2.4 Milyar - $57 Milyon)",
+      "Minibüs hatlarının otobüsle değiştirilmesi ve frekans artışı (₺450 Milyon - $11 Milyon)",
+      "Kırsal bölgeler için talep bazlı ulaşım sistemi (₺280 Milyon - $7 Milyon)"
+    ],
+    "yol_altyapisi": "TEM bağlantı yolu 28 km (₺7.0 Milyar), Kırsal yol ağı 15 km (₺1.5 Milyar), 3 kavşak (₺450 Milyon), Terminal ve 2 otopark (₺380 Milyon)",
+    "kisa_vade_etki": "Mevcut yolların bakımı ile %12 ulaşım iyileşmesi",
+    "orta_vade_etki": "Yeni bağlantı yolunun ilk etabı ile %30 süre kazancı",
+    "uzun_vade_etki": "Modern karayolu ağı ile Çatalca'nın lojistik merkezi olma potansiyeli"
+  },
+  {
+    "ilce": "Şile",
+    "oncelik": "Yüksek",
+    "proje_adi": "Şile Kıyı Yolu Modernizasyonu ve Turizm Ulaşım Koridoru",
+    "proje_detay": "Riva-Şile-Ağva aksında 45 km sahil yolunun modernizasyonu ve genişletilmesi (3 şerit). Şile merkez-Pendik hızlı bağlantı yolu 38 km (4 şerit). 6 kavşak düzenlemesi. Turizm sezonu için 3 geçici otopark (toplam 2,000 araç). Deniz otobüsü iskelesi.",
+    "tahmini_maliyet": "₺14.6 Milyar ($348 Milyon)",
+    "beklenen_etki": "49 bin nüfusa modern ulaşım, turizm sezonunda %50 trafik iyileşmesi",
+    "uygulama_suresi": "42 ay",
+    "alternatif_cozumler": [
+      "Mevcut yolların genişletilmesi ve trafik düzenlemesi (₺3.8 Milyar - $90 Milyon)",
+      "Deniz otobüsü seferlerinin artırılması (₺680 Milyon - $16 Milyon)",
+      "Helikopter pisti ve VIP ulaşım alternatifleri (₺420 Milyon - $10 Milyon)"
+    ],
+    "yol_altyapisi": "Sahil yolu modernizasyonu 45 km (₺9.0 Milyar), Pendik bağlantısı 38 km (₺7.6 Milyar), 6 kavşak (₺900 Milyon), İskele ve otoparklar (₺580 Milyon)",
+    "kisa_vade_etki": "Trafik düzenlemesi ve sezon planlaması ile %15 iyileşme",
+    "orta_vade_etki": "Sahil yolu modernizasyonu ile turizm erişiminde %35 iyileşme",
+    "uzun_vade_etki": "Pendik bağlantısı ile Şile'nin İstanbul'a 45 dakikada bağlanması"
+  },
+  {
+    "ilce": "Adalar",
+    "oncelik": "Yüksek",
+    "proje_adi": "Adalar Deniz Ulaşımı Modernizasyonu ve Çevre Dostu Mobilite",
+    "proje_detay": "4 büyük ada için modern iskele kompleksleri (Büyükada, Heybeliada, Burgazada, Kınalıada). Elektrikli deniz taksi filosu (20 araç). Her adada elektrikli araç şarj istasyonları (40 nokta). Bisiklet yolu ağı 25 km. Fayton yerine elektrikli golf araçları (100 araç). 3 çok katlı bisiklet parkı.",
+    "tahmini_maliyet": "₺3.8 Milyar ($90 Milyon)",
+    "beklenen_etki": "17 bin nüfusa sürdürülebilir ulaşım, karbon emisyonunda %80 azalma",
+    "uygulama_suresi": "24 ay",
+    "alternatif_cozumler": [
+      "Mevcut vapur seferlerinin sıklaştırılması (₺450 Milyon - $11 Milyon)",
+      "Deniz otobüsü kapasitesinin artırılması (₺680 Milyon - $16 Milyon)",
+      "Helikopter servisi ve acil ulaşım hattı (₺520 Milyon - $12 Milyon)"
+    ],
+    "yol_altyapisi": "4 modern iskele (₺1.2 Milyar), Bisiklet yolu 25 km (₺250 Milyon), Elektrikli araç altyapısı (₺420 Milyon), Golf araçları ve bisiklet parkları (₺380 Milyon)",
+    "kisa_vade_etki": "Elektrikli deniz taksi ile sefer sıklığında %25 artış",
+    "orta_vade_etki": "Bisiklet yolu ağı ile adalar içi ulaşımda %40 iyileşme",
+    "uzun_vade_etki": "Tamamen elektrikli ve sürdürülebilir ada ulaşım modeli"
+  },
+  {
+    "ilce": "Küçükçekmece",
+    "oncelik": "Yüksek",
+    "proje_adi": "Küçükçekmece Metro Entegrasyonu ve Göl Köprüsü Projesi",
+    "proje_detay": "M1 Yenikapı-Atatürk Havalimanı hattından ayrılan 13 km metro uzantısı (9 istasyon). Halkalı-Küçükçekmece-Cennet güzergahı. Küçükçekmece Gölü üzerinde 2.8 km köprülü yol. E-5'e paralel 10 km yeni arter. 6 kavşak düzenlemesi. 5 orta ölçekli otopark (toplam 3,500 araç).",
+    "tahmini_maliyet": "₺25.9 Milyar ($617 Milyon)",
+    "beklenen_etki": "789 bin nüfusun %75'ine metro erişimi, göl çevresi trafiğinde %50 azalma",
+    "uygulama_suresi": "44 ay",
+    "alternatif_cozumler": [
+      "Metrobüs hattının Küçükçekmece içine dağıtılması (₺3.8 Milyar - $90 Milyon)",
+      "Tramvay ağı ile tüm mahallelerin bağlanması (₺2.6 Milyar - $62 Milyon)",
+      "Göl üzerinde teleferik hattı (₺1.4 Milyar - $33 Milyon)"
+    ],
+    "yol_altyapisi": "Göl köprüsü 2.8 km (₺1.7 Milyar), E-5 paralel arter 10 km (₺2.5 Milyar), 6 kavşak düzenlemesi (₺2.4 Milyar), 5 otopark (₺700 Milyon)",
+    "kisa_vade_etki": "Metrobüs frekansının artırılması ile %12 iyileşme",
+    "orta_vade_etki": "Göl köprüsü ile kuzey-güney bağlantısında %35 süre kazancı",
+    "uzun_vade_etki": "Metro hattı ile E-5 üzerindeki yükün hafiflemesi ve göl çevresinin rekreasyon alanına dönüşümü"
+  },
+  {
+    "ilce": "Avcılar",
+    "oncelik": "Yüksek",
+    "proje_adi": "Avcılar Metrobüs Entegrasyonu ve Sahil Ulaşım Koridoru",
+    "proje_detay": "Mevcut metrobüs hattından ayrılan 9 km tramvay hattı (7 istasyon). Avcılar merkez-Üniversite-Ambarlı güzergahı. Sahil yolunun 8 km genişletilmesi ve düzenlenmesi. E-5 üzerinde 3 köprülü kavşak. 4 orta ölçekli otopark (toplam 2,800 araç). Deniz otobüsü iskelesi modernizasyonu.",
+    "tahmini_maliyet": "₺12.4 Milyar ($295 Milyon)",
+    "beklenen_etki": "441 bin nüfusun %70'ine raylı sistem erişimi, metrobüs yükünde %30 azalma",
+    "uygulama_suresi": "32 ay",
+    "alternatif_cozumler": [
+      "Metrobüs kapasitesinin çift katlı araçlarla artırılması (₺1.8 Milyar - $43 Milyon)",
+      "Kampüs içi elektrikli shuttle sistemi (₺420 Milyon - $10 Milyon)",
+      "Deniz otobüsü seferlerinin artırılması (₺680 Milyon - $16 Milyon)"
+    ],
+    "yol_altyapisi": "Sahil yolu genişletme 8 km (₺2.0 Milyar), E-5 köprülü kavşaklar 3 adet (₺1.8 Milyar), İç yol düzenlemesi 6 km (₺1.2 Milyar), 4 otopark ve iskele (₺720 Milyon)",
+    "kisa_vade_etki": "Metrobüs istasyonlarının genişletilmesi ile %15 kapasite artışı",
+    "orta_vade_etki": "Tramvay hattı ile üniversite kampüsüne erişimde %40 iyileşme",
+    "uzun_vade_etki": "Entegre ulaşım sistemi ile Avcılar'ın eğitim ve ulaşım merkezi konumu"
+  },
+  {
+    "ilce": "Beykoz",
+    "oncelik": "Yüksek",
+    "proje_adi": "Beykoz Teleferik Ağı ve Boğaz Tüneli Bağlantısı",
+    "proje_detay": "Kavacık-Beykoz-Anadoluhisarı aksında 8 km teleferik hattı (6 istasyon). Beykoz merkez-Çubuklu-Paşabahçe güzergahında 12 km tramvay. Boğaz'ın 3. köprüsünden Beykoz'a 15 km bağlantı yolu. 4 kavşak düzenlemesi. 3 orta ölçekli otopark (toplam 2,000 araç). İskele modernizasyonu.",
+    "tahmini_maliyet": "₺16.8 Milyar ($400 Milyon)",
+    "beklenen_etki": "245 bin nüfusa teleferik ve tramvay erişimi, topografik engellerin %60 aşılması",
+    "uygulama_suresi": "38 ay",
+    "alternatif_cozumler": [
+      "Mevcut otobüs hatlarının elektrikli araçlarla güçlendirilmesi (₺950 Milyon - $23 Milyon)",
+      "Deniz otobüsü seferlerinin artırılması (₺780 Milyon - $19 Milyon)",
+      "Bisiklet yolu ağı ve sahil düzenlemesi (₺520 Milyon - $12 Milyon)"
+    ],
+    "yol_altyapisi": "3. Köprü bağlantısı 15 km (₺3.75 Milyar), Sahil yolu düzenlemesi 10 km (₺2.0 Milyar), 4 kavşak (₺600 Milyon), 3 otopark ve iskele (₺580 Milyon)",
+    "kisa_vade_etki": "Deniz otobüsü frekansının artırılması ile %18 iyileşme",
+    "orta_vade_etki": "Teleferik hattı ile tepedeki mahallelere 15 dakikada ulaşım",
+    "uzun_vade_etki": "Tramvay ve teleferik entegrasyonu ile Beykoz'un turizm ve yerleşim potansiyelinin artması"
+  },
+  {
+    "ilce": "Sultanbeyli",
+    "oncelik": "Yüksek",
+    "proje_adi": "Sultanbeyli Metro Uzatması ve Sanayi Bölgesi Ulaşım Ağı",
+    "proje_detay": "M4 Kadıköy-Tavşantepe hattının Sultanbeyli'ye 11 km uzatılması (8 istasyon). Sultanbeyli merkez-Hasanpaşa-Abdurrahmangazi güzergahı. TEM'e paralel 14 km yeni sanayi yolu. 5 kavşak düzenlemesi. 4 orta ölçekli otopark (toplam 2,500 araç).",
+    "tahmini_maliyet": "₺20.3 Milyar ($483 Milyon)",
+    "beklenen_etki": "369 bin nüfusun %65'ine metro erişimi, sanayi trafiğinde %45 iyileşme",
+    "uygulama_suresi": "40 ay",
+    "alternatif_cozumler": [
+      "BRT sistemi ile hızlı ulaşım (₺2.4 Milyar - $57 Milyon)",
+      "Tramvay hattı ile mahalleler arası bağlantı (₺1.8 Milyar - $43 Milyon)",
+      "Sanayi shuttle servisleri ve akıllı lojistik (₺520 Milyon - $12 Milyon)"
+    ],
+    "yol_altyapisi": "TEM paralel sanayi yolu 14 km (₺3.5 Milyar), İç yol ağı 8 km (₺1.6 Milyar), 5 kavşak düzenlemesi (₺1.0 Milyar), 4 otopark (₺500 Milyon)",
+    "kisa_vade_etki": "Mevcut otobüs hatlarının frekans artışı ile %12 iyileşme",
+    "orta_vade_etki": "Sanayi yolu ile ağır araç trafiğinin ayrılması ve %30 hız artışı",
+    "uzun_vade_etki": "Metro hattı ile Anadolu yakasının doğu koridorunda önemli bağlantı noktası"
+  },
+  {
+    "ilce": "Fatih",
+    "oncelik": "Yüksek",
+    "proje_adi": "Fatih Tarihi Yarımada Tramvay Ağı ve Akıllı Trafik Sistemi",
+    "proje_detay": "Mevcut T1 hattına ek olarak 8 km yeni tramvay hattı (6 istasyon). Edirnekapı-Fatih-Aksaray-Yenikapı çevre hattı. Tarihi yarımadada 15 km akıllı trafik koridoru. 6 tarihi kavşağın düzenlenmesi. 3 çok katlı otopark (toplam 2,500 araç). Yaya öncelikli bölgelerin genişletilmesi.",
+    "tahmini_maliyet": "₺8.9 Milyar ($212 Milyon)",
+    "beklenen_etki": "354 bin nüfus ve milyonlarca turiste raylı erişim, tarihi dokuda %50 trafik azalması",
+    "uygulama_suresi": "30 ay",
+    "alternatif_cozumler": [
+      "Elektrikli minibüs filosu ve frekans artışı (₺680 Milyon - $16 Milyon)",
+      "Bisiklet paylaşım sistemi ve yaya yolları (₺420 Milyon - $10 Milyon)",
+      "Deniz otobüsü bağlantılarının artırılması (₺580 Milyon - $14 Milyon)"
+    ],
+    "yol_altyapisi": "Akıllı trafik koridoru 15 km (₺1.5 Milyar), 6 tarihi kavşak restorasyonu (₺900 Milyon), Yaya bölgeleri düzenlemesi (₺520 Milyon), 3 otopark (₺750 Milyon)",
+    "kisa_vade_etki": "Akıllı trafik sistemi ve yaya öncelikli bölgeler ile %20 iyileşme",
+    "orta_vade_etki": "Tramvay çevre hattı ile turistik bölgelere erişimde %35 iyileşme",
+    "uzun_vade_etki": "Tarihi yarımadanın sürdürülebilir ulaşım modeline kavuşması ve kültürel mirasın korunması"
+  },
+  {
+    "ilce": "Şişli",
+    "oncelik": "Yüksek",
+    "proje_adi": "Şişli Metro Entegrasyonu ve Ticari Akslar Ulaşım Projesi",
+    "proje_detay": "M2 ve M7 hatlarını birbirine bağlayan 6 km metro hattı (5 istasyon). Mecidiyeköy-Şişli-Osmanbey-Harbiye güzergahı. Büyükdere Caddesi ve Halaskargazi Caddesi'nde 8 km akıllı koridor. 4 köprülü kavşak. 4 çok katlı otopark (toplam 3,000 araç).",
+    "tahmini_maliyet": "₺14.2 Milyar ($338 Milyon)",
+    "beklenen_etki": "263 bin nüfus ve yoğun iş merkezlerine metro ağı, ana caddelerde %40 trafik azalması",
+    "uygulama_suresi": "34 ay",
+    "alternatif_cozumler": [
+      "Metrobüs benzeri BRT hattı (₺2.2 Milyar - $52 Milyon)",
+      "Tramvay hattı ile yan sokakların bağlanması (₺1.4 Milyar - $33 Milyon)",
+      "Çok katlı otopark ve park-binme tesisleri (₺1.8 Milyar - $43 Milyon)"
+    ],
+    "yol_altyapisi": "Akıllı koridor 8 km (₺2.4 Milyar), 4 köprülü kavşak (₺2.0 Milyar), Alt geçitler ve yaya tünelleri (₺1.2 Milyar), 4 otopark (₺1.2 Milyar)",
+    "kisa_vade_etki": "Akıllı trafik yönetimi ile ana caddelerde %18 iyileşme",
+    "orta_vade_etki": "Köprülü kavşaklar ile kesintisiz trafik akışı ve %30 hız artışı",
+    "uzun_vade_etki": "Metro entegrasyonu ile Şişli'nin İstanbul'un en erişilebilir iş merkezi olması"
+  },
+  {
+    "ilce": "Gaziosmanpaşa",
+    "oncelik": "Orta",
+    "proje_adi": "Gaziosmanpaşa Tramvay Ağı ve Mahalle İçi Ulaşım Sistemi",
+    "proje_detay": "M7 hattından ayrılan 10 km tramvay hattı (8 istasyon). Karadeniz-Yenidoğan-Merkez güzergahı. 8 km mahalle içi yol düzenlemesi. 4 kavşak düzenlemesi. 3 orta ölçekli otopark (toplam 2,000 araç).",
+    "tahmini_maliyet": "₺6.8 Milyar ($162 Milyon)",
+    "beklenen_etki": "480 bin nüfusun %60'ına raylı sistem erişimi, mahalle içi trafikte %35 iyileşme",
+    "uygulama_suresi": "28 ay",
+    "alternatif_cozumler": [
+      "BRT hattı ile hızlı çözüm (₺1.6 Milyar - $38 Milyon)",
+      "Elektrikli otobüs filosu (₺850 Milyon - $20 Milyon)",
+      "Bisiklet yolu ağı (₺320 Milyon - $8 Milyon)"
+    ],
+    "yol_altyapisi": "Mahalle içi yol 8 km (₺1.6 Milyar), 4 kavşak (₺600 Milyon), 3 otopark (₺450 Milyon)",
+    "kisa_vade_etki": "Otobüs hatlarının düzenlenmesi ile %12 iyileşme",
+    "orta_vade_etki": "Tramvay hattı ile ana ulaşım arterlerine erişimde %30 iyileşme",
+    "uzun_vade_etki": "Mahalle içi yol düzenlemeleri ile yaşam kalitesinde artış"
+  },
+  {
+    "ilce": "Pendik",
+    "oncelik": "Orta",
+    "proje_adi": "Pendik Liman-Havalimanı Entegrasyonu ve Sanayi Koridoru",
+    "proje_detay": "Sabiha Gökçen Havalimanı-Pendik-Kartal aksında 14 km metro uzantısı (10 istasyon). Liman bölgesine 8 km tramvay hattı. TEM'e paralel 12 km sanayi yolu. 5 kavşak düzenlemesi. 4 orta ölçekli otopark (toplam 2,800 araç).",
+    "tahmini_maliyet": "₺24.6 Milyar ($586 Milyon)",
+    "beklenen_etki": "749 bin nüfusa havalimanı ve liman entegrasyonu, sanayi trafiğinde %40 iyileşme",
+    "uygulama_suresi": "42 ay",
+    "alternatif_cozumler": [
+      "Marmaray'ın Pendik içine dağıtılması (₺3.8 Milyar - $90 Milyon)",
+      "BRT sistemi ile hızlı çözüm (₺2.4 Milyar - $57 Milyon)",
+      "Liman shuttle servisleri (₺520 Milyon - $12 Milyon)"
+    ],
+    "yol_altyapisi": "TEM paralel sanayi yolu 12 km (₺3.0 Milyar), İç yol ağı 10 km (₺2.0 Milyar), 5 kavşak (₺1.0 Milyar), 4 otopark (₺560 Milyon)",
+    "kisa_vade_etki": "Havalimanı shuttle frekansının artırılması ile %15 iyileşme",
+    "orta_vade_etki": "Tramvay hattı ile liman erişiminde %35 iyileşme",
+    "uzun_vade_etki": "Metro hattı ile Pendik'in lojistik merkezi konumunun güçlenmesi"
+  },
+  {
+    "ilce": "Ümraniye",
+    "oncelik": "Orta",
+    "proje_adi": "Ümraniye Metro Çevre Hattı ve Finans Merkezi Ulaşımı",
+    "proje_detay": "M5 Üsküdar-Çekmeköy hattından ayrılan 9 km çevre metro hattı (7 istasyon). Ümraniye merkez-Finans Merkezi-Çakmak güzergahı. 6 km akıllı trafik koridoru. 4 kavşak düzenlemesi. 3 çok katlı otopark (toplam 2,500 araç).",
+    "tahmini_maliyet": "₺16.4 Milyar ($390 Milyon)",
+    "beklenen_etki": "728 bin nüfusa çevre metro hattı, finans merkezine erişimde %50 iyileşme",
+    "uygulama_suresi": "36 ay",
+    "alternatif_cozumler": [
+      "Tramvay hattı ile mahalleler arası bağlantı (₺1.8 Milyar - $43 Milyon)",
+      "Teleferik ile tepedeki bölgelere erişim (₺1.2 Milyar - $29 Milyon)",
+      "Elektrikli shuttle servisleri (₺620 Milyon - $15 Milyon)"
+    ],
+    "yol_altyapisi": "Akıllı trafik koridoru 6 km (₺1.8 Milyar), 4 kavşak düzenlemesi (₺1.6 Milyar), İç yollar 5 km (₺1.0 Milyar), 3 otopark (₺750 Milyon)",
+    "kisa_vade_etki": "Mevcut metro hatlarının frekans artışı ile %12 iyileşme",
+    "orta_vade_etki": "Kavşak düzenlemeleri ile %25 trafik iyileşmesi",
+    "uzun_vade_etki": "Çevre metro hattı ile Ümraniye'nin İstanbul'un önemli iş merkezi konumu"
+  },
+  {
+    "ilce": "Beşiktaş",
+    "oncelik": "Orta",
+    "proje_adi": "Beşiktaş Tramvay Hattı ve Boğaz Kıyısı Ulaşım Düzenlemesi",
+    "proje_detay": "Kabataş-Beşiktaş-Ortaköy-Bebek aksında 7 km tramvay hattı (6 istasyon). Sahil yolunda 5 km akıllı koridor. 3 kavşak düzenlemesi. 2 çok katlı otopark (toplam 1,500 araç). Deniz otobüsü iskelelerinin modernizasyonu.",
+    "tahmini_maliyet": "₺5.8 Milyar ($138 Milyon)",
+    "beklenen_etki": "167 bin nüfusa sahil tramvayı, Boğaz trafiğinde %35 azalma",
+    "uygulama_suresi": "26 ay",
+    "alternatif_cozumler": [
+      "Funicular hattının uzatılması (₺850 Milyon - $20 Milyon)",
+      "Elektrikli otobüs filosu (₺520 Milyon - $12 Milyon)",
+      "Deniz otobüsü seferlerinin artırılması (₺680 Milyon - $16 Milyon)"
+    ],
+    "yol_altyapisi": "Sahil yolu akıllı koridor 5 km (₺1.5 Milyar), 3 kavşak (₺450 Milyon), İskele modernizasyonu (₺380 Milyon), 2 otopark (₺500 Milyon)",
+    "kisa_vade_etki": "Deniz otobüsü frekansının artırılması ile %15 iyileşme",
+    "orta_vade_etki": "Tramvay hattı ile sahil bölgelerine erişimde %30 iyileşme",
+    "uzun_vade_etki": "Entegre deniz-kara ulaşımı ile Beşiktaş'ın turizm potansiyelinin artması"
+  },
+  {
+    "ilce": "Zeytinburnu",
+    "oncelik": "Orta",
+    "proje_adi": "Zeytinburnu Tramvay Entegrasyonu ve Sanayi-Konut Ulaşım Ayrımı",
+    "proje_detay": "T1 hattına paralel 5 km iç tramvay hattı (4 istasyon). Merter-Zeytinburnu-Kazlıçeşme güzergahı. 6 km sanayi yolu düzenlemesi. 3 kavşak düzenlemesi. 2 orta ölçekli otopark (toplam 1,500 araç).",
+    "tahmini_maliyet": "₺4.6 Milyar ($110 Milyon)",
+    "beklenen_etki": "278 bin nüfusa iç tramvay, sanayi trafiğinin ayrılması ile %30 iyileşme",
+    "uygulama_suresi": "24 ay",
+    "alternatif_cozumler": [
+      "Metrobüs kapasitesinin artırılması (₺1.2 Milyar - $29 Milyon)",
+      "Sanayi bölgesi için ayrı shuttle sistemi (₺420 Milyon - $10 Milyon)",
+      "Marmaray istasyonunun genişletilmesi (₺680 Milyon - $16 Milyon)"
+    ],
+    "yol_altyapisi": "Sanayi yolu 6 km (₺1.2 Milyar), 3 kavşak (₺450 Milyon), İç yollar 4 km (₺800 Milyon), 2 otopark (₺400 Milyon)",
+    "kisa_vade_etki": "Sanayi trafiğinin düzenlenmesi ile %15 iyileşme",
+    "orta_vade_etki": "İç tramvay hattı ile konut bölgelerine erişimde %25 iyileşme",
+    "uzun_vade_etki": "Sanayi ve konut trafiğinin ayrılması ile yaşam kalitesinde artış"
+  },
+  {
+    "ilce": "Eyüpsultan",
+    "oncelik": "Orta",
+    "proje_adi": "Eyüpsultan Teleferik ve Tarihi Bölge Ulaşım Sistemi",
+    "proje_detay": "Alibeyköy-Eyüpsultan-Pierre Loti aksında 6 km teleferik hattı (5 istasyon). Haliç kıyısında 8 km tramvay hattı. 5 km yol düzenlemesi. 3 kavşak düzenlemesi. 2 orta ölçekli otopark (toplam 1,800 araç).",
+    "tahmini_maliyet": "₺7.2 Milyar ($171 Milyon)",
+    "beklenen_etki": "421 bin nüfusa teleferik ve tramvay, tarihi bölgeye erişimde %40 iyileşme",
+    "uygulama_suresi": "30 ay",
+    "alternatif_cozumler": [
+      "M7 hattının Eyüpsultan'a uzatılması (₺4.8 Milyar - $114 Milyon)",
+      "BRT hattı ile hızlı çözüm (₺1.6 Milyar - $38 Milyon)",
+      "Haliç vapurlarının sıklaştırılması (₺420 Milyon - $10 Milyon)"
+    ],
+    "yol_altyapisi": "Yol düzenlemesi 5 km (₺1.0 Milyar), 3 kavşak (₺450 Milyon), Haliç kıyısı düzenlemesi (₺620 Milyon), 2 otopark (₺400 Milyon)",
+    "kisa_vade_etki": "Otobüs hatlarının düzenlenmesi ile %12 iyileşme",
+    "orta_vade_etki": "Teleferik hattı ile Pierre Loti'ye 8 dakikada ulaşım",
+    "uzun_vade_etki": "Tramvay ve teleferik entegrasyonu ile Eyüpsultan'ın turizm potansiyelinin artması"
+  },
+  {
+    "ilce": "Ataşehir",
+    "oncelik": "Orta",
+    "proje_adi": "Ataşehir Metro Entegrasyonu ve İş Merkezi Ulaşım Ağı",
+    "proje_detay": "M4 hattından ayrılan 7 km metro hattı (5 istasyon). Ataşehir merkez-Barbaros-Küçükbakkalköy güzergahı. 5 km akıllı trafik koridoru. 3 kavşak düzenlemesi. 3 çok katlı otopark (toplam 2,200 araç).",
+    "tahmini_maliyet": "₺13.8 Milyar ($329 Milyon)",
+    "beklenen_etki": "415 bin nüfusa metro ağı, iş merkezlerine erişimde %45 iyileşme",
+    "uygulama_suresi": "32 ay",
+    "alternatif_cozumler": [
+      "Tramvay hattı ile mahalleler arası bağlantı (₺1.4 Milyar - $33 Milyon)",
+      "BRT hattı (₺1.8 Milyar - $43 Milyon)",
+      "Elektrikli shuttle servisleri (₺520 Milyon - $12 Milyon)"
+    ],
+    "yol_altyapisi": "Akıllı koridor 5 km (₺1.5 Milyar), 3 kavşak düzenlemesi (₺1.2 Milyar), İç yollar 4 km (₺800 Milyon), 3 otopark (₺900 Milyon)",
+    "kisa_vade_etki": "Mevcut metro frekansının artırılması ile %12 iyileşme",
+    "orta_vade_etki": "Kavşak düzenlemeleri ile %25 trafik iyileşmesi",
+    "uzun_vade_etki": "Metro entegrasyonu ile Ataşehir'in Anadolu yakasının finans merkezi konumu"
+  },
+  {
+    "ilce": "Sancaktepe",
+    "oncelik": "Orta",
+    "proje_adi": "Sancaktepe Metro Uzatması ve Organize Sanayi Bölgesi Ulaşımı",
+    "proje_detay": "M5 hattının Sancaktepe'ye 10 km uzatılması (7 istasyon). Sancaktepe merkez-OSB-Samandıra güzergahı. 8 km sanayi yolu. 4 kavşak düzenlemesi. 3 orta ölçekli otopark (toplam 2,000 araç).",
+    "tahmini_maliyet": "₺17.2 Milyar ($410 Milyon)",
+    "beklenen_etki": "502 bin nüfusa metro erişimi, OSB trafiğinde %40 iyileşme",
+    "uygulama_suresi": "38 ay",
+    "alternatif_cozumler": [
+      "BRT hattı ile hızlı çözüm (₺2.0 Milyar - $48 Milyon)",
+      "Tramvay hattı (₺1.6 Milyar - $38 Milyon)",
+      "OSB shuttle servisleri (₺420 Milyon - $10 Milyon)"
+    ],
+    "yol_altyapisi": "Sanayi yolu 8 km (₺2.0 Milyar), İç yol ağı 6 km (₺1.2 Milyar), 4 kavşak (₺800 Milyon), 3 otopark (₺450 Milyon)",
+    "kisa_vade_etki": "OSB shuttle sisteminin kurulması ile %15 iyileşme",
+    "orta_vade_etki": "Sanayi yolu ile ağır araç trafiğinin ayrılması",
+    "uzun_vade_etki": "Metro hattı ile Sancaktepe'nin sanayi ve konut dengesinin iyileşmesi"
+  },
+  {
+    "ilce": "Başakşehir",
+    "oncelik": "Orta",
+    "proje_adi": "Başakşehir Metro Ağı Genişletmesi ve Şehir Hastanesi Bağlantısı",
+    "proje_detay": "M3 hattından ayrılan 12 km metro uzantısı (9 istasyon). Başakşehir merkez-Şehir Hastanesi-Kayabaşı güzergahı. 7 km yol düzenlemesi. 4 kavşak düzenlemesi. 3 orta ölçekli otopark (toplam 2,500 araç).",
+    "tahmini_maliyet": "₺19.8 Milyar ($471 Milyon)",
+    "beklenen_etki": "520 bin nüfusa metro ağı, hastaneye erişimde %50 iyileşme",
+    "uygulama_suresi": "40 ay",
+    "alternatif_cozumler": [
+      "Tramvay hattı ile mahalleler arası bağlantı (₺1.8 Milyar - $43 Milyon)",
+      "BRT hattı (₺2.2 Milyar - $52 Milyon)",
+      "Hastane shuttle servisleri (₺520 Milyon - $12 Milyon)"
+    ],
+    "yol_altyapisi": "Yol düzenlemesi 7 km (₺1.75 Milyar), 4 kavşak (₺800 Milyon), Hastane çevresi düzenlemesi (₺620 Milyon), 3 otopark (₺750 Milyon)",
+    "kisa_vade_etki": "Hastane shuttle frekansının artırılması ile %18 iyileşme",
+    "orta_vade_etki": "Yol düzenlemeleri ile %25 trafik iyileşmesi",
+    "uzun_vade_etki": "Metro hattı ile Başakşehir'in İstanbul'un planlı yerleşim örneği olması"
+  },
+  {
+    "ilce": "Çekmeköy",
+    "oncelik": "Orta",
+    "proje_adi": "Çekmeköy Teleferik ve Doğa Koruma Ulaşım Sistemi",
+    "proje_detay": "M5 hattından ayrılan 8 km teleferik hattı (6 istasyon). Çekmeköy merkez-Ömerli-Alemdağ güzergahı. 10 km doğa dostu yol düzenlemesi. 3 kavşak düzenlemesi. 2 orta ölçekli otopark (toplam 1,500 araç).",
+    "tahmini_maliyet": "₺6.8 Milyar ($162 Milyon)",
+    "beklenen_etki": "307 bin nüfusa teleferik erişimi, doğal alanların korunması ile %35 iyileşme",
+    "uygulama_suresi": "28 ay",
+    "alternatif_cozumler": [
+      "M5 hattının Çekmeköy'e uzatılması (₺8.5 Milyar - $202 Milyon)",
+      "BRT hattı (₺1.6 Milyar - $38 Milyon)",
+      "Elektrikli minibüs filosu (₺520 Milyon - $12 Milyon)"
+    ],
+    "yol_altyapisi": "Doğa dostu yol 10 km (₺2.0 Milyar), 3 kavşak (₺450 Milyon), Ömerli çevresi düzenlemesi (₺520 Milyon), 2 otopark (₺400 Milyon)",
+    "kisa_vade_etki": "Otobüs hatlarının düzenlenmesi ile %12 iyileşme",
+    "orta_vade_etki": "Teleferik hattı ile tepedeki mahallelere 12 dakikada ulaşım",
+    "uzun_vade_etki": "Doğa koruma ve ulaşım dengesinin sağlanması"
+  },
+  {
+    "ilce": "Arnavutköy",
+    "oncelik": "Orta",
+    "proje_adi": "Arnavutköy Havalimanı Bağlantısı ve Kuzey Koridoru",
+    "proje_detay": "İstanbul Havalimanı-Arnavutköy-TEM aksında 18 km metro hattı (12 istasyon). 12 km yeni bağlantı yolu. 5 kavşak düzenlemesi. 3 orta ölçekli otopark (toplam 2,000 araç).",
+    "tahmini_maliyet": "₺28.4 Milyar ($676 Milyon)",
+    "beklenen_etki": "345 bin nüfusa havalimanı metro erişimi, kuzey koridorunda %45 iyileşme",
+    "uygulama_suresi": "48 ay",
+    "alternatif_cozumler": [
+      "BRT hattı ile hızlı çözüm (₺2.4 Milyar - $57 Milyon)",
+      "Havalimanı shuttle servisleri (₺620 Milyon - $15 Milyon)",
+      "Karayolu genişletmesi (₺4.2 Milyar - $100 Milyon)"
+    ],
+    "yol_altyapisi": "Bağlantı yolu 12 km (₺3.0 Milyar), 5 kavşak (₺1.0 Milyar), TEM bağlantısı (₺1.8 Milyar), 3 otopark (₺450 Milyon)",
+    "kisa_vade_etki": "Havalimanı shuttle frekansının artırılması ile %15 iyileşme",
+    "orta_vade_etki": "Bağlantı yolu ile %30 süre kazancı",
+    "uzun_vade_etki": "Metro hattı ile Arnavutköy'ün havalimanı şehri konumuna kavuşması"
+  },
+  {
+    "ilce": "Tuzla",
+    "oncelik": "Orta",
+    "proje_adi": "Tuzla Tersane ve Sanayi Bölgesi Entegre Ulaşım Sistemi",
+    "proje_detay": "Pendik-Tuzla-Gebze aksında 11 km tramvay hattı (8 istasyon). 14 km sanayi ve tersane yolu. 5 kavşak düzenlemesi. 3 orta ölçekli otopark (toplam 2,200 araç). Marina ve iskele düzenlemesi.",
+    "tahmini_maliyet": "₺8.4 Milyar ($200 Milyon)",
+    "beklenen_etki": "301 bin nüfusa tramvay erişimi, tersane trafiğinde %40 iyileşme",
+    "uygulama_suresi": "32 ay",
+    "alternatif_cozumler": [
+      "BRT hattı (₺1.8 Milyar - $43 Milyon)",
+      "Tersane shuttle servisleri (₺520 Milyon - $12 Milyon)",
+      "Deniz otobüsü seferlerinin artırılması (₺680 Milyon - $16 Milyon)"
+    ],
+    "yol_altyapisi": "Sanayi yolu 14 km (₺3.5 Milyar), 5 kavşak (₺1.0 Milyar), Marina düzenlemesi (₺620 Milyon), 3 otopark (₺450 Milyon)",
+    "kisa_vade_etki": "Tersane shuttle sisteminin kurulması ile %15 iyileşme",
+    "orta_vade_etki": "Sanayi yolu ile ağır araç trafiğinin ayrılması",
+    "uzun_vade_etki": "Tramvay hattı ile Tuzla'nın sanayi ve konut dengesinin iyileşmesi"
+  },
+  {
+    "ilce": "Esenler",
+    "oncelik": "Orta",
+    "proje_adi": "Esenler Metro Bağlantısı ve Otogar Entegrasyonu",
+    "proje_detay": "M1 ve M3 hatlarını birbirine bağlayan 6 km metro hattı (5 istasyon). Otogar-Esenler merkez-Menderes güzergahı. 5 km yol düzenlemesi. 3 kavşak düzenlemesi. 2 çok katlı otopark (toplam 2,000 araç).",
+    "tahmini_maliyet": "₺11.2 Milyar ($267 Milyon)",
+    "beklenen_etki": "424 bin nüfusa metro entegrasyonu, otogar trafiğinde %35 azalma",
+    "uygulama_suresi": "30 ay",
+    "alternatif_cozumler": [
+      "Tramvay hattı (₺1.4 Milyar - $33 Milyon)",
+      "BRT hattı (₺1.6 Milyar - $38 Milyon)",
+      "Otogar shuttle servisleri (₺420 Milyon - $10 Milyon)"
+    ],
+    "yol_altyapisi": "Yol düzenlemesi 5 km (₺1.25 Milyar), 3 kavşak (₺900 Milyon), Otogar çevresi (₺520 Milyon), 2 otopark (₺500 Milyon)",
+    "kisa_vade_etki": "Otogar shuttle sisteminin iyileştirilmesi ile %15 iyileşme",
+    "orta_vade_etki": "Yol düzenlemeleri ile %25 trafik iyileşmesi",
+    "uzun_vade_etki": "Metro entegrasyonu ile otogar bölgesinin modernizasyonu"
+  },
+  {
+    "ilce": "Sarıyer",
+    "oncelik": "Orta",
+    "proje_adi": "Sarıyer Boğaz Kıyısı Tramvay ve Orman İçi Ulaşım Sistemi",
+    "proje_detay": "Maslak-Sarıyer-Rumeli Kavağı aksında 16 km tramvay hattı (11 istasyon). Boğaz kıyısında 12 km yol düzenlemesi. 4 kavşak düzenlemesi. 3 orta ölçekli otopark (toplam 2,000 araç). İskele modernizasyonu.",
+    "tahmini_maliyet": "₺9.6 Milyar ($229 Milyon)",
+    "beklenen_etki": "343 bin nüfusa tramvay erişimi, Boğaz trafiğinde %30 iyileşme",
+    "uygulama_suresi": "34 ay",
+    "alternatif_cozumler": [
+      "M2 hattının Sarıyer'e uzatılması (₺12.5 Milyar - $298 Milyon)",
+      "BRT hattı (₺2.0 Milyar - $48 Milyon)",
+      "Deniz otobüsü seferlerinin artırılması (₺780 Milyon - $19 Milyon)"
+    ],
+    "yol_altyapisi": "Boğaz kıyısı yol 12 km (₺3.0 Milyar), 4 kavşak (₺600 Milyon), İskele düzenlemesi (₺480 Milyon), 3 otopark (₺450 Milyon)",
+    "kisa_vade_etki": "Deniz otobüsü frekansının artırılması ile %15 iyileşme",
+    "orta_vade_etki": "Yol düzenlemeleri ile %25 trafik iyileşmesi",
+    "uzun_vade_etki": "Tramvay hattı ile Sarıyer'in turizm potansiyelinin artması"
+  },
+  {
+    "ilce": "Beyoğlu",
+    "oncelik": "Orta",
+    "proje_adi": "Beyoğlu Tarihi Tramvay Ağı Genişletmesi ve Tünel Modernizasyonu",
+    "proje_detay": "Mevcut T1 ve Tünel hatlarına ek olarak 6 km yeni tramvay hattı (5 istasyon). Karaköy-Galata-Taksim-Şişhane çevre hattı. 4 km yaya öncelikli bölge düzenlemesi. 2 çok katlı otopark (toplam 1,500 araç). Funicular modernizasyonu.",
+    "tahmini_maliyet": "₺5.4 Milyar ($129 Milyon)",
+    "beklenen_etki": "217 bin nüfus ve milyonlarca turiste genişletilmiş tramvay ağı, tarihi dokuda %40 trafik azalması",
+    "uygulama_suresi": "26 ay",
+    "alternatif_cozumler": [
+      "Elektrikli minibüs filosu (₺520 Milyon - $12 Milyon)",
+      "Bisiklet paylaşım sistemi genişletmesi (₺320 Milyon - $8 Milyon)",
+      "Teleferik hattı ile Galata-Taksim bağlantısı (₺850 Milyon - $20 Milyon)"
+    ],
+    "yol_altyapisi": "Yaya bölgeleri 4 km (₺800 Milyon), Funicular modernizasyonu (₺420 Milyon), İstiklal Caddesi düzenlemesi (₺520 Milyon), 2 otopark (₺500 Milyon)",
+    "kisa_vade_etki": "Yaya bölgelerinin genişletilmesi ile %18 iyileşme",
+    "orta_vade_etki": "Tramvay çevre hattı ile turistik bölgelere erişimde %30 iyileşme",
+    "uzun_vade_etki": "Tarihi Beyoğlu'nun tamamen yaya ve toplu taşıma odaklı bölgeye dönüşümü"
+  },
+  {
+    "ilce": "Kadıköy",
+    "oncelik": "Düşük",
+    "proje_adi": "Kadıköy Tramvay Ağı Genişletmesi ve İskele Entegrasyonu",
+    "proje_detay": "Mevcut T3 hattına ek olarak 5 km yeni tramvay hattı (4 istasyon). Kadıköy-Moda-Fenerbahçe güzergahı. 3 kavşak düzenlemesi. 2 orta ölçekli otopark (toplam 1,200 araç). 3 iskele modernizasyonu.",
+    "tahmini_maliyet": "₺3.8 Milyar ($90 Milyon)",
+    "beklenen_etki": "462 bin nüfusa genişletilmiş tramvay ağı, iskele trafiğinde %25 iyileşme",
+    "uygulama_suresi": "22 ay",
+    "alternatif_cozumler": [
+      "Bisiklet yolu ağı genişletmesi (₺280 Milyon - $7 Milyon)",
+      "Deniz otobüsü seferlerinin artırılması (₺520 Milyon - $12 Milyon)",
+      "Elektrikli otobüs filosu (₺680 Milyon - $16 Milyon)"
+    ],
+    "yol_altyapisi": "3 kavşak düzenlemesi (₺450 Milyon), İskele modernizasyonu (₺620 Milyon), Sahil yolu düzenlemesi (₺520 Milyon), 2 otopark (₺400 Milyon)",
+    "kisa_vade_etki": "İskele düzenlemesi ile %12 iyileşme",
+    "orta_vade_etki": "Tramvay uzantısı ile sahil bölgelerine erişimde %20 iyileşme",
+    "uzun_vade_etki": "Kadıköy'ün sürdürülebilir ulaşım örneği olması"
+  },
+  {
+    "ilce": "Bağcılar",
+    "oncelik": "Düşük",
+    "proje_adi": "Bağcılar Metro İstasyonları Genişletmesi ve Kavşak İyileştirme",
+    "proje_detay": "Mevcut M1 hattı istasyonlarının genişletilmesi ve kapasite artırımı (6 istasyon). 4 kavşak düzenlemesi. 3 orta ölçekli otopark (toplam 2,000 araç). 4 km iç yol düzenlemesi.",
+    "tahmini_maliyet": "₺3.2 Milyar ($76 Milyon)",
+    "beklenen_etki": "714 bin nüfusa artan metro kapasitesi, kavşaklarda %20 iyileşme",
+    "uygulama_suresi": "20 ay",
+    "alternatif_cozumler": [
+      "Tramvay hattı ile mahalleler arası bağlantı (₺1.4 Milyar - $33 Milyon)",
+      "BRT hattı (₺1.6 Milyar - $38 Milyon)",
+      "Akıllı trafik yönetim sistemi (₺420 Milyon - $10 Milyon)"
+    ],
+    "yol_altyapisi": "4 kavşak düzenlemesi (₺800 Milyon), İç yol 4 km (₺800 Milyon), 3 otopark (₺450 Milyon)",
+    "kisa_vade_etki": "Metro frekansının artırılması ile %10 iyileşme",
+    "orta_vade_etki": "Kavşak düzenlemeleri ile %18 trafik iyileşmesi",
+    "uzun_vade_etki": "İstasyon genişletmeleri ile yolcu kapasitesinde %30 artış"
+  },
+  {
+    "ilce": "Bayrampaşa",
+    "oncelik": "Düşük",
+    "proje_adi": "Bayrampaşa Kavşak Düzenlemesi ve Otopark Projesi",
+    "proje_detay": "E-5 üzerinde 3 kavşak düzenlemesi (köprülü/tünelli). 4 km iç yol düzenlemesi. 3 çok katlı otopark (toplam 2,000 araç). Akıllı trafik yönetim sistemi.",
+    "tahmini_maliyet": "₺2.8 Milyar ($67 Milyon)",
+    "beklenen_etki": "268 bin nüfusa iyileştirilmiş trafik akışı, E-5'te %25 iyileşme",
+    "uygulama_suresi": "18 ay",
+    "alternatif_cozumler": [
+      "Tramvay hattı (₺1.2 Milyar - $29 Milyon)",
+      "Metro istasyonu genişletmesi (₺850 Milyon - $20 Milyon)",
+      "Park-binme tesisleri (₺420 Milyon - $10 Milyon)"
+    ],
+    "yol_altyapisi": "3 kavşak düzenlemesi (₺1.5 Milyar), İç yol 4 km (₺800 Milyon), Akıllı sistem (₺320 Milyon), 3 otopark (₺600 Milyon)",
+    "kisa_vade_etki": "Akıllı trafik sistemi ile %12 iyileşme",
+    "orta_vade_etki": "Kavşak düzenlemeleri ile %22 trafik iyileşmesi",
+    "uzun_vade_etki": "E-5 üzerindeki trafik akışının optimize edilmesi"
+  },
+  {
+    "ilce": "Bakırköy",
+    "oncelik": "Düşük",
+    "proje_adi": "Bakırköy Sahil Tramvayı ve Otopark Genişletmesi",
+    "proje_detay": "Sahil yolu üzerinde 4 km tramvay uzantısı (3 istasyon). 2 kavşak düzenlemesi. 2 çok katlı otopark (toplam 1,500 araç). İskele modernizasyonu.",
+    "tahmini_maliyet": "₺2.4 Milyar ($57 Milyon)",
+    "beklenen_etki": "220 bin nüfusa sahil tramvayı, sahil trafiğinde %20 iyileşme",
+    "uygulama_suresi": "18 ay",
+    "alternatif_cozumler": [
+      "Metrobüs kapasitesinin artırılması (₺850 Milyon - $20 Milyon)",
+      "Bisiklet yolu ağı (₺280 Milyon - $7 Milyon)",
+      "Deniz otobüsü seferlerinin artırılması (₺420 Milyon - $10 Milyon)"
+    ],
+    "yol_altyapisi": "2 kavşak düzenlemesi (₺400 Milyon), Sahil yolu düzenlemesi (₺420 Milyon), İskele modernizasyonu (₺320 Milyon), 2 otopark (₺500 Milyon)",
+    "kisa_vade_etki": "İskele düzenlemesi ile %10 iyileşme",
+    "orta_vade_etki": "Tramvay uzantısı ile sahil erişiminde %18 iyileşme",
+    "uzun_vade_etki": "Bakırköy'ün sahil şeridi ulaşım modelinin tamamlanması"
+  },
+  {
+    "ilce": "Güngören",
+    "oncelik": "Düşük",
+    "proje_adi": "Güngören Metro İstasyonu Genişletmesi ve İç Yol Düzenlemesi",
+    "proje_detay": "M1 hattı istasyonlarının genişletilmesi (3 istasyon). 3 kavşak düzenlemesi. 2 orta ölçekli otopark (toplam 1,200 araç). 3 km iç yol düzenlemesi.",
+    "tahmini_maliyet": "₺2.2 Milyar ($52 Milyon)",
+    "beklenen_etki": "265 bin nüfusa artan metro kapasitesi, iç yollarda %18 iyileşme",
+    "uygulama_suresi": "16 ay",
+    "alternatif_cozumler": [
+      "Tramvay hattı (₺1.0 Milyar - $24 Milyon)",
+      "Akıllı trafik yönetimi (₺320 Milyon - $8 Milyon)",
+      "Park-binme tesisleri (₺380 Milyon - $9 Milyon)"
+    ],
+    "yol_altyapisi": "3 kavşak düzenlemesi (₺600 Milyon), İç yol 3 km (₺600 Milyon), 2 otopark (₺400 Milyon)",
+    "kisa_vade_etki": "Metro frekansının artırılması ile %10 iyileşme",
+    "orta_vade_etki": "Kavşak düzenlemeleri ile %16 trafik iyileşmesi",
+    "uzun_vade_etki": "İstasyon genişletmeleri ile yolcu kapasitesinde %25 artış"
+  },
+  {
+    "ilce": "Üsküdar",
+    "oncelik": "Düşük",
+    "proje_adi": "Üsküdar İskele Entegrasyonu ve Teleferik Genişletmesi",
+    "proje_detay": "Mevcut teleferik hattının 3 km uzatılması (2 istasyon). 4 iskele modernizasyonu. 3 kavşak düzenlemesi. 2 çok katlı otopark (toplam 1,800 araç).",
+    "tahmini_maliyet": "₺3.6 Milyar ($86 Milyon)",
+    "beklenen_etki": "513 bin nüfusa genişletilmiş teleferik, iskele trafiğinde %22 iyileşme",
+    "uygulama_suresi": "20 ay",
+    "alternatif_cozumler": [
+      "Tramvay hattı (₺1.2 Milyar - $29 Milyon)",
+      "Deniz otobüsü seferlerinin artırılması (₺620 Milyon - $15 Milyon)",
+      "Bisiklet yolu ağı (₺320 Milyon - $8 Milyon)"
+    ],
+    "yol_altyapisi": "3 kavşak düzenlemesi (₺600 Milyon), İskele modernizasyonu (₺720 Milyon), Sahil düzenlemesi (₺420 Milyon), 2 otopark (₺500 Milyon)",
+    "kisa_vade_etki": "İskele düzenlemesi ile %12 iyileşme",
+    "orta_vade_etki": "Teleferik uzantısı ile tepedeki mahallelere erişimde %20 iyileşme",
+    "uzun_vade_etki": "Deniz-kara-teleferik entegrasyonu ile örnek ulaşım modeli"
+  },
+  {
+    "ilce": "Kağıthane",
+    "oncelik": "Düşük",
+    "proje_adi": "Kağıthane Metro İstasyonu Genişletmesi ve Vadi Yolu Düzenlemesi",
+    "proje_detay": "M7 hattı istasyonlarının genişletilmesi (4 istasyon). Kağıthane Vadisi yolu 5 km düzenlemesi. 3 kavşak düzenlemesi. 2 orta ölçekli otopark (toplam 1,500 araç).",
+    "tahmini_maliyet": "₺3.4 Milyar ($81 Milyon)",
+    "beklenen_etki": "445 bin nüfusa artan metro kapasitesi, vadi yolunda %25 iyileşme",
+    "uygulama_suresi": "20 ay",
+    "alternatif_cozumler": [
+      "Tramvay hattı (₺1.2 Milyar - $29 Milyon)",
+      "BRT hattı (₺1.4 Milyar - $33 Milyon)",
+      "Vadi parkı içi bisiklet yolu (₺280 Milyon - $7 Milyon)"
+    ],
+    "yol_altyapisi": "Vadi yolu 5 km (₺1.25 Milyar), 3 kavşak (₺600 Milyon), Park düzenlemesi (₺420 Milyon), 2 otopark (₺400 Milyon)",
+    "kisa_vade_etki": "Metro frekansının artırılması ile %10 iyileşme",
+    "orta_vade_etki": "Vadi yolu düzenlemesi ile %22 trafik iyileşmesi",
+    "uzun_vade_etki": "Kağıthane Vadisi'nin rekreasyon ve ulaşım koridoru olması"
+  },
+  {
+    "ilce": "Kartal",
+    "oncelik": "Düşük",
+    "proje_adi": "Kartal Metro İstasyonu Genişletmesi ve Sahil Düzenlemesi",
+    "proje_detay": "M4 hattı istasyonlarının genişletilmesi (5 istasyon). Sahil yolu 6 km düzenlemesi. 3 kavşak düzenlemesi. 2 orta ölçekli otopark (toplam 1,500 araç). İskele modernizasyonu.",
+    "tahmini_maliyet": "₺3.8 Milyar ($90 Milyon)",
+    "beklenen_etki": "476 bin nüfusa artan metro kapasitesi, sahil trafiğinde %20 iyileşme",
+    "uygulama_suresi": "22 ay",
+    "alternatif_cozumler": [
+      "Tramvay hattı (₺1.4 Milyar - $33 Milyon)",
+      "Deniz otobüsü seferlerinin artırılması (₺620 Milyon - $15 Milyon)",
+      "Bisiklet yolu ağı (₺320 Milyon - $8 Milyon)"
+    ],
+    "yol_altyapisi": "Sahil yolu 6 km (₺1.5 Milyar), 3 kavşak (₺600 Milyon), İskele modernizasyonu (₺420 Milyon), 2 otopark (₺400 Milyon)",
+    "kisa_vade_etki": "Metro frekansının artırılması ile %10 iyileşme",
+    "orta_vade_etki": "Sahil yolu düzenlemesi ile %18 trafik iyileşmesi",
+    "uzun_vade_etki": "Kartal'ın Anadolu yakası sahil koridorunun önemli merkezi olması"
+  },
+  {
+    "ilce": "Maltepe",
+    "oncelik": "Düşük",
+    "proje_adi": "Maltepe Sahil Tramvayı ve Park-Binme Tesisleri",
+    "proje_detay": "Sahil yolu üzerinde 7 km tramvay hattı (5 istasyon). 3 kavşak düzenlemesi. 3 park-binme tesisi (toplam 2,000 araç). İskele modernizasyonu.",
+    "tahmini_maliyet": "₺4.2 Milyar ($100 Milyon)",
+    "beklenen_etki": "525 bin nüfusa sahil tramvayı, sahil trafiğinde %22 iyileşme",
+    "uygulama_suresi": "24 ay",
+    "alternatif_cozumler": [
+      "M4 hattının Maltepe içine dağıtılması (₺3.2 Milyar - $76 Milyon)",
+      "BRT hattı (₺1.6 Milyar - $38 Milyon)",
+      "Deniz otobüsü seferlerinin artırılması (₺620 Milyon - $15 Milyon)"
+    ],
+    "yol_altyapisi": "3 kavşak düzenlemesi (₺600 Milyon), Sahil yolu düzenlemesi (₺720 Milyon), İskele modernizasyonu (₺420 Milyon), 3 park-binme (₺600 Milyon)",
+    "kisa_vade_etki": "Park-binme tesislerinin açılması ile %12 iyileşme",
+    "orta_vade_etki": "Tramvay hattı ile sahil bölgelerine erişimde %20 iyileşme",
+    "uzun_vade_etki": "Maltepe'nin sürdürülebilir sahil ulaşım modeline kavuşması"
+  }
+]

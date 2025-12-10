@@ -1,96 +1,110 @@
-# AI-Powered Urban Investment Recommendation Platform
+# AI-Powered City Investment Suggestion Generator
 
-This repository contains an AI-driven decision support system designed to analyze city-level needs (transportation, environment, health, infrastructure, social services) and generate data-informed investment recommendations for municipalities, institutions, and planners.
+An AI-driven decision support system providing district-level investment recommendations for Istanbul. With sufficient databases, this system can be applied to other cities as well.
 
-The system currently provides district-level transportation suggestions for Istanbul through a simple web interface. It integrates open data sources, APIs, scraping modules, and LLM-based reasoning (via OpenRouter + Sonnet Claude 4.5) to produce explainable, multi-criteria recommendations.
+## 🏗️ Project Structure
 
----
+```
+IstanbulUlasimProjesi/
+├── src/                          # Source code
+│   ├── environment_analysis_engine.py
+│   ├── ai_environment_recommendations.py
+│   ├── health_analysis_engine.py
+│   ├── transportation_analysis_engine.py
+│   └── web_server.py
+├── data/                         # Data files
+│   └── ham_veri/                 # Raw data
+├── outputs/                      # Generated outputs
+└── web/                          # Web interface
+```
 
-## 🇹🇷 Türkçe Açıklama
+## 🚀 Features
 
-### 🏙️ Şehir Bazlı Yapay Zekâ Destekli Yatırım Öneri Sistemi
+- **District-Level Analysis**: Comprehensive analysis for all 39 districts of Istanbul
+- **Multi-Category Support**: Transportation, Health, and Environment modules
+- **AI-Powered Recommendations**: Claude Sonnet 4.5 integration via OpenRouter
+- **Data Integration**: Multiple data sources including Excel, CSV, and GeoJSON
+- **Web Interface**: Flask-based web server with interactive dashboards
 
-Bu proje, şehirlerin kritik ihtiyaçlarını analiz ederek kurumlara veri odaklı yatırım önerileri sunan yapay zekâ destekli bir karar destek platformudur.
+## 📋 Requirements
 
-**Mevcut prototip**, İstanbul ilçeleri için ulaşım önerileri üretmekte ve bunları web arayüzü üzerinden sunmaktadır. Sistem; açık veri portalları, API entegrasyonları, scraping yöntemleri ve LLM tabanlı analizleri bir araya getirerek çok kriterli ve açıklanabilir öneriler sağlar.
+See `src/requirements.txt` for Python dependencies.
 
-### 🚀 Özellikler
+## 🔐 Environment Variables
 
-- İlçe Bazlı Ulaşım Analizi
-- Çok Kaynaklı Veri Entegrasyonu
-- LLM Destekli Politika Analizleri (Claude 4.5)
-- Basit Web Arayüzü (HTML/CSS/JS)
-- Modüler Mimari (Diğer şehirlere genişletilebilir)
-- Geliştirme Aşamasında: GIS analizleri & MCDA
+Create a `.env` file in the project root:
 
-### 🧠 Sistem Mimarisi
+```
+OPENROUTER_API_KEY=your-api-key-here
+```
 
-- Veri Toplama Modülleri (API, scraping)
-- Analiz Motoru (Python)
-- LLM Öneri Motoru (OpenRouter + Claude 4.5)
-- Web Sunucusu
-- ETL Boru Hatları
-- İlçe Bazlı Öneri Arayüzü
+**Note**: `.env` is already in `.gitignore` for security.
 
-### 📌 Mevcut Durum
+## 🚀 Quick Start
 
-- İstanbul için ilk ulaşım öneri modeli çalışıyor.
-- İlçe bazlı öneri üretebilen bir web arayüzü aktif.
-- Bazı veriler erişilebilir olmadığı için prototipte tahmini veriler kullanılıyor.
-- Veri erişimi sağlandıkça doğruluk artacak şekilde tasarlandı.
-- Sağlık ve çevre gibi diğer alanlara yönelik prototipler geliştiriliyor.
+### 1. Install Dependencies
+```bash
+pip install -r src/requirements.txt
+```
 
----
+### 2. Set Up Environment
+```bash
+# Create .env file with your API key
+echo "OPENROUTER_API_KEY=your-key-here" > .env
+```
 
-## 🇬🇧 English Description
+### 3. Run Analysis Engines
 
-### 🏙️ AI-Assisted Urban Investment Recommendation Platform
+**Environment Analysis:**
+```bash
+python src/environment_analysis_engine.py
+python src/ai_environment_recommendations.py
+```
 
-This platform analyzes critical urban needs and provides data-driven investment suggestions for municipalities and institutions.
+**Health Analysis:**
+```bash
+python src/health_data_estimation.py
+python src/health_analysis_engine.py
+python src/ai_health_recommendations.py
+```
 
-The current prototype generates district-level transportation recommendations for Istanbul and delivers them through a simple web interface. The system combines open data portals, scraping modules, API integrations, and LLM-based reasoning (Claude 4.5) to generate explainable, multi-criteria suggestions.
+**Transportation Analysis:**
+```bash
+python src/transportation_analysis_engine.py
+python src/ai_transportation_recommendations.py
+```
 
-### 🚀 Features
+### 4. Start Web Server
+```bash
+python src/web_server.py
+```
 
-- District-Level Transport Recommendations
-- Multi-Source Data Integration
-- LLM-Powered Policy Analysis
-- Lightweight Web UI (HTML/CSS/JS)
-- Modular Architecture (Easy to scale to new cities)
-- In Development: GIS spatial analysis & MCDA
+Access the web interface at: `http://localhost:5000`
 
-### 🧠 System Architecture
+## 📊 Data Sources
 
-- Data Collection Modules (API, scraping)
-- Python Analysis Engine
-- LLM Recommendation Engine (OpenRouter + Claude 4.5)
-- Web Server
-- ETL Pipelines
-- District Recommendation Interface
+- **Population Data**: District-level population statistics
+- **Transportation**: Metro stations, parking facilities, traffic data
+- **Health**: Hospital counts, bed capacity, healthcare infrastructure
+- **Environment**: Green spaces, parks, GeoJSON spatial data
+- **Excel Files**: Multi-sheet Excel files with comprehensive statistics
 
-### 📌 Current Status
+## 🔄 Recent Updates
 
-- The first transportation model for Istanbul is functional.
-- Web-based district recommendation interface is live.
-- Some datasets are inaccessible, so estimated values are used in parts of the prototype.
-- Model accuracy will increase as real datasets become available.
-- New prototypes for environment, health, and infrastructure are being developed.
+- ✅ Renamed all directories and files to English
+- ✅ Integrated all 6 Excel sheets in environment analysis
+- ✅ GeoJSON data processing for district-level analysis
+- ✅ Updated project structure for better organization
+- ✅ Comprehensive `.gitignore` including `.env` protection
 
----
+## 📝 License
 
-## 📁 Project Structure (Sample)
+MIT License - See LICENSE file for details
 
-- `kod/` – Python analysis modules, LLM engines, scraping tools
-- `web/` – User-facing UI
-- `veriler/` – Data files
-- `requirements.txt` – Dependencies
+## 👤 Author
 
----
+Kerem Doğan
 
-## 📜 License
+## 🔗 Repository
 
-MIT License
-
----
-
-Hazırlayan: Kerem Doğan
+[GitHub Repository](https://github.com/Keremdogan1/ai-powered-city-investment-suggestion-generator)

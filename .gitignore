@@ -22,8 +22,9 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# Large data files (exceeds GitHub 100MB limit)
+data/ham_veri/trafik_yogunluk_202312.csv
+data/ham_veri/yaysis_mahal_geo_data.geojson
+
 # Outputs (optional - uncomment if you don't want to track outputs)
 # outputs/
-
-# Data (optional - uncomment if data files are too large)
-# data/

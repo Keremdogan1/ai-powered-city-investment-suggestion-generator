@@ -1,1 +1,1 @@
-web: cd src && python web_server.py
+web: python run.py

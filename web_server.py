@@ -13,11 +13,11 @@ import re
 
 app = Flask(__name__)
 
-# Klasör yolları
-BASE_DIR = r"C:\ProgrammingFile\Python\IstanbulUlasimProjesi"
+# Klasör yolları (dinamik — Render'da çalışacak şekilde)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CIKTI_KLASORU = os.path.join(BASE_DIR, "outputs")
 WEB_KLASORU = os.path.join(BASE_DIR, "web")
-VERI_KLASORU = os.path.join(BASE_DIR, "data", "ham_veri", "saglik")  # ← saglik eklendi
+VERI_KLASORU = os.path.join(BASE_DIR, "data", "ham_veri", "saglik")
 
 # ÇED önbellek (rate limiting için)
 CED_CACHE = {

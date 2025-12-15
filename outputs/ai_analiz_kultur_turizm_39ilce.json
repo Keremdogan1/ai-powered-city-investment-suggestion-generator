@@ -1,0 +1,774 @@
+{
+  "genel_durum": {
+    "toplam_nufus": 11089090,
+    "toplam_tiyatro": 89,
+    "toplam_muse": 35,
+    "toplam_etkinlik": 1062,
+    "toplam_turistik_yer": 170,
+    "toplam_festival": 47,
+    "toplam_sinema": 122,
+    "toplam_kultur_merkezi": 52,
+    "toplam_tarihi_yer": 104,
+    "ortalama_eksiklik": 52.8651911257182,
+    "analiz_edilen_ilce_sayisi": 39,
+    "standartlar": {
+      "tiyatro_salonu_100k_kisi": 0.5,
+      "muse_100k_kisi": 0.3,
+      "kulturel_etkinlik_1k_kisi": 10,
+      "turistik_yer_10k_kisi": 1,
+      "festival_yil": 1,
+      "sinema_salonu_50k_kisi": 1,
+      "kultur_merkezi_50k_kisi": 0.5,
+      "tarihi_yer_20k_kisi": 0.5
+    },
+    "veri_turu": "temsili_kultur_turizm",
+    "uyari": "Bu veriler temsili amaçlıdır. Gerçek kültür verileriyle güncellenecektir."
+  },
+  "en_sorunlu_ilceler": [
+    {
+      "ilce": "Fatih",
+      "nufus": 493199,
+      "tiyatro_salonu": 2,
+      "muse": 0,
+      "kulturel_etkinlik": 10,
+      "turistik_yer": 2,
+      "festival": 1,
+      "sinema_salonu": 1,
+      "kultur_merkezi": 2,
+      "tarihi_yer": 4,
+      "genel_kultur_skoru": 70.49468875646545,
+      "sorunlar": [
+        "Müze sayısı 1 eksik",
+        "Kültürel etkinlik sayısı 4921 eksik",
+        "Turistik yer sayısı 47 eksik",
+        "Sinema salonu sayısı 8 eksik",
+        "Kültür merkezi sayısı 2 eksik",
+        "Tarihi yer sayısı 8 eksik"
+      ]
+    },
+    {
+      "ilce": "Çekmeköy",
+      "nufus": 130189,
+      "tiyatro_salonu": 4,
+      "muse": 0,
+      "kulturel_etkinlik": 47,
+      "turistik_yer": 2,
+      "festival": 0,
+      "sinema_salonu": 3,
+      "kultur_merkezi": 0,
+      "tarihi_yer": 1,
+      "genel_kultur_skoru": 70.43740254552996,
+      "sorunlar": [
+        "Müze sayısı 0 eksik",
+        "Kültürel etkinlik sayısı 1254 eksik",
+        "Turistik yer sayısı 11 eksik",
+        "Festival eksik",
+        "Kültür merkezi sayısı 1 eksik",
+        "Tarihi yer sayısı 2 eksik"
+      ]
+    },
+    {
+      "ilce": "Silivri",
+      "nufus": 341016,
+      "tiyatro_salonu": 3,
+      "muse": 0,
+      "kulturel_etkinlik": 29,
+      "turistik_yer": 9,
+      "festival": 2,
+      "sinema_salonu": 3,
+      "kultur_merkezi": 0,
+      "tarihi_yer": 1,
+      "genel_kultur_skoru": 65.88605813216974,
+      "sorunlar": [
+        "Müze sayısı 1 eksik",
+        "Kültürel etkinlik sayısı 3381 eksik",
+        "Turistik yer sayısı 25 eksik",
+        "Sinema salonu sayısı 3 eksik",
+        "Kültür merkezi sayısı 3 eksik",
+        "Tarihi yer sayısı 7 eksik"
+      ]
+    },
+    {
+      "ilce": "Adalar",
+      "nufus": 456651,
+      "tiyatro_salonu": 1,
+      "muse": 2,
+      "kulturel_etkinlik": 42,
+      "turistik_yer": 7,
+      "festival": 0,
+      "sinema_salonu": 6,
+      "kultur_merkezi": 1,
+      "tarihi_yer": 4,
+      "genel_kultur_skoru": 65.43582517064455,
+      "sorunlar": [
+        "Tiyatro salonu sayısı 1 eksik",
+        "Kültürel etkinlik sayısı 4524 eksik",
+        "Turistik yer sayısı 38 eksik",
+        "Festival eksik",
+        "Kültür merkezi sayısı 3 eksik",
+        "Tarihi yer sayısı 7 eksik"
+      ]
+    },
+    {
+      "ilce": "Sancaktepe",
+      "nufus": 293770,
+      "tiyatro_salonu": 4,
+      "muse": 1,
+      "kulturel_etkinlik": 20,
+      "turistik_yer": 3,
+      "festival": 0,
+      "sinema_salonu": 2,
+      "kultur_merkezi": 0,
+      "tarihi_yer": 1,
+      "genel_kultur_skoru": 64.24720019062532,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 2917 eksik",
+        "Turistik yer sayısı 26 eksik",
+        "Festival eksik",
+        "Sinema salonu sayısı 3 eksik",
+        "Kültür merkezi sayısı 2 eksik",
+        "Tarihi yer sayısı 6 eksik"
+      ]
+    },
+    {
+      "ilce": "Başakşehir",
+      "nufus": 396649,
+      "tiyatro_salonu": 3,
+      "muse": 0,
+      "kulturel_etkinlik": 41,
+      "turistik_yer": 5,
+      "festival": 2,
+      "sinema_salonu": 1,
+      "kultur_merkezi": 3,
+      "tarihi_yer": 1,
+      "genel_kultur_skoru": 63.57428103940763,
+      "sorunlar": [
+        "Müze sayısı 1 eksik",
+        "Kültürel etkinlik sayısı 3925 eksik",
+        "Turistik yer sayısı 34 eksik",
+        "Sinema salonu sayısı 6 eksik",
+        "Tarihi yer sayısı 8 eksik"
+      ]
+    },
+    {
+      "ilce": "Beylikdüzü",
+      "nufus": 327373,
+      "tiyatro_salonu": 3,
+      "muse": 0,
+      "kulturel_etkinlik": 27,
+      "turistik_yer": 6,
+      "festival": 2,
+      "sinema_salonu": 1,
+      "kultur_merkezi": 2,
+      "tarihi_yer": 2,
+      "genel_kultur_skoru": 63.227495853353815,
+      "sorunlar": [
+        "Müze sayısı 0 eksik",
+        "Kültürel etkinlik sayısı 3246 eksik",
+        "Turistik yer sayısı 26 eksik",
+        "Sinema salonu sayısı 5 eksik",
+        "Tarihi yer sayısı 6 eksik"
+      ]
+    },
+    {
+      "ilce": "Sarıyer",
+      "nufus": 333672,
+      "tiyatro_salonu": 1,
+      "muse": 1,
+      "kulturel_etkinlik": 49,
+      "turistik_yer": 2,
+      "festival": 0,
+      "sinema_salonu": 2,
+      "kultur_merkezi": 3,
+      "tarihi_yer": 4,
+      "genel_kultur_skoru": 60.44618667433887,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 3287 eksik",
+        "Turistik yer sayısı 31 eksik",
+        "Festival eksik",
+        "Sinema salonu sayısı 4 eksik",
+        "Tarihi yer sayısı 4 eksik"
+      ]
+    },
+    {
+      "ilce": "Güngören",
+      "nufus": 137673,
+      "tiyatro_salonu": 1,
+      "muse": 1,
+      "kulturel_etkinlik": 12,
+      "turistik_yer": 2,
+      "festival": 0,
+      "sinema_salonu": 1,
+      "kultur_merkezi": 0,
+      "tarihi_yer": 3,
+      "genel_kultur_skoru": 59.656650178321094,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 1364 eksik",
+        "Turistik yer sayısı 11 eksik",
+        "Festival eksik",
+        "Sinema salonu sayısı 1 eksik",
+        "Kültür merkezi sayısı 1 eksik"
+      ]
+    },
+    {
+      "ilce": "Küçükçekmece",
+      "nufus": 187908,
+      "tiyatro_salonu": 1,
+      "muse": 1,
+      "kulturel_etkinlik": 46,
+      "turistik_yer": 2,
+      "festival": 0,
+      "sinema_salonu": 1,
+      "kultur_merkezi": 1,
+      "tarihi_yer": 1,
+      "genel_kultur_skoru": 58.866892309002274,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 1833 eksik",
+        "Turistik yer sayısı 16 eksik",
+        "Festival eksik",
+        "Sinema salonu sayısı 2 eksik",
+        "Tarihi yer sayısı 3 eksik"
+      ]
+    },
+    {
+      "ilce": "Sultanbeyli",
+      "nufus": 166175,
+      "tiyatro_salonu": 4,
+      "muse": 0,
+      "kulturel_etkinlik": 23,
+      "turistik_yer": 3,
+      "festival": 1,
+      "sinema_salonu": 1,
+      "kultur_merkezi": 1,
+      "tarihi_yer": 4,
+      "genel_kultur_skoru": 58.17436437490596,
+      "sorunlar": [
+        "Müze sayısı 0 eksik",
+        "Kültürel etkinlik sayısı 1638 eksik",
+        "Turistik yer sayısı 13 eksik",
+        "Sinema salonu sayısı 2 eksik"
+      ]
+    },
+    {
+      "ilce": "Çatalca",
+      "nufus": 462518,
+      "tiyatro_salonu": 4,
+      "muse": 1,
+      "kulturel_etkinlik": 26,
+      "turistik_yer": 7,
+      "festival": 1,
+      "sinema_salonu": 1,
+      "kultur_merkezi": 1,
+      "tarihi_yer": 1,
+      "genel_kultur_skoru": 58.13146731586663,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 4599 eksik",
+        "Turistik yer sayısı 39 eksik",
+        "Sinema salonu sayısı 8 eksik",
+        "Kültür merkezi sayısı 3 eksik",
+        "Tarihi yer sayısı 10 eksik"
+      ]
+    },
+    {
+      "ilce": "Gaziosmanpaşa",
+      "nufus": 354594,
+      "tiyatro_salonu": 4,
+      "muse": 0,
+      "kulturel_etkinlik": 20,
+      "turistik_yer": 4,
+      "festival": 1,
+      "sinema_salonu": 5,
+      "kultur_merkezi": 2,
+      "tarihi_yer": 5,
+      "genel_kultur_skoru": 57.68442218424452,
+      "sorunlar": [
+        "Müze sayısı 1 eksik",
+        "Kültürel etkinlik sayısı 3525 eksik",
+        "Turistik yer sayısı 31 eksik"
+      ]
+    },
+    {
+      "ilce": "Beykoz",
+      "nufus": 122364,
+      "tiyatro_salonu": 2,
+      "muse": 0,
+      "kulturel_etkinlik": 5,
+      "turistik_yer": 2,
+      "festival": 1,
+      "sinema_salonu": 5,
+      "kultur_merkezi": 0,
+      "tarihi_yer": 3,
+      "genel_kultur_skoru": 57.56317217482267,
+      "sorunlar": [
+        "Müze sayısı 0 eksik",
+        "Kültürel etkinlik sayısı 1218 eksik",
+        "Turistik yer sayısı 10 eksik",
+        "Kültür merkezi sayısı 1 eksik"
+      ]
+    },
+    {
+      "ilce": "Ataşehir",
+      "nufus": 315176,
+      "tiyatro_salonu": 1,
+      "muse": 2,
+      "kulturel_etkinlik": 18,
+      "turistik_yer": 2,
+      "festival": 0,
+      "sinema_salonu": 6,
+      "kultur_merkezi": 2,
+      "tarihi_yer": 3,
+      "genel_kultur_skoru": 56.64758737974973,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 3133 eksik",
+        "Turistik yer sayısı 29 eksik",
+        "Festival eksik",
+        "Tarihi yer sayısı 4 eksik"
+      ]
+    },
+    {
+      "ilce": "Kağıthane",
+      "nufus": 403173,
+      "tiyatro_salonu": 2,
+      "muse": 1,
+      "kulturel_etkinlik": 24,
+      "turistik_yer": 3,
+      "festival": 1,
+      "sinema_salonu": 3,
+      "kultur_merkezi": 0,
+      "tarihi_yer": 3,
+      "genel_kultur_skoru": 56.27254305223811,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 4007 eksik",
+        "Turistik yer sayısı 37 eksik",
+        "Sinema salonu sayısı 5 eksik",
+        "Kültür merkezi sayısı 4 eksik",
+        "Tarihi yer sayısı 7 eksik"
+      ]
+    },
+    {
+      "ilce": "Kartal",
+      "nufus": 186946,
+      "tiyatro_salonu": 3,
+      "muse": 0,
+      "kulturel_etkinlik": 15,
+      "turistik_yer": 3,
+      "festival": 2,
+      "sinema_salonu": 2,
+      "kultur_merkezi": 2,
+      "tarihi_yer": 1,
+      "genel_kultur_skoru": 56.013447733570125,
+      "sorunlar": [
+        "Müze sayısı 0 eksik",
+        "Kültürel etkinlik sayısı 1854 eksik",
+        "Turistik yer sayısı 15 eksik",
+        "Tarihi yer sayısı 3 eksik"
+      ]
+    },
+    {
+      "ilce": "Arnavutköy",
+      "nufus": 341410,
+      "tiyatro_salonu": 1,
+      "muse": 2,
+      "kulturel_etkinlik": 43,
+      "turistik_yer": 7,
+      "festival": 1,
+      "sinema_salonu": 2,
+      "kultur_merkezi": 1,
+      "tarihi_yer": 2,
+      "genel_kultur_skoru": 55.8558624527694,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 3371 eksik",
+        "Turistik yer sayısı 27 eksik",
+        "Sinema salonu sayısı 4 eksik",
+        "Kültür merkezi sayısı 2 eksik",
+        "Tarihi yer sayısı 6 eksik"
+      ]
+    },
+    {
+      "ilce": "Beyoğlu",
+      "nufus": 433746,
+      "tiyatro_salonu": 4,
+      "muse": 2,
+      "kulturel_etkinlik": 11,
+      "turistik_yer": 2,
+      "festival": 2,
+      "sinema_salonu": 3,
+      "kultur_merkezi": 0,
+      "tarihi_yer": 1,
+      "genel_kultur_skoru": 55.33828554038539,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 4326 eksik",
+        "Turistik yer sayısı 41 eksik",
+        "Sinema salonu sayısı 5 eksik",
+        "Kültür merkezi sayısı 4 eksik",
+        "Tarihi yer sayısı 9 eksik"
+      ]
+    },
+    {
+      "ilce": "Bahçelievler",
+      "nufus": 436395,
+      "tiyatro_salonu": 2,
+      "muse": 1,
+      "kulturel_etkinlik": 14,
+      "turistik_yer": 2,
+      "festival": 2,
+      "sinema_salonu": 7,
+      "kultur_merkezi": 0,
+      "tarihi_yer": 3,
+      "genel_kultur_skoru": 54.64670768455185,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 4349 eksik",
+        "Turistik yer sayısı 41 eksik",
+        "Kültür merkezi sayısı 4 eksik",
+        "Tarihi yer sayısı 7 eksik"
+      ]
+    },
+    {
+      "ilce": "Pendik",
+      "nufus": 285003,
+      "tiyatro_salonu": 1,
+      "muse": 0,
+      "kulturel_etkinlik": 43,
+      "turistik_yer": 4,
+      "festival": 2,
+      "sinema_salonu": 6,
+      "kultur_merkezi": 3,
+      "tarihi_yer": 4,
+      "genel_kultur_skoru": 54.25981480896692,
+      "sorunlar": [
+        "Müze sayısı 0 eksik",
+        "Kültürel etkinlik sayısı 2807 eksik",
+        "Turistik yer sayısı 24 eksik"
+      ]
+    },
+    {
+      "ilce": "Bağcılar",
+      "nufus": 391790,
+      "tiyatro_salonu": 1,
+      "muse": 1,
+      "kulturel_etkinlik": 39,
+      "turistik_yer": 5,
+      "festival": 1,
+      "sinema_salonu": 6,
+      "kultur_merkezi": 2,
+      "tarihi_yer": 1,
+      "genel_kultur_skoru": 54.19510452027872,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 3878 eksik",
+        "Turistik yer sayısı 34 eksik",
+        "Tarihi yer sayısı 8 eksik"
+      ]
+    },
+    {
+      "ilce": "Zeytinburnu",
+      "nufus": 381386,
+      "tiyatro_salonu": 2,
+      "muse": 1,
+      "kulturel_etkinlik": 6,
+      "turistik_yer": 4,
+      "festival": 1,
+      "sinema_salonu": 4,
+      "kultur_merkezi": 0,
+      "tarihi_yer": 2,
+      "genel_kultur_skoru": 53.99241188716943,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 3807 eksik",
+        "Turistik yer sayısı 34 eksik",
+        "Kültür merkezi sayısı 3 eksik",
+        "Tarihi yer sayısı 7 eksik"
+      ]
+    },
+    {
+      "ilce": "Bakırköy",
+      "nufus": 241676,
+      "tiyatro_salonu": 2,
+      "muse": 1,
+      "kulturel_etkinlik": 31,
+      "turistik_yer": 2,
+      "festival": 2,
+      "sinema_salonu": 1,
+      "kultur_merkezi": 0,
+      "tarihi_yer": 4,
+      "genel_kultur_skoru": 53.12302421423724,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 2385 eksik",
+        "Turistik yer sayısı 22 eksik",
+        "Sinema salonu sayısı 3 eksik",
+        "Kültür merkezi sayısı 2 eksik"
+      ]
+    },
+    {
+      "ilce": "Avcılar",
+      "nufus": 292136,
+      "tiyatro_salonu": 1,
+      "muse": 1,
+      "kulturel_etkinlik": 37,
+      "turistik_yer": 2,
+      "festival": 1,
+      "sinema_salonu": 2,
+      "kultur_merkezi": 2,
+      "tarihi_yer": 4,
+      "genel_kultur_skoru": 50.44294438206863,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 2884 eksik",
+        "Turistik yer sayısı 27 eksik",
+        "Sinema salonu sayısı 3 eksik"
+      ]
+    },
+    {
+      "ilce": "Maltepe",
+      "nufus": 194670,
+      "tiyatro_salonu": 1,
+      "muse": 0,
+      "kulturel_etkinlik": 25,
+      "turistik_yer": 8,
+      "festival": 1,
+      "sinema_salonu": 3,
+      "kultur_merkezi": 2,
+      "tarihi_yer": 1,
+      "genel_kultur_skoru": 49.84614989469358,
+      "sorunlar": [
+        "Müze sayısı 0 eksik",
+        "Kültürel etkinlik sayısı 1921 eksik",
+        "Turistik yer sayısı 11 eksik",
+        "Tarihi yer sayısı 3 eksik"
+      ]
+    },
+    {
+      "ilce": "Ümraniye",
+      "nufus": 269304,
+      "tiyatro_salonu": 2,
+      "muse": 1,
+      "kulturel_etkinlik": 24,
+      "turistik_yer": 5,
+      "festival": 2,
+      "sinema_salonu": 3,
+      "kultur_merkezi": 0,
+      "tarihi_yer": 3,
+      "genel_kultur_skoru": 49.23892701185278,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 2669 eksik",
+        "Turistik yer sayısı 21 eksik",
+        "Kültür merkezi sayısı 2 eksik",
+        "Tarihi yer sayısı 3 eksik"
+      ]
+    },
+    {
+      "ilce": "Tuzla",
+      "nufus": 359813,
+      "tiyatro_salonu": 2,
+      "muse": 2,
+      "kulturel_etkinlik": 5,
+      "turistik_yer": 6,
+      "festival": 2,
+      "sinema_salonu": 2,
+      "kultur_merkezi": 1,
+      "tarihi_yer": 5,
+      "genel_kultur_skoru": 49.13324421296618,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 3593 eksik",
+        "Turistik yer sayısı 29 eksik",
+        "Sinema salonu sayısı 5 eksik",
+        "Kültür merkezi sayısı 2 eksik"
+      ]
+    },
+    {
+      "ilce": "Şile",
+      "nufus": 137682,
+      "tiyatro_salonu": 3,
+      "muse": 0,
+      "kulturel_etkinlik": 44,
+      "turistik_yer": 4,
+      "festival": 2,
+      "sinema_salonu": 4,
+      "kultur_merkezi": 1,
+      "tarihi_yer": 4,
+      "genel_kultur_skoru": 47.73986432503885,
+      "sorunlar": [
+        "Müze sayısı 0 eksik",
+        "Kültürel etkinlik sayısı 1332 eksik",
+        "Turistik yer sayısı 9 eksik"
+      ]
+    },
+    {
+      "ilce": "Eyüpsultan",
+      "nufus": 361225,
+      "tiyatro_salonu": 3,
+      "muse": 2,
+      "kulturel_etkinlik": 28,
+      "turistik_yer": 6,
+      "festival": 1,
+      "sinema_salonu": 5,
+      "kultur_merkezi": 0,
+      "tarihi_yer": 5,
+      "genel_kultur_skoru": 47.6641982144093,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 3584 eksik",
+        "Turistik yer sayısı 30 eksik",
+        "Kültür merkezi sayısı 3 eksik"
+      ]
+    },
+    {
+      "ilce": "Üsküdar",
+      "nufus": 222907,
+      "tiyatro_salonu": 4,
+      "muse": 2,
+      "kulturel_etkinlik": 8,
+      "turistik_yer": 2,
+      "festival": 2,
+      "sinema_salonu": 1,
+      "kultur_merkezi": 2,
+      "tarihi_yer": 1,
+      "genel_kultur_skoru": 46.46969363905127,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 2221 eksik",
+        "Turistik yer sayısı 20 eksik",
+        "Sinema salonu sayısı 3 eksik",
+        "Tarihi yer sayısı 4 eksik"
+      ]
+    },
+    {
+      "ilce": "Esenler",
+      "nufus": 228257,
+      "tiyatro_salonu": 1,
+      "muse": 1,
+      "kulturel_etkinlik": 42,
+      "turistik_yer": 6,
+      "festival": 2,
+      "sinema_salonu": 1,
+      "kultur_merkezi": 3,
+      "tarihi_yer": 1,
+      "genel_kultur_skoru": 44.47927117240654,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 2240 eksik",
+        "Turistik yer sayısı 16 eksik",
+        "Sinema salonu sayısı 3 eksik",
+        "Tarihi yer sayısı 4 eksik"
+      ]
+    },
+    {
+      "ilce": "Bayrampaşa",
+      "nufus": 355911,
+      "tiyatro_salonu": 3,
+      "muse": 1,
+      "kulturel_etkinlik": 10,
+      "turistik_yer": 9,
+      "festival": 1,
+      "sinema_salonu": 1,
+      "kultur_merkezi": 3,
+      "tarihi_yer": 5,
+      "genel_kultur_skoru": 44.45865679903122,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 3549 eksik",
+        "Turistik yer sayısı 26 eksik",
+        "Sinema salonu sayısı 6 eksik"
+      ]
+    },
+    {
+      "ilce": "Şişli",
+      "nufus": 206877,
+      "tiyatro_salonu": 1,
+      "muse": 1,
+      "kulturel_etkinlik": 45,
+      "turistik_yer": 3,
+      "festival": 2,
+      "sinema_salonu": 2,
+      "kultur_merkezi": 3,
+      "tarihi_yer": 2,
+      "genel_kultur_skoru": 41.12107677508858,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 2023 eksik",
+        "Turistik yer sayısı 17 eksik",
+        "Sinema salonu sayısı 2 eksik",
+        "Tarihi yer sayısı 3 eksik"
+      ]
+    },
+    {
+      "ilce": "Kadıköy",
+      "nufus": 234665,
+      "tiyatro_salonu": 3,
+      "muse": 1,
+      "kulturel_etkinlik": 37,
+      "turistik_yer": 4,
+      "festival": 2,
+      "sinema_salonu": 5,
+      "kultur_merkezi": 3,
+      "tarihi_yer": 1,
+      "genel_kultur_skoru": 36.27554172969979,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 2309 eksik",
+        "Turistik yer sayısı 19 eksik",
+        "Tarihi yer sayısı 4 eksik"
+      ]
+    },
+    {
+      "ilce": "Esenyurt",
+      "nufus": 167543,
+      "tiyatro_salonu": 4,
+      "muse": 1,
+      "kulturel_etkinlik": 46,
+      "turistik_yer": 7,
+      "festival": 1,
+      "sinema_salonu": 5,
+      "kultur_merkezi": 1,
+      "tarihi_yer": 1,
+      "genel_kultur_skoru": 36.02149895847633,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 1629 eksik",
+        "Turistik yer sayısı 9 eksik",
+        "Tarihi yer sayısı 3 eksik"
+      ]
+    },
+    {
+      "ilce": "Sultangazi",
+      "nufus": 179334,
+      "tiyatro_salonu": 1,
+      "muse": 1,
+      "kulturel_etkinlik": 23,
+      "turistik_yer": 2,
+      "festival": 1,
+      "sinema_salonu": 5,
+      "kultur_merkezi": 2,
+      "tarihi_yer": 3,
+      "genel_kultur_skoru": 34.72492667313505,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 1770 eksik",
+        "Turistik yer sayısı 15 eksik"
+      ]
+    },
+    {
+      "ilce": "Beşiktaş",
+      "nufus": 111053,
+      "tiyatro_salonu": 2,
+      "muse": 1,
+      "kulturel_etkinlik": 27,
+      "turistik_yer": 9,
+      "festival": 1,
+      "sinema_salonu": 6,
+      "kultur_merkezi": 0,
+      "tarihi_yer": 5,
+      "genel_kultur_skoru": 32.35738791387896,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 1083 eksik",
+        "Kültür merkezi sayısı 1 eksik"
+      ]
+    },
+    {
+      "ilce": "Büyükçekmece",
+      "nufus": 147261,
+      "tiyatro_salonu": 2,
+      "muse": 2,
+      "kulturel_etkinlik": 20,
+      "turistik_yer": 7,
+      "festival": 1,
+      "sinema_salonu": 4,
+      "kultur_merkezi": 3,
+      "tarihi_yer": 4,
+      "genel_kultur_skoru": 27.598176027597262,
+      "sorunlar": [
+        "Kültürel etkinlik sayısı 1452 eksik",
+        "Turistik yer sayısı 7 eksik"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>İstanbul Kültür ve Turizm Analizi - AI Destekli</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        min-height: 100vh;
+        padding: 20px;
+      }
+
+      .container {
+        max-width: 1400px;
+        margin: 0 auto;
+      }
+
+      header {
+        background: white;
+        border-radius: 15px;
+        padding: 30px;
+        margin-bottom: 30px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        animation: slideDown 0.5s ease-out;
+      }
+
+      @keyframes slideDown {
+        from {
+          opacity: 0;
+          transform: translateY(-30px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      h1 {
+        color: #f5576c;
+        font-size: 2.5em;
+        margin-bottom: 10px;
+      }
+
+      .subtitle {
+        color: #666;
+        font-size: 1.1em;
+        margin-bottom: 20px;
+      }
+
+      .stats-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px;
+        margin-bottom: 30px;
+      }
+
+      .stat-card {
+        background: white;
+        border-radius: 10px;
+        padding: 20px;
+        text-align: center;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        animation: fadeInUp 0.5s ease-out forwards;
+        opacity: 0;
+      }
+
+      .stat-card:nth-child(1) {
+        animation-delay: 0.1s;
+      }
+      .stat-card:nth-child(2) {
+        animation-delay: 0.2s;
+      }
+      .stat-card:nth-child(3) {
+        animation-delay: 0.3s;
+      }
+      .stat-card:nth-child(4) {
+        animation-delay: 0.4s;
+      }
+      .stat-card:nth-child(5) {
+        animation-delay: 0.5s;
+      }
+      .stat-card:nth-child(6) {
+        animation-delay: 0.6s;
+      }
+      .stat-card:nth-child(7) {
+        animation-delay: 0.7s;
+      }
+
+      @keyframes fadeInUp {
+        from {
+          opacity: 0;
+          transform: translateY(30px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      .stat-value {
+        font-size: 2.5em;
+        font-weight: bold;
+        color: #f5576c;
+        margin-bottom: 5px;
+      }
+
+      .stat-label {
+        color: #666;
+        font-size: 0.9em;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+
+      .content-section {
+        background: white;
+        border-radius: 15px;
+        padding: 30px;
+        margin-bottom: 30px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+      }
+
+      .section-title {
+        color: #f5576c;
+        font-size: 1.8em;
+        margin-bottom: 20px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .ilceler-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 20px;
+      }
+
+      .ilce-card {
+        background: #f8f9fa;
+        border-radius: 10px;
+        padding: 20px;
+        border-left: 4px solid #f5576c;
+        transition: all 0.3s ease;
+        animation: fadeInUp 0.5s ease-out forwards;
+        opacity: 0;
+      }
+
+      .ilce-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+      }
+
+      .ilce-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 15px;
+      }
+
+      .ilce-name {
+        font-size: 1.2em;
+        font-weight: bold;
+        color: #333;
+      }
+
+      .ilce-priority {
+        padding: 5px 10px;
+        border-radius: 15px;
+        font-size: 0.8em;
+        font-weight: bold;
+        text-transform: uppercase;
+      }
+
+      .priority-high {
+        background: #ffebee;
+        color: #c62828;
+      }
+
+      .priority-medium {
+        background: #fff3e0;
+        color: #ef6c00;
+      }
+
+      .priority-low {
+        background: #e8f5e8;
+        color: #2e7d32;
+      }
+
+      .ilce-stats {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        margin-bottom: 15px;
+      }
+
+      .ilce-stat {
+        text-align: center;
+        padding: 8px;
+        background: white;
+        border-radius: 5px;
+      }
+
+      .ilce-stat-value {
+        font-weight: bold;
+        color: #f5576c;
+        font-size: 1.1em;
+      }
+
+      .ilce-stat-label {
+        font-size: 0.8em;
+        color: #666;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+      }
+
+      .ilce-problems {
+        margin-top: 15px;
+        padding-top: 15px;
+        border-top: 1px solid #eee;
+      }
+
+      .problem-item {
+        background: #fff3e0;
+        color: #ef6c00;
+        padding: 5px 10px;
+        border-radius: 15px;
+        font-size: 0.8em;
+        margin: 2px 2px 2px 0;
+        display: inline-block;
+      }
+
+      .back-button {
+        display: inline-block;
+        background: #f5576c;
+        color: white;
+        padding: 12px 25px;
+        border-radius: 25px;
+        text-decoration: none;
+        font-weight: bold;
+        transition: all 0.3s;
+        margin-bottom: 20px;
+      }
+
+      .back-button:hover {
+        background: #f093fb;
+        transform: translateY(-2px);
+      }
+
+      .loading {
+        text-align: center;
+        padding: 50px;
+        color: #666;
+      }
+
+      .error {
+        background: #ffebee;
+        color: #c62828;
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center;
+        margin: 20px 0;
+      }
+
+      footer {
+        text-align: center;
+        color: white;
+        margin-top: 50px;
+        padding: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <a href="/" class="back-button">← Ana Sayfaya Dön</a>
+
+      <header>
+        <h1>🎭 İstanbul Kültür ve Turizm Analizi</h1>
+        <div class="subtitle">
+          AI Destekli Kültür Altyapısı ve Turizm Önerileri
+        </div>
+      </header>
+
+      <!-- İstatistik Kartları -->
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="stat-value" id="total-districts">-</div>
+          <div class="stat-label">İlçe</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="total-theater">-</div>
+          <div class="stat-label">Tiyatro Salonu</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="total-museum">-</div>
+          <div class="stat-label">Müze</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="total-events">-</div>
+          <div class="stat-label">Kültürel Etkinlik</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="total-tourism">-</div>
+          <div class="stat-label">Turistik Yer</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="total-festival">-</div>
+          <div class="stat-label">Festival</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="avg-score">-</div>
+          <div class="stat-label">Ortalama Eksiklik (%)</div>
+        </div>
+      </div>
+
+      <!-- İlçeler Analizi -->
+      <div class="content-section">
+        <div class="section-title">📊 İlçeler Kültür Altyapısı Analizi</div>
+
+        <div id="ilceler-container">
+          <div class="loading">Veriler yükleniyor...</div>
+        </div>
+      </div>
+
+      <footer>
+        <p>🤖 Claude AI ile desteklenmektedir | 📅 2024</p>
+        <p style="margin-top: 10px; font-size: 0.9em">
+          Kültür ve Turizm Analizi Sistemi - İstanbul 39 İlçe
+        </p>
+      </footer>
+    </div>
+
+    <script>
+      // Sayfa verilerini yükle
+      window.addEventListener("load", async () => {
+        try {
+          // Analiz verilerini yükle
+          const response = await fetch("/api/kultur/analiz-verisi");
+          if (!response.ok) {
+            throw new Error("Analiz verisi yüklenemedi");
+          }
+
+          const data = await response.json();
+          const genel = data.genel_durum || {};
+          const ilceler = data.en_sorunlu_ilceler || [];
+
+          // Genel istatistikleri güncelle
+          document.getElementById("total-districts").textContent =
+            genel.analiz_edilen_ilce_sayisi || 39;
+          document.getElementById("total-theater").textContent =
+            genel.toplam_tiyatro || 0;
+          document.getElementById("total-museum").textContent =
+            genel.toplam_muse || 0;
+          document.getElementById("total-events").textContent =
+            Intl.NumberFormat("tr-TR").format(genel.toplam_etkinlik || 0);
+          document.getElementById("total-tourism").textContent =
+            genel.toplam_turistik_yer || 0;
+          document.getElementById("total-festival").textContent =
+            genel.toplam_festival || 0;
+          document.getElementById("avg-score").textContent = (
+            genel.ortalama_eksiklik || 0
+          ).toFixed(1);
+
+          // İlçeler grid'ini oluştur
+          const container = document.getElementById("ilceler-container");
+          container.innerHTML = "";
+
+          ilceler.forEach((ilce, index) => {
+            const priorityClass =
+              ilce.genel_kultur_skoru >= 60
+                ? "priority-high"
+                : ilce.genel_kultur_skoru >= 30
+                ? "priority-medium"
+                : "priority-low";
+            const priorityText =
+              ilce.genel_kultur_skoru >= 60
+                ? "Yüksek"
+                : ilce.genel_kultur_skoru >= 30
+                ? "Orta"
+                : "Düşük";
+
+            const problemsHtml = (ilce.sorunlar || [])
+              .map((problem) => `<span class="problem-item">${problem}</span>`)
+              .join("");
+
+            const cardHtml = `
+              <div class="ilce-card" style="animation-delay: ${index * 0.05}s">
+                <div class="ilce-header">
+                  <div class="ilce-name">${ilce.ilce}</div>
+                  <div class="ilce-priority ${priorityClass}">${priorityText}</div>
+                </div>
+
+                <div class="ilce-stats">
+                  <div class="ilce-stat">
+                    <div class="ilce-stat-value">${Intl.NumberFormat(
+                      "tr-TR"
+                    ).format(ilce.nufus)}</div>
+                    <div class="ilce-stat-label">Nüfus</div>
+                  </div>
+                  <div class="ilce-stat">
+                    <div class="ilce-stat-value">${ilce.genel_kultur_skoru.toFixed(
+                      1
+                    )}%</div>
+                    <div class="ilce-stat-label">Eksiklik</div>
+                  </div>
+                  <div class="ilce-stat">
+                    <div class="ilce-stat-value">${ilce.tiyatro_salonu}</div>
+                    <div class="ilce-stat-label">Tiyatro</div>
+                  </div>
+                  <div class="ilce-stat">
+                    <div class="ilce-stat-value">${ilce.muse}</div>
+                    <div class="ilce-stat-label">Müze</div>
+                  </div>
+                  <div class="ilce-stat">
+                    <div class="ilce-stat-value">${ilce.kulturel_etkinlik}</div>
+                    <div class="ilce-stat-label">Etkinlik</div>
+                  </div>
+                  <div class="ilce-stat">
+                    <div class="ilce-stat-value">${ilce.turistik_yer}</div>
+                    <div class="ilce-stat-label">Turistik Yer</div>
+                  </div>
+                </div>
+
+                ${
+                  problemsHtml
+                    ? `<div class="ilce-problems">${problemsHtml}</div>`
+                    : ""
+                }
+              </div>
+            `;
+
+            container.innerHTML += cardHtml;
+          });
+        } catch (error) {
+          console.error("Veri yükleme hatası:", error);
+          document.getElementById("ilceler-container").innerHTML = `
+            <div class="error">
+              <h3>❌ Veri Yüklenemedi</h3>
+              <p>Lütfen sistem yöneticisiyle iletişime geçin.</p>
+              <p style="font-size: 0.9em; margin-top: 10px;">Hata: ${error.message}</p>
+            </div>
+          `;
+        }
+      });
+    </script>
+  </body>
+</html>

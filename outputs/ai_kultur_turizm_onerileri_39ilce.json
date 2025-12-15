@@ -1,0 +1,899 @@
+[
+  {
+    "ilce": "Fatih",
+    "oncelik": "Yüksek",
+    "proje_adi": "Fatih Kültür ve Sanat Merkezi Kompleksi",
+    "proje_detay": "Fatih'in tarihi dokusuna uygun, 493.199 kişilik nüfusa hizmet edecek çok amaçlı kültür kompleksi. Ana bina 5 katlı, toplam 8.500 m² kapalı alana sahip olacak. İçerisinde 400 koltuklu ana tiyatro salonu, 150 kişilik kameralı tiyatro, 3 sergi salonu (toplam 1.200 m²), çok amaçlı konferans salonu (300 kişi), müzik stüdyoları, sanat atölyeleri (resim, heykel, seramik, ebru), 200 kişilik kütüphane ve dijital arşiv merkezi yer alacak. Osmanlı mimarisi esinli cephe tasarımı ile çevre dokusuna entegre edilecek. Yıllık en az 250 etkinlik (tiyatro, konser, sergi, söyleşi) kapasitesi hedefleniyor. Özellikle tarihi yarımada turistlerine yönelik kültür rotası oluşturulacak. Geleneksel sanatlar akademisi kurularak hat, tezhip, minyatür gibi alanlarda eğitim verilecek. Yeraltı katında 80 araçlık otopark, engelli erişimi için 4 asansör, akıllı bina sistemleri, enerji verimliliği sertifikası ile inşa edilecek.",
+    "tahmini_maliyet": "₺425 Milyon ($10.1 Milyon)",
+    "beklenen_etki": "Fatih'in kültür turizmi potansiyelini %40 artırması, yıllık 150.000 ziyaretçi çekmesi, 85 doğrudan istihdam, yerel sanatçılara yıllık 500+ gün iş imkanı, tarihi yarımada kültür rotasının güçlenmesi, geleneksel sanatların korunması",
+    "uygulama_suresi": "24 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 850,
+      "alan": "8500 m²",
+      "donanim": "Profesyonel sahne sistemleri, akustik paneller, LED aydınlatma, ses yalıtımı, dijital projeksiyon, kayıt stüdyosu",
+      "erisim": "Engelli asansörü, rampa, işitme cihazları, otopark, toplu taşıma bağlantısı"
+    },
+    "alternatif_cozumler": [
+      "Mevcut tarihi binanın restorasyonu ve adaptasyonu (₺280 Milyon - 18 ay)",
+      "Modüler prefabrik kültür merkezi (₺180 Milyon - 12 ay)",
+      "Aşamalı inşaat: Önce tiyatro, sonra müze eklentisi (₺320 Milyon - 30 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 80.000 katılımcı, ayda 20 etkinlik, yerel sanatçılara 300 gün istihdam, mahalle kültür gruplarına mekan sağlama",
+    "orta_vade_etki": "3 yılda yıllık 180.000 ziyaretçi, kültür turizmi gelirinde ₺45 Milyon artış, 120 istihdam, 15 sanat kolektifi kurulması, uluslararası festival ev sahipliği",
+    "uzun_vade_etki": "10 yılda İstanbul'un geleneksel sanatlar merkezi haline gelme, UNESCO kültür rotasına dahil olma, yıllık 300.000+ ziyaretçi, bölgesel kültür ekonomisine ₺150 Milyon katkı"
+  },
+  {
+    "ilce": "Çekmeköy",
+    "oncelik": "Yüksek",
+    "proje_adi": "Çekmeköy Doğa ve Kültür Vadisi",
+    "proje_detay": "130.189 nüfuslu Çekmeköy'ün doğal güzelliklerini kültürel etkinliklerle birleştiren 25.000 m² açık alan projesi. 500 kişilik açık hava amfitiyatrosu, 200 kişilik kapalı kültür merkezi, 4 mevsim kullanılabilecek cam kaplı sergi alanı (600 m²), çocuk sanat atölyeleri, geleneksel el sanatları pazarı, organik pazar alanı, yürüyüş parkurları ve piknik alanları içerecek. Özellikle hafta sonları İstanbul'un diğer bölgelerinden ziyaretçi çekecek şekilde tasarlanacak. Yerel üreticilerin el emeği ürünlerini sergileyebileceği sürekli pazar alanı, gençlik merkezi, dijital sanat stüdyosu, podcast ve video prodüksiyon odaları bulunacak. Doğa sporları (trekking, bisiklet) ile kültürel etkinlikleri birleştiren festival alanı olarak konumlandırılacak. Yağmur suyu toplama, güneş enerjisi, yeşil bina sertifikası ile sürdürülebilir yapı örneği olacak. Yıllık en az 180 etkinlik kapasitesi planlanıyor.",
+    "tahmini_maliyet": "₺285 Milyon ($6.8 Milyon)",
+    "beklenen_etki": "Çekmeköy'ü kültür-doğa turizmi destinasyonu yapma, hafta sonu 5.000+ ziyaretçi çekme, yerel üreticilere pazar imkanı, 60 istihdam, bölge gayrimenkul değerinde %15 artış",
+    "uygulama_suresi": "18 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 700,
+      "alan": "25000 m²",
+      "donanim": "Açık hava ses sistemi, hareketli sahne, LED ekranlar, WiFi altyapısı, güneş panelleri, yağmur suyu sistemi",
+      "erisim": "Geniş otopark (150 araç), engelli rampaları, bisiklet parkı, shuttle servisi"
+    },
+    "alternatif_cozumler": [
+      "Sadece açık hava alanı ve minimal tesis (₺120 Milyon - 10 ay)",
+      "Konteyner mimarisi ile modüler yapı (₺180 Milyon - 12 ay)",
+      "Kamu-özel ortaklığı ile aşamalı geliştirme (₺250 Milyon - 24 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 60.000 ziyaretçi, aylık 12 etkinlik, yerel 40 girişimci için satış platformu, sosyal medya tanıtımı ile marka değeri oluşturma",
+    "orta_vade_etki": "3-5 yılda yıllık 150.000 ziyaretçi, 4 büyük festival ev sahipliği, turizm geliri ₺35 Milyon, 85 istihdam, bölgesel kültür merkezi olma",
+    "uzun_vade_etki": "10 yılda İstanbul'un en önemli doğa-kültür destinasyonlarından biri olma, yıllık 250.000+ ziyaretçi, sürdürülebilir turizm modeli örneği, uluslararası eko-kültür festivalleri"
+  },
+  {
+    "ilce": "Silivri",
+    "oncelik": "Yüksek",
+    "proje_adi": "Silivri Deniz ve Kültür Merkezi",
+    "proje_detay": "341.016 nüfuslu Silivri'nin deniz turizmi potansiyelini kültürel aktivitelerle birleştiren çok fonksiyonlu merkez. Sahil şeridinde 6.000 m² kapalı alan ve 15.000 m² açık alan. İçerisinde 350 koltuklu tiyatro salonu, denizcilik müzesi (800 m²), Trakya kültürü etnografya bölümü, 4 sergi salonu, deniz manzaralı kafe-restoran, çok amaçlı toplantı salonları, çocuk bilim merkezi, deniz sporları eğitim birimi, yelken kulübü, fotoğrafçılık ve sinema atölyeleri yer alacak. Özellikle yaz aylarında açık hava sineması, caz festivali, deniz mahsulleri festivali gibi etkinliklere ev sahipliği yapacak. Silivri'nin tarım ve balıkçılık kültürünü yansıtan tematik sergiler düzenlenecek. Yerel ürünler pazarı, yöresel mutfak atölyeleri, geleneksel tekne yapımı gösterileri gibi kültürel aktiviteler sunulacak. Yıllık 200+ etkinlik hedefi ile İstanbul'un batı yakasının en önemli kültür merkezi olma vizyonu.",
+    "tahmini_maliyet": "₺380 Milyon ($9.0 Milyon)",
+    "beklenen_etki": "Silivri'yi 12 ay turizm destinasyonu yapma, yıllık 120.000 ziyaretçi, yerel balıkçı ve çiftçilere pazarlama platformu, 95 istihdam, deniz turizmi gelirinde %30 artış",
+    "uygulama_suresi": "22 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 650,
+      "alan": "6000 m² kapalı + 15000 m² açık",
+      "donanim": "Deniz manzaralı sahne, akustik sistem, sergi vitrinleri, interaktif müze teknolojisi, deniz sporları ekipmanları",
+      "erisim": "Marina bağlantısı, 200 araçlık otopark, engelli erişimi, deniz taksi iskelesi"
+    },
+    "alternatif_cozumler": [
+      "Mevcut sahil tesisinin dönüşümü (₺220 Milyon - 16 ay)",
+      "Sadece açık hava etkinlik alanı ve küçük müze (₺180 Milyon - 14 ay)",
+      "Özel sektör yatırımı ile marina entegrasyonu (₺320 Milyon - 20 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 50.000 ziyaretçi, yaz aylarında haftalık etkinlikler, yerel üreticilere satış alanı, 60 istihdam, bölge tanıtımı",
+    "orta_vade_etki": "3-5 yılda yıllık 140.000 ziyaretçi, 3 büyük festival, turizm geliri ₺55 Milyon, 110 istihdam, Marmara'nın kültür rotasına dahil olma",
+    "uzun_vade_etki": "10 yılda Trakya'nın en önemli kültür-deniz merkezi, yıllık 280.000+ ziyaretçi, uluslararası denizcilik etkinlikleri, yerel ekonomiye ₺200 Milyon katkı"
+  },
+  {
+    "ilce": "Adalar",
+    "oncelik": "Yüksek",
+    "proje_adi": "Adalar Kültür Mirası ve Sanat Rotası",
+    "proje_detay": "456.651 nüfuslu Adalar'ın eşsiz tarihi ve kültürel zenginliğini koruyup geliştiren kapsamlı proje. Büyükada'da 1.200 m² ana kültür merkezi, Heybeliada'da 600 m² sanat galerisi, Burgazada'da açık hava müzesi konsepti. Ana merkez: 200 koltuklu tiyatro, çok kültürlülük müzesi, Adalar tarihi arşivi, geleneksel mimari sergisi, deniz biyolojisi sergisi, sanatçı rezidans programı (10 atölye), edebiyat evi (Adalar'da yaşamış yazarlar), müzik salonu, restorasyon atölyeleri içerecek. Her adada farklı tematik rotalar: Büyükada-edebiyat, Heybeliada-din tarihi, Burgazada-sanat, Kınalıada-doğa. Tarihi konak ve binaların kültür mekanlarına dönüştürülmesi, fayton kültürü müzesi, Rum, Ermeni ve Yahudi kültür mirasının korunması. Yaz aylarında uluslararası ada festivali, klasik müzik konserleri, açık hava sergiler. Sürdürülebilir turizm modeli ile ada ekosistemini koruyarak kültür turizmini geliştirme.",
+    "tahmini_maliyet": "₺340 Milyon ($8.1 Milyon)",
+    "beklenen_etki": "Adalar'ı UNESCO Dünya Mirası adayı konumuna taşıma, yıllık 200.000 kültür turisti, çok kültürlü mirasın korunması, 70 istihdam, ada ekonomisine ₺80 Milyon katkı",
+    "uygulama_suresi": "20 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 400,
+      "alan": "1800 m² kapalı + tarihi rota",
+      "donanim": "Müze vitrinleri, dijital arşiv sistemi, çok dilli rehber, restorasyon laboratuvarı, sergi teknolojisi",
+      "erisim": "Vapur iskelelerine yakınlık, elektrikli araç transferi, engelli erişimi, bisiklet parkları"
+    },
+    "alternatif_cozumler": [
+      "Sadece tarihi bina restorasyonları ve küçük sergiler (₺180 Milyon - 14 ay)",
+      "Açık hava müze konsepti ağırlıklı (₺140 Milyon - 12 ay)",
+      "Özel vakıf ortaklığı ile kademeli geliştirme (₺280 Milyon - 24 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 80.000 kültür turisti, 4 mevsim etkinlik programı, yerel rehberlere iş, 50 istihdam, çok kültürlü miras bilincinin artması",
+    "orta_vade_etki": "3-5 yılda yıllık 220.000 ziyaretçi, UNESCO geçici listesine girme, kültür turizmi geliri ₺90 Milyon, 95 istihdam, uluslararası tanınırlık",
+    "uzun_vade_etki": "10 yılda Akdeniz'in en önemli kültür adaları arasına girme, UNESCO Dünya Mirası statüsü, yıllık 350.000+ ziyaretçi, sürdürülebilir ada ekonomisi modeli"
+  },
+  {
+    "ilce": "Sancaktepe",
+    "oncelik": "Yüksek",
+    "proje_adi": "Sancaktepe Gençlik ve Kültür Kampüsü",
+    "proje_detay": "293.770 nüfuslu ve genç nüfus yoğunluklu Sancaktepe için modern kültür kompleksi. 7.500 m² kapalı alan üzerine kurulu kampüs: 300 koltuklu dijital tiyatro, 150 kişilik black box sahne, e-spor arena (100 istasyon), dijital sanat stüdyoları, podcast ve streaming odaları, 3D tasarım ve baskı atölyeleri, robotik ve kodlama merkezi, müzik prodüksiyon stüdyoları (5 adet), dans salonları, modern sanat galerisi, startup inkübatör alanı, co-working space (100 kişi), gençlik kütüphanesi ve dijital arşiv. Özellikle 15-30 yaş arası gençlere yönelik teknoloji-sanat-girişimcilik eksenli programlar sunulacak. Yılda 300+ etkinlik: dijital sanat festivali, hackathon, startup yarışmaları, müzik festivalleri, stand-up gösterileri. Üniversitelerle işbirliği protokolleri, staj programları, sertifikalı eğitimler. Sosyal medya içerik üretim merkezi, influencer akademisi, dijital pazarlama atölyeleri.",
+    "tahmini_maliyet": "₺395 Milyon ($9.4 Milyon)",
+    "beklenen_etki": "Sancaktepe'yi genç yeteneklerin merkezi yapma, yıllık 100.000+ genç katılımcı, 50 startup kuluçkası, 120 istihdam, gençlik işsizliğinde %20 azalma, dijital ekonomiye katkı",
+    "uygulama_suresi": "20 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 550,
+      "alan": "7500 m²",
+      "donanim": "Yüksek hızlı internet altyapısı, gaming bilgisayarlar, profesyonel ses-görüntü ekipmanları, 3D yazıcılar, VR/AR cihazları, akıllı tahta sistemleri",
+      "erisim": "Metro bağlantısı, 100 araç otoparkı, bisiklet parkı, 7/24 güvenlik, engelli erişimi"
+    },
+    "alternatif_cozumler": [
+      "Sadece dijital atölye ve co-working alanı (₺180 Milyon - 12 ay)",
+      "Modüler konteyner yapılar ile hızlı kurulum (₺220 Milyon - 14 ay)",
+      "Teknoloji şirketleri sponsorluğu ile aşamalı yapım (₺320 Milyon - 24 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 60.000 genç katılımcı, 200 etkinlik, 20 startup kurulumu, 80 istihdam, sosyal medyada viral tanıtım",
+    "orta_vade_etki": "3-5 yılda yıllık 150.000 katılımcı, 80 başarılı startup, teknoloji ekosistemi oluşumu, ₺60 Milyon ekonomik katkı, 180 istihdam",
+    "uzun_vade_etki": "10 yılda Anadolu yakasının en önemli gençlik-teknoloji merkezi, yıllık 250.000+ katılımcı, 200+ startup mezunu, ulusal dijital sanat merkezi, ₺250 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Başakşehir",
+    "oncelik": "Yüksek",
+    "proje_adi": "Başakşehir Çağdaş Sanatlar Merkezi",
+    "proje_detay": "396.649 nüfuslu Başakşehir'in modern kentsel kimliğine uygun çağdaş sanat kompleksi. 9.000 m² kapalı alan: 450 koltuklu ana tiyatro salonu (akustik mükemmelliği ile konser salonuna dönüşebilir), 200 kişilik kameralı sahne, 1.500 m² çağdaş sanat müzesi (dönemsel sergiler), 800 m² çocuk sanat merkezi (interaktif sergiler, atölyeler), 6 sanat atölyesi (resim, heykel, seramik, grafik tasarım, fotoğraf, video sanatı), 300 kişilik konferans salonu, sanat kütüphanesi (15.000 kitap kapasiteli), açık hava heykel bahçesi (3.000 m²), sanatçı rezidans programı için 8 stüdyo daire, kafe ve müze mağazası. Yıllık 250+ etkinlik: tiyatro oyunları, konserler, sergiler, çocuk gösterileri, sanat söyleşileri, atölye çalışmaları. Uluslararası sanat bienali ev sahipliği, çağdaş sanat fuarı organizasyonu. Aile odaklı programlar, hafta sonu atölyeleri, yaz sanat okulu. Sürdürülebilir mimari, LEED sertifikası, güneş enerjisi, yeşil çatı uygulaması.",
+    "tahmini_maliyet": "₺465 Milyon ($11.1 Milyon)",
+    "beklenen_etki": "Başakşehir'i İstanbul'un çağdaş sanat merkezlerinden biri yapma, yıllık 180.000 ziyaretçi, 140 istihdam, bölge prestijinde artış, genç sanatçılara platform",
+    "uygulama_suresi": "24 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 950,
+      "alan": "9000 m² kapalı + 3000 m² açık",
+      "donanim": "Profesyonel sahne teknolojisi, müze klimatizasyon sistemi, dijital sergi ekranları, akıllı aydınlatma, ses yalıtımı, kayıt stüdyosu",
+      "erisim": "Metrobüs yakınlığı, 180 araç otoparkı, engelli asansörleri, bisiklet parkı, elektrikli araç şarj istasyonları"
+    },
+    "alternatif_cozumler": [
+      "Sadece tiyatro ve küçük galeri (₺280 Milyon - 18 ay)",
+      "Aşamalı yapım: önce müze, sonra tiyatro (₺420 Milyon - 30 ay)",
+      "Kamu-özel ortaklığı ile sponsorluklar (₺380 Milyon - 22 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 90.000 ziyaretçi, 150 etkinlik, yerel sanatçılara 400 gün istihdam, 100 doğrudan iş, aile katılımında artış",
+    "orta_vade_etki": "3-5 yılda yıllık 220.000 ziyaretçi, ulusal sanat etkinliklerine ev sahipliği, kültür turizmi geliri ₺70 Milyon, 180 istihdam, sanat piyasasına katkı",
+    "uzun_vade_etki": "10 yılda İstanbul'un 5 büyük çağdaş sanat merkezi arasına girme, yıllık 350.000+ ziyaretçi, uluslararası bienal düzenleme, ₺300 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Beylikdüzü",
+    "oncelik": "Yüksek",
+    "proje_adi": "Beylikdüzü Yaşam ve Kültür Vadisi",
+    "proje_detay": "327.373 nüfuslu Beylikdüzü'nün genç ve dinamik yapısına uygun entegre kültür-yaşam kompleksi. 12.000 m² kapalı alan ve 20.000 m² peyzaj alanı: 400 koltuklu çok amaçlı salon (tiyatro/konser/sinema), 250 kişilik konferans merkezi, bilim merkezi (1.200 m² interaktif sergiler, planetyum, robot atölyeleri), 1.000 m² çocuk keşif merkezi, 800 m² gençlik merkezi (müzik odaları, dans stüdyoları, e-spor alanı), 6 sanat atölyesi, yoga ve meditasyon stüdyoları, organik kafe ve restoran, kitap kafe, açık hava amfitiyatrosu (600 kişi), yürüyüş ve koşu parkurları, botanik bahçesi, su öğeleri ve heykel parkı. Aile odaklı tasarım: çocuk oyun alanları, emzirme odaları, aile tuvaletleri. Hafta içi eğitim programları, hafta sonu festival ve etkinlikler. Yıllık 280+ etkinlik hedefi. Sürdürülebilir enerji kullanımı, yağmur suyu toplama, geri dönüşüm merkezi, bisiklet dostu altyapı.",
+    "tahmini_maliyet": "₺520 Milyon ($12.4 Milyon)",
+    "beklenen_etki": "Beylikdüzü'nü İstanbul'un en yaşanabilir kültür bölgesi yapma, yıllık 250.000 ziyaretçi, aile katılımında %50 artış, 160 istihdam, bölge cazibesi artışı",
+    "uygulama_suresi": "26 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 1250,
+      "alan": "12000 m² kapalı + 20000 m² açık",
+      "donanim": "Bilim sergisi ekipmanları, planetyum projektörü, ses-ışık sistemleri, interaktif ekranlar, WiFi altyapısı, güneş panelleri",
+      "erisim": "Metrobüs bağlantısı, 250 araç otoparkı, bisiklet yolları, engelli erişimi, elektrikli araç şarj, kreş hizmeti"
+    },
+    "alternatif_cozumler": [
+      "Sadece bilim merkezi ve açık alan (₺320 Milyon - 18 ay)",
+      "Modüler yapı ile aşamalı geliştirme (₺420 Milyon - 24 ay)",
+      "Belediye-üniversite işbirliği modeli (₺450 Milyon - 22 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 120.000 ziyaretçi, özellikle çocuklu aileler, 200 etkinlik, 120 istihdam, sosyal medya fenomeni olma",
+    "orta_vade_etki": "3-5 yılda yıllık 300.000 ziyaretçi, bilim festivali ev sahipliği, eğitim turizmi başlangıcı, ₺85 Milyon gelir, 200 istihdam",
+    "uzun_vade_etki": "10 yılda Marmara'nın en önemli bilim-kültür merkezi, yıllık 500.000+ ziyaretçi, uluslararası bilim etkinlikleri, STEM eğitiminde öncü, ₺400 Milyon ekonomik katkı"
+  },
+  {
+    "ilce": "Sarıyer",
+    "oncelik": "Yüksek",
+    "proje_adi": "Sarıyer Boğaz Kültürü ve Sanat Merkezi",
+    "proje_detay": "333.672 nüfuslu Sarıyer'in Boğaz kıyısındaki eşsiz konumunu değerlendiren kültür kompleksi. Tarihi bir yalının restorasyonu ve yanına eklenen modern bina ile 4.500 m² alan: 280 koltuklu boğaz manzaralı tiyatro salonu, Boğaz kültürü müzesi (balıkçılık, yalı yaşamı, Boğaz'ın tarihi), 600 m² çağdaş sanat galerisi, fotoğraf müzesi (Boğaz fotoğrafları koleksiyonu), edebiyat evi (Boğaz'da yaşamış yazarlar), müzik salonu (klasik müzik konserleri), 4 sanat atölyesi, deniz manzaralı kütüphane-okuma salonu, butik kafe, açık teras etkinlik alanı. Yaz aylarında açık hava konserleri, caz festivali, Boğaz'da klasik müzik etkinlikleri. Deniz ulaşımı ile erişilebilir, tekne ile gelen ziyaretçiler için iskele. Tarihi doku korunarak modern müzecilik anlayışı ile restore edilecek. Yıllık 180+ etkinlik, özellikle hafta sonları yoğun program. Boğaz kültürünü yaşatan eğitim programları, çocuk atölyeleri.",
+    "tahmini_maliyet": "₺315 Milyon ($7.5 Milyon)",
+    "beklenen_etki": "Sarıyer'i Boğaz kültür rotasının merkezi yapma, yıllık 110.000 ziyaretçi, tarihi dokunun korunması, 75 istihdam, turist çekiciliği artışı, lüks turizm segmentine hitap",
+    "uygulama_suresi": "22 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 450,
+      "alan": "4500 m²",
+      "donanim": "Restorasyon teknikleri, müze klimatizasyonu, akustik sahne, boğaz manzaralı camlar, tarihi eşya sergileme sistemleri",
+      "erisim": "Deniz taksi iskelesi, 80 araç otoparkı, engelli erişimi, vapur bağlantısı, bisiklet parkı"
+    },
+    "alternatif_cozumler": [
+      "Sadece tarihi yalı restorasyonu ve küçük müze (₺180 Milyon - 16 ay)",
+      "Açık alan ağırlıklı, minimal kapalı mekan (₺220 Milyon - 18 ay)",
+      "Özel vakıf bağışı ile restorasyon (₺270 Milyon - 20 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 50.000 ziyaretçi, özellikle kültür turizmi, 100 etkinlik, 60 istihdam, Boğaz rotasına entegrasyon",
+    "orta_vade_etki": "3-5 yılda yıllık 130.000 ziyaretçi, uluslararası müzik festivali, kültür turizmi geliri ₺45 Milyon, 95 istihdam, prestij artışı",
+    "uzun_vade_etki": "10 yılda Boğaz'ın en önemli kültür merkezi, yıllık 200.000+ ziyaretçi, UNESCO rotasına dahil olma, lüks kültür turizmi destinasyonu, ₺180 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Güngören",
+    "oncelik": "Orta",
+    "proje_adi": "Güngören Mahalle Kültür Merkezleri Ağı",
+    "proje_detay": "137.673 nüfuslu Güngören'in yoğun kentsel dokusuna uygun dağıtık kültür merkezi modeli. 3 farklı mahallede toplam 3.500 m²: Ana merkez (1.500 m²) 200 koltuklu tiyatro, sergi salonu, kütüphane içerecek. İki mahalle kültür evi (her biri 1.000 m²) sanat atölyeleri, çocuk aktivite alanları, toplantı salonları, hobi kursları için mekanlar sunacak. Özellikle çalışan nüfusa yönelik akşam ve hafta sonu programları: tiyatro, müzik, dans kursları, dil eğitimleri, el sanatları atölyeleri. Kadın kooperatiflerine üretim alanı, gençlere müzik odaları. Mahalle festivalleri, sokak sanatları etkinlikleri, açık hava sineması (yaz ayları). Yerel sanatçılara sergi ve gösteri imkanı. Yıllık 200+ etkinlik hedefi. Sosyal belediyecilik anlayışı ile ücretsiz/düşük ücretli kurslar. Kültürel çeşitliliği yansıtan programlar, farklı etnik grupların etkinlikleri.",
+    "tahmini_maliyet": "₺185 Milyon ($4.4 Milyon)",
+    "beklenen_etki": "Güngören'de mahalle bazlı kültür erişimini %60 artırma, yıllık 80.000 katılımcı, 50 istihdam, sosyal uyumda artış, kadın istihdamına katkı",
+    "uygulama_suresi": "16 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 350,
+      "alan": "3500 m²",
+      "donanim": "Basit sahne sistemleri, atölye ekipmanları, sergi panelleri, ses sistemi, kurs malzemeleri",
+      "erisim": "Toplu taşıma yakınlığı, mahalle içi kolay erişim, engelli rampası, kreş hizmeti"
+    },
+    "alternatif_cozumler": [
+      "Sadece bir merkez ve mobil kültür araçları (₺120 Milyon - 12 ay)",
+      "Mevcut binaların dönüşümü (₺140 Milyon - 14 ay)",
+      "STK'larla işbirliği modeli (₺160 Milyon - 15 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 40.000 katılımcı, 150 etkinlik/kurs, 40 istihdam, mahalle kültür grupları oluşumu",
+    "orta_vade_etki": "3-5 yılda yıllık 100.000 katılımcı, 15 kadın kooperatifi, sosyal sermaye artışı, ₺25 Milyon ekonomik etki, 70 istihdam",
+    "uzun_vade_etki": "10 yılda mahalle kültür merkezleri modelinde örnek ilçe, yıllık 150.000+ katılımcı, güçlü sosyal doku, yaşam kalitesinde artış"
+  },
+  {
+    "ilce": "Küçükçekmece",
+    "oncelik": "Orta",
+    "proje_adi": "Küçükçekmece Göl Kültür Parkı",
+    "proje_detay": "187.908 nüfuslu Küçükçekmece'nin göl manzaralı konumunu değerlendiren kültür-doğa projesi. Göl kıyısında 8.000 m² kapalı alan ve 18.000 m² peyzaj: 300 koltuklu amfitiyatro, 150 kişilik kapalı salon, doğa ve çevre müzesi (göl ekosistemi, kuş gözlem merkezi), 500 m² çocuk bilim atölyesi, sanat galerisi, kütüphane, kafe-restoran, yürüyüş ve bisiklet parkurları, kuş gözlem kuleleri, botanik bahçesi, açık hava heykel parkı. Özellikle çevre eğitimi ve kültürel etkinlikleri birleştiren programlar. Yaz aylarında göl kenarında konserler, tiyatro gösterileri, film gösterimleri. Çocuk ve gençlere yönelik doğa kampları, fotoğrafçılık atölyeleri, resim kursları. Sürdürülebilir turizm modeli, göl ekosistemini koruyarak kültür aktiviteleri. Yıllık 220+ etkinlik. Hafta sonu aile piknik alanları ile entegre kültür programları.",
+    "tahmini_maliyet": "₺295 Milyon ($7.0 Milyon)",
+    "beklenen_etki": "Küçükçekmece Gölü'nü kültür-doğa destinasyonu yapma, yıllık 140.000 ziyaretçi, çevre bilincinde artış, 85 istihdam, yerel turizm geliri ₺35 Milyon",
+    "uygulama_suresi": "18 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 600,
+      "alan": "8000 m² kapalı + 18000 m² açık",
+      "donanim": "Kuş gözlem teleskopları, doğa sergi ekipmanları, açık hava ses sistemi, aydınlatma, WiFi, güneş enerjisi",
+      "erisim": "Metrobüs yakınlığı, 150 araç otoparkı, bisiklet yolları, engelli erişimi, göl kenarı yürüyüş yolu"
+    },
+    "alternatif_cozumler": [
+      "Sadece açık hava alanları ve minimal tesis (₺150 Milyon - 12 ay)",
+      "Doğa merkezi ağırlıklı, kültür ikincil (₺210 Milyon - 15 ay)",
+      "Aşamalı yapım: önce park, sonra binalar (₺260 Milyon - 20 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 70.000 ziyaretçi, 150 etkinlik, okul grupları ziyaretleri, 60 istihdam, çevre farkındalığı",
+    "orta_vade_etki": "3-5 yılda yıllık 180.000 ziyaretçi, doğa festivali, eğitim turizmi, ₺50 Milyon gelir, 110 istihdam, göl koruma başarısı",
+    "uzun_vade_etki": "10 yılda İstanbul'un en önemli doğa-kültür merkezlerinden biri, yıllık 280.000+ ziyaretçi, ekolojik turizm modeli, ₺180 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Sultanbeyli",
+    "oncelik": "Orta",
+    "proje_adi": "Sultanbeyli Toplumsal Kültür ve Eğitim Merkezi",
+    "proje_detay": "166.175 nüfuslu Sultanbeyli'nin sosyo-ekonomik yapısına uygun çok amaçlı kültür merkezi. 4.200 m² kapalı alan: 250 koltuklu tiyatro salonu, çok amaçlı toplantı salonları (toplam 400 kişi), 8 eğitim atölyesi (bilgisayar, dikiş-nakış, ahşap işleri, el sanatları, resim, müzik), gençlik merkezi (150 m²), çocuk kütüphanesi ve oyun alanı, kadın kooperatifi üretim alanları, mesleki eğitim merkezleri, sergi salonu. Özellikle kadınlara ve gençlere yönelik beceri geliştirme programları: mesleki kurslar, girişimcilik eğitimleri, dijital okuryazarlık, dil kursları. Sosyal belediyecilik anlayışı ile ücretsiz eğitimler. Mahalle bazlı kültür programları, çocuk tiyatroları, aile etkinlikleri. Yerel ürünler pazarı, el emeği sergiler. Yıllık 180+ etkinlik ve sürekli eğitim programları. Sosyal uyum ve kültürel gelişim odaklı.",
+    "tahmini_maliyet": "₺210 Milyon ($5.0 Milyon)",
+    "beklenen_etki": "Sultanbeyli'de kültürel erişimi %50 artırma, yıllık 60.000 katılımcı, kadın istihdamına katkı, 55 doğrudan istihdam, sosyal sermaye oluşumu",
+    "uygulama_suresi": "16 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 400,
+      "alan": "4200 m²",
+      "donanim": "Atölye ekipmanları, bilgisayarlar, dikiş makineleri, sahne sistemi, eğitim materyalleri, sergi panelleri",
+      "erisim": "Minibüs hatları, 60 araç otoparkı, engelli erişimi, kreş hizmeti, kadınlara özel alanlar"
+    },
+    "alternatif_cozumler": [
+      "Mevcut binaların adaptasyonu (₺140 Milyon - 12 ay)",
+      "Konteyner modüler yapı (₺160 Milyon - 10 ay)",
+      "STK ve vakıf ortaklığı (₺180 Milyon - 14 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 30.000 katılımcı, 500 kişiye mesleki eğitim, 45 istihdam, 10 kadın kooperatifi kurulumu",
+    "orta_vade_etki": "3-5 yılda yıllık 80.000 katılımcı, 1.500 kişi mesleki sertifika, 30 kooperatif, ₺20 Milyon ekonomik katkı, 75 istihdam",
+    "uzun_vade_etki": "10 yılda sosyal kalkınma modelinde örnek ilçe, yıllık 120.000+ katılımcı, kadın istihdamında %30 artış, güçlü sivil toplum"
+  },
+  {
+    "ilce": "Çatalca",
+    "oncelik": "Orta",
+    "proje_adi": "Çatalca Kırsal Kültür ve Ekoloji Merkezi",
+    "proje_detay": "462.518 nüfuslu Çatalca'nın geniş kırsal alanını değerlendiren doğa-kültür projesi. Merkezi konumda 3.500 m² kapalı alan ve 25.000 m² açık alan: 200 koltuklu kültür merkezi, Trakya etnografya müzesi (geleneksel yaşam, tarım kültürü), organik tarım eğitim merkezi, el sanatları atölyeleri (dokuma, sepet örme, ahşap işleri), açık hava müzesi (geleneksel ev örnekleri), hayvan çiftliği ve eğitim alanı, organik pazar yeri, kırsal turizm bilgi merkezi, yöresel mutfak atölyeleri, şenlik ve festival alanı. Özellikle kırsal kültürü koruma ve sürdürülebilir yaşam eğitimi odaklı. Hafta sonu şehirden gelen ziyaretçiler için agro-turizm programları. Yöresel festivaller: hasat şenlikleri, yöresel yemek festivali, el sanatları fuarı. Yıllık 150+ etkinlik. Çocuklara doğa eğitimi, okul grupları için çiftlik ziyaretleri.",
+    "tahmini_maliyet": "₺245 Milyon ($5.8 Milyon)",
+    "beklenen_etki": "Çatalca'yı kırsal turizm merkezi yapma, yıllık 90.000 ziyaretçi, yerel üreticilere pazar, geleneksel kültürü koruma, 65 istihdam, agro-turizm geliri ₺30 Milyon",
+    "uygulama_suresi": "18 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 400,
+      "alan": "3500 m² kapalı + 25000 m² açık",
+      "donanim": "Etnografya sergi malzemeleri, tarım ekipmanları, atölye araçları, açık hava etkinlik altyapısı, organik pazar standları",
+      "erisim": "Karayolu bağlantısı, 100 araç otoparkı, bisiklet parkı, piknik alanları, engelli erişimi"
+    },
+    "alternatif_cozumler": [
+      "Sadece açık hava müzesi ve festival alanı (₺120 Milyon - 12 ay)",
+      "Mevcut çiftlik binalarının dönüşümü (₺160 Milyon - 14 ay)",
+      "Köy kooperatifleri işbirliği modeli (₺200 Milyon - 16 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 40.000 ziyaretçi, 100 etkinlik, yerel 30 üreticiye satış platformu, 50 istihdam, kırsal kültür bilinci",
+    "orta_vade_etki": "3-5 yılda yıllık 110.000 ziyaretçi, agro-turizm geliri ₺40 Milyon, 85 istihdam, geleneksel el sanatları canlanması",
+    "uzun_vade_etki": "10 yılda Marmara'nın en önemli kırsal kültür merkezi, yıllık 180.000+ ziyaretçi, sürdürülebilir kırsal ekonomi modeli, ₺150 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Gaziosmanpaşa",
+    "oncelik": "Orta",
+    "proje_adi": "Gaziosmanpaşa Mahalle Sanat Merkezleri",
+    "proje_detay": "354.594 nüfuslu Gaziosmanpaşa'nın yoğun kentsel dokusuna uygun dağıtık kültür modeli. 4 farklı mahallede toplam 5.000 m²: Ana merkez (2.000 m²) 250 koltuklu tiyatro, sergi salonu, kütüphane. Üç mahalle kültür evi (her biri 1.000 m²) müzik odaları, dans salonları, atölyeler, gençlik alanları içerecek. Özellikle çocuk ve gençlere yönelik programlar: tiyatro kulüpleri, müzik grupları, spor kulüpleri, bilim atölyeleri. Yaz sanat okulu, kış dönemi hobi kursları. Sokak sanatları festivali, mahalle şenlikleri, açık hava sineması. Yerel yeteneklerin keşfi ve desteklenmesi programları. Ücretsiz/düşük ücretli kurslar, sosyal belediyecilik anlayışı. Farklı kültürel grupların buluşma noktası. Yıllık 200+ etkinlik hedefi. Kadın ve çocuk odaklı güvenli mekanlar.",
+    "tahmini_maliyet": "₺240 Milyon ($5.7 Milyon)",
+    "beklenen_etki": "Gaziosmanpaşa'da kültürel erişimi %55 artırma, yıllık 100.000 katılımcı, gençlik suçlarında azalma, 60 istihdam, sosyal uyum artışı",
+    "uygulama_suresi": "18 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 450,
+      "alan": "5000 m²",
+      "donanim": "Müzik enstrümanları, sahne ekipmanları, spor malzemeleri, atölye araçları, bilgisayarlar",
+      "erisim": "Mahalle içi erişim, toplu taşıma, 70 araç otoparkı, engelli erişimi, güvenlik kameraları"
+    },
+    "alternatif_cozumler": [
+      "İki merkez ve mobil kültür otobüsü (₺160 Milyon - 14 ay)",
+      "Mevcut okulların ortak kullanımı (₺180 Milyon - 16 ay)",
+      "STK'larla ortak yönetim modeli (₺210 Milyon - 17 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 50.000 katılımcı, 150 etkinlik, 50 istihdam, 20 gençlik kulübü kurulumu, sokak kültürü canlanması",
+    "orta_vade_etki": "3-5 yılda yıllık 130.000 katılımcı, suç oranlarında %15 azalma, ₺30 Milyon sosyal fayda, 80 istihdam",
+    "uzun_vade_etki": "10 yılda mahalle kültür ağı modelinde örnek, yıllık 180.000+ katılımcı, güçlü sosyal doku, yaşam kalitesi artışı"
+  },
+  {
+    "ilce": "Beykoz",
+    "oncelik": "Orta",
+    "proje_adi": "Beykoz Boğaz Kıyısı Kültür Rotası",
+    "proje_detay": "122.364 nüfuslu Beykoz'un Boğaz kıyısı ve tarihi dokusunu değerlendiren kültür projesi. 3.200 m² kapalı alan: 200 koltuklu boğaz manzaralı tiyatro, Beykoz tarihi müzesi (cam sanatı, deri işleme, Boğaz kültürü), sanat galerisi, fotoğraf evi, edebiyat salonu, 4 atölye (cam sanatı, deri işleme, ahşap, resim), kafe ve kitap evi, açık teras etkinlik alanı. Özellikle Beykoz'un meşhur cam ve deri sanatlarını canlandırma odaklı. Tarihi Beykoz Camları geleneğini yaşatan atölyeler, ustalardan eğitim programları. Boğaz kültürü festivali, açık hava konserleri, fotoğraf sergileri. Yürüyüş rotaları ile entegre kültür durakları. Deniz ulaşımı ile erişilebilir mekanlar. Yıllık 140+ etkinlik. Hafta sonu Boğaz turu rotasına dahil edilme.",
+    "tahmini_maliyet": "₺225 Milyon ($5.4 Milyon)",
+    "beklenen_etki": "Beykoz'u Boğaz kültür rotasına entegre etme, yıllık 70.000 ziyaretçi, geleneksel sanatları koruma, 55 istihdam, turizm geliri ₺25 Milyon",
+    "uygulama_suresi": "16 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 350,
+      "alan": "3200 m²",
+      "donanim": "Cam atölye fırınları, deri işleme ekipmanları, sergi vitrinleri, boğaz manzaralı camlar, akustik sistem",
+      "erisim": "Vapur iskelesi, 60 araç otoparkı, bisiklet yolu, yürüyüş rotası, engelli erişimi"
+    },
+    "alternatif_cozumler": [
+      "Sadece açık hava rotası ve küçük sergiler (₺120 Milyon - 12 ay)",
+      "Tarihi bina restorasyonu odaklı (₺180 Milyon - 14 ay)",
+      "Özel sektör sponsorluğu ile (₺200 Milyon - 15 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 35.000 ziyaretçi, 80 etkinlik, 10 usta ile eğitim, 45 istihdam, geleneksel sanat canlanması",
+    "orta_vade_etki": "3-5 yılda yıllık 85.000 ziyaretçi, cam sanatı festivali, ₺35 Milyon turizm geliri, 70 istihdam, Boğaz rotasında önemli durak",
+    "uzun_vade_etki": "10 yılda geleneksel Beykoz sanatlarının merkezi, yıllık 140.000+ ziyaretçi, uluslararası cam sanatı etkinlikleri, ₺120 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Ataşehir",
+    "oncelik": "Orta",
+    "proje_adi": "Ataşehir Çağdaş Sanat ve Teknoloji Merkezi",
+    "proje_detay": "315.176 nüfuslu Ataşehir'in modern kentsel yapısına uygun teknoloji-sanat entegrasyonu. 6.500 m² kapalı alan: 350 koltuklu dijital tiyatro (3D projeksiyon, interaktif sahne), dijital sanat müzesi (NFT galerileri, VR/AR sergiler), medya sanatları atölyeleri, 3D tasarım ve animasyon stüdyoları, ses ve müzik prodüksiyon odaları (6 adet), e-spor ve gaming alanı, dijital kütüphane ve maker space, startup inkübatör, co-working alanları, teknoloji kafe. Özellikle genç profesyonellere ve dijital yaratıcılara yönelik. Dijital sanat festivali, hackathon organizasyonları, startup yarışmaları, teknoloji konferansları. Üniversite ve teknoloji şirketleri ile işbirliği. Yıllık 220+ etkinlik. Akıllı bina teknolojileri, enerji verimliliği, sürdürülebilir tasarım.",
+    "tahmini_maliyet": "₺420 Milyon ($10.0 Milyon)",
+    "beklenen_etki": "Ataşehir'i dijital sanat merkezi yapma, yıllık 130.000 ziyaretçi, 40 startup kuluçkası, 110 istihdam, teknoloji ekosistemi oluşumu, ₺60 Milyon ekonomik katkı",
+    "uygulama_suresi": "22 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 600,
+      "alan": "6500 m²",
+      "donanim": "VR/AR ekipmanları, 3D yazıcılar, gaming bilgisayarlar, prodüksiyon ekipmanları, fiber internet, akıllı bina sistemleri",
+      "erisim": "Metro bağlantısı, 120 araç otoparkı, bisiklet parkı, elektrikli araç şarj, 7/24 erişim"
+    },
+    "alternatif_cozumler": [
+      "Sadece dijital atölyeler ve co-working (₺250 Milyon - 16 ay)",
+      "Aşamalı yapım: önce atölyeler, sonra tiyatro (₺380 Milyon - 24 ay)",
+      "Teknoloji şirketleri ortaklığı (₺350 Milyon - 20 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 70.000 ziyaretçi, 150 etkinlik, 25 startup, 90 istihdam, dijital sanat topluluğu oluşumu",
+    "orta_vade_etki": "3-5 yılda yıllık 160.000 ziyaretçi, 60 başarılı startup, dijital sanat festivali, ₺80 Milyon gelir, 140 istihdam",
+    "uzun_vade_etki": "10 yılda Türkiye'nin dijital sanat başkenti, yıllık 280.000+ ziyaretçi, 150+ startup mezunu, uluslararası teknoloji-sanat etkinlikleri, ₺350 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Kağıthane",
+    "oncelik": "Orta",
+    "proje_adi": "Kağıthane Dere Kültür Vadisi",
+    "proje_detay": "403.173 nüfuslu Kağıthane'nin kentsel dönüşüm sürecini destekleyen kültür projesi. Kağıthane Deresi boyunca 7.000 m² kapalı alan ve 20.000 m² peyzaj: 400 koltuklu kültür merkezi, 200 kişilik konferans salonu, çağdaş sanat galerisi (1.000 m²), medya merkezi, gençlik ve spor alanları, 6 sanat atölyesi, dere manzaralı kafe-restoran, açık hava amfitiyatrosu (500 kişi), yürüyüş ve bisiklet yolları, heykel parkı, çocuk oyun alanları. Özellikle kentsel dönüşüm ile değişen Kağıthane'ye yeni kimlik kazandırma odaklı. Dere kıyısında kültür etkinlikleri, açık hava konserleri, film gösterimleri, sanat festivalleri. Gençlik kulüpleri, spor etkinlikleri, yaratıcı endüstriler için mekanlar. Yıllık 240+ etkinlik. Sürdürülebilir kentleşme örneği.",
+    "tahmini_maliyet": "₺385 Milyon ($9.2 Milyon)",
+    "beklenen_etki": "Kağıthane'ye yeni kültürel kimlik kazandırma, yıllık 170.000 ziyaretçi, kentsel yaşam kalitesi artışı, 105 istihdam, gayrimenkul değerinde artış",
+    "uygulama_suresi": "24 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 900,
+      "alan": "7000 m² kapalı + 20000 m² açık",
+      "donanim": "Sahne sistemleri, galeri aydınlatması, spor ekipmanları, peyzaj düzenlemeleri, WiFi altyapısı",
+      "erisim": "Metro bağlantısı, 180 araç otoparkı, bisiklet yolları, dere kenarı yürüyüş, engelli erişimi"
+    },
+    "alternatif_cozumler": [
+      "Sadece peyzaj ve açık hava alanları (₺200 Milyon - 16 ay)",
+      "Aşamalı yapım: önce park, sonra binalar (₺340 Milyon - 28 ay)",
+      "Kentsel dönüşüm entegrasyonu ile (₺320 Milyon - 22 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 90.000 ziyaretçi, 180 etkinlik, 85 istihdam, kentsel imaj iyileşmesi, sosyal alanlar artışı",
+    "orta_vade_etki": "3-5 yılda yıllık 200.000 ziyaretçi, kültür festivali, ₺70 Milyon ekonomik katkı, 130 istihdam, prestij artışı",
+    "uzun_vade_etki": "10 yılda İstanbul'un kentsel dönüşüm-kültür entegrasyonu örneği, yıllık 320.000+ ziyaretçi, yaşam kalitesinde %40 artış, ₺300 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Kartal",
+    "oncelik": "Orta",
+    "proje_adi": "Kartal Sahil Kültür ve Sanat Merkezi",
+    "proje_detay": "186.946 nüfuslu Kartal'ın sahil şeridini değerlendiren deniz-kültür projesi. Sahilde 5.500 m² kapalı alan: 350 koltuklu tiyatro salonu, deniz ve Marmara kültürü müzesi, çağdaş sanat galerisi, fotoğraf evi, 5 sanat atölyesi, deniz manzaralı kütüphane, çocuk keşif merkezi, müzik salonu, kafe ve restoran, açık teras etkinlik alanı, sahil parkı ile entegre peyzaj. Özellikle Marmara kültürü ve denizcilik temalı sergiler. Yaz aylarında açık hava konserleri, caz festivali, deniz mahsulleri festivali. Çocuk ve gençlere deniz sporları eğitimi, yelken kulübü, kano aktiviteleri. Hafta sonu aileler için kültür-eğlence programları. Yıllık 200+ etkinlik. Marmaray ve sahil yürüyüş yolu ile kolay erişim.",
+    "tahmini_maliyet": "₺310 Milyon ($7.4 Milyon)",
+    "beklenen_etki": "Kartal'ı Anadolu yakası kültür merkezi yapma, yıllık 120.000 ziyaretçi, sahil turizmi canlanması, 80 istihdam, deniz sporları gelişimi, ₺40 Milyon turizm geliri",
+    "uygulama_suresi": "20 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 550,
+      "alan": "5500 m²",
+      "donanim": "Müze sergi sistemleri, deniz manzaralı camlar, akustik sahne, deniz sporları ekipmanları, WiFi",
+      "erisim": "Marmaray istasyonu, sahil yürüyüş yolu, 100 araç otoparkı, bisiklet yolu, deniz taksi, engelli erişimi"
+    },
+    "alternatif_cozumler": [
+      "Sadece açık hava alanları ve küçük galeri (₺180 Milyon - 14 ay)",
+      "Mevcut sahil tesislerinin dönüşümü (₺240 Milyon - 16 ay)",
+      "Özel sektör marina entegrasyonu (₺280 Milyon - 18 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 60.000 ziyaretçi, 120 etkinlik, 65 istihdam, sahil kullanımı artışı, yerel ekonomiye katkı",
+    "orta_vade_etki": "3-5 yılda yıllık 150.000 ziyaretçi, deniz festivali, ₺55 Milyon turizm geliri, 100 istihdam, Marmara rotasına dahil",
+    "uzun_vade_etki": "10 yılda Anadolu yakasının önemli kültür-deniz merkezi, yıllık 220.000+ ziyaretçi, uluslararası denizcilik etkinlikleri, ₺200 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Arnavutköy",
+    "oncelik": "Orta",
+    "proje_adi": "Arnavutköy Kırsal Kültür ve Doğa Merkezi",
+    "proje_detay": "341.410 nüfuslu Arnavutköy'ün geniş kırsal alanını değerlendiren eko-kültür projesi. 4.000 m² kapalı alan ve 30.000 m² açık alan: 250 koltuklu kültür merkezi, Trakya kültürü müzesi, organik tarım eğitim merkezi, geleneksel el sanatları atölyeleri, hayvan çiftliği ve eğitim alanı, açık hava müzesi, festival ve şenlik alanı, organik pazar, yöresel mutfak atölyeleri, çocuk doğa eğitim merkezi, yürüyüş parkurları, piknik alanları. Özellikle sürdürülebilir kırsal yaşam ve agro-turizm odaklı. Hafta sonu şehirden gelen aileler için doğa-kültür programları. Hasat festivalleri, yöresel ürünler fuarı, geleneksel el sanatları sergisi. Yıllık 160+ etkinlik. Çocuk kampları, okul grupları ziyaretleri.",
+    "tahmini_maliyet": "₺265 Milyon ($6.3 Milyon)",
+    "beklenen_etki": "Arnavutköy'ü agro-turizm merkezi yapma, yıllık 95.000 ziyaretçi, yerel üreticilere pazar, geleneksel kültürü koruma, 70 istihdam, kırsal ekonomiye ₺35 Milyon katkı",
+    "uygulama_suresi": "18 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 450,
+      "alan": "4000 m² kapalı + 30000 m² açık",
+      "donanim": "Tarım eğitim ekipmanları, atölye araçları, etnografya sergi malzemeleri, festival altyapısı, organik pazar standları",
+      "erisim": "Karayolu bağlantısı, 120 araç otoparkı, piknik alanları, bisiklet yolları, engelli erişimi"
+    },
+    "alternatif_cozumler": [
+      "Sadece açık hava alanları ve minimal tesis (₺140 Milyon - 12 ay)",
+      "Köy kooperatifleri işbirliği modeli (₺210 Milyon - 15 ay)",
+      "Aşamalı geliştirme: önce festival alanı (₺230 Milyon - 20 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 45.000 ziyaretçi, 100 etkinlik, 35 üreticiye satış platformu, 55 istihdam, kırsal turizm başlangıcı",
+    "orta_vade_etki": "3-5 yılda yıllık 115.000 ziyaretçi, agro-turizm geliri ₺45 Milyon, 90 istihdam, geleneksel üretim canlanması",
+    "uzun_vade_etki": "10 yılda İstanbul'un önemli kırsal kültür merkezi, yıllık 190.000+ ziyaretçi, sürdürülebilir kırsal ekonomi modeli, ₺160 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Beyoğlu",
+    "oncelik": "Orta",
+    "proje_adi": "Beyoğlu Çok Kültürlü Sanat Merkezi Restorasyon Projesi",
+    "proje_detay": "433.746 nüfuslu Beyoğlu'nun zengin kültürel mirasını koruma ve geliştirme projesi. Tarihi 3 binanın restorasyonu ve entegrasyonu (toplam 4.500 m²): Ana bina 300 koltuklu tiyatro, ikinci bina çok kültürlülük müzesi (Rum, Ermeni, Yahudi, Levanten kültürleri), üçüncü bina sanat galerileri ve atölyeler. Beyoğlu'nun çok kültürlü tarihini yansıtan sergiler, arşiv ve dokümantasyon merkezi, farklı dillerde kültür programları, geleneksel müzik ve dans gösterileri, tarihi sinemalar film arşivi, fotoğraf müzesi, edebiyat evi. Özellikle kültürel mirası koruma ve turizm odaklı. Yıllık 200+ etkinlik: tiyatro, konser, sergiler, film gösterimleri, çok kültürlü festivaller. İstiklal Caddesi kültür rotasına entegrasyon. Uluslararası turist çekiciliği.",
+    "tahmini_maliyet": "₺380 Milyon ($9.0 Milyon)",
+    "beklenen_etki": "Beyoğlu'nun kültürel mirasını koruma, yıllık 200.000 ziyaretçi (yarısı yabancı turist), çok kültürlü kimliği güçlendirme, 90 istihdam, turizm geliri ₺80 Milyon",
+    "uygulama_suresi": "24 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 500,
+      "alan": "4500 m²",
+      "donanim": "Restorasyon teknikleri, müze klimatizasyonu, çok dilli rehber sistemleri, tarihi eşya koruma, akustik sistem",
+      "erisim": "İstiklal Caddesi, metro, füniküler, tramvay, yaya erişimi, sınırlı araç girişi"
+    },
+    "alternatif_cozumler": [
+      "Sadece bir binanın restorasyonu (₺180 Milyon - 16 ay)",
+      "Açık hava müze konsepti ağırlıklı (₺250 Milyon - 18 ay)",
+      "Özel vakıf ve bağış ile restorasyon (₺320 Milyon - 22 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 100.000 ziyaretçi, 120 etkinlik, 70 istihdam, tarihi doku korunması, turist memnuniyeti artışı",
+    "orta_vade_etki": "3-5 yılda yıllık 240.000 ziyaretçi, UNESCO tanınırlığı, turizm geliri ₺100 Milyon, 110 istihdam, uluslararası festivaller",
+    "uzun_vade_etki": "10 yılda dünya çapında tanınan çok kültürlü miras merkezi, yıllık 400.000+ ziyaretçi, UNESCO Dünya Mirası listesi, ₺350 Milyon turizm geliri"
+  },
+  {
+    "ilce": "Bahçelievler",
+    "oncelik": "Orta",
+    "proje_adi": "Bahçelievler Toplumsal Kültür ve Yaşam Merkezi",
+    "proje_detay": "436.395 nüfuslu Bahçelievler'in yoğun kentsel dokusuna uygun çok amaçlı kültür kompleksi. 6.000 m² kapalı alan: 350 koltuklu tiyatro salonu, 200 kişilik konferans merkezi, 8 atölye (resim, müzik, dans, el sanatları, dil eğitimi, bilgisayar), gençlik merkezi (200 m²), çocuk kütüphanesi ve oyun alanı, sergi salonları, çok amaçlı spor salonu, kafe ve dinlenme alanları. Özellikle mahalle bazlı kültür hizmetleri ve sosyal belediyecilik odaklı. Çalışan nüfusa yönelik akşam programları, hafta sonu aile etkinlikleri, çocuk tiyatroları, gençlik kulüpleri. Ücretsiz/düşük ücretli kurslar, mesleki eğitimler, hobi aktiviteleri. Yıllık 220+ etkinlik. Mahalle şenlikleri, kültürel festivaller, spor turnuvaları.",
+    "tahmini_maliyet": "₺295 Milyon ($7.0 Milyon)",
+    "beklenen_etki": "Bahçelievler'de kültürel erişimi %50 artırma, yıllık 140.000 katılımcı, sosyal uyum güçlenmesi, 85 istihdam, mahalle yaşam kalitesi artışı",
+    "uygulama_suresi": "20 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 700,
+      "alan": "6000 m²",
+      "donanim": "Sahne ekipmanları, atölye malzemeleri, spor ekipmanları, bilgisayarlar, ses sistemleri, sergi panelleri",
+      "erisim": "Metro yakınlığı, 100 araç otoparkı, engelli erişimi, kreş hizmeti, güvenlik"
+    },
+    "alternatif_cozumler": [
+      "Mevcut binaların adaptasyonu (₺190 Milyon - 14 ay)",
+      "Sadece kültür merkezi, spor ayrı (₺240 Milyon - 16 ay)",
+      "Okul tesisleri ortak kullanımı (₺220 Milyon - 18 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 70.000 katılımcı, 180 etkinlik, 70 istihdam, mahalle kültür grupları oluşumu, sosyal aktivite artışı",
+    "orta_vade_etki": "3-5 yılda yıllık 170.000 katılımcı, ₺40 Milyon sosyal fayda, 105 istihdam, mahalle kimliği güçlenmesi",
+    "uzun_vade_etki": "10 yılda mahalle kültür merkezi modelinde örnek, yıllık 240.000+ katılımcı, güçlü sosyal sermaye, yaşam kalitesi artışı"
+  },
+  {
+    "ilce": "Pendik",
+    "oncelik": "Orta",
+    "proje_adi": "Pendik Deniz ve Kültür Kampüsü",
+    "proje_detay": "285.003 nüfuslu Pendik'in sahil şeridini değerlendiren deniz-kültür projesi. 7.500 m² kapalı alan ve 15.000 m² açık alan: 400 koltuklu tiyatro, denizcilik müzesi (Marmara kültürü, balıkçılık), bilim merkezi (deniz biyolojisi), 6 sanat atölyesi, gençlik ve spor merkezi, deniz sporları eğitim birimi, yelken kulübü, açık hava amfitiyatrosu (600 kişi), sahil parkı, yürüyüş ve bisiklet yolları, kafe-restoran. Özellikle deniz kültürü ve bilim eğitimi odaklı. Yaz aylarında deniz festivali, açık hava konserleri, film gösterimleri. Çocuk ve gençlere deniz sporları eğitimi, yelken, kano, sörf kursları. Okul grupları için deniz biyolojisi gezileri. Yıllık 200+ etkinlik. Marmaray bağlantısı ile kolay erişim.",
+    "tahmini_maliyet": "₺360 Milyon ($8.6 Milyon)",
+    "beklenen_etki": "Pendik'i deniz kültürü merkezi yapma, yıllık 150.000 ziyaretçi, deniz sporları gelişimi, 95 istihdam, turizm geliri ₺50 Milyon, sahil kullanımı artışı",
+    "uygulama_suresi": "22 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 800,
+      "alan": "7500 m² kapalı + 15000 m² açık",
+      "donanim": "Deniz sporları ekipmanları, bilim sergisi araçları, müze vitrinleri, sahne sistemleri, WiFi altyapısı",
+      "erisim": "Marmaray istasyonu, sahil yolu, 150 araç otoparkı, marina bağlantısı, bisiklet yolu, engelli erişimi"
+    },
+    "alternatif_cozumler": [
+      "Sadece deniz sporları merkezi (₺200 Milyon - 16 ay)",
+      "Açık alan ağırlıklı, minimal bina (₺280 Milyon - 18 ay)",
+      "Marina entegrasyonu ile özel sektör (₺320 Milyon - 20 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 80.000 ziyaretçi, 150 etkinlik, 500 çocuğa deniz sporları eğitimi, 75 istihdam, sahil canlanması",
+    "orta_vade_etki": "3-5 yılda yıllık 180.000 ziyaretçi, deniz festivali, ₺65 Milyon turizm geliri, 120 istihdam, Marmara rotasında önemli durak",
+    "uzun_vade_etki": "10 yılda Anadolu yakasının en önemli deniz-kültür merkezi, yıllık 280.000+ ziyaretçi, uluslararası yelken yarışları, ₺250 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Bağcılar",
+    "oncelik": "Orta",
+    "proje_adi": "Bağcılar Mahalle Kültür Ağı Projesi",
+    "proje_detay": "391.790 nüfuslu Bağcılar'ın yoğun nüfusuna hizmet edecek dağıtık kültür modeli. 5 farklı mahallede toplam 6.500 m²: Ana merkez (2.500 m²) 300 koltuklu tiyatro, sergi salonu, kütüphane. Dört mahalle kültür evi (her biri 1.000 m²) atölyeler, gençlik alanları, spor salonları, toplantı odaları içerecek. Özellikle çocuk ve gençlere yönelik programlar: tiyatro kulüpleri, müzik grupları, dans ekipleri, spor kulüpleri, bilim atölyeleri. Kadınlara yönelik mesleki kurslar, el sanatları atölyeleri, girişimcilik eğitimleri. Sosyal belediyecilik anlayışı ile ücretsiz/düşük ücretli hizmetler. Mahalle şenlikleri, sokak festivalleri, açık hava etkinlikleri. Yıllık 240+ etkinlik. Farklı kültürel grupların buluşma mekanları.",
+    "tahmini_maliyet": "₺310 Milyon ($7.4 Milyon)",
+    "beklenen_etki": "Bağcılar'da kültürel erişimi %55 artırma, yıllık 150.000 katılımcı, sosyal uyum güçlenmesi, 90 istihdam, mahalle yaşam kalitesi artışı",
+    "uygulama_suresi": "20 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 600,
+      "alan": "6500 m²",
+      "donanim": "Sahne ekipmanları, atölye malzemeleri, spor ekipmanları, müzik enstrümanları, bilgisayarlar",
+      "erisim": "Mahalle içi erişim, metrobüs yakınlığı, 90 araç otoparkı, engelli erişimi, güvenlik"
+    },
+    "alternatif_cozumler": [
+      "Üç merkez ve mobil kültür hizmeti (₺220 Milyon - 16 ay)",
+      "Mevcut okullarla ortak kullanım (₺250 Milyon - 18 ay)",
+      "STK işbirliği modeli (₺280 Milyon - 19 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 80.000 katılımcı, 200 etkinlik, 75 istihdam, 30 mahalle kulübü kurulumu, sosyal aktivite artışı",
+    "orta_vade_etki": "3-5 yılda yıllık 180.000 katılımcı, ₺45 Milyon sosyal fayda, 110 istihdam, mahalle kimliği güçlenmesi",
+    "uzun_vade_etki": "10 yılda yoğun kentsel alanda kültür ağı modeli örneği, yıllık 260.000+ katılımcı, güçlü sosyal doku, yaşam kalitesi artışı"
+  },
+  {
+    "ilce": "Zeytinburnu",
+    "oncelik": "Orta",
+    "proje_adi": "Zeytinburnu Deri ve Tekstil Kültür Merkezi",
+    "proje_detay": "381.386 nüfuslu Zeytinburnu'nun deri ve tekstil sektörü ile bütünleşik kültür projesi. 5.000 m² kapalı alan: 250 koltuklu tiyatro, deri ve tekstil müzesi (geleneksel üretim teknikleri, tarihi), tasarım merkezi, 6 atölye (deri işleme, tekstil tasarımı, moda tasarımı, ayakkabı tasarımı), showroom ve sergi alanları, tasarımcı inkübatörü, moda kütüphanesi, kafe. Özellikle Zeytinburnu'nun sanayi kimliğini kültürel değere dönüştürme odaklı. Moda tasarımı eğitimleri, genç tasarımcılara atölye desteği, deri işleme kursları. Yıllık moda festivali, tasarım yarışmaları, sektör fuarları. Usta-çırak eğitim programları, geleneksel tekniklerin korunması. Yıllık 180+ etkinlik. Sektör ile işbirliği, istihdam köprüsü.",
+    "tahmini_maliyet": "₺280 Milyon ($6.7 Milyon)",
+    "beklenen_etki": "Zeytinburnu'na kültürel kimlik kazandırma, yıllık 90.000 ziyaretçi, genç tasarımcılara platform, 70 istihdam, sektöre ₺30 Milyon katkı, geleneksel sanatları koruma",
+    "uygulama_suresi": "18 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 400,
+      "alan": "5000 m²",
+      "donanim": "Deri işleme ekipmanları, tekstil makineleri, tasarım bilgisayarları, sergi sistemleri, showroom aydınlatması",
+      "erisim": "Tramvay bağlantısı, 80 araç otoparkı, sanayi bölgesine yakınlık, engelli erişimi"
+    },
+    "alternatif_cozumler": [
+      "Sadece tasarım merkezi ve atölyeler (₺160 Milyon - 14 ay)",
+      "Mevcut sanayi binasının dönüşümü (₺210 Milyon - 16 ay)",
+      "Sektör sponsorluğu ile (₺240 Milyon - 17 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 45.000 ziyaretçi, 100 etkinlik, 200 kişiye tasarım eğitimi, 55 istihdam, 15 genç tasarımcı destekleme",
+    "orta_vade_etki": "3-5 yılda yıllık 110.000 ziyaretçi, moda festivali, ₺40 Milyon sektörel katkı, 90 istihdam, tasarım merkezi olma",
+    "uzun_vade_etki": "10 yılda Türkiye'nin deri-tekstil tasarım merkezi, yıllık 180.000+ ziyaretçi, 100+ tasarımcı mezunu, uluslararası moda etkinlikleri, ₺150 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Bakırköy",
+    "oncelik": "Orta",
+    "proje_adi": "Bakırköy Çağdaş Sanat ve Kültür Merkezi",
+    "proje_detay": "241.676 nüfuslu Bakırköy'ün merkezi konumuna uygun prestijli kültür kompleksi. 6.500 m² kapalı alan: 400 koltuklu çok amaçlı salon (tiyatro/konser/sinema), çağdaş sanat müzesi (1.200 m²), 200 kişilik konferans merkezi, 6 sanat atölyesi (resim, heykel, fotoğraf, video sanatı, dijital tasarım), sanat kütüphanesi, sanatçı rezidans programı (8 stüdyo), galeri cafe, müze mağazası, açık hava heykel bahçesi. Özellikle çağdaş sanat ve kültür etkinlikleri odaklı. Yıllık sanat bienali, uluslararası sergiler, tiyatro festivali, klasik müzik konserleri. Genç sanatçılara platform, sergi ve performans imkanları. Yıllık 220+ etkinlik. Prestijli konumu ile İstanbul'un kültür rotasında önemli durak.",
+    "tahmini_maliyet": "₺390 Milyon ($9.3 Milyon)",
+    "beklenen_etki": "Bakırköy'ü İstanbul'un prestijli kültür merkezlerinden biri yapma, yıllık 160.000 ziyaretçi, sanat piyasasına katkı, 100 istihdam, bölge prestiji artışı",
+    "uygulama_suresi": "22 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 700,
+      "alan": "6500 m²",
+      "donanim": "Müze klimatizasyonu, profesyonel sahne, galeri aydınlatması, dijital sergi ekranları, akıllı bina sistemleri",
+      "erisim": "Metro, metrobüs, tramvay bağlantısı, 120 araç otoparkı, merkezi konum, engelli erişimi"
+    },
+    "alternatif_cozumler": [
+      "Sadece müze ve galeri (₺250 Milyon - 18 ay)",
+      "Aşamalı yapım: önce tiyatro, sonra müze (₺350 Milyon - 24 ay)",
+      "Özel sektör sponsorluğu ile (₺330 Milyon - 20 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 80.000 ziyaretçi, 150 etkinlik, 80 istihdam, sanat topluluğu oluşumu, prestij artışı",
+    "orta_vade_etki": "3-5 yılda yıllık 190.000 ziyaretçi, sanat bienali, ₺60 Milyon kültür ekonomisi katkısı, 120 istihdam",
+    "uzun_vade_etki": "10 yılda İstanbul'un 5 büyük çağdaş sanat merkezi arasına girme, yıllık 300.000+ ziyaretçi, uluslararası sanat etkinlikleri, ₺280 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Avcılar",
+    "oncelik": "Orta",
+    "proje_adi": "Avcılar Gençlik ve Kültür Kampüsü",
+    "proje_detay": "292.136 nüfuslu ve üniversite öğrencisi yoğunluklu Avcılar için genç odaklı kültür kompleksi. 7.000 m² kapalı alan: 350 koltuklu tiyatro, 200 kişilik konferans salonu, müzik prodüksiyon stüdyoları (5 adet), dans salonları, e-spor arena (80 istasyon), dijital sanat atölyeleri, podcast ve video prodüksiyon odaları, co-working space (120 kişi), gençlik kütüphanesi, kafe ve sosyal alanlar, açık hava etkinlik alanı. Özellikle 18-30 yaş arası gençlere ve üniversite öğrencilerine yönelik. Müzik festivalleri, tiyatro gösterileri, stand-up performansları, hackathon, startup yarışmaları. Üniversitelerle işbirliği protokolleri, staj programları, kariyer günleri. Yıllık 250+ etkinlik. Sosyal medya içerik üretim merkezi.",
+    "tahmini_maliyet": "₺345 Milyon ($8.2 Milyon)",
+    "beklenen_etki": "Avcılar'ı gençlik kültür merkezi yapma, yıllık 120.000 genç katılımcı, 30 startup kuluçkası, 95 istihdam, üniversite-kent entegrasyonu güçlenmesi",
+    "uygulama_suresi": "20 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 650,
+      "alan": "7000 m²",
+      "donanim": "Prodüksiyon ekipmanları, gaming bilgisayarlar, ses-görüntü sistemleri, sahne teknolojisi, yüksek hızlı internet",
+      "erisim": "Metrobüs bağlantısı, üniversitelere yakınlık, 100 araç otoparkı, bisiklet parkı, 7/24 güvenlik"
+    },
+    "alternatif_cozumler": [
+      "Sadece dijital atölyeler ve co-working (₺200 Milyon - 14 ay)",
+      "Üniversite kampüsü içinde ortak tesis (₺280 Milyon - 18 ay)",
+      "Modüler yapı ile hızlı kurulum (₺300 Milyon - 16 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 60.000 katılımcı, 180 etkinlik, 20 startup, 75 istihdam, kampüs yaşamı canlanması",
+    "orta_vade_etki": "3-5 yılda yıllık 150.000 katılımcı, 50 başarılı startup, ₺50 Milyon ekonomik katkı, 120 istihdam, gençlik ekosistemi",
+    "uzun_vade_etki": "10 yılda İstanbul'un en önemli gençlik-kültür merkezi, yıllık 220.000+ katılımcı, 120+ startup mezunu, ulusal gençlik etkinlikleri, ₺200 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Maltepe",
+    "oncelik": "Orta",
+    "proje_adi": "Maltepe Sahil Kültür Parkı",
+    "proje_detay": "194.670 nüfuslu Maltepe'nin sahil şeridini değerlendiren kültür-rekreasyon projesi. Sahilde 5.000 m² kapalı alan ve 18.000 m² peyzaj: 300 koltuklu amfitiyatro, deniz ve çevre müzesi, bilim merkezi (deniz biyolojisi), 5 sanat atölyesi, çocuk keşif merkezi, gençlik ve spor alanları, kütüphane, kafe-restoran, açık hava etkinlik alanı, yürüyüş ve bisiklet parkurları, sahil parkı. Özellikle aile ve çocuk odaklı programlar. Yaz aylarında açık hava konserleri, tiyatro gösterileri, film festivali, deniz festivali. Çocuklara deniz biyolojisi eğitimi, bilim atölyeleri, sanat kursları. Hafta sonu aileler için piknik ve kültür etkinlikleri. Yıllık 200+ etkinlik. Marmaray ile kolay erişim.",
+    "tahmini_maliyet": "₺305 Milyon ($7.3 Milyon)",
+    "beklenen_etki": "Maltepe'yi aile dostu kültür merkezi yapma, yıllık 140.000 ziyaretçi, sahil kullanımı artışı, 85 istihdam, turizm geliri ₺40 Milyon, yaşam kalitesi artışı",
+    "uygulama_suresi": "20 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 600,
+      "alan": "5000 m² kapalı + 18000 m² açık",
+      "donanim": "Bilim sergisi ekipmanları, açık hava ses sistemi, sahne teknolojisi, peyzaj düzenlemeleri, WiFi",
+      "erisim": "Marmaray istasyonu, sahil yolu, 120 araç otoparkı, bisiklet yolları, engelli erişimi"
+    },
+    "alternatif_cozumler": [
+      "Sadece açık hava parkı ve minimal tesis (₺180 Milyon - 14 ay)",
+      "Bilim merkezi ağırlıklı (₺240 Milyon - 16 ay)",
+      "Aşamalı geliştirme: önce park, sonra binalar (₺270 Milyon - 22 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 70.000 ziyaretçi, 150 etkinlik, 70 istihdam, aile katılımı artışı, sahil canlanması",
+    "orta_vade_etki": "3-5 yılda yıllık 170.000 ziyaretçi, deniz festivali, ₺55 Milyon turizm geliri, 105 istihdam, Marmara rotasına dahil",
+    "uzun_vade_etki": "10 yılda Anadolu yakasının önemli aile-kültür merkezi, yıllık 250.000+ ziyaretçi, eğitim turizmi, ₺200 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Ümraniye",
+    "oncelik": "Orta",
+    "proje_adi": "Ümraniye Toplumsal Kültür ve Eğitim Kompleksi",
+    "proje_detay": "269.304 nüfuslu Ümraniye'nin yoğun kentsel yapısına uygun çok katmanlı kültür merkezi. 6.500 m² kapalı alan: 350 koltuklu tiyatro, 250 kişilik konferans merkezi, 8 eğitim atölyesi (bilgisayar, dil, müzik, resim, el sanatları), gençlik merkezi, çocuk kütüphanesi ve oyun alanı, kadın kooperatifi üretim alanları, mesleki eğitim merkezleri, sergi salonları, spor salonu, kafe. Özellikle sosyal belediyecilik ve toplumsal kalkınma odaklı. Ücretsiz/düşük ücretli eğitim programları, mesleki kurslar, kadınlara girişimcilik eğitimi, gençlere beceri geliştirme. Mahalle bazlı kültür etkinlikleri, çocuk tiyatroları, aile günleri. Yıllık 220+ etkinlik. Farklı sosyo-ekonomik grupların buluşma noktası.",
+    "tahmini_maliyet": "₺315 Milyon ($7.5 Milyon)",
+    "beklenen_etki": "Ümraniye'de kültürel erişimi %50 artırma, yıllık 130.000 katılımcı, kadın istihdamına katkı, 90 istihdam, sosyal uyum güçlenmesi",
+    "uygulama_suresi": "20 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 650,
+      "alan": "6500 m²",
+      "donanim": "Atölye ekipmanları, bilgisayarlar, sahne sistemleri, spor malzemeleri, eğitim materyalleri",
+      "erisim": "Metro bağlantısı, 110 araç otoparkı, engelli erişimi, kreş hizmeti, güvenlik"
+    },
+    "alternatif_cozumler": [
+      "Mevcut binaların dönüşümü (₺210 Milyon - 16 ay)",
+      "Sadece eğitim merkezi odaklı (₺250 Milyon - 18 ay)",
+      "STK işbirliği modeli (₺280 Milyon - 19 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 65.000 katılımcı, 180 etkinlik, 500 kişiye mesleki eğitim, 75 istihdam, 15 kooperatif kurulumu",
+    "orta_vade_etki": "3-5 yılda yıllık 160.000 katılımcı, 1.500 sertifikalı mezun, ₺45 Milyon ekonomik katkı, 110 istihdam",
+    "uzun_vade_etki": "10 yılda sosyal kalkınma modelinde örnek ilçe, yıllık 230.000+ katılımcı, kadın istihdamında %25 artış, güçlü sosyal doku"
+  },
+  {
+    "ilce": "Tuzla",
+    "oncelik": "Orta",
+    "proje_adi": "Tuzla Denizcilik ve Sanayi Kültür Merkezi",
+    "proje_detay": "359.813 nüfuslu Tuzla'nın denizcilik ve sanayi kimliğini kültürel değere dönüştüren proje. 5.500 m² kapalı alan: 300 koltuklu kültür merkezi, denizcilik ve gemi yapımı müzesi, teknik eğitim merkezi, tasarım atölyeleri (endüstriyel tasarım, gemi mühendisliği), 5 sanat atölyesi, gençlik ve kariyer merkezi, kütüphane, sergi salonları, kafe. Özellikle Tuzla'nın gemi yapımı ve sanayi geleneğini koruma ve geliştirme odaklı. Denizcilik tarihi sergileri, gemi maketleri müzesi, tersane kültürü belgeleme. Teknik eğitim programları, mesleki kurslar, sektör işbirliği. Yıllık denizcilik festivali, sanayi fuarı, teknik seminerler. Yıllık 160+ etkinlik. Sektöre kalifiye eleman yetiştirme.",
+    "tahmini_maliyet": "₺295 Milyon ($7.0 Milyon)",
+    "beklenen_etki": "Tuzla'ya kültürel kimlik kazandırma, yıllık 85.000 ziyaretçi, sektöre kalifiye eleman, 75 istihdam, sanayi kültürünü koruma, ₺30 Milyon sektörel katkı",
+    "uygulama_suresi": "18 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 450,
+      "alan": "5500 m²",
+      "donanim": "Müze sergi sistemleri, teknik eğitim ekipmanları, tasarım bilgisayarları, gemi maketleri, atölye araçları",
+      "erisim": "Sanayi bölgesine yakınlık, 90 araç otoparkı, servis hatları, engelli erişimi"
+    },
+    "alternatif_cozumler": [
+      "Sadece müze ve sergi alanı (₺170 Milyon - 14 ay)",
+      "Mevcut sanayi binasının dönüşümü (₺230 Milyon - 16 ay)",
+      "Sektör sponsorluğu ile (₺260 Milyon - 17 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 40.000 ziyaretçi, 100 etkinlik, 300 kişiye teknik eğitim, 60 istihdam, sektör farkındalığı",
+    "orta_vade_etki": "3-5 yılda yıllık 100.000 ziyaretçi, denizcilik festivali, ₺40 Milyon sektörel katkı, 95 istihdam, eğitim merkezi olma",
+    "uzun_vade_etki": "10 yılda Türkiye'nin denizcilik kültür merkezi, yıllık 160.000+ ziyaretçi, 1.000+ kalifiye mezun, uluslararası denizcilik etkinlikleri, ₺150 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Şile",
+    "oncelik": "Orta",
+    "proje_adi": "Şile Doğa ve Kültür Turizm Merkezi",
+    "proje_detay": "137.682 nüfuslu Şile'nin eşsiz doğal güzelliklerini kültürel etkinliklerle birleştiren proje. 3.000 m² kapalı alan ve 20.000 m² açık alan: 200 koltuklu kültür merkezi, Şile bezi müzesi ve atölyeleri, doğa ve ekoloji müzesi, el sanatları merkezi (dokuma, örgü, sepet örme), yöresel mutfak atölyeleri, sanat galerileri, kütüphane, açık hava etkinlik alanı, yürüyüş parkurları, botanik bahçesi, piknik alanları. Özellikle Şile'nin geleneksel dokuma kültürünü koruma ve doğa turizmi odaklı. Şile bezi festivali, yöresel ürünler fuarı, doğa fotoğrafçılığı atölyeleri. Hafta sonu İstanbul'dan gelen ziyaretçiler için kültür-doğa programları. Yıllık 140+ etkinlik. Sürdürülebilir turizm modeli.",
+    "tahmini_maliyet": "₺235 Milyon ($5.6 Milyon)",
+    "beklenen_etki": "Şile'yi kültür-doğa turizmi destinasyonu yapma, yıllık 80.000 ziyaretçi, Şile bezi geleneğini koruma, 60 istihdam, turizm geliri ₺28 Milyon",
+    "uygulama_suresi": "16 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 350,
+      "alan": "3000 m² kapalı + 20000 m² açık",
+      "donanim": "Dokuma tezgahları, atölye ekipmanları, doğa sergi malzemeleri, açık hava etkinlik altyapısı",
+      "erisim": "Karayolu bağlantısı, 80 araç otoparkı, doğa yürüyüş yolları, bisiklet parkı, engelli erişimi"
+    },
+    "alternatif_cozumler": [
+      "Sadece Şile bezi müzesi ve atölye (₺120 Milyon - 12 ay)",
+      "Açık alan ağırlıklı, minimal bina (₺180 Milyon - 14 ay)",
+      "Köy kooperatifleri işbirliği (₺200 Milyon - 15 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 35.000 ziyaretçi, 80 etkinlik, yerel 25 üreticiye platform, 45 istihdam, geleneksel sanat canlanması",
+    "orta_vade_etki": "3-5 yılda yıllık 95.000 ziyaretçi, Şile bezi festivali, ₺35 Milyon turizm geliri, 75 istihdam, marka değeri artışı",
+    "uzun_vade_etki": "10 yılda İstanbul'un önemli doğa-kültür destinasyonu, yıllık 150.000+ ziyaretçi, sürdürülebilir turizm modeli, ₺120 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Eyüpsultan",
+    "oncelik": "Orta",
+    "proje_adi": "Eyüpsultan Tarihi ve Kültür Koruma Merkezi",
+    "proje_detay": "361.225 nüfuslu Eyüpsultan'ın zengin tarihi mirasını koruma ve tanıtma projesi. 4.500 m² kapalı alan: 250 koltuklu kültür merkezi, Eyüpsultan tarihi müzesi (Osmanlı dönemi, mezarlık kültürü, el yazmaları), geleneksel sanatlar akademisi (hat, tezhip, minyatür, ebru), 6 atölye, arşiv ve dokümantasyon merkezi, tarihi fotoğraf galerisi, kütüphane, sergi salonları. Özellikle tarihi dokunun korunması ve geleneksel sanatların yaşatılması odaklı. Tarihi binaların restorasyonu, kültür rotaları oluşturma, rehberli turlar. Geleneksel sanatlar eğitimi, usta-çırak programları, uluslararası hat yarışması. Yıllık 160+ etkinlik. Dini turizm ile kültür turizmini birleştirme.",
+    "tahmini_maliyet": "₺285 Milyon ($6.8 Milyon)",
+    "beklenen_etki": "Eyüpsultan'ın tarihi mirasını koruma, yıllık 110.000 ziyaretçi, geleneksel sanatları yaşatma, 70 istihdam, turizm geliri ₺35 Milyon, UNESCO tanınırlığı",
+    "uygulama_suresi": "20 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 400,
+      "alan": "4500 m²",
+      "donanim": "Restorasyon laboratuvarı, arşiv sistemleri, müze vitrinleri, geleneksel sanat malzemeleri, klimatizasyon",
+      "erisim": "Haliç bağlantısı, 70 araç otoparkı, tarihi rota entegrasyonu, engelli erişimi"
+    },
+    "alternatif_cozumler": [
+      "Tarihi bina restorasyonu odaklı (₺200 Milyon - 16 ay)",
+      "Sadece geleneksel sanatlar akademisi (₺180 Milyon - 14 ay)",
+      "Vakıf işbirliği ile restorasyon (₺240 Milyon - 18 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 50.000 ziyaretçi, 100 etkinlik, 100 kişiye geleneksel sanat eğitimi, 55 istihdam, tarihi farkındalık",
+    "orta_vade_etki": "3-5 yılda yıllık 130.000 ziyaretçi, hat yarışması, ₺45 Milyon turizm geliri, 85 istihdam, UNESCO geçici listesi",
+    "uzun_vade_etki": "10 yılda geleneksel Osmanlı sanatları merkezi, yıllık 200.000+ ziyaretçi, UNESCO Dünya Mirası adayı, uluslararası sanat etkinlikleri, ₺180 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Üsküdar",
+    "oncelik": "Orta",
+    "proje_adi": "Üsküdar Boğaz Kültürü ve Miras Merkezi",
+    "proje_detay": "222.907 nüfuslu Üsküdar'ın Boğaz kıyısındaki tarihi konumunu değerlendiren kültür projesi. 5.000 m² kapalı alan: 300 koltuklu boğaz manzaralı tiyatro, Üsküdar tarihi müzesi (Osmanlı, Bizans dönemleri, Boğaz kültürü), fotoğraf ve belgesel merkezi, edebiyat evi (Üsküdar'da yaşamış yazarlar), 5 sanat atölyesi, müzik salonu, kütüphane, boğaz manzaralı kafe, açık teras etkinlik alanı. Özellikle Üsküdar'ın çok katmanlı tarihini koruma ve Boğaz kültürü odaklı. Tarihi yapıların restorasyonu, kültür rotaları, rehberli geziler. Açık hava konserleri, tiyatro gösterileri, fotoğraf sergileri. Yıllık 180+ etkinlik. Vapur ve deniz ulaşımı ile erişim. Turist çekiciliği yüksek.",
+    "tahmini_maliyet": "₺320 Milyon ($7.6 Milyon)",
+    "beklenen_etki": "Üsküdar'ı Boğaz kültür rotasının merkezi yapma, yıllık 130.000 ziyaretçi, tarihi mirasın korunması, 85 istihdam, turizm geliri ₺45 Milyon",
+    "uygulama_suresi": "22 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 500,
+      "alan": "5000 m²",
+      "donanim": "Müze sergi sistemleri, boğaz manzaralı camlar, akustik sahne, fotoğraf arşiv teknolojisi, klimatizasyon",
+      "erisim": "Vapur iskelesi, Marmaray, metrobüs, 80 araç otoparkı, yürüyüş rotaları, engelli erişimi"
+    },
+    "alternatif_cozumler": [
+      "Tarihi bina restorasyonu ve küçük müze (₺200 Milyon - 16 ay)",
+      "Açık hava müze konsepti ağırlıklı (₺250 Milyon - 18 ay)",
+      "Vakıf işbirliği ile (₺280 Milyon - 20 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 60.000 ziyaretçi, 120 etkinlik, 70 istihdam, Boğaz rotasına entegrasyon, turist memnuniyeti",
+    "orta_vade_etki": "3-5 yılda yıllık 160.000 ziyaretçi, kültür festivali, ₺60 Milyon turizm geliri, 105 istihdam, uluslararası tanınırlık",
+    "uzun_vade_etki": "10 yılda Boğaz'ın en önemli kültür merkezlerinden biri, yıllık 240.000+ ziyaretçi, UNESCO rotasına dahil, ₺220 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Esenler",
+    "oncelik": "Orta",
+    "proje_adi": "Esenler Mahalle Kültür Merkezleri Ağı",
+    "proje_detay": "228.257 nüfuslu Esenler'in yoğun kentsel dokusuna uygun dağıtık kültür modeli. 4 farklı mahallede toplam 4.500 m²: Ana merkez (2.000 m²) 250 koltuklu tiyatro, sergi salonu. Üç mahalle kültür evi (her biri 800-900 m²) atölyeler, gençlik alanları, toplantı salonları içerecek. Özellikle çocuk ve gençlere yönelik programlar: tiyatro kulüpleri, müzik grupları, spor kulüpleri, bilim atölyeleri. Kadınlara mesleki kurslar, el sanatları, girişimcilik eğitimi. Sosyal belediyecilik ile ücretsiz/düşük ücretli hizmetler. Mahalle şenlikleri, sokak sanatları, açık hava sineması. Yıllık 190+ etkinlik. Farklı kültürel grupların buluşma mekanları. Sosyal uyum ve entegrasyon programları.",
+    "tahmini_maliyet": "₺220 Milyon ($5.2 Milyon)",
+    "beklenen_etki": "Esenler'de kültürel erişimi %55 artırma, yıllık 90.000 katılımcı, sosyal uyum güçlenmesi, 65 istihdam, mahalle yaşam kalitesi artışı",
+    "uygulama_suresi": "18 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 450,
+      "alan": "4500 m²",
+      "donanim": "Sahne ekipmanları, atölye malzemeleri, spor ekipmanları, müzik enstrümanları, eğitim araçları",
+      "erisim": "Mahalle içi kolay erişim, metrobüs yakınlığı, 60 araç otoparkı, engelli erişimi, güvenlik"
+    },
+    "alternatif_cozumler": [
+      "İki merkez ve mobil kültür hizmeti (₺150 Milyon - 14 ay)",
+      "Mevcut binaların adaptasyonu (₺180 Milyon - 16 ay)",
+      "STK işbirliği modeli (₺200 Milyon - 17 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 45.000 katılımcı, 150 etkinlik, 55 istihdam, 25 mahalle kulübü, sosyal aktivite artışı",
+    "orta_vade_etki": "3-5 yılda yıllık 110.000 katılımcı, ₺30 Milyon sosyal fayda, 80 istihdam, sosyal uyum güçlenmesi",
+    "uzun_vade_etki": "10 yılda mahalle kültür ağı modelinde örnek, yıllık 160.000+ katılımcı, güçlü sosyal doku, yaşam kalitesi artışı"
+  },
+  {
+    "ilce": "Bayrampaşa",
+    "oncelik": "Orta",
+    "proje_adi": "Bayrampaşa Toplumsal Kültür ve Sanat Merkezi",
+    "proje_detay": "355.911 nüfuslu Bayrampaşa'nın yoğun nüfusuna hizmet edecek çok amaçlı kültür kompleksi. 5.500 m² kapalı alan: 300 koltuklu tiyatro salonu, 200 kişilik konferans merkezi, 8 atölye (resim, müzik, dans, el sanatları, bilgisayar, dil eğitimi), gençlik merkezi, çocuk kütüphanesi ve oyun alanı, kadın kooperatifi alanları, sergi salonları, spor salonu, kafe. Özellikle sosyal belediyecilik ve toplumsal kalkınma odaklı. Ücretsiz/düşük ücretli eğitim programları, mesleki kurslar, kadınlara girişimcilik, gençlere beceri geliştirme. Mahalle etkinlikleri, çocuk tiyatroları, aile günleri, spor turnuvaları. Yıllık 210+ etkinlik. Farklı sosyo-ekonomik grupların buluşma noktası.",
+    "tahmini_maliyet": "₺270 Milyon ($6.4 Milyon)",
+    "beklenen_etki": "Bayrampaşa'da kültürel erişimi %50 artırma, yıllık 120.000 katılımcı, kadın istihdamına katkı, 80 istihdam, sosyal uyum güçlenmesi",
+    "uygulama_suresi": "18 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 600,
+      "alan": "5500 m²",
+      "donanim": "Sahne ekipmanları, atölye malzemeleri, spor ekipmanları, bilgisayarlar, eğitim materyalleri",
+      "erisim": "Metro yakınlığı, 90 araç otoparkı, engelli erişimi, kreş hizmeti, güvenlik"
+    },
+    "alternatif_cozumler": [
+      "Mevcut binaların dönüşümü (₺180 Milyon - 14 ay)",
+      "Sadece eğitim merkezi odaklı (₺220 Milyon - 16 ay)",
+      "STK işbirliği modeli (₺240 Milyon - 17 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 60.000 katılımcı, 170 etkinlik, 400 kişiye mesleki eğitim, 65 istihdam, 12 kooperatif kurulumu",
+    "orta_vade_etki": "3-5 yılda yıllık 145.000 katılımcı, 1.200 sertifikalı mezun, ₺40 Milyon ekonomik katkı, 100 istihdam",
+    "uzun_vade_etki": "10 yılda sosyal kalkınma modelinde örnek ilçe, yıllık 210.000+ katılımcı, kadın istihdamında %25 artış, güçlü sosyal doku"
+  },
+  {
+    "ilce": "Şişli",
+    "oncelik": "Orta",
+    "proje_adi": "Şişli Çağdaş Sanat ve Tasarım Merkezi",
+    "proje_detay": "206.877 nüfuslu Şişli'nin merkezi ve prestijli konumuna uygun modern kültür kompleksi. 6.000 m² kapalı alan: 350 koltuklu çok amaçlı salon (tiyatro/konser), çağdaş sanat müzesi (1.000 m²), tasarım merkezi (moda, grafik, endüstriyel tasarım), 6 sanat atölyesi (resim, heykel, fotoğraf, dijital sanat), sanatçı rezidans programı (6 stüdyo), tasarım kütüphanesi, galeri cafe, müze mağazası. Özellikle çağdaş sanat ve yaratıcı endüstriler odaklı. Yıllık sanat festivali, tasarım haftası, moda gösterileri, uluslararası sergiler. Genç tasarımcılara inkübatör desteği. Yıllık 200+ etkinlik. Merkezi konum ile yüksek ziyaretçi potansiyeli.",
+    "tahmini_maliyet": "₺375 Milyon ($8.9 Milyon)",
+    "beklenen_etki": "Şişli'yi İstanbul'un tasarım merkezi yapma, yıllık 150.000 ziyaretçi, yaratıcı ekonomiye katkı, 95 istihdam, bölge prestiji artışı, ₺55 Milyon ekonomik etki",
+    "uygulama_suresi": "22 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 600,
+      "alan": "6000 m²",
+      "donanim": "Müze klimatizasyonu, profesyonel sahne, galeri aydınlatması, tasarım bilgisayarları, 3D yazıcılar, akıllı bina",
+      "erisim": "Metro bağlantısı, merkezi konum, 100 araç otoparkı, yaya erişimi, engelli erişimi"
+    },
+    "alternatif_cozumler": [
+      "Sadece tasarım merkezi ve galeri (₺240 Milyon - 18 ay)",
+      "Aşamalı yapım: önce müze, sonra tiyatro (₺330 Milyon - 24 ay)",
+      "Özel sektör sponsorluğu ile (₺320 Milyon - 20 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 75.000 ziyaretçi, 140 etkinlik, 20 tasarımcı destekleme, 75 istihdam, tasarım topluluğu oluşumu",
+    "orta_vade_etki": "3-5 yılda yıllık 180.000 ziyaretçi, tasarım festivali, ₺70 Milyon ekonomik katkı, 115 istihdam, yaratıcı ekonomi merkezi",
+    "uzun_vade_etki": "10 yılda Türkiye'nin tasarım başkenti, yıllık 280.000+ ziyaretçi, 100+ başarılı tasarımcı, uluslararası tasarım etkinlikleri, ₺300 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Kadıköy",
+    "oncelik": "Orta",
+    "proje_adi": "Kadıköy Kültür ve Sanat Merkezi Genişletme Projesi",
+    "proje_detay": "234.665 nüfuslu ve zaten zengin kültür altyapısına sahip Kadıköy'ün mevcut kapasitesini artırma projesi. Mevcut kültür merkezine ek 3.500 m² alan: 200 koltuklu kameralı tiyatro, deneysel sanat stüdyoları, dijital sanat galerisi, podcast ve video prodüksiyon odaları, genç sanatçı atölyeleri (8 adet), müzik provası odaları (6 adet), sanat kütüphanesi genişletmesi, açık hava etkinlik alanı. Özellikle alternatif ve deneysel sanat formlarına yönelik. Bağımsız tiyatro gruplarına mekan, genç müzisyenlere prova imkanı, dijital içerik üreticilerine stüdyo. Yıllık 180+ etkinlik. Kadıköy'ün bohemyen kimliğini güçlendirme. Moda ve Yeldeğirmeni kültür rotası ile entegrasyon.",
+    "tahmini_maliyet": "₺245 Milyon ($5.8 Milyon)",
+    "beklenen_etki": "Kadıköy'ün kültür kapasitesini %30 artırma, yıllık 100.000 ek ziyaretçi, alternatif sanat platformu, 70 istihdam, bağımsız sanatçılara destek",
+    "uygulama_suresi": "18 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 350,
+      "alan": "3500 m²",
+      "donanim": "Deneysel sahne ekipmanları, kayıt stüdyosu, dijital sergi teknolojisi, prova odası akustiği, prodüksiyon araçları",
+      "erisim": "Metro, vapur, minibüs hatları, yaya erişimi, bisiklet parkı, sınırlı otopark"
+    },
+    "alternatif_cozumler": [
+      "Sadece atölye ve stüdyolar (₺150 Milyon - 14 ay)",
+      "Mevcut binaların dönüşümü (₺190 Milyon - 16 ay)",
+      "Sanatçı kolektifleri işbirliği (₺210 Milyon - 17 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 50.000 ek ziyaretçi, 120 etkinlik, 50 bağımsız sanatçıya mekan, 55 istihdam, alternatif sanat canlanması",
+    "orta_vade_etki": "3-5 yılda yıllık 120.000 ek ziyaretçi, deneysel sanat festivali, ₺35 Milyon kültür ekonomisi katkısı, 85 istihdam",
+    "uzun_vade_etki": "10 yılda İstanbul'un alternatif sanat merkezi, yıllık 180.000+ ek ziyaretçi, 200+ sanatçı destekleme, uluslararası deneysel sanat etkinlikleri, ₺150 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Esenyurt",
+    "oncelik": "Orta",
+    "proje_adi": "Esenyurt Toplumsal Kültür ve Entegrasyon Merkezi",
+    "proje_detay": "167.543 nüfuslu ve çok kültürlü yapıya sahip Esenyurt için entegrasyon odaklı kültür kompleksi. 5.000 m² kapalı alan: 300 koltuklu tiyatro, çok kültürlülük müzesi, 8 eğitim atölyesi (dil eğitimi, bilgisayar, el sanatları, müzik), gençlik merkezi, çocuk kütüphanesi, kadın kooperatifi alanları, mesleki eğitim merkezleri, sergi salonları, toplantı odaları. Özellikle farklı kültürel grupların entegrasyonu ve sosyal uyum odaklı. Çok dilli eğitim programları, kültürler arası diyalog etkinlikleri, ortak festivaller. Mesleki kurslar, girişimcilik eğitimi, sosyal belediyecilik hizmetleri. Yıllık 200+ etkinlik. Ücretsiz/düşük ücretli programlar.",
+    "tahmini_maliyet": "₺250 Milyon ($6.0 Milyon)",
+    "beklenen_etki": "Esenyurt'ta sosyal uyumu %40 artırma, yıllık 110.000 katılımcı, kültürel entegrasyon, 75 istihdam, toplumsal barış güçlenmesi",
+    "uygulama_suresi": "18 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 550,
+      "alan": "5000 m²",
+      "donanim": "Çok dilli eğitim materyalleri, atölye ekipmanları, sahne sistemleri, bilgisayarlar, sergi panelleri",
+      "erisim": "Metrobüs bağlantısı, 80 araç otoparkı, engelli erişimi, kreş hizmeti, güvenlik"
+    },
+    "alternatif_cozumler": [
+      "Mevcut binaların adaptasyonu (₺170 Milyon - 14 ay)",
+      "STK ve uluslararası işbirliği (₺210 Milyon - 16 ay)",
+      "Sadece eğitim merkezi odaklı (₺190 Milyon - 15 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 55.000 katılımcı, 160 etkinlik, 500 kişiye dil eğitimi, 60 istihdam, kültürlerarası diyalog başlangıcı",
+    "orta_vade_etki": "3-5 yılda yıllık 135.000 katılımcı, 1.500 sertifikalı mezun, ₺35 Milyon sosyal fayda, 95 istihdam, entegrasyon başarısı",
+    "uzun_vade_etki": "10 yılda çok kültürlü toplumsal uyum modelinde örnek, yıllık 200.000+ katılımcı, güçlü sosyal sermaye, yaşam kalitesi artışı"
+  },
+  {
+    "ilce": "Sultangazi",
+    "oncelik": "Orta",
+    "proje_adi": "Sultangazi Mahalle Kültür ve Eğitim Merkezleri",
+    "proje_detay": "179.334 nüfuslu Sultangazi'nin mahalle bazlı kültür hizmetleri projesi. 3 farklı mahallede toplam 4.000 m²: Ana merkez (1.800 m²) 200 koltuklu tiyatro, kütüphane. İki mahalle kültür evi (her biri 1.100 m²) atölyeler, gençlik alanları, spor salonları içerecek. Özellikle çocuk ve gençlere yönelik programlar: tiyatro, müzik, spor kulüpleri, bilim atölyeleri. Kadınlara mesleki kurslar, el sanatları, girişimcilik eğitimi. Sosyal belediyecilik ile ücretsiz/düşük ücretli hizmetler. Mahalle şenlikleri, sokak sanatları, açık hava etkinlikleri. Yıllık 180+ etkinlik. Gençlik suçlarını önleme programları, sosyal aktivite artırma.",
+    "tahmini_maliyet": "₺200 Milyon ($4.8 Milyon)",
+    "beklenen_etki": "Sultangazi'de kültürel erişimi %55 artırma, yıllık 85.000 katılımcı, gençlik suçlarında azalma, 60 istihdam, sosyal uyum güçlenmesi",
+    "uygulama_suresi": "16 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 400,
+      "alan": "4000 m²",
+      "donanim": "Sahne ekipmanları, atölye malzemeleri, spor ekipmanları, müzik enstrümanları, eğitim araçları",
+      "erisim": "Mahalle içi erişim, metro yakınlığı, 50 araç otoparkı, engelli erişimi, güvenlik"
+    },
+    "alternatif_cozumler": [
+      "İki merkez ve mobil kültür hizmeti (₺140 Milyon - 12 ay)",
+      "Mevcut binaların adaptasyonu (₺160 Milyon - 14 ay)",
+      "STK işbirliği modeli (₺180 Milyon - 15 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 42.000 katılımcı, 140 etkinlik, 50 istihdam, 20 gençlik kulübü, sosyal aktivite artışı",
+    "orta_vade_etki": "3-5 yılda yıllık 105.000 katılımcı, ₺28 Milyon sosyal fayda, 75 istihdam, gençlik suçlarında %12 azalma",
+    "uzun_vade_etki": "10 yılda mahalle kültür ağı modelinde örnek, yıllık 150.000+ katılımcı, güçlü sosyal doku, yaşam kalitesi artışı"
+  },
+  {
+    "ilce": "Beşiktaş",
+    "oncelik": "Orta",
+    "proje_adi": "Beşiktaş Boğaz Kültürü ve Sanat Merkezi Genişletme",
+    "proje_detay": "111.053 nüfuslu ancak yüksek kültür potansiyeline sahip Beşiktaş'ın mevcut altyapısını güçlendirme projesi. Boğaz kıyısında 3.000 m² ek alan: 180 koltuklu kameralı tiyatro, Boğaz kültürü arşiv merkezi, deneysel sanat galerisi, müzik salonu (oda müziği konserleri), 4 sanat atölyesi, sanatçı buluşma merkezi, kafe-kütüphane, açık teras etkinlik alanı. Özellikle Beşiktaş'ın zengin kültür geçmişini koruma ve alternatif sanat formlarına yönelik. Bağımsız tiyatro grupları, müzik toplulukları, sanatçı kolektiflerine mekan. Yıllık 160+ etkinlik. Boğaz manzaralı kültür etkinlikleri, özel konserler, küçük ölçekli festivaller.",
+    "tahmini_maliyet": "₺215 Milyon ($5.1 Milyon)",
+    "beklenen_etki": "Beşiktaş'ın kültür kapasitesini %25 artırma, yıllık 80.000 ek ziyaretçi, alternatif sanat platformu, 55 istihdam, Boğaz kültür rotasını güçlendirme",
+    "uygulama_suresi": "16 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 280,
+      "alan": "3000 m²",
+      "donanim": "Akustik sahne, arşiv sistemleri, galeri aydınlatması, müzik ekipmanları, boğaz manzaralı camlar",
+      "erisim": "Vapur iskelesi, metro, dolmuş hatları, yaya erişimi, sınırlı otopark, bisiklet parkı"
+    },
+    "alternatif_cozumler": [
+      "Sadece arşiv ve galeri (₺130 Milyon - 12 ay)",
+      "Tarihi bina restorasyonu odaklı (₺170 Milyon - 14 ay)",
+      "Sanatçı kolektifleri işbirliği (₺190 Milyon - 15 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 40.000 ek ziyaretçi, 100 etkinlik, 40 sanatçıya mekan, 45 istihdam, kültür çeşitliliği artışı",
+    "orta_vade_etki": "3-5 yılda yıllık 95.000 ek ziyaretçi, alternatif sanat festivali, ₺30 Milyon kültür ekonomisi katkısı, 70 istihdam",
+    "uzun_vade_etki": "10 yılda Boğaz'ın en önemli alternatif sanat merkezi, yıllık 140.000+ ek ziyaretçi, 150+ sanatçı destekleme, uluslararası etkinlikler, ₺130 Milyon ekonomik etki"
+  },
+  {
+    "ilce": "Büyükçekmece",
+    "oncelik": "Düşük",
+    "proje_adi": "Büyükçekmece Göl ve Kültür Parkı",
+    "proje_detay": "147.261 nüfuslu Büyükçekmece'nin göl manzaralı konumunu değerlendiren kültür-rekreasyon projesi. Göl kıyısında 6.000 m² kapalı alan ve 22.000 m² peyzaj: 300 koltuklu kültür merkezi, göl ve doğa müzesi (göl ekosistemi, kuş gözlem), bilim merkezi (su biyolojisi), 6 sanat atölyesi, çocuk keşif merkezi, gençlik ve spor alanları, kütüphane, kafe-restoran, açık hava amfitiyatrosu (500 kişi), yürüyüş ve bisiklet parkurları, botanik bahçesi, su sporları eğitim alanı. Özellikle aile ve çocuk odaklı programlar, çevre eğitimi. Yaz aylarında göl kenarında konserler, tiyatro, film gösterimleri, su festivali. Hafta sonu aileler için doğa-kültür etkinlikleri. Yıllık 200+ etkinlik. Sürdürülebilir turizm modeli, göl ekosistemini koruma.",
+    "tahmini_maliyet": "₺320 Milyon ($7.6 Milyon)",
+    "beklenen_etki": "Büyükçekmece Gölü'nü kültür-doğa destinasyonu yapma, yıllık 130.000 ziyaretçi, çevre bilinci artışı, 85 istihdam, turizm geliri ₺40 Milyon, yaşam kalitesi artışı",
+    "uygulama_suresi": "20 ay",
+    "tesis_ozellikleri": {
+      "kapasite": 700,
+      "alan": "6000 m² kapalı + 22000 m² açık",
+      "donanim": "Bilim sergisi ekipmanları, kuş gözlem araçları, açık hava ses sistemi, su sporları ekipmanları, WiFi, güneş enerjisi",
+      "erisim": "Metrobüs yakınlığı, 150 araç otoparkı, bisiklet yolları, göl kenarı yürüyüş, engelli erişimi"
+    },
+    "alternatif_cozumler": [
+      "Sadece açık hava parkı ve minimal tesis (₺180 Milyon - 14 ay)",
+      "Doğa merkezi ağırlıklı (₺240 Milyon - 16 ay)",
+      "Aşamalı geliştirme: önce park, sonra binalar (₺280 Milyon - 22 ay)"
+    ],
+    "kisa_vade_etki": "İlk yıl 65.000 ziyaretçi, 140 etkinlik, 70 istihdam, aile katılımı artışı, çevre farkındalığı",
+    "orta_vade_etki": "3-5 yılda yıllık 160.000 ziyaretçi, su festivali, ₺55 Milyon turizm geliri, 105 istihdam, göl koruma başarısı",
+    "uzun_vade_etki": "10 yılda İstanbul'un önemli doğa-kültür merkezlerinden biri, yıllık 240.000+ ziyaretçi, ekolojik turizm modeli, ₺200 Milyon ekonomik etki"
+  }
+]

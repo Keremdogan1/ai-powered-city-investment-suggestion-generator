@@ -406,6 +406,31 @@
             <a href="/cevre" class="action-button white-btn">📊 Analizi Gör</a>
           </div>
 
+          <!-- KÜLTÜR VE TURİZM KATEGORİSİ -->
+          <div class="category-card" onclick="window.location.href='/kultur'">
+            <div class="category-icon">🎭</div>
+            <div class="category-name">Kültür & Turizm</div>
+            <div class="category-description">
+              Tiyatro, müze, festival ve turistik yer analizi. 39 ilçe için AI
+              önerileri.
+            </div>
+            <div class="category-stats">
+              <div class="stat-item">
+                <div class="stat-value">39</div>
+                <div class="stat-label">İlçe</div>
+              </div>
+              <div class="stat-item">
+                <div id="kultur-total-theater" class="stat-value">-</div>
+                <div class="stat-label">Tiyatro</div>
+              </div>
+              <div class="stat-item">
+                <div id="kultur-total-museum" class="stat-value">-</div>
+                <div class="stat-label">Müze</div>
+              </div>
+            </div>
+            <a href="/kultur" class="action-button white-btn">📊 Analizi Gör</a>
+          </div>
+
           <!-- EĞİTİM KATEGORİSİ (YAKINDA) -->
           <div class="category-card disabled">
             <span class="coming-soon-badge">YAKINDA</span>
@@ -501,6 +526,21 @@
                 const m2 = Math.round(genelC.toplam_yesil_alan_m2 || 0);
                 el2.textContent = (m2 / 1000000).toFixed(1) + "M";
               }
+            }
+          }
+
+          // Kültür verisi
+          const kulturResp = await fetch("/api/kultur/analiz-verisi");
+          if (kulturResp.ok) {
+            const kulturData = await kulturResp.json();
+            const genelK = kulturData.genel_durum || {};
+            if (genelK.toplam_tiyatro !== undefined) {
+              const el = document.getElementById("kultur-total-theater");
+              if (el) el.textContent = genelK.toplam_tiyatro;
+            }
+            if (genelK.toplam_muse !== undefined) {
+              const el2 = document.getElementById("kultur-total-museum");
+              if (el2) el2.textContent = genelK.toplam_muse;
             }
           }
         } catch (err) {

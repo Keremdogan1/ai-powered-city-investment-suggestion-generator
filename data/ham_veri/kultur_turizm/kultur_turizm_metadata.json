@@ -1,0 +1,17 @@
+{
+  "veri_turu": "temsili_kultur_turizm",
+  "olusturulma_tarihi": "2025-12-15 20:55:54",
+  "ilce_sayisi": 39,
+  "metodoloji": "Hash-based temsili veri üretimi",
+  "uyari": "Bu veriler temsili amaçlıdır. Gerçek verilerle değiştirilmelidir.",
+  "veri_kaynaklari": [
+    "Tiyatro salonu sayıları",
+    "Müze sayıları",
+    "Kültürel etkinlik sayıları",
+    "Turistik yer sayıları",
+    "Festival sayıları",
+    "Sinema salonu sayıları",
+    "Kültür merkezi sayıları",
+    "Tarihi yer sayıları"
+  ]
+}
